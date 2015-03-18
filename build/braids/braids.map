@@ -1,0 +1,2708 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+                              build/braids/braids.o (__aeabi_atexit)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+                              build/braids/settings.o (memcpy)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                              build/braids/analog_oscillator.o (memset)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+                              build/braids/settings.o (strcmp)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+                              build/braids/ui.o (strlen)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+                              build/braids/display.o (strncpy)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+                              /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+                              /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .text          0x0000000000000000       0xc8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .data          0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .bss           0x0000000000000000       0x1c /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .text          0x0000000000000000        0x0 build/braids/analog_oscillator.o
+ .data          0x0000000000000000        0x0 build/braids/analog_oscillator.o
+ .bss           0x0000000000000000        0x0 build/braids/analog_oscillator.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .group         0x0000000000000000        0x8 build/braids/braids.o
+ .text          0x0000000000000000        0x0 build/braids/braids.o
+ .data          0x0000000000000000        0x0 build/braids/braids.o
+ .bss           0x0000000000000000        0x0 build/braids/braids.o
+ .text._ZN6braids3AdcD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids3DacD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids8DebugPinD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids9GateInputD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids11InternalAdcD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids6SystemD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids8EnvelopeD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids15MacroOscillatorD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids19SignatureWaveshaperD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids15VcoJitterSourceD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6braids2UiD2Ev
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text._ZN6stmlib11GetUniqueIdEh
+                0x0000000000000000       0x10 build/braids/braids.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib11GetUniqueIdEh
+                0x0000000000000000      0x100 build/braids/braids.o
+ .init_array    0x0000000000000000        0x4 build/braids/braids.o
+ .bss.debug_pin
+                0x0000000000000000        0x4 build/braids/braids.o
+ .text          0x0000000000000000        0x0 build/braids/digital_oscillator.o
+ .data          0x0000000000000000        0x0 build/braids/digital_oscillator.o
+ .bss           0x0000000000000000        0x0 build/braids/digital_oscillator.o
+ .text          0x0000000000000000        0x0 build/braids/macro_oscillator.o
+ .data          0x0000000000000000        0x0 build/braids/macro_oscillator.o
+ .bss           0x0000000000000000        0x0 build/braids/macro_oscillator.o
+ .text          0x0000000000000000        0x0 build/braids/resources.o
+ .data          0x0000000000000000        0x0 build/braids/resources.o
+ .bss           0x0000000000000000        0x0 build/braids/resources.o
+ .data._ZN6braids12string_tableE
+                0x0000000000000000        0x4 build/braids/resources.o
+ .data._ZN6braids10char_tableE
+                0x0000000000000000        0x4 build/braids/resources.o
+ .data._ZN6braids21lookup_table_hr_tableE
+                0x0000000000000000        0xc build/braids/resources.o
+ .data._ZN6braids18lookup_table_tableE
+                0x0000000000000000       0x40 build/braids/resources.o
+ .rodata._ZN6braidsL9str_dummyE
+                0x0000000000000000        0x8 build/braids/resources.o
+ .rodata._ZN6braids20ws_violent_overdriveE
+                0x0000000000000000      0x204 build/braids/resources.o
+ .data._ZN6braids16waveshaper_tableE
+                0x0000000000000000       0x10 build/braids/resources.o
+ .data._ZN6braids8wt_tableE
+                0x0000000000000000        0xc build/braids/resources.o
+ .data._ZN6braids25lookup_table_signed_tableE
+                0x0000000000000000        0x8 build/braids/resources.o
+ .group         0x0000000000000000        0x8 build/braids/settings.o
+ .text          0x0000000000000000        0x0 build/braids/settings.o
+ .data          0x0000000000000000        0x0 build/braids/settings.o
+ .bss           0x0000000000000000        0x0 build/braids/settings.o
+ .text._ZN6braids8SettingsD2Ev
+                0x0000000000000000        0x4 build/braids/settings.o
+ .text._Z6rotl32ma
+                0x0000000000000000        0x8 build/braids/settings.o
+ .text._Z6fmix32m
+                0x0000000000000000       0x28 build/braids/settings.o
+ .text._Z18MurmurHash3_x86_32PKvimPv
+                0x0000000000000000       0xdc build/braids/settings.o
+ .text._ZN6braids8Settings11CheckPaquesEv
+                0x0000000000000000       0x20 build/braids/settings.o
+ .text.startup._GLOBAL__sub_I__Z6rotl32ma
+                0x0000000000000000       0x1c build/braids/settings.o
+ .init_array    0x0000000000000000        0x4 build/braids/settings.o
+ .bss._ZN6braids7storageE
+                0x0000000000000000        0x4 build/braids/settings.o
+ .text          0x0000000000000000        0x0 build/braids/ui.o
+ .data          0x0000000000000000        0x0 build/braids/ui.o
+ .bss           0x0000000000000000        0x0 build/braids/ui.o
+ .text._ZN6braids2Ui11FlushEventsEv
+                0x0000000000000000        0xc build/braids/ui.o
+ .text          0x0000000000000000        0x0 build/braids/adc.o
+ .data          0x0000000000000000        0x0 build/braids/adc.o
+ .bss           0x0000000000000000        0x0 build/braids/adc.o
+ .text._ZN6braids3Adc13PipelinedReadEh
+                0x0000000000000000       0xb4 build/braids/adc.o
+ .text._ZN6braids3Adc4ReadEh
+                0x0000000000000000       0xb4 build/braids/adc.o
+ .text          0x0000000000000000        0x0 build/braids/dac.o
+ .data          0x0000000000000000        0x0 build/braids/dac.o
+ .bss           0x0000000000000000        0x0 build/braids/dac.o
+ .text          0x0000000000000000        0x0 build/braids/debug_pin.o
+ .data          0x0000000000000000        0x0 build/braids/debug_pin.o
+ .bss           0x0000000000000000        0x0 build/braids/debug_pin.o
+ .text._ZN6braids8DebugPin4InitEv
+                0x0000000000000000       0x30 build/braids/debug_pin.o
+ .text._ZN6braids8DebugPin4HighEv
+                0x0000000000000000       0x10 build/braids/debug_pin.o
+ .text._ZN6braids8DebugPin3LowEv
+                0x0000000000000000       0x10 build/braids/debug_pin.o
+ .debug_info    0x0000000000000000      0x37a build/braids/debug_pin.o
+ .debug_abbrev  0x0000000000000000      0x1e2 build/braids/debug_pin.o
+ .debug_loc     0x0000000000000000       0x21 build/braids/debug_pin.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/braids/debug_pin.o
+ .debug_ranges  0x0000000000000000       0x38 build/braids/debug_pin.o
+ .debug_line    0x0000000000000000      0x166 build/braids/debug_pin.o
+ .debug_str     0x0000000000000000      0x3e6 build/braids/debug_pin.o
+ .comment       0x0000000000000000       0x77 build/braids/debug_pin.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/debug_pin.o
+ .debug_frame   0x0000000000000000       0x4c build/braids/debug_pin.o
+ .text          0x0000000000000000        0x0 build/braids/display.o
+ .data          0x0000000000000000        0x0 build/braids/display.o
+ .bss           0x0000000000000000        0x0 build/braids/display.o
+ .text._ZN6braids7Display19Shift14SegmentsWordEt
+                0x0000000000000000       0x4c build/braids/display.o
+ .text          0x0000000000000000        0x0 build/braids/encoder.o
+ .data          0x0000000000000000        0x0 build/braids/encoder.o
+ .bss           0x0000000000000000        0x0 build/braids/encoder.o
+ .text          0x0000000000000000        0x0 build/braids/gate_input.o
+ .data          0x0000000000000000        0x0 build/braids/gate_input.o
+ .bss           0x0000000000000000        0x0 build/braids/gate_input.o
+ .text          0x0000000000000000        0x0 build/braids/internal_adc.o
+ .data          0x0000000000000000        0x0 build/braids/internal_adc.o
+ .bss           0x0000000000000000        0x0 build/braids/internal_adc.o
+ .text          0x0000000000000000        0x0 build/braids/system.o
+ .data          0x0000000000000000        0x0 build/braids/system.o
+ .bss           0x0000000000000000        0x0 build/braids/system.o
+ .text          0x0000000000000000        0x0 build/braids/uart_logger.o
+ .data          0x0000000000000000        0x0 build/braids/uart_logger.o
+ .bss           0x0000000000000000        0x0 build/braids/uart_logger.o
+ .text._ZN6braids10UartLogger4InitEm
+                0x0000000000000000       0x60 build/braids/uart_logger.o
+ .text._ZN6braids10UartLogger5TraceEh
+                0x0000000000000000       0x14 build/braids/uart_logger.o
+ .debug_info    0x0000000000000000      0x531 build/braids/uart_logger.o
+ .debug_abbrev  0x0000000000000000      0x214 build/braids/uart_logger.o
+ .debug_loc     0x0000000000000000       0x3f build/braids/uart_logger.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/braids/uart_logger.o
+ .debug_ranges  0x0000000000000000       0x30 build/braids/uart_logger.o
+ .debug_line    0x0000000000000000      0x189 build/braids/uart_logger.o
+ .debug_str     0x0000000000000000      0x535 build/braids/uart_logger.o
+ .comment       0x0000000000000000       0x77 build/braids/uart_logger.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/uart_logger.o
+ .debug_frame   0x0000000000000000       0x40 build/braids/uart_logger.o
+ .text          0x0000000000000000        0x0 build/braids/random.o
+ .data          0x0000000000000000        0x0 build/braids/random.o
+ .bss           0x0000000000000000        0x0 build/braids/random.o
+ .text          0x0000000000000000        0x0 build/braids/bootloader_utils.o
+ .data          0x0000000000000000        0x0 build/braids/bootloader_utils.o
+ .bss           0x0000000000000000        0x0 build/braids/bootloader_utils.o
+ .text._ZN6stmlib12UninitializeEv
+                0x0000000000000000       0x7c build/braids/bootloader_utils.o
+ .text._ZN6stmlib6JumpToEm
+                0x0000000000000000       0x10 build/braids/bootloader_utils.o
+ .debug_info    0x0000000000000000      0x2fb build/braids/bootloader_utils.o
+ .debug_abbrev  0x0000000000000000      0x18c build/braids/bootloader_utils.o
+ .debug_loc     0x0000000000000000       0x21 build/braids/bootloader_utils.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/braids/bootloader_utils.o
+ .debug_ranges  0x0000000000000000       0x38 build/braids/bootloader_utils.o
+ .debug_line    0x0000000000000000      0x119 build/braids/bootloader_utils.o
+ .debug_str     0x0000000000000000      0x307 build/braids/bootloader_utils.o
+ .comment       0x0000000000000000       0x77 build/braids/bootloader_utils.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/bootloader_utils.o
+ .debug_frame   0x0000000000000000       0x40 build/braids/bootloader_utils.o
+ .group         0x0000000000000000        0x8 build/braids/system_clock.o
+ .text          0x0000000000000000        0x0 build/braids/system_clock.o
+ .data          0x0000000000000000        0x0 build/braids/system_clock.o
+ .bss           0x0000000000000000        0x0 build/braids/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x0000000000000000        0x4 build/braids/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x0000000000000000       0x1c build/braids/system_clock.o
+ .init_array    0x0000000000000000        0x4 build/braids/system_clock.o
+ .text          0x0000000000000000        0x0 build/braids/core_cm3.o
+ .data          0x0000000000000000        0x0 build/braids/core_cm3.o
+ .bss           0x0000000000000000        0x0 build/braids/core_cm3.o
+ .text.__get_PSP
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__set_PSP
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__get_MSP
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__set_MSP
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__get_BASEPRI
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__set_BASEPRI
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__get_PRIMASK
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__set_PRIMASK
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__get_FAULTMASK
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__set_FAULTMASK
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__REV    0x0000000000000000        0x4 build/braids/core_cm3.o
+ .text.__REV16  0x0000000000000000        0x4 build/braids/core_cm3.o
+ .text.__REVSH  0x0000000000000000        0x4 build/braids/core_cm3.o
+ .text.__RBIT   0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__LDREXB
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__LDREXH
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__LDREXW
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__STREXB
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__STREXH
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__STREXW
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__get_CONTROL
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .text.__set_CONTROL
+                0x0000000000000000        0x8 build/braids/core_cm3.o
+ .debug_info    0x0000000000000000      0x509 build/braids/core_cm3.o
+ .debug_abbrev  0x0000000000000000       0xbb build/braids/core_cm3.o
+ .debug_loc     0x0000000000000000      0x33a build/braids/core_cm3.o
+ .debug_aranges
+                0x0000000000000000       0xc8 build/braids/core_cm3.o
+ .debug_ranges  0x0000000000000000       0xb8 build/braids/core_cm3.o
+ .debug_line    0x0000000000000000      0x21b build/braids/core_cm3.o
+ .debug_str     0x0000000000000000      0x306 build/braids/core_cm3.o
+ .comment       0x0000000000000000       0x77 build/braids/core_cm3.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/core_cm3.o
+ .debug_frame   0x0000000000000000      0x170 build/braids/core_cm3.o
+ .text          0x0000000000000000        0x0 build/braids/system_stm32f10x.o
+ .data          0x0000000000000000        0x0 build/braids/system_stm32f10x.o
+ .bss           0x0000000000000000        0x0 build/braids/system_stm32f10x.o
+ .rodata.SystemFrequency_AHBClk
+                0x0000000000000000        0x4 build/braids/system_stm32f10x.o
+ .rodata.SystemFrequency_SysClk
+                0x0000000000000000        0x4 build/braids/system_stm32f10x.o
+ .rodata.SystemFrequency
+                0x0000000000000000        0x4 build/braids/system_stm32f10x.o
+ .rodata.SystemFrequency_APB1Clk
+                0x0000000000000000        0x4 build/braids/system_stm32f10x.o
+ .rodata.SystemFrequency_APB2Clk
+                0x0000000000000000        0x4 build/braids/system_stm32f10x.o
+ .text          0x0000000000000000        0x0 build/braids/misc.o
+ .data          0x0000000000000000        0x0 build/braids/misc.o
+ .bss           0x0000000000000000        0x0 build/braids/misc.o
+ .text.NVIC_SystemLPConfig
+                0x0000000000000000       0x1c build/braids/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x0000000000000000       0x1c build/braids/misc.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_adc.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_adc.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000        0x8 build/braids/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x0000000000000000        0x8 build/braids/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x0000000000000000        0xc build/braids/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000        0x8 build/braids/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000       0x5c build/braids/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x18 build/braids/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x1c build/braids/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x10 build/braids/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000        0x8 build/braids/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x0000000000000000        0xc build/braids/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x0000000000000000        0x8 build/braids/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x18 build/braids/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000        0x8 build/braids/stm32f10x_adc.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_bkp.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_bkp.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x0000000000000000       0x18 build/braids/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x0000000000000000       0x20 build/braids/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x0000000000000000       0x20 build/braids/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x0000000000000000       0x10 build/braids/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x0000000000000000       0x14 build/braids/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x0000000000000000       0x10 build/braids/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x0000000000000000       0x14 build/braids/stm32f10x_bkp.o
+ .debug_info    0x0000000000000000      0x790 build/braids/stm32f10x_bkp.o
+ .debug_abbrev  0x0000000000000000      0x18a build/braids/stm32f10x_bkp.o
+ .debug_loc     0x0000000000000000       0xee build/braids/stm32f10x_bkp.o
+ .debug_aranges
+                0x0000000000000000       0x78 build/braids/stm32f10x_bkp.o
+ .debug_ranges  0x0000000000000000       0x68 build/braids/stm32f10x_bkp.o
+ .debug_line    0x0000000000000000      0x206 build/braids/stm32f10x_bkp.o
+ .debug_str     0x0000000000000000      0x608 build/braids/stm32f10x_bkp.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_bkp.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_bkp.o
+ .debug_frame   0x0000000000000000       0xe0 build/braids/stm32f10x_bkp.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_can.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_can.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x0000000000000000       0x40 build/braids/stm32f10x_can.o
+ .text.CAN_Init
+                0x0000000000000000       0xec build/braids/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x0000000000000000      0x130 build/braids/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x0000000000000000       0x28 build/braids/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x0000000000000000       0x40 build/braids/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x0000000000000000       0xcc build/braids/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x0000000000000000       0x88 build/braids/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x0000000000000000       0x2c build/braids/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x0000000000000000        0xc build/braids/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x0000000000000000       0x18 build/braids/stm32f10x_can.o
+ .text.CAN_Receive
+                0x0000000000000000       0x90 build/braids/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x0000000000000000       0x14 build/braids/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x0000000000000000       0x1c build/braids/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x0000000000000000       0x2c build/braids/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x0000000000000000        0xc build/braids/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x0000000000000000        0xc build/braids/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x0000000000000000       0xa4 build/braids/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x0000000000000000       0xa0 build/braids/stm32f10x_can.o
+ .rodata.CSWTCH.10
+                0x0000000000000000        0x8 build/braids/stm32f10x_can.o
+ .debug_info    0x0000000000000000      0xae8 build/braids/stm32f10x_can.o
+ .debug_abbrev  0x0000000000000000      0x28f build/braids/stm32f10x_can.o
+ .debug_loc     0x0000000000000000      0x798 build/braids/stm32f10x_can.o
+ .debug_aranges
+                0x0000000000000000       0xb0 build/braids/stm32f10x_can.o
+ .debug_ranges  0x0000000000000000      0x120 build/braids/stm32f10x_can.o
+ .debug_line    0x0000000000000000      0x46b build/braids/stm32f10x_can.o
+ .debug_str     0x0000000000000000      0x6c8 build/braids/stm32f10x_can.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_can.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_can.o
+ .debug_frame   0x0000000000000000      0x17c build/braids/stm32f10x_can.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_crc.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_crc.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x0000000000000000       0x10 build/braids/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x0000000000000000       0x10 build/braids/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x0000000000000000       0x24 build/braids/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x0000000000000000        0xc build/braids/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x0000000000000000        0xc build/braids/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x0000000000000000        0xc build/braids/stm32f10x_crc.o
+ .debug_info    0x0000000000000000      0x1c7 build/braids/stm32f10x_crc.o
+ .debug_abbrev  0x0000000000000000      0x114 build/braids/stm32f10x_crc.o
+ .debug_loc     0x0000000000000000       0x75 build/braids/stm32f10x_crc.o
+ .debug_aranges
+                0x0000000000000000       0x48 build/braids/stm32f10x_crc.o
+ .debug_ranges  0x0000000000000000       0x38 build/braids/stm32f10x_crc.o
+ .debug_line    0x0000000000000000      0x154 build/braids/stm32f10x_crc.o
+ .debug_str     0x0000000000000000      0x27b build/braids/stm32f10x_crc.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_crc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_crc.o
+ .debug_frame   0x0000000000000000       0x70 build/braids/stm32f10x_crc.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_dac.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_dac.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x0000000000000000       0x1c build/braids/stm32f10x_dac.o
+ .text.DAC_Init
+                0x0000000000000000       0x30 build/braids/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x0000000000000000        0xc build/braids/stm32f10x_dac.o
+ .text.DAC_Cmd  0x0000000000000000       0x20 build/braids/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x0000000000000000       0x24 build/braids/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x0000000000000000       0x24 build/braids/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x0000000000000000       0x20 build/braids/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x0000000000000000       0x20 build/braids/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x0000000000000000       0x20 build/braids/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x0000000000000000       0x18 build/braids/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x0000000000000000       0x24 build/braids/stm32f10x_dac.o
+ .debug_info    0x0000000000000000      0x4ab build/braids/stm32f10x_dac.o
+ .debug_abbrev  0x0000000000000000      0x1b8 build/braids/stm32f10x_dac.o
+ .debug_loc     0x0000000000000000      0x235 build/braids/stm32f10x_dac.o
+ .debug_aranges
+                0x0000000000000000       0x78 build/braids/stm32f10x_dac.o
+ .debug_ranges  0x0000000000000000       0x68 build/braids/stm32f10x_dac.o
+ .debug_line    0x0000000000000000      0x256 build/braids/stm32f10x_dac.o
+ .debug_str     0x0000000000000000      0x3fe build/braids/stm32f10x_dac.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_dac.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_dac.o
+ .debug_frame   0x0000000000000000       0xec build/braids/stm32f10x_dac.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_dbgmcu.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_dbgmcu.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x0000000000000000       0x10 build/braids/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x0000000000000000       0x10 build/braids/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x0000000000000000       0x1c build/braids/stm32f10x_dbgmcu.o
+ .debug_info    0x0000000000000000      0x12c build/braids/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x0000000000000000       0xdc build/braids/stm32f10x_dbgmcu.o
+ .debug_loc     0x0000000000000000       0x3a build/braids/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/braids/stm32f10x_dbgmcu.o
+ .debug_ranges  0x0000000000000000       0x20 build/braids/stm32f10x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x110 build/braids/stm32f10x_dbgmcu.o
+ .debug_str     0x0000000000000000      0x247 build/braids/stm32f10x_dbgmcu.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_dbgmcu.o
+ .debug_frame   0x0000000000000000       0x40 build/braids/stm32f10x_dbgmcu.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_dma.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_dma.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x0000000000000000       0x1c build/braids/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000        0x8 build/braids/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x0000000000000000       0x1c build/braids/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x0000000000000000       0x14 build/braids/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x0000000000000000       0x1c build/braids/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000       0x14 build/braids/stm32f10x_dma.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_exti.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_exti.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x0000000000000000       0x20 build/braids/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x0000000000000000       0x80 build/braids/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x0000000000000000       0x10 build/braids/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x10 build/braids/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x0000000000000000        0xc build/braids/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x0000000000000000       0x20 build/braids/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x0000000000000000        0xc build/braids/stm32f10x_exti.o
+ .debug_info    0x0000000000000000      0x314 build/braids/stm32f10x_exti.o
+ .debug_abbrev  0x0000000000000000      0x169 build/braids/stm32f10x_exti.o
+ .debug_loc     0x0000000000000000      0x22b build/braids/stm32f10x_exti.o
+ .debug_aranges
+                0x0000000000000000       0x58 build/braids/stm32f10x_exti.o
+ .debug_ranges  0x0000000000000000       0x48 build/braids/stm32f10x_exti.o
+ .debug_line    0x0000000000000000      0x1fa build/braids/stm32f10x_exti.o
+ .debug_str     0x0000000000000000      0x39e build/braids/stm32f10x_exti.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_exti.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_exti.o
+ .debug_frame   0x0000000000000000       0x98 build/braids/stm32f10x_exti.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_flash.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_flash.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x0000000000000000       0x14 build/braids/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x0000000000000000       0x18 build/braids/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x0000000000000000       0x18 build/braids/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x0000000000000000       0x14 build/braids/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000       0x10 build/braids/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000        0xc build/braids/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000       0x10 build/braids/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x0000000000000000       0x10 build/braids/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x20 build/braids/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x0000000000000000        0xc build/braids/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0x40 build/braids/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000       0x84 build/braids/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000       0x50 build/braids/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000       0xe4 build/braids/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000       0xa0 build/braids/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000       0x60 build/braids/stm32f10x_flash.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_fsmc.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_fsmc.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x0000000000000000       0x38 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x0000000000000000       0x20 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x0000000000000000       0x1c build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x0000000000000000       0xc8 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x0000000000000000       0x78 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x0000000000000000       0x68 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x0000000000000000       0x54 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x0000000000000000       0x30 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x0000000000000000       0x30 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x0000000000000000       0x24 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x0000000000000000       0x34 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x0000000000000000       0x28 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x0000000000000000       0x34 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x0000000000000000       0x10 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x0000000000000000       0x58 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x0000000000000000       0x28 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x0000000000000000       0x2c build/braids/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x0000000000000000       0x34 build/braids/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x0000000000000000       0x2c build/braids/stm32f10x_fsmc.o
+ .debug_info    0x0000000000000000      0x8b6 build/braids/stm32f10x_fsmc.o
+ .debug_abbrev  0x0000000000000000      0x197 build/braids/stm32f10x_fsmc.o
+ .debug_loc     0x0000000000000000      0x464 build/braids/stm32f10x_fsmc.o
+ .debug_aranges
+                0x0000000000000000       0xb0 build/braids/stm32f10x_fsmc.o
+ .debug_ranges  0x0000000000000000       0xa0 build/braids/stm32f10x_fsmc.o
+ .debug_line    0x0000000000000000      0x3f3 build/braids/stm32f10x_fsmc.o
+ .debug_str     0x0000000000000000      0x7ae build/braids/stm32f10x_fsmc.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_fsmc.o
+ .debug_frame   0x0000000000000000      0x190 build/braids/stm32f10x_fsmc.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_gpio.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_gpio.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xe8 build/braids/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x18 build/braids/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000       0x10 build/braids/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x8 build/braids/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc build/braids/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x8 build/braids/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0x4 build/braids/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xc build/braids/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000        0x4 build/braids/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x20 build/braids/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000       0x5c build/braids/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x2c build/braids/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_gpio.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_i2c.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_i2c.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x40 build/braids/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x0000000000000000       0xe8 build/braids/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x0000000000000000       0x24 build/braids/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x0000000000000000       0x14 build/braids/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x0000000000000000        0x4 build/braids/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000        0x8 build/braids/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x0000000000000000       0x14 build/braids/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x18 build/braids/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x0000000000000000        0x8 build/braids/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x0000000000000000       0x10 build/braids/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x0000000000000000       0x18 build/braids/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x0000000000000000       0x38 build/braids/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x0000000000000000        0x8 build/braids/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x0000000000000000       0x1c build/braids/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x0000000000000000        0x8 build/braids/stm32f10x_i2c.o
+ .debug_info    0x0000000000000000      0xb22 build/braids/stm32f10x_i2c.o
+ .debug_abbrev  0x0000000000000000      0x1de build/braids/stm32f10x_i2c.o
+ .debug_loc     0x0000000000000000      0x6e1 build/braids/stm32f10x_i2c.o
+ .debug_aranges
+                0x0000000000000000      0x118 build/braids/stm32f10x_i2c.o
+ .debug_ranges  0x0000000000000000      0x108 build/braids/stm32f10x_i2c.o
+ .debug_line    0x0000000000000000      0x449 build/braids/stm32f10x_i2c.o
+ .debug_str     0x0000000000000000      0x6a7 build/braids/stm32f10x_i2c.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_i2c.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_i2c.o
+ .debug_frame   0x0000000000000000      0x238 build/braids/stm32f10x_i2c.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_iwdg.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_iwdg.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x0000000000000000        0xc build/braids/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x0000000000000000        0xc build/braids/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x0000000000000000       0x10 build/braids/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x0000000000000000       0x10 build/braids/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_iwdg.o
+ .debug_info    0x0000000000000000      0x1c1 build/braids/stm32f10x_iwdg.o
+ .debug_abbrev  0x0000000000000000       0xff build/braids/stm32f10x_iwdg.o
+ .debug_loc     0x0000000000000000       0x62 build/braids/stm32f10x_iwdg.o
+ .debug_aranges
+                0x0000000000000000       0x48 build/braids/stm32f10x_iwdg.o
+ .debug_ranges  0x0000000000000000       0x38 build/braids/stm32f10x_iwdg.o
+ .debug_line    0x0000000000000000      0x13f build/braids/stm32f10x_iwdg.o
+ .debug_str     0x0000000000000000      0x29c build/braids/stm32f10x_iwdg.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_iwdg.o
+ .debug_frame   0x0000000000000000       0x70 build/braids/stm32f10x_iwdg.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_pwr.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_pwr.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x0000000000000000       0x1c build/braids/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x0000000000000000       0x38 build/braids/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0x2c build/braids/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x0000000000000000       0x14 build/braids/stm32f10x_pwr.o
+ .debug_info    0x0000000000000000      0x2ef build/braids/stm32f10x_pwr.o
+ .debug_abbrev  0x0000000000000000      0x17c build/braids/stm32f10x_pwr.o
+ .debug_loc     0x0000000000000000      0x111 build/braids/stm32f10x_pwr.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/braids/stm32f10x_pwr.o
+ .debug_ranges  0x0000000000000000       0x50 build/braids/stm32f10x_pwr.o
+ .debug_line    0x0000000000000000      0x1ff build/braids/stm32f10x_pwr.o
+ .debug_str     0x0000000000000000      0x312 build/braids/stm32f10x_pwr.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_pwr.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_pwr.o
+ .debug_frame   0x0000000000000000       0xb0 build/braids/stm32f10x_pwr.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_rcc.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_rcc.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x40 build/braids/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x3c build/braids/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x40 build/braids/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x18 build/braids/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x10 build/braids/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x14 build/braids/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x18 build/braids/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x24 build/braids/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000       0xa8 build/braids/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x3c build/braids/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x14 build/braids/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc build/braids/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x0000000000000000        0x4 build/braids/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 build/braids/stm32f10x_rcc.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_rtc.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_rtc.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x0000000000000000       0x14 build/braids/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x0000000000000000       0x18 build/braids/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x0000000000000000       0x14 build/braids/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x0000000000000000       0x28 build/braids/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x0000000000000000       0x2c build/braids/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x0000000000000000       0x28 build/braids/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x0000000000000000       0x18 build/braids/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x0000000000000000       0x10 build/braids/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x0000000000000000       0x24 build/braids/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x0000000000000000       0x14 build/braids/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x0000000000000000       0x24 build/braids/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x0000000000000000       0x14 build/braids/stm32f10x_rtc.o
+ .debug_info    0x0000000000000000      0x452 build/braids/stm32f10x_rtc.o
+ .debug_abbrev  0x0000000000000000      0x1ca build/braids/stm32f10x_rtc.o
+ .debug_loc     0x0000000000000000      0x20e build/braids/stm32f10x_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x88 build/braids/stm32f10x_rtc.o
+ .debug_ranges  0x0000000000000000       0xd8 build/braids/stm32f10x_rtc.o
+ .debug_line    0x0000000000000000      0x22f build/braids/stm32f10x_rtc.o
+ .debug_str     0x0000000000000000      0x3da build/braids/stm32f10x_rtc.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_rtc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_rtc.o
+ .debug_frame   0x0000000000000000       0xf0 build/braids/stm32f10x_rtc.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_sdio.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_sdio.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x0000000000000000       0x28 build/braids/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x0000000000000000       0x34 build/braids/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x0000000000000000       0x10 build/braids/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x0000000000000000       0x18 build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x0000000000000000       0x10 build/braids/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x0000000000000000       0x30 build/braids/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x0000000000000000       0x10 build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x0000000000000000       0x10 build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x0000000000000000       0x1c build/braids/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x0000000000000000       0x30 build/braids/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x0000000000000000       0x10 build/braids/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x0000000000000000       0x10 build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x0000000000000000       0x14 build/braids/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x0000000000000000        0xc build/braids/stm32f10x_sdio.o
+ .debug_info    0x0000000000000000      0x7ac build/braids/stm32f10x_sdio.o
+ .debug_abbrev  0x0000000000000000      0x1d6 build/braids/stm32f10x_sdio.o
+ .debug_loc     0x0000000000000000      0x243 build/braids/stm32f10x_sdio.o
+ .debug_aranges
+                0x0000000000000000      0x108 build/braids/stm32f10x_sdio.o
+ .debug_ranges  0x0000000000000000       0xf8 build/braids/stm32f10x_sdio.o
+ .debug_line    0x0000000000000000      0x3aa build/braids/stm32f10x_sdio.o
+ .debug_str     0x0000000000000000      0x67b build/braids/stm32f10x_sdio.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_sdio.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_sdio.o
+ .debug_frame   0x0000000000000000      0x210 build/braids/stm32f10x_sdio.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_spi.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_spi.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x70 build/braids/stm32f10x_spi.o
+ .text.I2S_Init
+                0x0000000000000000       0xb0 build/braids/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x0000000000000000       0x18 build/braids/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_spi.o
+ .text.I2S_Cmd  0x0000000000000000       0x1c build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x20 build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x0000000000000000        0x4 build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000        0x8 build/braids/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x20 build/braids/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x0000000000000000        0xc build/braids/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x1c build/braids/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x0000000000000000        0xc build/braids/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000        0x8 build/braids/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000        0xc build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000        0x8 build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x2c build/braids/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x10 build/braids/stm32f10x_spi.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_tim.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_tim.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x0000000000000000      0x108 build/braids/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x0000000000000000       0x98 build/braids/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x0000000000000000       0x94 build/braids/stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x0000000000000000       0x94 build/braids/stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x0000000000000000       0x7c build/braids/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x0000000000000000      0x164 build/braids/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x0000000000000000      0x174 build/braids/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x28 build/braids/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x20 build/braids/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x0000000000000000        0x4 build/braids/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000       0x90 build/braids/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x28 build/braids/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x24 build/braids/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0x40 build/braids/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x14 build/braids/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x0000000000000000       0x50 build/braids/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x0000000000000000        0x4 build/braids/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x0000000000000000        0x4 build/braids/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x0000000000000000        0x4 build/braids/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x0000000000000000        0x4 build/braids/stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x0000000000000000        0x4 build/braids/stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x1c build/braids/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x10 build/braids/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x0000000000000000        0xc build/braids/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x0000000000000000       0x18 build/braids/stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x0000000000000000        0x8 build/braids/stm32f10x_tim.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_usart.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_usart.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x0000000000000000       0xb8 build/braids/stm32f10x_usart.o
+ .text.USART_Init
+                0x0000000000000000       0x9c build/braids/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x0000000000000000       0x18 build/braids/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x0000000000000000       0x24 build/braids/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x0000000000000000        0xc build/braids/stm32f10x_usart.o
+ .text.USART_Cmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x0000000000000000       0x3c build/braids/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x0000000000000000       0x14 build/braids/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x0000000000000000       0x18 build/braids/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_SendData
+                0x0000000000000000        0x8 build/braids/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x0000000000000000        0x8 build/braids/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x0000000000000000        0xc build/braids/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x14 build/braids/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x14 build/braids/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x18 build/braids/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x1c build/braids/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x0000000000000000        0xc build/braids/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x0000000000000000        0x8 build/braids/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x0000000000000000       0x4c build/braids/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x0000000000000000       0x10 build/braids/stm32f10x_usart.o
+ .debug_info    0x0000000000000000      0xa84 build/braids/stm32f10x_usart.o
+ .debug_abbrev  0x0000000000000000      0x1dc build/braids/stm32f10x_usart.o
+ .debug_loc     0x0000000000000000      0x697 build/braids/stm32f10x_usart.o
+ .debug_aranges
+                0x0000000000000000       0xf0 build/braids/stm32f10x_usart.o
+ .debug_ranges  0x0000000000000000       0xe0 build/braids/stm32f10x_usart.o
+ .debug_line    0x0000000000000000      0x3e6 build/braids/stm32f10x_usart.o
+ .debug_str     0x0000000000000000      0x6e3 build/braids/stm32f10x_usart.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_usart.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_usart.o
+ .debug_frame   0x0000000000000000      0x1ec build/braids/stm32f10x_usart.o
+ .text          0x0000000000000000        0x0 build/braids/stm32f10x_wwdg.o
+ .data          0x0000000000000000        0x0 build/braids/stm32f10x_wwdg.o
+ .bss           0x0000000000000000        0x0 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x0000000000000000       0x1c build/braids/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x0000000000000000       0x14 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x0000000000000000       0x28 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x0000000000000000       0x10 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x0000000000000000       0x10 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x0000000000000000       0x10 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x0000000000000000       0x10 build/braids/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x0000000000000000       0x10 build/braids/stm32f10x_wwdg.o
+ .debug_info    0x0000000000000000      0x24e build/braids/stm32f10x_wwdg.o
+ .debug_abbrev  0x0000000000000000      0x13e build/braids/stm32f10x_wwdg.o
+ .debug_loc     0x0000000000000000       0xae build/braids/stm32f10x_wwdg.o
+ .debug_aranges
+                0x0000000000000000       0x58 build/braids/stm32f10x_wwdg.o
+ .debug_ranges  0x0000000000000000       0x48 build/braids/stm32f10x_wwdg.o
+ .debug_line    0x0000000000000000      0x1b6 build/braids/stm32f10x_wwdg.o
+ .debug_str     0x0000000000000000      0x2cf build/braids/stm32f10x_wwdg.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/braids/stm32f10x_wwdg.o
+ .debug_frame   0x0000000000000000       0x9c build/braids/stm32f10x_wwdg.o
+ .text          0x0000000000000000       0x14 build/braids/startup_stm32f10x_md.o
+ .data          0x0000000000000000        0x0 build/braids/startup_stm32f10x_md.o
+ .bss           0x0000000000000000        0x0 build/braids/startup_stm32f10x_md.o
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x0000000000000000        0xa /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_info    0x0000000000000000      0x10f /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_abbrev  0x0000000000000000       0xc7 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_loc     0x0000000000000000       0x79 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_ranges  0x0000000000000000       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_line    0x0000000000000000       0x74 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_str     0x0000000000000000      0x21a /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x0000000000000000       0x16 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_info    0x0000000000000000      0x13b /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_abbrev  0x0000000000000000       0xc1 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_loc     0x0000000000000000       0x8f /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_ranges  0x0000000000000000       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_line    0x0000000000000000       0x85 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_str     0x0000000000000000      0x24a /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x0000000000000000       0x2c /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000000000       0xb8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x8b8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x1e6 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x146 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_ranges  0x0000000000000000       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x1a8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x614 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x34 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0xf0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x0000000000000000        0x2 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x89d /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x15b /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000      0x111 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x60b /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .jcr           0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008004000 0x000000000001c000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+LOAD build/braids/analog_oscillator.o
+LOAD build/braids/braids.o
+LOAD build/braids/digital_oscillator.o
+LOAD build/braids/macro_oscillator.o
+LOAD build/braids/resources.o
+LOAD build/braids/settings.o
+LOAD build/braids/ui.o
+LOAD build/braids/adc.o
+LOAD build/braids/dac.o
+LOAD build/braids/debug_pin.o
+LOAD build/braids/display.o
+LOAD build/braids/encoder.o
+LOAD build/braids/gate_input.o
+LOAD build/braids/internal_adc.o
+LOAD build/braids/system.o
+LOAD build/braids/uart_logger.o
+LOAD build/braids/random.o
+LOAD build/braids/bootloader_utils.o
+LOAD build/braids/system_clock.o
+LOAD build/braids/core_cm3.o
+LOAD build/braids/system_stm32f10x.o
+LOAD build/braids/misc.o
+LOAD build/braids/stm32f10x_adc.o
+LOAD build/braids/stm32f10x_bkp.o
+LOAD build/braids/stm32f10x_can.o
+LOAD build/braids/stm32f10x_crc.o
+LOAD build/braids/stm32f10x_dac.o
+LOAD build/braids/stm32f10x_dbgmcu.o
+LOAD build/braids/stm32f10x_dma.o
+LOAD build/braids/stm32f10x_exti.o
+LOAD build/braids/stm32f10x_flash.o
+LOAD build/braids/stm32f10x_fsmc.o
+LOAD build/braids/stm32f10x_gpio.o
+LOAD build/braids/stm32f10x_i2c.o
+LOAD build/braids/stm32f10x_iwdg.o
+LOAD build/braids/stm32f10x_pwr.o
+LOAD build/braids/stm32f10x_rcc.o
+LOAD build/braids/stm32f10x_rtc.o
+LOAD build/braids/stm32f10x_sdio.o
+LOAD build/braids/stm32f10x_spi.o
+LOAD build/braids/stm32f10x_tim.o
+LOAD build/braids/stm32f10x_usart.o
+LOAD build/braids/stm32f10x_wwdg.o
+LOAD build/braids/startup_stm32f10x_md.o
+START GROUP
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/libgcc.a
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+
+.text           0x0000000008004000    0x1a754
+                0x0000000008004000                _start = .
+ *(.isr_vector)
+ .isr_vector    0x0000000008004000      0x10c build/braids/startup_stm32f10x_md.o
+                0x0000000008004000                g_pfnVectors
+ *(.text*)
+ .text._ZN6braids16AnalogOscillator9RenderSawEPKhPsPhh
+                0x000000000800410c      0x1c8 build/braids/analog_oscillator.o
+                0x000000000800410c                braids::AnalogOscillator::RenderSaw(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator10RenderCSawEPKhPsPhh
+                0x00000000080042d4      0x23c build/braids/analog_oscillator.o
+                0x00000000080042d4                braids::AnalogOscillator::RenderCSaw(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator12RenderSquareEPKhPsPhh
+                0x0000000008004510      0x1e0 build/braids/analog_oscillator.o
+                0x0000000008004510                braids::AnalogOscillator::RenderSquare(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator14RenderTriangleEPKhPsPhh
+                0x00000000080046f0       0x5c build/braids/analog_oscillator.o
+                0x00000000080046f0                braids::AnalogOscillator::RenderTriangle(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator10RenderSineEPKhPsPhh
+                0x000000000800474c       0x78 build/braids/analog_oscillator.o
+                0x000000000800474c                braids::AnalogOscillator::RenderSine(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator18RenderTriangleFoldEPKhPsPhh
+                0x00000000080047c4      0x134 build/braids/analog_oscillator.o
+                0x00000000080047c4                braids::AnalogOscillator::RenderTriangleFold(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator14RenderSineFoldEPKhPsPhh
+                0x00000000080048f8      0x170 build/braids/analog_oscillator.o
+                0x00000000080048f8                braids::AnalogOscillator::RenderSineFold(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator10RenderBuzzEPKhPsPhh
+                0x0000000008004a68       0xec build/braids/analog_oscillator.o
+                0x0000000008004a68                braids::AnalogOscillator::RenderBuzz(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text._ZN6braids16AnalogOscillator21ComputePhaseIncrementEs
+                0x0000000008004b54       0x4c build/braids/analog_oscillator.o
+                0x0000000008004b54                braids::AnalogOscillator::ComputePhaseIncrement(short)
+ .text._ZN6braids16AnalogOscillator6RenderEPKhPsPhh
+                0x0000000008004ba0       0x8c build/braids/analog_oscillator.o
+                0x0000000008004ba0                braids::AnalogOscillator::Render(unsigned char const*, short*, unsigned char*, unsigned char)
+ .text.HardFault_Handler
+                0x0000000008004c2c        0x4 build/braids/braids.o
+                0x0000000008004c2c                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000008004c30        0x4 build/braids/braids.o
+                0x0000000008004c30                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008004c34        0x4 build/braids/braids.o
+                0x0000000008004c34                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008004c38        0x4 build/braids/braids.o
+                0x0000000008004c38                UsageFault_Handler
+ .text.NMI_Handler
+                0x0000000008004c3c        0x4 build/braids/braids.o
+                0x0000000008004c3c                NMI_Handler
+ .text.SVC_Handler
+                0x0000000008004c40        0x4 build/braids/braids.o
+                0x0000000008004c40                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000008004c44        0x4 build/braids/braids.o
+                0x0000000008004c44                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008004c48        0x4 build/braids/braids.o
+                0x0000000008004c48                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000008004c4c        0xc build/braids/braids.o
+                0x0000000008004c4c                SysTick_Handler
+ .text.TIM1_UP_IRQHandler
+                0x0000000008004c58      0x210 build/braids/braids.o
+                0x0000000008004c58                TIM1_UP_IRQHandler
+ .text._Z4Initv
+                0x0000000008004e68      0x3fc build/braids/braids.o
+                0x0000000008004e68                Init()
+ .text._Z11RenderBlockv
+                0x0000000008005264      0x6c8 build/braids/braids.o
+                0x0000000008005264                RenderBlock()
+ .text.startup.main
+                0x000000000800592c       0x38 build/braids/braids.o
+                0x000000000800592c                main
+ .text._ZN6braids17DigitalOscillator9RenderToyEPKhPsh
+                0x0000000008005964       0xb8 build/braids/digital_oscillator.o
+                0x0000000008005964                braids::DigitalOscillator::RenderToy(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator11RenderVowelEPKhPsh
+                0x0000000008005a1c      0x254 build/braids/digital_oscillator.o
+                0x0000000008005a1c                braids::DigitalOscillator::RenderVowel(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator13RenderPluckedEPKhPsh
+                0x0000000008005c70      0x2c4 build/braids/digital_oscillator.o
+                0x0000000008005c70                braids::DigitalOscillator::RenderPlucked(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator16RenderWavetablesEPKhPsh
+                0x0000000008005f34      0x188 build/braids/digital_oscillator.o
+                0x0000000008005f34                braids::DigitalOscillator::RenderWavetables(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator13RenderWaveMapEPKhPsh
+                0x00000000080060bc      0x29c build/braids/digital_oscillator.o
+                0x00000000080060bc                braids::DigitalOscillator::RenderWaveMap(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator14RenderWaveLineEPKhPsh
+                0x0000000008006358      0x704 build/braids/digital_oscillator.o
+                0x0000000008006358                braids::DigitalOscillator::RenderWaveLine(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator19RenderFilteredNoiseEPKhPsh
+                0x0000000008006a5c      0x1e0 build/braids/digital_oscillator.o
+                0x0000000008006a5c                braids::DigitalOscillator::RenderFilteredNoise(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator20RenderTwinPeaksNoiseEPKhPsh
+                0x0000000008006c3c      0x294 build/braids/digital_oscillator.o
+                0x0000000008006c3c                braids::DigitalOscillator::RenderTwinPeaksNoise(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator19RenderGranularCloudEPKhPsh
+                0x0000000008006ed0      0x22c build/braids/digital_oscillator.o
+                0x0000000008006ed0                braids::DigitalOscillator::RenderGranularCloud(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator19RenderParticleNoiseEPKhPsh
+                0x00000000080070fc      0x3b8 build/braids/digital_oscillator.o
+                0x00000000080070fc                braids::DigitalOscillator::RenderParticleNoise(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator18RenderQuestionMarkEPKhPsh
+                0x00000000080074b4      0x204 build/braids/digital_oscillator.o
+                0x00000000080074b4                braids::DigitalOscillator::RenderQuestionMark(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator11RenderBowedEPKhPsh
+                0x00000000080076b8      0x2f0 build/braids/digital_oscillator.o
+                0x00000000080076b8                braids::DigitalOscillator::RenderBowed(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator11RenderBlownEPKhPsh
+                0x00000000080079a8      0x20c build/braids/digital_oscillator.o
+                0x00000000080079a8                braids::DigitalOscillator::RenderBlown(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator12RenderFlutedEPKhPsh
+                0x0000000008007bb4      0x2b0 build/braids/digital_oscillator.o
+                0x0000000008007bb4                braids::DigitalOscillator::RenderFluted(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator10RenderKickEPKhPsh
+                0x0000000008007e64      0x404 build/braids/digital_oscillator.o
+                0x0000000008007e64                braids::DigitalOscillator::RenderKick(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator11RenderSnareEPKhPsh
+                0x0000000008008268      0x854 build/braids/digital_oscillator.o
+                0x0000000008008268                braids::DigitalOscillator::RenderSnare(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator21ComputePhaseIncrementEs
+                0x0000000008008abc       0x48 build/braids/digital_oscillator.o
+                0x0000000008008abc                braids::DigitalOscillator::ComputePhaseIncrement(short)
+ .text._ZN6braids17DigitalOscillator19RenderTripleRingModEPKhPsh
+                0x0000000008008b04      0x17c build/braids/digital_oscillator.o
+                0x0000000008008b04                braids::DigitalOscillator::RenderTripleRingMod(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator14RenderSawSwarmEPKhPsh
+                0x0000000008008c80      0x250 build/braids/digital_oscillator.o
+                0x0000000008008c80                braids::DigitalOscillator::RenderSawSwarm(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator19RenderDigitalFilterEPKhPsh
+                0x0000000008008ed0      0x228 build/braids/digital_oscillator.o
+                0x0000000008008ed0                braids::DigitalOscillator::RenderDigitalFilter(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator11RenderVosimEPKhPsh
+                0x00000000080090f8      0x170 build/braids/digital_oscillator.o
+                0x00000000080090f8                braids::DigitalOscillator::RenderVosim(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator8RenderFmEPKhPsh
+                0x0000000008009268      0x10c build/braids/digital_oscillator.o
+                0x0000000008009268                braids::DigitalOscillator::RenderFm(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator16RenderFeedbackFmEPKhPsh
+                0x0000000008009374      0x16c build/braids/digital_oscillator.o
+                0x0000000008009374                braids::DigitalOscillator::RenderFeedbackFm(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator23RenderChaoticFeedbackFmEPKhPsh
+                0x00000000080094e0      0x13c build/braids/digital_oscillator.o
+                0x00000000080094e0                braids::DigitalOscillator::RenderChaoticFeedbackFm(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator16RenderStruckDrumEPKhPsh
+                0x000000000800961c      0x330 build/braids/digital_oscillator.o
+                0x000000000800961c                braids::DigitalOscillator::RenderStruckDrum(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator20RenderWaveParaphonicEPKhPsh
+                0x000000000800994c      0x49c build/braids/digital_oscillator.o
+                0x000000000800994c                braids::DigitalOscillator::RenderWaveParaphonic(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator18RenderClockedNoiseEPKhPsh
+                0x0000000008009de8      0x12c build/braids/digital_oscillator.o
+                0x0000000008009de8                braids::DigitalOscillator::RenderClockedNoise(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator23RenderDigitalModulationEPKhPsh
+                0x0000000008009f14      0x1a8 build/braids/digital_oscillator.o
+                0x0000000008009f14                braids::DigitalOscillator::RenderDigitalModulation(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator12RenderCymbalEPKhPsh
+                0x000000000800a0bc      0x5c4 build/braids/digital_oscillator.o
+                0x000000000800a0bc                braids::DigitalOscillator::RenderCymbal(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator16RenderStruckBellEPKhPsh
+                0x000000000800a680      0x1c0 build/braids/digital_oscillator.o
+                0x000000000800a680                braids::DigitalOscillator::RenderStruckBell(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator12ComputeDelayEs
+                0x000000000800a840       0x50 build/braids/digital_oscillator.o
+                0x000000000800a840                braids::DigitalOscillator::ComputeDelay(short)
+ .text._ZN6braids17DigitalOscillator10RenderCombEPKhPsh
+                0x000000000800a890      0x114 build/braids/digital_oscillator.o
+                0x000000000800a890                braids::DigitalOscillator::RenderComb(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator6RenderEPKhPsh
+                0x000000000800a9a4      0x160 build/braids/digital_oscillator.o
+                0x000000000800a9a4                braids::DigitalOscillator::Render(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids17DigitalOscillator27InterpolateFormantParameterEPA5_A5_Ksssh
+                0x000000000800ab04       0x70 build/braids/digital_oscillator.o
+                0x000000000800ab04                braids::DigitalOscillator::InterpolateFormantParameter(short const (*) [5][5], short, short, unsigned char)
+ .text._ZN6braids17DigitalOscillator14RenderVowelFofEPKhPsh
+                0x000000000800ab74      0x26c build/braids/digital_oscillator.o
+                0x000000000800ab74                braids::DigitalOscillator::RenderVowelFof(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator10RenderBuzzEPKhPsh
+                0x000000000800ade0       0x7c build/braids/macro_oscillator.o
+                0x000000000800ade0                braids::MacroOscillator::RenderBuzz(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator15RenderSawSquareEPKhPsh
+                0x000000000800ae5c      0x108 build/braids/macro_oscillator.o
+                0x000000000800ae5c                braids::MacroOscillator::RenderSawSquare(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator16RenderSquareSyncEPKhPsh
+                0x000000000800af64       0xb8 build/braids/macro_oscillator.o
+                0x000000000800af64                braids::MacroOscillator::RenderSquareSync(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator18RenderSineTriangleEPKhPsh
+                0x000000000800b01c       0xf0 build/braids/macro_oscillator.o
+                0x000000000800b01c                braids::MacroOscillator::RenderSineTriangle(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator11RenderMorphEPKhPsh
+                0x000000000800b10c      0x248 build/braids/macro_oscillator.o
+                0x000000000800b10c                braids::MacroOscillator::RenderMorph(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator10RenderCSawEPKhPsh
+                0x000000000800b354       0x94 build/braids/macro_oscillator.o
+                0x000000000800b354                braids::MacroOscillator::RenderCSaw(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator13RenderDigitalEPKhPsh
+                0x000000000800b3e8       0x48 build/braids/macro_oscillator.o
+                0x000000000800b3e8                braids::MacroOscillator::RenderDigital(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator13RenderSawCombEPKhPsh
+                0x000000000800b430       0x68 build/braids/macro_oscillator.o
+                0x000000000800b430                braids::MacroOscillator::RenderSawComb(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator6RenderEPKhPsh
+                0x000000000800b498       0x34 build/braids/macro_oscillator.o
+                0x000000000800b498                braids::MacroOscillator::Render(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator15ConfigureTripleENS_21AnalogOscillatorShapeEl
+                0x000000000800b4cc       0x84 build/braids/macro_oscillator.o
+                0x000000000800b4cc                braids::MacroOscillator::ConfigureTriple(braids::AnalogOscillatorShape, long)
+ .text._ZN6braids15MacroOscillator21RenderTripleSawSquareEPKhPsh
+                0x000000000800b550       0xf0 build/braids/macro_oscillator.o
+                0x000000000800b550                braids::MacroOscillator::RenderTripleSawSquare(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids15MacroOscillator24RenderTripleSineTriangleEPKhPsh
+                0x000000000800b640       0x94 build/braids/macro_oscillator.o
+                0x000000000800b640                braids::MacroOscillator::RenderTripleSineTriangle(unsigned char const*, short*, unsigned char)
+ .text._ZN6braids8Settings4InitEv
+                0x000000000800b6d4       0xe8 build/braids/settings.o
+                0x000000000800b6d4                braids::Settings::Init()
+ .text._ZN6braids8Settings5ResetEv
+                0x000000000800b7bc       0x18 build/braids/settings.o
+                0x000000000800b7bc                braids::Settings::Reset()
+ .text._ZN6braids8Settings4SaveEv
+                0x000000000800b7d4      0x134 build/braids/settings.o
+                0x000000000800b7d4                braids::Settings::Save()
+ .text._ZN6braids2Ui4InitEv
+                0x000000000800b908       0x34 build/braids/ui.o
+                0x000000000800b908                braids::Ui::Init()
+ .text._ZN6braids2Ui4PollEv
+                0x000000000800b93c      0x114 build/braids/ui.o
+                0x000000000800b93c                braids::Ui::Poll()
+ .text._ZN6braids2Ui14RefreshDisplayEv
+                0x000000000800ba50      0x1e0 build/braids/ui.o
+                0x000000000800ba50                braids::Ui::RefreshDisplay()
+ .text._ZN6braids2Ui11OnLongClickEv
+                0x000000000800bc30       0x88 build/braids/ui.o
+                0x000000000800bc30                braids::Ui::OnLongClick()
+ .text._ZN6braids2Ui7OnClickEv
+                0x000000000800bcb8       0xf4 build/braids/ui.o
+                0x000000000800bcb8                braids::Ui::OnClick()
+ .text._ZN6braids2Ui11OnIncrementERKN6stmlib5EventE
+                0x000000000800bdac       0xd4 build/braids/ui.o
+                0x000000000800bdac                braids::Ui::OnIncrement(stmlib::Event const&)
+ .text._ZN6braids2Ui8DoEventsEv
+                0x000000000800be80      0x10c build/braids/ui.o
+                0x000000000800be80                braids::Ui::DoEvents()
+ .text._ZN6braids3Adc4InitEb
+                0x000000000800bf8c       0xe0 build/braids/adc.o
+                0x000000000800bf8c                braids::Adc::Init(bool)
+ .text._ZN6braids3Dac4InitEv
+                0x000000000800c06c       0x94 build/braids/dac.o
+                0x000000000800c06c                braids::Dac::Init()
+ .text._ZN6braids7Display4InitEv
+                0x000000000800c100       0x48 build/braids/display.o
+                0x000000000800c100                braids::Display::Init()
+ .text._ZN6braids7Display7RefreshEv
+                0x000000000800c148       0xa8 build/braids/display.o
+                0x000000000800c148                braids::Display::Refresh()
+ .text._ZN6braids7Display5PrintEPKc
+                0x000000000800c1f0        0x8 build/braids/display.o
+                0x000000000800c1f0                braids::Display::Print(char const*)
+ .text._ZN6braids7Encoder4InitEv
+                0x000000000800c1f8       0x34 build/braids/encoder.o
+                0x000000000800c1f8                braids::Encoder::Init()
+ .text._ZN6braids7Encoder8DebounceEv
+                0x000000000800c22c       0x4c build/braids/encoder.o
+                0x000000000800c22c                braids::Encoder::Debounce()
+ .text._ZN6braids9GateInput4InitEv
+                0x000000000800c278       0x2c build/braids/gate_input.o
+                0x000000000800c278                braids::GateInput::Init()
+ .text._ZN6braids11InternalAdc4InitEv
+                0x000000000800c2a4      0x15c build/braids/internal_adc.o
+                0x000000000800c2a4                braids::InternalAdc::Init()
+ .text._ZN6braids6System4InitEmb
+                0x000000000800c400       0x9c build/braids/system.o
+                0x000000000800c400                braids::System::Init(unsigned long, bool)
+ .text._ZN6braids6System11StartTimersEv
+                0x000000000800c49c       0x3c build/braids/system.o
+                0x000000000800c49c                braids::System::StartTimers()
+ .text.SystemInit
+                0x000000000800c4d8      0x114 build/braids/system_stm32f10x.o
+                0x000000000800c4d8                SystemInit
+ .text.NVIC_PriorityGroupConfig
+                0x000000000800c5ec       0x14 build/braids/misc.o
+                0x000000000800c5ec                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x000000000800c600       0x78 build/braids/misc.o
+                0x000000000800c600                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x000000000800c678       0x18 build/braids/misc.o
+                0x000000000800c678                NVIC_SetVectorTable
+ .text.ADC_DeInit
+                0x000000000800c690       0x70 build/braids/stm32f10x_adc.o
+                0x000000000800c690                ADC_DeInit
+ .text.ADC_Init
+                0x000000000800c700       0x4c build/braids/stm32f10x_adc.o
+                0x000000000800c700                ADC_Init
+ .text.ADC_Cmd  0x000000000800c74c       0x14 build/braids/stm32f10x_adc.o
+                0x000000000800c74c                ADC_Cmd
+ .text.ADC_DMACmd
+                0x000000000800c760       0x14 build/braids/stm32f10x_adc.o
+                0x000000000800c760                ADC_DMACmd
+ .text.ADC_ResetCalibration
+                0x000000000800c774        0xc build/braids/stm32f10x_adc.o
+                0x000000000800c774                ADC_ResetCalibration
+ .text.ADC_GetResetCalibrationStatus
+                0x000000000800c780        0x8 build/braids/stm32f10x_adc.o
+                0x000000000800c780                ADC_GetResetCalibrationStatus
+ .text.ADC_StartCalibration
+                0x000000000800c788        0xc build/braids/stm32f10x_adc.o
+                0x000000000800c788                ADC_StartCalibration
+ .text.ADC_GetCalibrationStatus
+                0x000000000800c794        0x8 build/braids/stm32f10x_adc.o
+                0x000000000800c794                ADC_GetCalibrationStatus
+ .text.ADC_SoftwareStartConvCmd
+                0x000000000800c79c       0x14 build/braids/stm32f10x_adc.o
+                0x000000000800c79c                ADC_SoftwareStartConvCmd
+ .text.ADC_RegularChannelConfig
+                0x000000000800c7b0       0x9c build/braids/stm32f10x_adc.o
+                0x000000000800c7b0                ADC_RegularChannelConfig
+ .text.DMA_DeInit
+                0x000000000800c84c      0x150 build/braids/stm32f10x_dma.o
+                0x000000000800c84c                DMA_DeInit
+ .text.DMA_Init
+                0x000000000800c99c       0x40 build/braids/stm32f10x_dma.o
+                0x000000000800c99c                DMA_Init
+ .text.DMA_Cmd  0x000000000800c9dc       0x14 build/braids/stm32f10x_dma.o
+                0x000000000800c9dc                DMA_Cmd
+ .text.FLASH_Unlock
+                0x000000000800c9f0       0x20 build/braids/stm32f10x_flash.o
+                0x000000000800c9f0                FLASH_Unlock
+ .text.FLASH_GetStatus
+                0x000000000800ca10       0x2c build/braids/stm32f10x_flash.o
+                0x000000000800ca10                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x000000000800ca3c       0x54 build/braids/stm32f10x_flash.o
+                0x000000000800ca3c                FLASH_WaitForLastOperation
+ .text.FLASH_ErasePage
+                0x000000000800ca90       0x44 build/braids/stm32f10x_flash.o
+                0x000000000800ca90                FLASH_ErasePage
+ .text.FLASH_ProgramWord
+                0x000000000800cad4       0x60 build/braids/stm32f10x_flash.o
+                0x000000000800cad4                FLASH_ProgramWord
+ .text.FLASH_ProgramHalfWord
+                0x000000000800cb34       0x3c build/braids/stm32f10x_flash.o
+                0x000000000800cb34                FLASH_ProgramHalfWord
+ .text.GPIO_Init
+                0x000000000800cb70       0xb4 build/braids/stm32f10x_gpio.o
+                0x000000000800cb70                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x000000000800cc24        0xc build/braids/stm32f10x_gpio.o
+                0x000000000800cc24                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x000000000800cc30        0x4 build/braids/stm32f10x_gpio.o
+                0x000000000800cc30                GPIO_SetBits
+ .text.RCC_AHBPeriphClockCmd
+                0x000000000800cc34       0x1c build/braids/stm32f10x_rcc.o
+                0x000000000800cc34                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x000000000800cc50       0x1c build/braids/stm32f10x_rcc.o
+                0x000000000800cc50                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x000000000800cc6c       0x1c build/braids/stm32f10x_rcc.o
+                0x000000000800cc6c                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x000000000800cc88       0x1c build/braids/stm32f10x_rcc.o
+                0x000000000800cc88                RCC_APB2PeriphResetCmd
+ .text.SPI_Init
+                0x000000000800cca4       0x40 build/braids/stm32f10x_spi.o
+                0x000000000800cca4                SPI_Init
+ .text.SPI_Cmd  0x000000000800cce4       0x1c build/braids/stm32f10x_spi.o
+                0x000000000800cce4                SPI_Cmd
+ .text.TIM_TimeBaseInit
+                0x000000000800cd00       0x48 build/braids/stm32f10x_tim.o
+                0x000000000800cd00                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x000000000800cd48       0x1c build/braids/stm32f10x_tim.o
+                0x000000000800cd48                TIM_Cmd
+ .text.TIM_ITConfig
+                0x000000000800cd64       0x14 build/braids/stm32f10x_tim.o
+                0x000000000800cd64                TIM_ITConfig
+ .text.TIM_InternalClockConfig
+                0x000000000800cd78       0x10 build/braids/stm32f10x_tim.o
+                0x000000000800cd78                TIM_InternalClockConfig
+ .text.Reset_Handler
+                0x000000000800cd88       0x40 build/braids/startup_stm32f10x_md.o
+                0x000000000800cd88                Reset_Handler
+ .text.Default_Handler
+                0x000000000800cdc8        0x2 build/braids/startup_stm32f10x_md.o
+                0x000000000800cdc8                EXTI2_IRQHandler
+                0x000000000800cdc8                TIM1_CC_IRQHandler
+                0x000000000800cdc8                PVD_IRQHandler
+                0x000000000800cdc8                EXTI3_IRQHandler
+                0x000000000800cdc8                EXTI0_IRQHandler
+                0x000000000800cdc8                I2C2_EV_IRQHandler
+                0x000000000800cdc8                ADC1_2_IRQHandler
+                0x000000000800cdc8                SPI1_IRQHandler
+                0x000000000800cdc8                TAMPER_IRQHandler
+                0x000000000800cdc8                DMA1_Channel4_IRQHandler
+                0x000000000800cdc8                USART3_IRQHandler
+                0x000000000800cdc8                RTC_IRQHandler
+                0x000000000800cdc8                DMA1_Channel7_IRQHandler
+                0x000000000800cdc8                CAN1_RX1_IRQHandler
+                0x000000000800cdc8                TIM4_IRQHandler
+                0x000000000800cdc8                I2C1_EV_IRQHandler
+                0x000000000800cdc8                DMA1_Channel6_IRQHandler
+                0x000000000800cdc8                TIM3_IRQHandler
+                0x000000000800cdc8                RCC_IRQHandler
+                0x000000000800cdc8                TIM1_TRG_COM_IRQHandler
+                0x000000000800cdc8                DMA1_Channel1_IRQHandler
+                0x000000000800cdc8                Default_Handler
+                0x000000000800cdc8                EXTI15_10_IRQHandler
+                0x000000000800cdc8                EXTI9_5_IRQHandler
+                0x000000000800cdc8                SPI2_IRQHandler
+                0x000000000800cdc8                DMA1_Channel5_IRQHandler
+                0x000000000800cdc8                EXTI4_IRQHandler
+                0x000000000800cdc8                USB_LP_CAN1_RX0_IRQHandler
+                0x000000000800cdc8                USB_HP_CAN1_TX_IRQHandler
+                0x000000000800cdc8                DMA1_Channel3_IRQHandler
+                0x000000000800cdc8                WWDG_IRQHandler
+                0x000000000800cdc8                TIM2_IRQHandler
+                0x000000000800cdc8                TIM1_BRK_IRQHandler
+                0x000000000800cdc8                EXTI1_IRQHandler
+                0x000000000800cdc8                RTCAlarm_IRQHandler
+                0x000000000800cdc8                USART2_IRQHandler
+                0x000000000800cdc8                I2C2_ER_IRQHandler
+                0x000000000800cdc8                DMA1_Channel2_IRQHandler
+                0x000000000800cdc8                CAN1_SCE_IRQHandler
+                0x000000000800cdc8                FLASH_IRQHandler
+                0x000000000800cdc8                USART1_IRQHandler
+                0x000000000800cdc8                I2C1_ER_IRQHandler
+                0x000000000800cdc8                USBWakeUp_IRQHandler
+ .text.memcpy   0x000000000800cdca       0x12 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+                0x000000000800cdca                memcpy
+ .text.memset   0x000000000800cddc       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                0x000000000800cddc                memset
+ .text          0x000000000800cdec       0x14 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+                0x000000000800cdec                strcmp
+ .text.strlen   0x000000000800ce00       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+                0x000000000800ce00                strlen
+ .text.strncpy  0x000000000800ce10       0x24 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+                0x000000000800ce10                strncpy
+ *(.rodata*)
+ .rodata._ZL20trig_strike_settings
+                0x000000000800ce34       0x1c build/braids/braids.o
+ .rodata._ZL19bit_reduction_masks
+                0x000000000800ce50       0x10 build/braids/braids.o
+ .rodata._ZL18decimation_factors
+                0x000000000800ce60       0x10 build/braids/braids.o
+ .rodata._ZN6braidsL21kDrumPartialAmplitudeE
+                0x000000000800ce70        0xc build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL22kBellPartialDecayShortE
+                0x000000000800ce7c       0x18 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL9wave_lineE
+                0x000000000800ce94       0x40 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL14formant_f_dataE
+                0x000000000800ced4       0xfc build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL22kBellPartialAmplitudesE
+                0x000000000800cfd0       0x18 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL21kBellPartialDecayLongE
+                0x000000000800cfe8       0x18 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL6chordsE
+                0x000000000800d000       0x68 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL14mini_wave_lineE
+                0x000000000800d068       0x24 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL11vowels_dataE
+                0x000000000800d08c       0x38 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL15kConstellationIE
+                0x000000000800d0c4       0x10 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL13kBellPartialsE
+                0x000000000800d0d4       0x18 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL21wavetable_definitionsE
+                0x000000000800d0ec      0x168 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL17kFIR4CoefficientsE
+                0x000000000800d254       0x10 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL14formant_a_dataE
+                0x000000000800d264       0xfc build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL13kDrumPartialsE
+                0x000000000800d360        0xc build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL21kDrumPartialDecayLongE
+                0x000000000800d36c        0xc build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL14consonant_dataE
+                0x000000000800d378       0x30 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL15kConstellationQE
+                0x000000000800d3a8       0x10 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL11kPhaseResetE
+                0x000000000800d3b8       0x10 build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL22kDrumPartialDecayShortE
+                0x000000000800d3c8        0xc build/braids/digital_oscillator.o
+ .rodata._ZN6braidsL9intervalsE
+                0x000000000800d3d4       0x84 build/braids/macro_oscillator.o
+ .rodata._ZN6braids23wav_bandlimited_comb_11E
+                0x000000000800d458      0x204 build/braids/resources.o
+                0x000000000800d458                braids::wav_bandlimited_comb_11
+ .rodata._ZN6braids29lut_env_portamento_incrementsE
+                0x000000000800d65c      0x200 build/braids/resources.o
+                0x000000000800d65c                braids::lut_env_portamento_increments
+ .rodata._ZN6braids22wav_bandlimited_comb_0E
+                0x000000000800d85c      0x204 build/braids/resources.o
+                0x000000000800d85c                braids::wav_bandlimited_comb_0
+ .rodata._ZN6braids23wav_bandlimited_comb_12E
+                0x000000000800da60      0x204 build/braids/resources.o
+                0x000000000800da60                braids::wav_bandlimited_comb_12
+ .rodata._ZN6braids7wt_codeE
+                0x000000000800dc64      0x428 build/braids/resources.o
+                0x000000000800dc64                braids::wt_code
+ .rodata._ZN6braids18wav_formant_squareE
+                0x000000000800e08c      0x200 build/braids/resources.o
+                0x000000000800e08c                braids::wav_formant_square
+ .rodata._ZN6braids22wav_bandlimited_comb_2E
+                0x000000000800e28c      0x204 build/braids/resources.o
+                0x000000000800e28c                braids::wav_bandlimited_comb_2
+ .rodata._ZN6braids12lut_svf_dampE
+                0x000000000800e490      0x204 build/braids/resources.o
+                0x000000000800e490                braids::lut_svf_damp
+ .rodata._ZN6braids22wav_bandlimited_comb_4E
+                0x000000000800e694      0x204 build/braids/resources.o
+                0x000000000800e694                braids::wav_bandlimited_comb_4
+ .rodata._ZN6braids12lut_env_expoE
+                0x000000000800e898      0x204 build/braids/resources.o
+                0x000000000800e898                braids::lut_env_expo
+ .rodata._ZN6braids23wav_bandlimited_comb_10E
+                0x000000000800ea9c      0x204 build/braids/resources.o
+                0x000000000800ea9c                braids::wav_bandlimited_comb_10
+ .rodata._ZN6braids22wav_bandlimited_comb_6E
+                0x000000000800eca0      0x204 build/braids/resources.o
+                0x000000000800eca0                braids::wav_bandlimited_comb_6
+ .rodata._ZN6braids21lut_granular_envelopeE
+                0x000000000800eea4      0x404 build/braids/resources.o
+                0x000000000800eea4                braids::lut_granular_envelope
+ .rodata._ZN6braids22wav_bandlimited_comb_1E
+                0x000000000800f2a8      0x204 build/braids/resources.o
+                0x000000000800f2a8                braids::wav_bandlimited_comb_1
+ .rodata._ZN6braids8lut_bellE
+                0x000000000800f4ac      0x204 build/braids/resources.o
+                0x000000000800f4ac                braids::lut_bell
+ .rodata._ZN6braids23wav_bandlimited_comb_14E
+                0x000000000800f6b0      0x204 build/braids/resources.o
+                0x000000000800f6b0                braids::wav_bandlimited_comb_14
+ .rodata._ZN6braids8wt_wavesE
+                0x000000000800f8b4     0x8100 build/braids/resources.o
+                0x000000000800f8b4                braids::wt_waves
+ .rodata._ZN6braids25lut_oscillator_incrementsE
+                0x00000000080179b4      0x184 build/braids/resources.o
+                0x00000000080179b4                braids::lut_oscillator_increments
+ .rodata._ZN6braids19lut_resonator_scaleE
+                0x0000000008017b38      0x104 build/braids/resources.o
+                0x0000000008017b38                braids::lut_resonator_scale
+ .rodata._ZN6braids21ws_moderate_overdriveE
+                0x0000000008017c3c      0x204 build/braids/resources.o
+                0x0000000008017c3c                braids::ws_moderate_overdrive
+ .rodata._ZN6braids15lut_blowing_jetE
+                0x0000000008017e40      0x204 build/braids/resources.o
+                0x0000000008017e40                braids::lut_blowing_jet
+ .rodata._ZN6braids14chr_charactersE
+                0x0000000008018044      0x200 build/braids/resources.o
+                0x0000000008018044                braids::chr_characters
+ .rodata._ZN6braids8wav_sineE
+                0x0000000008018244      0x204 build/braids/resources.o
+                0x0000000008018244                braids::wav_sine
+ .rodata._ZN6braids8lut_blepE
+                0x0000000008018448     0x2a6c build/braids/resources.o
+                0x0000000008018448                braids::lut_blep
+ .rodata._ZN6braids13lut_svf_scaleE
+                0x000000000801aeb4      0x204 build/braids/resources.o
+                0x000000000801aeb4                braids::lut_svf_scale
+ .rodata._ZN6braids11ws_tri_foldE
+                0x000000000801b0b8      0x204 build/braids/resources.o
+                0x000000000801b0b8                braids::ws_tri_fold
+ .rodata._ZN6braids26lut_granular_envelope_rateE
+                0x000000000801b2bc      0x204 build/braids/resources.o
+                0x000000000801b2bc                braids::lut_granular_envelope_rate
+ .rodata._ZN6braids22wav_bandlimited_comb_3E
+                0x000000000801b4c0      0x204 build/braids/resources.o
+                0x000000000801b4c0                braids::wav_bandlimited_comb_3
+ .rodata._ZN6braids12ws_sine_foldE
+                0x000000000801b6c4      0x204 build/braids/resources.o
+                0x000000000801b6c4                braids::ws_sine_fold
+ .rodata._ZN6braids22wav_bandlimited_comb_5E
+                0x000000000801b8c8      0x204 build/braids/resources.o
+                0x000000000801b8c8                braids::wav_bandlimited_comb_5
+ .rodata._ZN6braids26lut_fm_frequency_quantizerE
+                0x000000000801bacc      0x104 build/braids/resources.o
+                0x000000000801bacc                braids::lut_fm_frequency_quantizer
+ .rodata._ZN6braids6wt_mapE
+                0x000000000801bbd0      0x100 build/braids/resources.o
+                0x000000000801bbd0                braids::wt_map
+ .rodata._ZN6braids20lut_blowing_envelopeE
+                0x000000000801bcd0      0x310 build/braids/resources.o
+                0x000000000801bcd0                braids::lut_blowing_envelope
+ .rodata._ZN6braids22wav_bandlimited_comb_7E
+                0x000000000801bfe0      0x204 build/braids/resources.o
+                0x000000000801bfe0                braids::wav_bandlimited_comb_7
+ .rodata._ZN6braids23wav_bandlimited_comb_13E
+                0x000000000801c1e4      0x204 build/braids/resources.o
+                0x000000000801c1e4                braids::wav_bandlimited_comb_13
+ .rodata._ZN6braids19lut_bowing_frictionE
+                0x000000000801c3e8      0x204 build/braids/resources.o
+                0x000000000801c3e8                braids::lut_bowing_friction
+ .rodata._ZN6braids22wav_bandlimited_comb_9E
+                0x000000000801c5ec      0x204 build/braids/resources.o
+                0x000000000801c5ec                braids::wav_bandlimited_comb_9
+ .rodata._ZN6braids14lut_vco_detuneE
+                0x000000000801c7f0      0x204 build/braids/resources.o
+                0x000000000801c7f0                braids::lut_vco_detune
+ .rodata._ZN6braids16lut_fof_envelopeE
+                0x000000000801c9f4      0x804 build/braids/resources.o
+                0x000000000801c9f4                braids::lut_fof_envelope
+ .rodata._ZN6braids22wav_bandlimited_comb_8E
+                0x000000000801d1f8      0x204 build/braids/resources.o
+                0x000000000801d1f8                braids::wav_bandlimited_comb_8
+ .rodata._ZN6braids14lut_svf_cutoffE
+                0x000000000801d3fc      0x204 build/braids/resources.o
+                0x000000000801d3fc                braids::lut_svf_cutoff
+ .rodata._ZN6braids21lut_oscillator_delaysE
+                0x000000000801d600      0x184 build/braids/resources.o
+                0x000000000801d600                braids::lut_oscillator_delays
+ .rodata._ZN6braids21lut_flute_body_filterE
+                0x000000000801d784      0x100 build/braids/resources.o
+                0x000000000801d784                braids::lut_flute_body_filter
+ .rodata._ZN6braids19lut_bowing_envelopeE
+                0x000000000801d884      0x5e0 build/braids/resources.o
+                0x000000000801d884                braids::lut_bowing_envelope
+ .rodata._ZN6braids16wav_formant_sineE
+                0x000000000801de64      0x200 build/braids/resources.o
+                0x000000000801de64                braids::wav_formant_sine
+ .rodata._ZN6braids25lut_resonator_coefficientE
+                0x000000000801e064      0x104 build/braids/resources.o
+                0x000000000801e064                braids::lut_resonator_coefficient
+ .rodata._ZN6braidsL14boolean_valuesE
+                0x000000000801e168        0x8 build/braids/settings.o
+ .rodata._ZN6braids8Settings9metadata_E
+                0x000000000801e170       0xe4 build/braids/settings.o
+                0x000000000801e170                braids::Settings::metadata_
+ .rodata._ZN6braidsL11bits_valuesE
+                0x000000000801e254       0x1c build/braids/settings.o
+ .rodata._ZN6braidsL13octave_valuesE
+                0x000000000801e270       0x14 build/braids/settings.o
+ .rodata._ZN6braidsL12rates_valuesE
+                0x000000000801e284       0x1c build/braids/settings.o
+ .rodata._ZN6braidsL18trig_source_valuesE
+                0x000000000801e2a0        0x8 build/braids/settings.o
+ .rodata._ZN6braidsL11algo_valuesE
+                0x000000000801e2a8       0xac build/braids/settings.o
+ .rodata._ZN6braidsL19quantization_valuesE
+                0x000000000801e354        0xc build/braids/settings.o
+ .rodata._ZN6braidsL17brightness_valuesE
+                0x000000000801e360        0xc build/braids/settings.o
+ .rodata.str1.4
+                0x000000000801e36c      0x2d8 build/braids/settings.o
+ .rodata._ZN6braidsL13kInitSettingsE
+                0x000000000801e644       0x60 build/braids/settings.o
+ .rodata._ZN6braidsL23trig_destination_valuesE
+                0x000000000801e6a4       0x10 build/braids/settings.o
+ .rodata._ZN6braidsL18pitch_range_valuesE
+                0x000000000801e6b4       0x14 build/braids/settings.o
+ .rodata._ZN6braidsL15ad_shape_valuesE
+                0x000000000801e6c8       0x24 build/braids/settings.o
+ .rodata._ZN6braidsL17trig_delay_valuesE
+                0x000000000801e6ec       0x1c build/braids/settings.o
+ .rodata._ZN6braids8Settings15settings_order_E
+                0x000000000801e708       0x14 build/braids/settings.o
+                0x000000000801e708                braids::Settings::settings_order_
+ .rodata.str1.4
+                0x000000000801e71c       0x18 build/braids/ui.o
+ .rodata._ZN6braidsL20kCharacterEnablePinsE
+                0x000000000801e734        0x8 build/braids/display.o
+ *(.flashtext*)
+ *(.init)
+ .init          0x000000000801e73c        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+                0x000000000801e73c                _init
+ .init          0x000000000801e740        0x8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+ *(.fini)
+ .fini          0x000000000801e748        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+                0x000000000801e748                _fini
+ .fini          0x000000000801e74c        0x8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+                0x000000000801e754                _etext = .
+                0x000000000801e754                _sidata = .
+
+.glue_7         0x000000000801e754        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x000000000801e754        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x000000000801e754        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x000000000801e754        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x000000000801e754        0x0
+ .iplt          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+
+.rel.dyn        0x000000000801e754        0x0
+ .rel.iplt      0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+
+.data           0x0000000020000000      0x2fc load address 0x000000000801e754
+                0x0000000020000000                _sdata = .
+ *(.ramtext*)
+                0x0000000020000000                . = ALIGN (0x4)
+ *(.data*)
+ .data._ZN6braids16AnalogOscillator9fn_table_E
+                0x0000000020000000       0x40 build/braids/analog_oscillator.o
+                0x0000000020000000                braids::AnalogOscillator::fn_table_
+ .data._ZN6braids17DigitalOscillator9fn_table_E
+                0x0000000020000040      0x110 build/braids/digital_oscillator.o
+                0x0000000020000040                braids::DigitalOscillator::fn_table_
+ .data._ZN6braids15MacroOscillator9fn_table_E
+                0x0000000020000150      0x160 build/braids/macro_oscillator.o
+                0x0000000020000150                braids::MacroOscillator::fn_table_
+ .data._ZN6braids14waveform_tableE
+                0x00000000200002b0       0x48 build/braids/resources.o
+                0x00000000200002b0                braids::waveform_table
+ .data._ZN6stmlib6Random10rng_state_E
+                0x00000000200002f8        0x4 build/braids/random.o
+                0x00000000200002f8                stmlib::Random::rng_state_
+                0x00000000200002fc                _edata = .
+
+.igot.plt       0x00000000200002fc        0x0 load address 0x000000000801ea50
+ .igot.plt      0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+
+.bss            0x00000000200002fc     0x4ba4 load address 0x000000000801ea50
+                0x00000000200002fc                _sstack = .
+                0x00000000200004fc                . = (. + 0x200)
+ *fill*         0x00000000200002fc      0x200 
+                0x00000000200004fc                _estack = .
+                0x00000000200004fc                _sbss = .
+ *(.bss*)
+ .bss.trigger_delay
+                0x00000000200004fc        0x2 build/braids/braids.o
+                0x00000000200004fc                trigger_delay
+ *fill*         0x00000000200004fe        0x2 
+ .bss.audio_samples
+                0x0000000020000500       0xc0 build/braids/braids.o
+                0x0000000020000500                audio_samples
+ .bss.sync_samples
+                0x00000000200005c0       0x60 build/braids/braids.o
+                0x00000000200005c0                sync_samples
+ .bss.osc       0x0000000020000620     0x42b8 build/braids/braids.o
+                0x0000000020000620                osc
+ .bss.ui        0x00000000200048d8       0xb8 build/braids/braids.o
+                0x00000000200048d8                ui
+ .bss.render_block
+                0x0000000020004990        0x4 build/braids/braids.o
+                0x0000000020004990                render_block
+ .bss.gate_input
+                0x0000000020004994        0x4 build/braids/braids.o
+                0x0000000020004994                gate_input
+ .bss.playback_block
+                0x0000000020004998        0x4 build/braids/braids.o
+                0x0000000020004998                playback_block
+ .bss.sys       0x000000002000499c        0x4 build/braids/braids.o
+                0x000000002000499c                sys
+ .bss.trigger_flag
+                0x00000000200049a0        0x1 build/braids/braids.o
+                0x00000000200049a0                trigger_flag
+ *fill*         0x00000000200049a1        0x3 
+ .bss.adc       0x00000000200049a4        0xc build/braids/braids.o
+                0x00000000200049a4                adc
+ .bss.jitter_source
+                0x00000000200049b0       0x1c build/braids/braids.o
+                0x00000000200049b0                jitter_source
+ .bss.trigger_detected_flag
+                0x00000000200049cc        0x1 build/braids/braids.o
+                0x00000000200049cc                trigger_detected_flag
+ *fill*         0x00000000200049cd        0x3 
+ .bss.envelope  0x00000000200049d0       0x48 build/braids/braids.o
+                0x00000000200049d0                envelope
+ .bss.ws        0x0000000020004a18      0x404 build/braids/braids.o
+                0x0000000020004a18                ws
+ .bss._ZZ11RenderBlockvE14previous_pitch
+                0x0000000020004e1c        0x4 build/braids/braids.o
+ .bss.current_sample
+                0x0000000020004e20        0x4 build/braids/braids.o
+                0x0000000020004e20                current_sample
+ .bss.internal_adc
+                0x0000000020004e24        0x8 build/braids/braids.o
+                0x0000000020004e24                internal_adc
+ .bss.dac       0x0000000020004e2c        0x4 build/braids/braids.o
+                0x0000000020004e2c                dac
+ .bss._ZZ11RenderBlockvE14previous_shape
+                0x0000000020004e30        0x4 build/braids/braids.o
+ .bss._ZZ11RenderBlockvE23previous_pitch_adc_code
+                0x0000000020004e34        0x2 build/braids/braids.o
+ *fill*         0x0000000020004e36        0x2 
+ .bss._ZN6braids8settingsE
+                0x0000000020004e38       0x64 build/braids/settings.o
+                0x0000000020004e38                braids::settings
+ .bss._ZN6stmlib12system_clockE
+                0x0000000020004e9c        0x4 build/braids/system_clock.o
+                0x0000000020004e9c                stmlib::system_clock
+ *(COMMON)
+                0x0000000020004ea0                _ebss = .
+OUTPUT(build/braids/braids.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x27
+ .ARM.attributes
+                0x0000000000000000       0x19 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .ARM.attributes
+                0x0000000000000019       0x33 build/braids/analog_oscillator.o
+ .ARM.attributes
+                0x000000000000004c       0x33 build/braids/braids.o
+ .ARM.attributes
+                0x000000000000007f       0x33 build/braids/digital_oscillator.o
+ .ARM.attributes
+                0x00000000000000b2       0x33 build/braids/macro_oscillator.o
+ .ARM.attributes
+                0x00000000000000e5       0x33 build/braids/resources.o
+ .ARM.attributes
+                0x0000000000000118       0x33 build/braids/settings.o
+ .ARM.attributes
+                0x000000000000014b       0x33 build/braids/ui.o
+ .ARM.attributes
+                0x000000000000017e       0x33 build/braids/adc.o
+ .ARM.attributes
+                0x00000000000001b1       0x33 build/braids/dac.o
+ .ARM.attributes
+                0x00000000000001e4       0x33 build/braids/display.o
+ .ARM.attributes
+                0x0000000000000217       0x33 build/braids/encoder.o
+ .ARM.attributes
+                0x000000000000024a       0x33 build/braids/gate_input.o
+ .ARM.attributes
+                0x000000000000027d       0x33 build/braids/internal_adc.o
+ .ARM.attributes
+                0x00000000000002b0       0x33 build/braids/system.o
+ .ARM.attributes
+                0x00000000000002e3       0x33 build/braids/random.o
+ .ARM.attributes
+                0x0000000000000316       0x33 build/braids/system_clock.o
+ .ARM.attributes
+                0x0000000000000349       0x33 build/braids/system_stm32f10x.o
+ .ARM.attributes
+                0x000000000000037c       0x33 build/braids/misc.o
+ .ARM.attributes
+                0x00000000000003af       0x33 build/braids/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000000003e2       0x33 build/braids/stm32f10x_dma.o
+ .ARM.attributes
+                0x0000000000000415       0x33 build/braids/stm32f10x_flash.o
+ .ARM.attributes
+                0x0000000000000448       0x33 build/braids/stm32f10x_gpio.o
+ .ARM.attributes
+                0x000000000000047b       0x33 build/braids/stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000000000004ae       0x33 build/braids/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000000004e1       0x33 build/braids/stm32f10x_tim.o
+ .ARM.attributes
+                0x0000000000000514       0x21 build/braids/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x0000000000000535       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000000000000055e       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000587       0x17 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000000000000059e       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000005c7       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000000005f0       0x19 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+
+.comment        0x0000000000000000       0x76
+ .comment       0x0000000000000000       0x76 build/braids/analog_oscillator.o
+                                         0x77 (size before relaxing)
+ .comment       0x0000000000000000       0x77 build/braids/braids.o
+ .comment       0x0000000000000000       0x77 build/braids/digital_oscillator.o
+ .comment       0x0000000000000000       0x77 build/braids/macro_oscillator.o
+ .comment       0x0000000000000000       0x77 build/braids/resources.o
+ .comment       0x0000000000000000       0x77 build/braids/settings.o
+ .comment       0x0000000000000000       0x77 build/braids/ui.o
+ .comment       0x0000000000000000       0x77 build/braids/adc.o
+ .comment       0x0000000000000000       0x77 build/braids/dac.o
+ .comment       0x0000000000000000       0x77 build/braids/display.o
+ .comment       0x0000000000000000       0x77 build/braids/encoder.o
+ .comment       0x0000000000000000       0x77 build/braids/gate_input.o
+ .comment       0x0000000000000000       0x77 build/braids/internal_adc.o
+ .comment       0x0000000000000000       0x77 build/braids/system.o
+ .comment       0x0000000000000000       0x77 build/braids/random.o
+ .comment       0x0000000000000000       0x77 build/braids/system_clock.o
+ .comment       0x0000000000000000       0x77 build/braids/system_stm32f10x.o
+ .comment       0x0000000000000000       0x77 build/braids/misc.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_adc.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_dma.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_flash.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_gpio.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_rcc.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_spi.o
+ .comment       0x0000000000000000       0x77 build/braids/stm32f10x_tim.o
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_info     0x0000000000000000    0x34539
+ .debug_info    0x0000000000000000     0x1750 build/braids/analog_oscillator.o
+ .debug_info    0x0000000000001750     0x6ab0 build/braids/braids.o
+ .debug_info    0x0000000000008200     0x958e build/braids/digital_oscillator.o
+ .debug_info    0x000000000001178e     0x3e32 build/braids/macro_oscillator.o
+ .debug_info    0x00000000000155c0    0x11885 build/braids/resources.o
+ .debug_info    0x0000000000026e45     0x1940 build/braids/settings.o
+ .debug_info    0x0000000000028785     0x274b build/braids/ui.o
+ .debug_info    0x000000000002aed0      0x8aa build/braids/adc.o
+ .debug_info    0x000000000002b77a      0x558 build/braids/dac.o
+ .debug_info    0x000000000002bcd2      0x61d build/braids/display.o
+ .debug_info    0x000000000002c2ef      0x46e build/braids/encoder.o
+ .debug_info    0x000000000002c75d      0x379 build/braids/gate_input.o
+ .debug_info    0x000000000002cad6      0x837 build/braids/internal_adc.o
+ .debug_info    0x000000000002d30d      0xb5d build/braids/system.o
+ .debug_info    0x000000000002de6a      0x16e build/braids/random.o
+ .debug_info    0x000000000002dfd8      0x2ce build/braids/system_clock.o
+ .debug_info    0x000000000002e2a6      0x2a2 build/braids/system_stm32f10x.o
+ .debug_info    0x000000000002e548      0x4c0 build/braids/misc.o
+ .debug_info    0x000000000002ea08      0xbe4 build/braids/stm32f10x_adc.o
+ .debug_info    0x000000000002f5ec      0x400 build/braids/stm32f10x_dma.o
+ .debug_info    0x000000000002f9ec      0x8e6 build/braids/stm32f10x_flash.o
+ .debug_info    0x00000000000302d2      0x820 build/braids/stm32f10x_gpio.o
+ .debug_info    0x0000000000030af2      0x8f3 build/braids/stm32f10x_rcc.o
+ .debug_info    0x00000000000313e5      0x997 build/braids/stm32f10x_spi.o
+ .debug_info    0x0000000000031d7c     0x2359 build/braids/stm32f10x_tim.o
+ .debug_info    0x00000000000340d5      0x102 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x00000000000341d7       0xd3 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000342aa       0xcd /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .debug_info    0x0000000000034377       0xcd /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_info    0x0000000000034444       0xf5 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_abbrev   0x0000000000000000     0x4fb0
+ .debug_abbrev  0x0000000000000000      0x48c build/braids/analog_oscillator.o
+ .debug_abbrev  0x000000000000048c      0x86b build/braids/braids.o
+ .debug_abbrev  0x0000000000000cf7      0x7e6 build/braids/digital_oscillator.o
+ .debug_abbrev  0x00000000000014dd      0x735 build/braids/macro_oscillator.o
+ .debug_abbrev  0x0000000000001c12       0xe0 build/braids/resources.o
+ .debug_abbrev  0x0000000000001cf2      0x62e build/braids/settings.o
+ .debug_abbrev  0x0000000000002320      0x5dc build/braids/ui.o
+ .debug_abbrev  0x00000000000028fc      0x28c build/braids/adc.o
+ .debug_abbrev  0x0000000000002b88      0x200 build/braids/dac.o
+ .debug_abbrev  0x0000000000002d88      0x33a build/braids/display.o
+ .debug_abbrev  0x00000000000030c2      0x209 build/braids/encoder.o
+ .debug_abbrev  0x00000000000032cb      0x1d9 build/braids/gate_input.o
+ .debug_abbrev  0x00000000000034a4      0x229 build/braids/internal_adc.o
+ .debug_abbrev  0x00000000000036cd      0x2e4 build/braids/system.o
+ .debug_abbrev  0x00000000000039b1       0xf5 build/braids/random.o
+ .debug_abbrev  0x0000000000003aa6      0x1fd build/braids/system_clock.o
+ .debug_abbrev  0x0000000000003ca3      0x113 build/braids/system_stm32f10x.o
+ .debug_abbrev  0x0000000000003db6      0x141 build/braids/misc.o
+ .debug_abbrev  0x0000000000003ef7      0x1dc build/braids/stm32f10x_adc.o
+ .debug_abbrev  0x00000000000040d3      0x16d build/braids/stm32f10x_dma.o
+ .debug_abbrev  0x0000000000004240      0x268 build/braids/stm32f10x_flash.o
+ .debug_abbrev  0x00000000000044a8      0x1e7 build/braids/stm32f10x_gpio.o
+ .debug_abbrev  0x000000000000468f      0x23f build/braids/stm32f10x_rcc.o
+ .debug_abbrev  0x00000000000048ce      0x1eb build/braids/stm32f10x_spi.o
+ .debug_abbrev  0x0000000000004ab9      0x297 build/braids/stm32f10x_tim.o
+ .debug_abbrev  0x0000000000004d50       0xa4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x0000000000004df4       0x8e /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000004e82       0x14 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x0000000000004e96       0x8c /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000004f22       0x8e /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_loc      0x0000000000000000    0x19ab7
+ .debug_loc     0x0000000000000000     0x1e34 build/braids/analog_oscillator.o
+ .debug_loc     0x0000000000001e34     0x1f57 build/braids/braids.o
+ .debug_loc     0x0000000000003d8b     0xde8f build/braids/digital_oscillator.o
+ .debug_loc     0x0000000000011c1a     0x20ec build/braids/macro_oscillator.o
+ .debug_loc     0x0000000000013d06      0x960 build/braids/settings.o
+ .debug_loc     0x0000000000014666      0x758 build/braids/ui.o
+ .debug_loc     0x0000000000014dbe      0x11c build/braids/adc.o
+ .debug_loc     0x0000000000014eda       0x21 build/braids/dac.o
+ .debug_loc     0x0000000000014efb      0x14c build/braids/display.o
+ .debug_loc     0x0000000000015047       0x3c build/braids/encoder.o
+ .debug_loc     0x0000000000015083       0x1e build/braids/gate_input.o
+ .debug_loc     0x00000000000150a1       0x2b build/braids/internal_adc.o
+ .debug_loc     0x00000000000150cc       0x81 build/braids/system.o
+ .debug_loc     0x000000000001514d      0x13d build/braids/misc.o
+ .debug_loc     0x000000000001528a      0x935 build/braids/stm32f10x_adc.o
+ .debug_loc     0x0000000000015bbf      0x1af build/braids/stm32f10x_dma.o
+ .debug_loc     0x0000000000015d6e      0x839 build/braids/stm32f10x_flash.o
+ .debug_loc     0x00000000000165a7      0x5ad build/braids/stm32f10x_gpio.o
+ .debug_loc     0x0000000000016b54      0x7c0 build/braids/stm32f10x_rcc.o
+ .debug_loc     0x0000000000017314      0x4e8 build/braids/stm32f10x_spi.o
+ .debug_loc     0x00000000000177fc     0x20cf build/braids/stm32f10x_tim.o
+ .debug_loc     0x00000000000198cb       0xaf /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x000000000001997a       0x57 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_loc     0x00000000000199d1       0x21 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_loc     0x00000000000199f2       0xc5 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_aranges  0x0000000000000000      0xdf0
+ .debug_aranges
+                0x0000000000000000       0x68 build/braids/analog_oscillator.o
+ .debug_aranges
+                0x0000000000000068       0xe8 build/braids/braids.o
+ .debug_aranges
+                0x0000000000000150      0x130 build/braids/digital_oscillator.o
+ .debug_aranges
+                0x0000000000000280       0x78 build/braids/macro_oscillator.o
+ .debug_aranges
+                0x00000000000002f8       0x18 build/braids/resources.o
+ .debug_aranges
+                0x0000000000000310       0x60 build/braids/settings.o
+ .debug_aranges
+                0x0000000000000370       0x58 build/braids/ui.o
+ .debug_aranges
+                0x00000000000003c8       0x30 build/braids/adc.o
+ .debug_aranges
+                0x00000000000003f8       0x20 build/braids/dac.o
+ .debug_aranges
+                0x0000000000000418       0x38 build/braids/display.o
+ .debug_aranges
+                0x0000000000000450       0x28 build/braids/encoder.o
+ .debug_aranges
+                0x0000000000000478       0x20 build/braids/gate_input.o
+ .debug_aranges
+                0x0000000000000498       0x20 build/braids/internal_adc.o
+ .debug_aranges
+                0x00000000000004b8       0x28 build/braids/system.o
+ .debug_aranges
+                0x00000000000004e0       0x18 build/braids/random.o
+ .debug_aranges
+                0x00000000000004f8       0x28 build/braids/system_clock.o
+ .debug_aranges
+                0x0000000000000520       0x20 build/braids/system_stm32f10x.o
+ .debug_aranges
+                0x0000000000000540       0x40 build/braids/misc.o
+ .debug_aranges
+                0x0000000000000580      0x138 build/braids/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000000006b8       0x68 build/braids/stm32f10x_dma.o
+ .debug_aranges
+                0x0000000000000720       0xd0 build/braids/stm32f10x_flash.o
+ .debug_aranges
+                0x00000000000007f0       0xa8 build/braids/stm32f10x_gpio.o
+ .debug_aranges
+                0x0000000000000898      0x118 build/braids/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000000000009b0       0xd0 build/braids/stm32f10x_spi.o
+ .debug_aranges
+                0x0000000000000a80      0x2d0 build/braids/stm32f10x_tim.o
+ .debug_aranges
+                0x0000000000000d50       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x0000000000000d70       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000d90       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x0000000000000db0       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000dd0       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_ranges   0x0000000000000000     0x66a0
+ .debug_ranges  0x0000000000000000      0x590 build/braids/analog_oscillator.o
+ .debug_ranges  0x0000000000000590      0x8b0 build/braids/braids.o
+ .debug_ranges  0x0000000000000e40     0x43a8 build/braids/digital_oscillator.o
+ .debug_ranges  0x00000000000051e8      0x568 build/braids/macro_oscillator.o
+ .debug_ranges  0x0000000000005750      0x1a0 build/braids/settings.o
+ .debug_ranges  0x00000000000058f0      0x2c0 build/braids/ui.o
+ .debug_ranges  0x0000000000005bb0       0x58 build/braids/adc.o
+ .debug_ranges  0x0000000000005c08       0x28 build/braids/dac.o
+ .debug_ranges  0x0000000000005c30       0x68 build/braids/display.o
+ .debug_ranges  0x0000000000005c98       0x18 build/braids/encoder.o
+ .debug_ranges  0x0000000000005cb0       0x10 build/braids/gate_input.o
+ .debug_ranges  0x0000000000005cc0       0x30 build/braids/internal_adc.o
+ .debug_ranges  0x0000000000005cf0       0x38 build/braids/system.o
+ .debug_ranges  0x0000000000005d28       0x18 build/braids/system_clock.o
+ .debug_ranges  0x0000000000005d40       0x28 build/braids/system_stm32f10x.o
+ .debug_ranges  0x0000000000005d68       0x30 build/braids/misc.o
+ .debug_ranges  0x0000000000005d98      0x128 build/braids/stm32f10x_adc.o
+ .debug_ranges  0x0000000000005ec0       0x58 build/braids/stm32f10x_dma.o
+ .debug_ranges  0x0000000000005f18       0xc0 build/braids/stm32f10x_flash.o
+ .debug_ranges  0x0000000000005fd8       0x98 build/braids/stm32f10x_gpio.o
+ .debug_ranges  0x0000000000006070      0x108 build/braids/stm32f10x_rcc.o
+ .debug_ranges  0x0000000000006178       0xc0 build/braids/stm32f10x_spi.o
+ .debug_ranges  0x0000000000006238      0x428 build/braids/stm32f10x_tim.o
+ .debug_ranges  0x0000000000006660       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x0000000000006670       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_ranges  0x0000000000006680       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_ranges  0x0000000000006690       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_line     0x0000000000000000     0x85c8
+ .debug_line    0x0000000000000000      0x68c build/braids/analog_oscillator.o
+ .debug_line    0x000000000000068c      0xd12 build/braids/braids.o
+ .debug_line    0x000000000000139e     0x28e2 build/braids/digital_oscillator.o
+ .debug_line    0x0000000000003c80      0x89c build/braids/macro_oscillator.o
+ .debug_line    0x000000000000451c       0x9b build/braids/resources.o
+ .debug_line    0x00000000000045b7      0x3e7 build/braids/settings.o
+ .debug_line    0x000000000000499e      0x6be build/braids/ui.o
+ .debug_line    0x000000000000505c      0x1dc build/braids/adc.o
+ .debug_line    0x0000000000005238      0x176 build/braids/dac.o
+ .debug_line    0x00000000000053ae      0x224 build/braids/display.o
+ .debug_line    0x00000000000055d2      0x161 build/braids/encoder.o
+ .debug_line    0x0000000000005733      0x146 build/braids/gate_input.o
+ .debug_line    0x0000000000005879      0x1c1 build/braids/internal_adc.o
+ .debug_line    0x0000000000005a3a      0x1c1 build/braids/system.o
+ .debug_line    0x0000000000005bfb       0xa1 build/braids/random.o
+ .debug_line    0x0000000000005c9c       0xd1 build/braids/system_clock.o
+ .debug_line    0x0000000000005d6d       0xf0 build/braids/system_stm32f10x.o
+ .debug_line    0x0000000000005e5d      0x19b build/braids/misc.o
+ .debug_line    0x0000000000005ff8      0x4b6 build/braids/stm32f10x_adc.o
+ .debug_line    0x00000000000064ae      0x243 build/braids/stm32f10x_dma.o
+ .debug_line    0x00000000000066f1      0x3f5 build/braids/stm32f10x_flash.o
+ .debug_line    0x0000000000006ae6      0x318 build/braids/stm32f10x_gpio.o
+ .debug_line    0x0000000000006dfe      0x3eb build/braids/stm32f10x_rcc.o
+ .debug_line    0x00000000000071e9      0x386 build/braids/stm32f10x_spi.o
+ .debug_line    0x000000000000756f      0xb67 build/braids/stm32f10x_tim.o
+ .debug_line    0x00000000000080d6      0x12a /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x0000000000008200      0x112 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_line    0x0000000000008312       0x7f /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strcmp.o)
+ .debug_line    0x0000000000008391      0x115 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_line    0x00000000000084a6      0x122 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+
+.debug_str      0x0000000000000000     0x98c3
+ .debug_str     0x0000000000000000      0xa64 build/braids/analog_oscillator.o
+                                        0xb6f (size before relaxing)
+ .debug_str     0x0000000000000a64     0x4382 build/braids/braids.o
+                                       0x5157 (size before relaxing)
+ .debug_str     0x0000000000004de6     0x12b7 build/braids/digital_oscillator.o
+                                       0x3050 (size before relaxing)
+ .debug_str     0x000000000000609d      0x150 build/braids/macro_oscillator.o
+                                       0x2c0f (size before relaxing)
+ .debug_str     0x00000000000061ed      0x543 build/braids/resources.o
+                                        0xccc (size before relaxing)
+ .debug_str     0x0000000000006730      0x58a build/braids/settings.o
+                                       0x177b (size before relaxing)
+ .debug_str     0x0000000000006cba       0x6d build/braids/ui.o
+                                       0x1f8c (size before relaxing)
+ .debug_str     0x0000000000006d27      0x240 build/braids/adc.o
+                                        0x67c (size before relaxing)
+ .debug_str     0x0000000000006f67       0x16 build/braids/dac.o
+                                        0x521 (size before relaxing)
+ .debug_str     0x0000000000006f7d       0x53 build/braids/display.o
+                                        0x56e (size before relaxing)
+ .debug_str     0x0000000000006fd0       0x30 build/braids/encoder.o
+                                        0x500 (size before relaxing)
+ .debug_str     0x0000000000007000       0x1d build/braids/gate_input.o
+                                        0x451 (size before relaxing)
+ .debug_str     0x000000000000701d      0x2b9 build/braids/internal_adc.o
+                                        0x734 (size before relaxing)
+ .debug_str     0x00000000000072d6      0x584 build/braids/system.o
+                                        0x975 (size before relaxing)
+ .debug_str     0x000000000000785a       0x36 build/braids/random.o
+                                        0x2d6 (size before relaxing)
+ .debug_str     0x0000000000007890       0x63 build/braids/system_clock.o
+                                        0x38a (size before relaxing)
+ .debug_str     0x00000000000078f3      0x210 build/braids/system_stm32f10x.o
+                                        0x2ea (size before relaxing)
+ .debug_str     0x0000000000007b03       0xdb build/braids/misc.o
+                                        0x403 (size before relaxing)
+ .debug_str     0x0000000000007bde      0x3e6 build/braids/stm32f10x_adc.o
+                                        0x752 (size before relaxing)
+ .debug_str     0x0000000000007fc4       0xfd build/braids/stm32f10x_dma.o
+                                        0x3d6 (size before relaxing)
+ .debug_str     0x00000000000080c1      0x2fc build/braids/stm32f10x_flash.o
+                                        0x5b7 (size before relaxing)
+ .debug_str     0x00000000000083bd      0x222 build/braids/stm32f10x_gpio.o
+                                        0x560 (size before relaxing)
+ .debug_str     0x00000000000085df      0x38a build/braids/stm32f10x_rcc.o
+                                        0x65a (size before relaxing)
+ .debug_str     0x0000000000008969      0x277 build/braids/stm32f10x_spi.o
+                                        0x67d (size before relaxing)
+ .debug_str     0x0000000000008be0      0xa26 build/braids/stm32f10x_tim.o
+                                        0xe4b (size before relaxing)
+ .debug_str     0x0000000000009606      0x189 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+                                        0x229 (size before relaxing)
+ .debug_str     0x000000000000978f       0x97 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                                        0x203 (size before relaxing)
+ .debug_str     0x0000000000009826       0x50 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+                                        0x218 (size before relaxing)
+ .debug_str     0x0000000000009876       0x4d /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)
+                                        0x221 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x2000
+ .debug_frame   0x0000000000000000      0x17c build/braids/analog_oscillator.o
+ .debug_frame   0x000000000000017c      0x1fc build/braids/braids.o
+ .debug_frame   0x0000000000000378      0x558 build/braids/digital_oscillator.o
+ .debug_frame   0x00000000000008d0      0x1b0 build/braids/macro_oscillator.o
+ .debug_frame   0x0000000000000a80       0xe4 build/braids/settings.o
+ .debug_frame   0x0000000000000b64       0xe4 build/braids/ui.o
+ .debug_frame   0x0000000000000c48       0x64 build/braids/adc.o
+ .debug_frame   0x0000000000000cac       0x30 build/braids/dac.o
+ .debug_frame   0x0000000000000cdc       0x6c build/braids/display.o
+ .debug_frame   0x0000000000000d48       0x4c build/braids/encoder.o
+ .debug_frame   0x0000000000000d94       0x2c build/braids/gate_input.o
+ .debug_frame   0x0000000000000dc0       0x34 build/braids/internal_adc.o
+ .debug_frame   0x0000000000000df4       0x48 build/braids/system.o
+ .debug_frame   0x0000000000000e3c       0x30 build/braids/system_clock.o
+ .debug_frame   0x0000000000000e6c       0x24 build/braids/system_stm32f10x.o
+ .debug_frame   0x0000000000000e90       0x68 build/braids/misc.o
+ .debug_frame   0x0000000000000ef8      0x280 build/braids/stm32f10x_adc.o
+ .debug_frame   0x0000000000001178       0xbc build/braids/stm32f10x_dma.o
+ .debug_frame   0x0000000000001234      0x1f4 build/braids/stm32f10x_flash.o
+ .debug_frame   0x0000000000001428      0x15c build/braids/stm32f10x_gpio.o
+ .debug_frame   0x0000000000001584      0x21c build/braids/stm32f10x_rcc.o
+ .debug_frame   0x00000000000017a0      0x1ac build/braids/stm32f10x_spi.o
+ .debug_frame   0x000000000000194c      0x624 build/braids/stm32f10x_tim.o
+ .debug_frame   0x0000000000001f70       0x28 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000001f98       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000001fb8       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000001fd8       0x28 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-strncpy.o)

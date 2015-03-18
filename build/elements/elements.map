@@ -1,0 +1,3002 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+                              build/elements/elements.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                              build/elements/cv_scaler.o (memcpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+                              build/elements/part.o (memmove)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .text          0x00000000        0x0 build/elements/cv_scaler.o
+ .data          0x00000000        0x0 build/elements/cv_scaler.o
+ .bss           0x00000000        0x0 build/elements/cv_scaler.o
+ .bss._ZN8elements7storageE
+                0x00000000        0x4 build/elements/cv_scaler.o
+ .group         0x00000000        0x8 build/elements/elements.o
+ .group         0x00000000        0x8 build/elements/elements.o
+ .group         0x00000000        0x8 build/elements/elements.o
+ .group         0x00000000        0x8 build/elements/elements.o
+ .group         0x00000000        0x8 build/elements/elements.o
+ .text          0x00000000        0x0 build/elements/elements.o
+ .data          0x00000000        0x0 build/elements/elements.o
+ .bss           0x00000000        0x0 build/elements/elements.o
+ .text._ZN8elements5CodecD2Ev
+                0x00000000        0x4 build/elements/elements.o
+ .text._ZN8elements9DebugPortD2Ev
+                0x00000000        0x4 build/elements/elements.o
+ .text._ZN8elements4PartD2Ev
+                0x00000000        0x4 build/elements/elements.o
+ .text._ZN8elements8CvScalerD2Ev
+                0x00000000        0x4 build/elements/elements.o
+ .text._ZN8elements2UiD2Ev
+                0x00000000        0x4 build/elements/elements.o
+ .text.startup._GLOBAL__sub_I_codec
+                0x00000000       0x68 build/elements/elements.o
+ .init_array    0x00000000        0x4 build/elements/elements.o
+ .text          0x00000000        0x0 build/elements/resources.o
+ .data          0x00000000        0x0 build/elements/resources.o
+ .bss           0x00000000        0x0 build/elements/resources.o
+ .data._ZN8elements24lookup_table_int16_tableE
+                0x00000000        0x4 build/elements/resources.o
+ .bss._ZN8elements25lookup_table_uint32_tableE
+                0x00000000        0x0 build/elements/resources.o
+ .data._ZN8elements21sample_boundary_tableE
+                0x00000000        0x4 build/elements/resources.o
+ .data._ZN8elements12sample_tableE
+                0x00000000        0x8 build/elements/resources.o
+ .text          0x00000000        0x0 build/elements/ui.o
+ .data          0x00000000        0x0 build/elements/ui.o
+ .bss           0x00000000        0x0 build/elements/ui.o
+ .text._ZN8elements2Ui11FlushEventsEv
+                0x00000000        0xc build/elements/ui.o
+ .text._ZN8elements2Ui16OnSwitchReleasedERKN6stmlib5EventE
+                0x00000000        0x8 build/elements/ui.o
+ .text._ZN8elements2Ui11CalibrateC1Ev
+                0x00000000      0x118 build/elements/ui.o
+ .text          0x00000000        0x0 build/elements/codec.o
+ .data          0x00000000        0x0 build/elements/codec.o
+ .bss           0x00000000        0x0 build/elements/codec.o
+ .text._ZN8elements5Codec4StopEv
+                0x00000000       0x20 build/elements/codec.o
+ .text          0x00000000        0x0 build/elements/cv_adc.o
+ .data          0x00000000        0x0 build/elements/cv_adc.o
+ .bss           0x00000000        0x0 build/elements/cv_adc.o
+ .text._ZN8elements5CvAdc6DeInitEv
+                0x00000000        0x4 build/elements/cv_adc.o
+ .text          0x00000000        0x0 build/elements/debug_port.o
+ .data          0x00000000        0x0 build/elements/debug_port.o
+ .bss           0x00000000        0x0 build/elements/debug_port.o
+ .text          0x00000000        0x0 build/elements/gate_input.o
+ .data          0x00000000        0x0 build/elements/gate_input.o
+ .bss           0x00000000        0x0 build/elements/gate_input.o
+ .text          0x00000000        0x0 build/elements/leds.o
+ .data          0x00000000        0x0 build/elements/leds.o
+ .bss           0x00000000        0x0 build/elements/leds.o
+ .text          0x00000000        0x0 build/elements/pots_adc.o
+ .data          0x00000000        0x0 build/elements/pots_adc.o
+ .bss           0x00000000        0x0 build/elements/pots_adc.o
+ .text._ZN8elements7PotsAdc6DeInitEv
+                0x00000000        0x4 build/elements/pots_adc.o
+ .text          0x00000000        0x0 build/elements/switch.o
+ .data          0x00000000        0x0 build/elements/switch.o
+ .bss           0x00000000        0x0 build/elements/switch.o
+ .text          0x00000000        0x0 build/elements/system.o
+ .data          0x00000000        0x0 build/elements/system.o
+ .bss           0x00000000        0x0 build/elements/system.o
+ .text          0x00000000        0x0 build/elements/exciter.o
+ .data          0x00000000        0x0 build/elements/exciter.o
+ .bss           0x00000000        0x0 build/elements/exciter.o
+ .text._ZN8elements7Exciter17GetPulseAmplitudeEf
+                0x00000000       0x24 build/elements/exciter.o
+ .text          0x00000000        0x0 build/elements/multistage_envelope.o
+ .data          0x00000000        0x0 build/elements/multistage_envelope.o
+ .bss           0x00000000        0x0 build/elements/multistage_envelope.o
+ .text          0x00000000        0x0 build/elements/ominous_voice.o
+ .data          0x00000000        0x0 build/elements/ominous_voice.o
+ .bss           0x00000000        0x0 build/elements/ominous_voice.o
+ .text._ZN8elements11Spatializer4InitEf
+                0x00000000       0x24 build/elements/ominous_voice.o
+ .text          0x00000000        0x0 build/elements/part.o
+ .data          0x00000000        0x0 build/elements/part.o
+ .bss           0x00000000        0x0 build/elements/part.o
+ .text          0x00000000        0x0 build/elements/resonator.o
+ .data          0x00000000        0x0 build/elements/resonator.o
+ .bss           0x00000000        0x0 build/elements/resonator.o
+ .text          0x00000000        0x0 build/elements/tube.o
+ .data          0x00000000        0x0 build/elements/tube.o
+ .bss           0x00000000        0x0 build/elements/tube.o
+ .text._ZN8elements4Tube4InitEv
+                0x00000000        0xc build/elements/tube.o
+ .text          0x00000000        0x0 build/elements/voice.o
+ .data          0x00000000        0x0 build/elements/voice.o
+ .bss           0x00000000        0x0 build/elements/voice.o
+ .text          0x00000000        0x0 build/elements/atan.o
+ .data          0x00000000        0x0 build/elements/atan.o
+ .bss           0x00000000        0x0 build/elements/atan.o
+ .rodata._ZN6stmlib8atan_lutE
+                0x00000000      0x404 build/elements/atan.o
+ .debug_info    0x00000000      0x54c build/elements/atan.o
+ .debug_abbrev  0x00000000       0xbd build/elements/atan.o
+ .debug_aranges
+                0x00000000       0x18 build/elements/atan.o
+ .debug_line    0x00000000       0xc1 build/elements/atan.o
+ .debug_str     0x00000000      0x297 build/elements/atan.o
+ .comment       0x00000000       0x71 build/elements/atan.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/atan.o
+ .text          0x00000000        0x0 build/elements/units.o
+ .data          0x00000000        0x0 build/elements/units.o
+ .bss           0x00000000        0x0 build/elements/units.o
+ .text          0x00000000        0x0 build/elements/random.o
+ .data          0x00000000        0x0 build/elements/random.o
+ .bss           0x00000000        0x0 build/elements/random.o
+ .text          0x00000000        0x0 build/elements/bootloader_utils.o
+ .data          0x00000000        0x0 build/elements/bootloader_utils.o
+ .bss           0x00000000        0x0 build/elements/bootloader_utils.o
+ .text._ZN6stmlib12UninitializeEv
+                0x00000000       0x70 build/elements/bootloader_utils.o
+ .text._ZN6stmlib6JumpToEm
+                0x00000000       0x10 build/elements/bootloader_utils.o
+ .debug_info    0x00000000      0x437 build/elements/bootloader_utils.o
+ .debug_abbrev  0x00000000      0x1b6 build/elements/bootloader_utils.o
+ .debug_loc     0x00000000       0x47 build/elements/bootloader_utils.o
+ .debug_aranges
+                0x00000000       0x28 build/elements/bootloader_utils.o
+ .debug_ranges  0x00000000       0x18 build/elements/bootloader_utils.o
+ .debug_line    0x00000000      0x143 build/elements/bootloader_utils.o
+ .debug_str     0x00000000      0x419 build/elements/bootloader_utils.o
+ .comment       0x00000000       0x71 build/elements/bootloader_utils.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/bootloader_utils.o
+ .debug_frame   0x00000000       0x44 build/elements/bootloader_utils.o
+ .group         0x00000000        0x8 build/elements/system_clock.o
+ .text          0x00000000        0x0 build/elements/system_clock.o
+ .data          0x00000000        0x0 build/elements/system_clock.o
+ .bss           0x00000000        0x0 build/elements/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/elements/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/elements/system_clock.o
+ .init_array    0x00000000        0x4 build/elements/system_clock.o
+ .text          0x00000000        0x0 build/elements/core_cm3.o
+ .data          0x00000000        0x0 build/elements/core_cm3.o
+ .bss           0x00000000        0x0 build/elements/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/elements/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/elements/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/elements/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/elements/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/elements/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/elements/core_cm3.o
+ .debug_info    0x00000000      0x509 build/elements/core_cm3.o
+ .debug_abbrev  0x00000000       0xbb build/elements/core_cm3.o
+ .debug_loc     0x00000000      0x33a build/elements/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 build/elements/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 build/elements/core_cm3.o
+ .debug_line    0x00000000      0x234 build/elements/core_cm3.o
+ .debug_str     0x00000000      0x35f build/elements/core_cm3.o
+ .comment       0x00000000       0x71 build/elements/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/core_cm3.o
+ .debug_frame   0x00000000      0x170 build/elements/core_cm3.o
+ .text          0x00000000        0x0 build/elements/system_stm32f4xx.o
+ .data          0x00000000        0x0 build/elements/system_stm32f4xx.o
+ .bss           0x00000000        0x0 build/elements/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x70 build/elements/system_stm32f4xx.o
+ .data.AHBPrescTable
+                0x00000000       0x10 build/elements/system_stm32f4xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 build/elements/system_stm32f4xx.o
+ .text          0x00000000        0x0 build/elements/misc.o
+ .data          0x00000000        0x0 build/elements/misc.o
+ .bss           0x00000000        0x0 build/elements/misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 build/elements/misc.o
+ .text.NVIC_Init
+                0x00000000       0x80 build/elements/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x1c build/elements/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/elements/misc.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_adc.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_adc.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_CommonStructInit
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/elements/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_VBATCmd
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/elements/stm32f4xx_adc.o
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_ContinuousModeCmd
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/elements/stm32f4xx_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/elements/stm32f4xx_adc.o
+ .text.ADC_GetMultiModeConversionValue
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x68 build/elements/stm32f4xx_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/elements/stm32f4xx_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/elements/stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_SoftwareStartInjectedConv
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/elements/stm32f4xx_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/elements/stm32f4xx_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/elements/stm32f4xx_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/elements/stm32f4xx_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x1c build/elements/stm32f4xx_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/elements/stm32f4xx_adc.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_can.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_can.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/elements/stm32f4xx_can.o
+ .text.CAN_Init
+                0x00000000      0x1a0 build/elements/stm32f4xx_can.o
+ .text.CAN_FilterInit
+                0x00000000      0x110 build/elements/stm32f4xx_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/elements/stm32f4xx_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/elements/stm32f4xx_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/elements/stm32f4xx_can.o
+ .text.CAN_TTComModeCmd
+                0x00000000       0x5c build/elements/stm32f4xx_can.o
+ .text.CAN_Transmit
+                0x00000000       0xe0 build/elements/stm32f4xx_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x54 build/elements/stm32f4xx_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/elements/stm32f4xx_can.o
+ .text.CAN_Receive
+                0x00000000       0xa8 build/elements/stm32f4xx_can.o
+ .text.CAN_FIFORelease
+                0x00000000       0x18 build/elements/stm32f4xx_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/elements/stm32f4xx_can.o
+ .text.CAN_OperatingModeRequest
+                0x00000000      0x228 build/elements/stm32f4xx_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/elements/stm32f4xx_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x80 build/elements/stm32f4xx_can.o
+ .text.CAN_GetLastErrorCode
+                0x00000000        0x8 build/elements/stm32f4xx_can.o
+ .text.CAN_GetReceiveErrorCounter
+                0x00000000        0x8 build/elements/stm32f4xx_can.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x00000000        0x8 build/elements/stm32f4xx_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/elements/stm32f4xx_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000       0x58 build/elements/stm32f4xx_can.o
+ .text.CAN_ClearFlag
+                0x00000000       0x30 build/elements/stm32f4xx_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xe4 build/elements/stm32f4xx_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0x8c build/elements/stm32f4xx_can.o
+ .debug_info    0x00000000      0xca1 build/elements/stm32f4xx_can.o
+ .debug_abbrev  0x00000000      0x29d build/elements/stm32f4xx_can.o
+ .debug_loc     0x00000000      0xc7d build/elements/stm32f4xx_can.o
+ .debug_aranges
+                0x00000000       0xd8 build/elements/stm32f4xx_can.o
+ .debug_ranges  0x00000000      0x150 build/elements/stm32f4xx_can.o
+ .debug_line    0x00000000      0x58b build/elements/stm32f4xx_can.o
+ .debug_str     0x00000000      0x7f3 build/elements/stm32f4xx_can.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_can.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_can.o
+ .debug_frame   0x00000000      0x1d0 build/elements/stm32f4xx_can.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_crc.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_crc.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/elements/stm32f4xx_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/elements/stm32f4xx_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0xb0 build/elements/stm32f4xx_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/elements/stm32f4xx_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/elements/stm32f4xx_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/elements/stm32f4xx_crc.o
+ .debug_info    0x00000000      0x1e3 build/elements/stm32f4xx_crc.o
+ .debug_abbrev  0x00000000      0x125 build/elements/stm32f4xx_crc.o
+ .debug_loc     0x00000000       0x82 build/elements/stm32f4xx_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/elements/stm32f4xx_crc.o
+ .debug_ranges  0x00000000       0x38 build/elements/stm32f4xx_crc.o
+ .debug_line    0x00000000      0x17d build/elements/stm32f4xx_crc.o
+ .debug_str     0x00000000      0x2e9 build/elements/stm32f4xx_crc.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_crc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_crc.o
+ .debug_frame   0x00000000       0x78 build/elements/stm32f4xx_crc.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_cryp_aes.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_cryp_aes.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_ECB
+                0x00000000      0x1fc build/elements/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_CBC
+                0x00000000      0x224 build/elements/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_CTR
+                0x00000000      0x1ac build/elements/stm32f4xx_cryp_aes.o
+ .debug_info    0x00000000     0x15ba build/elements/stm32f4xx_cryp_aes.o
+ .debug_abbrev  0x00000000      0x267 build/elements/stm32f4xx_cryp_aes.o
+ .debug_loc     0x00000000     0x1cde build/elements/stm32f4xx_cryp_aes.o
+ .debug_aranges
+                0x00000000       0x30 build/elements/stm32f4xx_cryp_aes.o
+ .debug_ranges  0x00000000       0x20 build/elements/stm32f4xx_cryp_aes.o
+ .debug_line    0x00000000      0x5bf build/elements/stm32f4xx_cryp_aes.o
+ .debug_str     0x00000000      0x51a build/elements/stm32f4xx_cryp_aes.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_cryp_aes.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_cryp_aes.o
+ .debug_frame   0x00000000       0x7c build/elements/stm32f4xx_cryp_aes.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_cryp.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_cryp.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_DeInit
+                0x00000000       0x18 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_Init
+                0x00000000       0x60 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_StructInit
+                0x00000000        0xc build/elements/stm32f4xx_cryp.o
+ .text.CRYP_KeyInit
+                0x00000000       0x28 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_KeyStructInit
+                0x00000000       0x14 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_IVInit
+                0x00000000       0x18 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_IVStructInit
+                0x00000000        0xc build/elements/stm32f4xx_cryp.o
+ .text.CRYP_FIFOFlush
+                0x00000000       0x10 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_Cmd
+                0x00000000       0x1c build/elements/stm32f4xx_cryp.o
+ .text.CRYP_DataIn
+                0x00000000        0xc build/elements/stm32f4xx_cryp.o
+ .text.CRYP_DataOut
+                0x00000000        0xc build/elements/stm32f4xx_cryp.o
+ .text.CRYP_SaveContext
+                0x00000000       0xbc build/elements/stm32f4xx_cryp.o
+ .text.CRYP_RestoreContext
+                0x00000000       0x44 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_DMACmd
+                0x00000000       0x1c build/elements/stm32f4xx_cryp.o
+ .text.CRYP_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_cryp.o
+ .text.CRYP_GetITStatus
+                0x00000000       0x14 build/elements/stm32f4xx_cryp.o
+ .text.CRYP_GetFlagStatus
+                0x00000000       0x18 build/elements/stm32f4xx_cryp.o
+ .debug_info    0x00000000      0x742 build/elements/stm32f4xx_cryp.o
+ .debug_abbrev  0x00000000      0x1d7 build/elements/stm32f4xx_cryp.o
+ .debug_loc     0x00000000      0x2e6 build/elements/stm32f4xx_cryp.o
+ .debug_aranges
+                0x00000000       0xa0 build/elements/stm32f4xx_cryp.o
+ .debug_ranges  0x00000000       0x90 build/elements/stm32f4xx_cryp.o
+ .debug_line    0x00000000      0x323 build/elements/stm32f4xx_cryp.o
+ .debug_str     0x00000000      0x672 build/elements/stm32f4xx_cryp.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_cryp.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_cryp.o
+ .debug_frame   0x00000000      0x148 build/elements/stm32f4xx_cryp.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_cryp_des.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_cryp_des.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_cryp_des.o
+ .text.CRYP_DES_ECB
+                0x00000000       0xd0 build/elements/stm32f4xx_cryp_des.o
+ .text.CRYP_DES_CBC
+                0x00000000       0xe8 build/elements/stm32f4xx_cryp_des.o
+ .debug_info    0x00000000      0x761 build/elements/stm32f4xx_cryp_des.o
+ .debug_abbrev  0x00000000      0x1ef build/elements/stm32f4xx_cryp_des.o
+ .debug_loc     0x00000000      0x632 build/elements/stm32f4xx_cryp_des.o
+ .debug_aranges
+                0x00000000       0x28 build/elements/stm32f4xx_cryp_des.o
+ .debug_ranges  0x00000000       0x18 build/elements/stm32f4xx_cryp_des.o
+ .debug_line    0x00000000      0x25d build/elements/stm32f4xx_cryp_des.o
+ .debug_str     0x00000000      0x505 build/elements/stm32f4xx_cryp_des.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_cryp_des.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_cryp_des.o
+ .debug_frame   0x00000000       0x5c build/elements/stm32f4xx_cryp_des.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_cryp_tdes.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_cryp_tdes.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_cryp_tdes.o
+ .text.CRYP_TDES_ECB
+                0x00000000       0xe8 build/elements/stm32f4xx_cryp_tdes.o
+ .text.CRYP_TDES_CBC
+                0x00000000      0x104 build/elements/stm32f4xx_cryp_tdes.o
+ .debug_info    0x00000000      0x8df build/elements/stm32f4xx_cryp_tdes.o
+ .debug_abbrev  0x00000000      0x1ef build/elements/stm32f4xx_cryp_tdes.o
+ .debug_loc     0x00000000      0x877 build/elements/stm32f4xx_cryp_tdes.o
+ .debug_aranges
+                0x00000000       0x28 build/elements/stm32f4xx_cryp_tdes.o
+ .debug_ranges  0x00000000       0x18 build/elements/stm32f4xx_cryp_tdes.o
+ .debug_line    0x00000000      0x2be build/elements/stm32f4xx_cryp_tdes.o
+ .debug_str     0x00000000      0x50b build/elements/stm32f4xx_cryp_tdes.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_cryp_tdes.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_cryp_tdes.o
+ .debug_frame   0x00000000       0x5c build/elements/stm32f4xx_cryp_tdes.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_dac.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_dac.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_dac.o
+ .text.DAC_Init
+                0x00000000       0x38 build/elements/stm32f4xx_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/elements/stm32f4xx_dac.o
+ .text.DAC_Cmd  0x00000000       0x2c build/elements/stm32f4xx_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x2c build/elements/stm32f4xx_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/elements/stm32f4xx_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x24 build/elements/stm32f4xx_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/elements/stm32f4xx_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/elements/stm32f4xx_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/elements/stm32f4xx_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/elements/stm32f4xx_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x2c build/elements/stm32f4xx_dac.o
+ .text.DAC_ITConfig
+                0x00000000       0x24 build/elements/stm32f4xx_dac.o
+ .text.DAC_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_dac.o
+ .text.DAC_ClearFlag
+                0x00000000        0xc build/elements/stm32f4xx_dac.o
+ .text.DAC_GetITStatus
+                0x00000000       0x1c build/elements/stm32f4xx_dac.o
+ .text.DAC_ClearITPendingBit
+                0x00000000        0xc build/elements/stm32f4xx_dac.o
+ .debug_info    0x00000000      0x676 build/elements/stm32f4xx_dac.o
+ .debug_abbrev  0x00000000      0x1d2 build/elements/stm32f4xx_dac.o
+ .debug_loc     0x00000000      0x586 build/elements/stm32f4xx_dac.o
+ .debug_aranges
+                0x00000000       0xa0 build/elements/stm32f4xx_dac.o
+ .debug_ranges  0x00000000       0x90 build/elements/stm32f4xx_dac.o
+ .debug_line    0x00000000      0x2e6 build/elements/stm32f4xx_dac.o
+ .debug_str     0x00000000      0x508 build/elements/stm32f4xx_dac.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_dac.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_dac.o
+ .debug_frame   0x00000000      0x140 build/elements/stm32f4xx_dac.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_dbgmcu.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_dbgmcu.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/elements/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/elements/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x1c build/elements/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_APB1PeriphConfig
+                0x00000000       0x1c build/elements/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_APB2PeriphConfig
+                0x00000000       0x1c build/elements/stm32f4xx_dbgmcu.o
+ .debug_info    0x00000000      0x1d0 build/elements/stm32f4xx_dbgmcu.o
+ .debug_abbrev  0x00000000       0xe0 build/elements/stm32f4xx_dbgmcu.o
+ .debug_loc     0x00000000       0xe7 build/elements/stm32f4xx_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x40 build/elements/stm32f4xx_dbgmcu.o
+ .debug_ranges  0x00000000       0x30 build/elements/stm32f4xx_dbgmcu.o
+ .debug_line    0x00000000      0x15e build/elements/stm32f4xx_dbgmcu.o
+ .debug_str     0x00000000      0x2f3 build/elements/stm32f4xx_dbgmcu.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_dbgmcu.o
+ .debug_frame   0x00000000       0x60 build/elements/stm32f4xx_dbgmcu.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_dcmi.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_dcmi.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_Init
+                0x00000000       0x50 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_StructInit
+                0x00000000       0x14 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_CROPConfig
+                0x00000000       0x20 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_CROPCmd
+                0x00000000       0x1c build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_SetEmbeddedSynchroCodes
+                0x00000000       0x24 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_JPEGCmd
+                0x00000000       0x1c build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_Cmd
+                0x00000000       0x1c build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_CaptureCmd
+                0x00000000       0x1c build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_ReadData
+                0x00000000        0xc build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_ITConfig
+                0x00000000       0x20 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_GetFlagStatus
+                0x00000000       0x24 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_ClearFlag
+                0x00000000        0xc build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_GetITStatus
+                0x00000000       0x14 build/elements/stm32f4xx_dcmi.o
+ .text.DCMI_ClearITPendingBit
+                0x00000000        0xc build/elements/stm32f4xx_dcmi.o
+ .debug_info    0x00000000      0x532 build/elements/stm32f4xx_dcmi.o
+ .debug_abbrev  0x00000000      0x1a7 build/elements/stm32f4xx_dcmi.o
+ .debug_loc     0x00000000      0x313 build/elements/stm32f4xx_dcmi.o
+ .debug_aranges
+                0x00000000       0x90 build/elements/stm32f4xx_dcmi.o
+ .debug_ranges  0x00000000       0x80 build/elements/stm32f4xx_dcmi.o
+ .debug_line    0x00000000      0x2b9 build/elements/stm32f4xx_dcmi.o
+ .debug_str     0x00000000      0x577 build/elements/stm32f4xx_dcmi.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_dcmi.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_dcmi.o
+ .debug_frame   0x00000000      0x11c build/elements/stm32f4xx_dcmi.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_dma.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_dma.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x24 build/elements/stm32f4xx_dma.o
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0x14 build/elements/stm32f4xx_dma.o
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x14 build/elements/stm32f4xx_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 build/elements/stm32f4xx_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/elements/stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeConfig
+                0x00000000       0x18 build/elements/stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeCmd
+                0x00000000       0x14 build/elements/stm32f4xx_dma.o
+ .text.DMA_MemoryTargetConfig
+                0x00000000        0xc build/elements/stm32f4xx_dma.o
+ .text.DMA_GetCurrentMemoryTarget
+                0x00000000        0x8 build/elements/stm32f4xx_dma.o
+ .text.DMA_GetCmdStatus
+                0x00000000        0x8 build/elements/stm32f4xx_dma.o
+ .text.DMA_GetFIFOStatus
+                0x00000000        0x8 build/elements/stm32f4xx_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x3c build/elements/stm32f4xx_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x34 build/elements/stm32f4xx_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x54 build/elements/stm32f4xx_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x34 build/elements/stm32f4xx_dma.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_exti.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_exti.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_exti.o
+ .text.EXTI_Init
+                0x00000000       0x88 build/elements/stm32f4xx_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/elements/stm32f4xx_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/elements/stm32f4xx_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/elements/stm32f4xx_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x20 build/elements/stm32f4xx_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/elements/stm32f4xx_exti.o
+ .debug_info    0x00000000      0x33a build/elements/stm32f4xx_exti.o
+ .debug_abbrev  0x00000000      0x1c5 build/elements/stm32f4xx_exti.o
+ .debug_loc     0x00000000      0x21a build/elements/stm32f4xx_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/elements/stm32f4xx_exti.o
+ .debug_ranges  0x00000000       0x48 build/elements/stm32f4xx_exti.o
+ .debug_line    0x00000000      0x219 build/elements/stm32f4xx_exti.o
+ .debug_str     0x00000000      0x40c build/elements/stm32f4xx_exti.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_exti.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_exti.o
+ .debug_frame   0x00000000       0x9c build/elements/stm32f4xx_exti.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_flash.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_flash.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_flash.o
+ .text.FLASH_SetLatency
+                0x00000000        0xc build/elements/stm32f4xx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x1c build/elements/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheCmd
+                0x00000000       0x1c build/elements/stm32f4xx_flash.o
+ .text.FLASH_DataCacheCmd
+                0x00000000       0x1c build/elements/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheReset
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_DataCacheReset
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_Unlock
+                0x00000000       0x20 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_Lock
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_BORConfig
+                0x00000000       0x1c build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x10 build/elements/stm32f4xx_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_flash.o
+ .text.FLASH_EraseAllSectors
+                0x00000000       0x5c build/elements/stm32f4xx_flash.o
+ .text.FLASH_ProgramDoubleWord
+                0x00000000       0x44 build/elements/stm32f4xx_flash.o
+ .text.FLASH_ProgramByte
+                0x00000000       0x3c build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x30 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_RDPConfig
+                0x00000000       0x18 build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x2c build/elements/stm32f4xx_flash.o
+ .text.FLASH_OB_Launch
+                0x00000000       0x14 build/elements/stm32f4xx_flash.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_fsmc.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_fsmc.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xe8 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x50 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x2c build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x80 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/elements/stm32f4xx_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/elements/stm32f4xx_fsmc.o
+ .debug_info    0x00000000      0x8f3 build/elements/stm32f4xx_fsmc.o
+ .debug_abbrev  0x00000000      0x190 build/elements/stm32f4xx_fsmc.o
+ .debug_loc     0x00000000      0x5e8 build/elements/stm32f4xx_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/elements/stm32f4xx_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/elements/stm32f4xx_fsmc.o
+ .debug_line    0x00000000      0x414 build/elements/stm32f4xx_fsmc.o
+ .debug_str     0x00000000      0x832 build/elements/stm32f4xx_fsmc.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_fsmc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_fsmc.o
+ .debug_frame   0x00000000      0x198 build/elements/stm32f4xx_fsmc.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_gpio.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000      0x118 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x14 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x28 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/elements/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/elements/stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000        0x8 build/elements/stm32f4xx_gpio.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_hash.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_hash.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_hash.o
+ .text.HASH_DeInit
+                0x00000000       0x18 build/elements/stm32f4xx_hash.o
+ .text.HASH_Init
+                0x00000000       0x48 build/elements/stm32f4xx_hash.o
+ .text.HASH_StructInit
+                0x00000000        0xc build/elements/stm32f4xx_hash.o
+ .text.HASH_Reset
+                0x00000000       0x10 build/elements/stm32f4xx_hash.o
+ .text.HASH_SetLastWordValidBitsNbr
+                0x00000000       0x18 build/elements/stm32f4xx_hash.o
+ .text.HASH_DataIn
+                0x00000000        0xc build/elements/stm32f4xx_hash.o
+ .text.HASH_GetInFIFOWordsNbr
+                0x00000000       0x10 build/elements/stm32f4xx_hash.o
+ .text.HASH_GetDigest
+                0x00000000       0x1c build/elements/stm32f4xx_hash.o
+ .text.HASH_StartDigest
+                0x00000000       0x10 build/elements/stm32f4xx_hash.o
+ .text.HASH_SaveContext
+                0x00000000       0x94 build/elements/stm32f4xx_hash.o
+ .text.HASH_RestoreContext
+                0x00000000       0x98 build/elements/stm32f4xx_hash.o
+ .text.HASH_DMACmd
+                0x00000000       0x1c build/elements/stm32f4xx_hash.o
+ .text.HASH_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_hash.o
+ .text.HASH_GetFlagStatus
+                0x00000000       0x18 build/elements/stm32f4xx_hash.o
+ .text.HASH_ClearFlag
+                0x00000000        0xc build/elements/stm32f4xx_hash.o
+ .text.HASH_GetITStatus
+                0x00000000       0x1c build/elements/stm32f4xx_hash.o
+ .text.HASH_ClearITPendingBit
+                0x00000000       0x10 build/elements/stm32f4xx_hash.o
+ .debug_info    0x00000000      0x56a build/elements/stm32f4xx_hash.o
+ .debug_abbrev  0x00000000      0x210 build/elements/stm32f4xx_hash.o
+ .debug_loc     0x00000000      0x2c3 build/elements/stm32f4xx_hash.o
+ .debug_aranges
+                0x00000000       0xa0 build/elements/stm32f4xx_hash.o
+ .debug_ranges  0x00000000       0x90 build/elements/stm32f4xx_hash.o
+ .debug_line    0x00000000      0x2d5 build/elements/stm32f4xx_hash.o
+ .debug_str     0x00000000      0x4e7 build/elements/stm32f4xx_hash.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_hash.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_hash.o
+ .debug_frame   0x00000000      0x140 build/elements/stm32f4xx_hash.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_hash_md5.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_hash_md5.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_hash_md5.o
+ .text.HASH_MD5
+                0x00000000      0x15c build/elements/stm32f4xx_hash_md5.o
+ .text.HMAC_MD5
+                0x00000000      0x3ac build/elements/stm32f4xx_hash_md5.o
+ .debug_info    0x00000000      0x8a8 build/elements/stm32f4xx_hash_md5.o
+ .debug_abbrev  0x00000000      0x213 build/elements/stm32f4xx_hash_md5.o
+ .debug_loc     0x00000000      0x99a build/elements/stm32f4xx_hash_md5.o
+ .debug_aranges
+                0x00000000       0x28 build/elements/stm32f4xx_hash_md5.o
+ .debug_ranges  0x00000000       0x30 build/elements/stm32f4xx_hash_md5.o
+ .debug_line    0x00000000      0x424 build/elements/stm32f4xx_hash_md5.o
+ .debug_str     0x00000000      0x40d build/elements/stm32f4xx_hash_md5.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_hash_md5.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_hash_md5.o
+ .debug_frame   0x00000000       0x58 build/elements/stm32f4xx_hash_md5.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_hash_sha1.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_hash_sha1.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_hash_sha1.o
+ .text.HASH_SHA1
+                0x00000000      0x160 build/elements/stm32f4xx_hash_sha1.o
+ .text.HMAC_SHA1
+                0x00000000      0x3ac build/elements/stm32f4xx_hash_sha1.o
+ .debug_info    0x00000000      0x8fc build/elements/stm32f4xx_hash_sha1.o
+ .debug_abbrev  0x00000000      0x21c build/elements/stm32f4xx_hash_sha1.o
+ .debug_loc     0x00000000      0x9f2 build/elements/stm32f4xx_hash_sha1.o
+ .debug_aranges
+                0x00000000       0x28 build/elements/stm32f4xx_hash_sha1.o
+ .debug_ranges  0x00000000       0x30 build/elements/stm32f4xx_hash_sha1.o
+ .debug_line    0x00000000      0x43a build/elements/stm32f4xx_hash_sha1.o
+ .debug_str     0x00000000      0x412 build/elements/stm32f4xx_hash_sha1.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_hash_sha1.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_hash_sha1.o
+ .debug_frame   0x00000000       0x58 build/elements/stm32f4xx_hash_sha1.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_i2c.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_i2c.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/elements/stm32f4xx_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/elements/stm32f4xx_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/elements/stm32f4xx_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x24 build/elements/stm32f4xx_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x24 build/elements/stm32f4xx_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/elements/stm32f4xx_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x24 build/elements/stm32f4xx_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/elements/stm32f4xx_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/elements/stm32f4xx_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x18 build/elements/stm32f4xx_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/elements/stm32f4xx_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/elements/stm32f4xx_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x20 build/elements/stm32f4xx_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/elements/stm32f4xx_i2c.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_iwdg.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_iwdg.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/elements/stm32f4xx_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/elements/stm32f4xx_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/elements/stm32f4xx_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/elements/stm32f4xx_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/elements/stm32f4xx_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_iwdg.o
+ .debug_info    0x00000000      0x1e1 build/elements/stm32f4xx_iwdg.o
+ .debug_abbrev  0x00000000      0x112 build/elements/stm32f4xx_iwdg.o
+ .debug_loc     0x00000000       0x62 build/elements/stm32f4xx_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/elements/stm32f4xx_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/elements/stm32f4xx_iwdg.o
+ .debug_line    0x00000000      0x166 build/elements/stm32f4xx_iwdg.o
+ .debug_str     0x00000000      0x30a build/elements/stm32f4xx_iwdg.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_iwdg.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_iwdg.o
+ .debug_frame   0x00000000       0x70 build/elements/stm32f4xx_iwdg.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_pwr.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/elements/stm32f4xx_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/elements/stm32f4xx_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/elements/stm32f4xx_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/elements/stm32f4xx_pwr.o
+ .text.PWR_BackupRegulatorCmd
+                0x00000000        0xc build/elements/stm32f4xx_pwr.o
+ .text.PWR_MainRegulatorModeConfig
+                0x00000000       0x1c build/elements/stm32f4xx_pwr.o
+ .text.PWR_FlashPowerDownCmd
+                0x00000000        0xc build/elements/stm32f4xx_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x3c build/elements/stm32f4xx_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/elements/stm32f4xx_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/elements/stm32f4xx_pwr.o
+ .debug_info    0x00000000      0x520 build/elements/stm32f4xx_pwr.o
+ .debug_abbrev  0x00000000      0x1c6 build/elements/stm32f4xx_pwr.o
+ .debug_loc     0x00000000      0x19b build/elements/stm32f4xx_pwr.o
+ .debug_aranges
+                0x00000000       0x78 build/elements/stm32f4xx_pwr.o
+ .debug_ranges  0x00000000       0x68 build/elements/stm32f4xx_pwr.o
+ .debug_line    0x00000000      0x25e build/elements/stm32f4xx_pwr.o
+ .debug_str     0x00000000      0x446 build/elements/stm32f4xx_pwr.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_pwr.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_pwr.o
+ .debug_frame   0x00000000       0xe0 build/elements/stm32f4xx_pwr.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_rcc.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x34 build/elements/stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x10 build/elements/stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/elements/stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/elements/stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/elements/stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x24 build/elements/stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x18 build/elements/stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x18 build/elements/stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/elements/stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/elements/stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/elements/stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/elements/stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/elements/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x34 build/elements/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/elements/stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/elements/stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/elements/stm32f4xx_rcc.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_rng.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_rng.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_rng.o
+ .text.RNG_DeInit
+                0x00000000       0x18 build/elements/stm32f4xx_rng.o
+ .text.RNG_Cmd  0x00000000       0x1c build/elements/stm32f4xx_rng.o
+ .text.RNG_GetRandomNumber
+                0x00000000        0xc build/elements/stm32f4xx_rng.o
+ .text.RNG_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_rng.o
+ .text.RNG_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_rng.o
+ .text.RNG_ClearFlag
+                0x00000000       0x10 build/elements/stm32f4xx_rng.o
+ .text.RNG_GetITStatus
+                0x00000000       0x14 build/elements/stm32f4xx_rng.o
+ .text.RNG_ClearITPendingBit
+                0x00000000       0x10 build/elements/stm32f4xx_rng.o
+ .debug_info    0x00000000      0x2b0 build/elements/stm32f4xx_rng.o
+ .debug_abbrev  0x00000000      0x16d build/elements/stm32f4xx_rng.o
+ .debug_loc     0x00000000      0x15a build/elements/stm32f4xx_rng.o
+ .debug_aranges
+                0x00000000       0x58 build/elements/stm32f4xx_rng.o
+ .debug_ranges  0x00000000       0x48 build/elements/stm32f4xx_rng.o
+ .debug_line    0x00000000      0x1dd build/elements/stm32f4xx_rng.o
+ .debug_str     0x00000000      0x339 build/elements/stm32f4xx_rng.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_rng.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_rng.o
+ .debug_frame   0x00000000       0x98 build/elements/stm32f4xx_rng.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_rtc.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_rtc.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_rtc.o
+ .text.RTC_StructInit
+                0x00000000        0xc build/elements/stm32f4xx_rtc.o
+ .text.RTC_WriteProtectionCmd
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_EnterInitMode
+                0x00000000       0x44 build/elements/stm32f4xx_rtc.o
+ .text.RTC_Init
+                0x00000000       0x4c build/elements/stm32f4xx_rtc.o
+ .text.RTC_ExitInitMode
+                0x00000000       0x10 build/elements/stm32f4xx_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x48 build/elements/stm32f4xx_rtc.o
+ .text.RTC_DeInit
+                0x00000000       0x8c build/elements/stm32f4xx_rtc.o
+ .text.RTC_RefClockCmd
+                0x00000000       0x40 build/elements/stm32f4xx_rtc.o
+ .text.RTC_BypassShadowCmd
+                0x00000000       0x30 build/elements/stm32f4xx_rtc.o
+ .text.RTC_SetTime
+                0x00000000      0x3ac build/elements/stm32f4xx_rtc.o
+ .text.RTC_TimeStructInit
+                0x00000000        0xc build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetTime
+                0x00000000       0x5c build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetSubSecond
+                0x00000000        0xc build/elements/stm32f4xx_rtc.o
+ .text.RTC_SetDate
+                0x00000000      0x3a4 build/elements/stm32f4xx_rtc.o
+ .text.RTC_DateStructInit
+                0x00000000       0x10 build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetDate
+                0x00000000       0x5c build/elements/stm32f4xx_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000      0x4e4 build/elements/stm32f4xx_rtc.o
+ .text.RTC_AlarmStructInit
+                0x00000000       0x14 build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetAlarm
+                0x00000000       0x94 build/elements/stm32f4xx_rtc.o
+ .text.RTC_AlarmCmd
+                0x00000000       0x5c build/elements/stm32f4xx_rtc.o
+ .text.RTC_AlarmSubSecondConfig
+                0x00000000       0x30 build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetAlarmSubSecond
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_WakeUpClockConfig
+                0x00000000       0x24 build/elements/stm32f4xx_rtc.o
+ .text.RTC_SetWakeUpCounter
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetWakeUpCounter
+                0x00000000        0xc build/elements/stm32f4xx_rtc.o
+ .text.RTC_WakeUpCmd
+                0x00000000       0x5c build/elements/stm32f4xx_rtc.o
+ .text.RTC_DayLightSavingConfig
+                0x00000000       0x2c build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetStoreOperation
+                0x00000000       0x10 build/elements/stm32f4xx_rtc.o
+ .text.RTC_OutputConfig
+                0x00000000       0x2c build/elements/stm32f4xx_rtc.o
+ .text.RTC_CoarseCalibConfig
+                0x00000000       0x34 build/elements/stm32f4xx_rtc.o
+ .text.RTC_CoarseCalibCmd
+                0x00000000       0x40 build/elements/stm32f4xx_rtc.o
+ .text.RTC_CalibOutputCmd
+                0x00000000       0x30 build/elements/stm32f4xx_rtc.o
+ .text.RTC_CalibOutputConfig
+                0x00000000       0x24 build/elements/stm32f4xx_rtc.o
+ .text.RTC_SmoothCalibConfig
+                0x00000000       0x74 build/elements/stm32f4xx_rtc.o
+ .text.RTC_TimeStampCmd
+                0x00000000       0x38 build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetTimeStamp
+                0x00000000       0xcc build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetTimeStampSubSecond
+                0x00000000        0xc build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperTriggerConfig
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperFilterConfig
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperSamplingFreqConfig
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperPinsPrechargeDuration
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_TimeStampOnTamperDetectionCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperPullUpCmd
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_WriteBackupRegister
+                0x00000000       0x20 build/elements/stm32f4xx_rtc.o
+ .text.RTC_ReadBackupRegister
+                0x00000000       0x20 build/elements/stm32f4xx_rtc.o
+ .text.RTC_TamperPinSelection
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_TimeStampPinSelection
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_OutputTypeConfig
+                0x00000000       0x18 build/elements/stm32f4xx_rtc.o
+ .text.RTC_SynchroShiftConfig
+                0x00000000       0x94 build/elements/stm32f4xx_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x4c build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x3c build/elements/stm32f4xx_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x1c build/elements/stm32f4xx_rtc.o
+ .debug_info    0x00000000     0x1643 build/elements/stm32f4xx_rtc.o
+ .debug_abbrev  0x00000000      0x25b build/elements/stm32f4xx_rtc.o
+ .debug_loc     0x00000000     0x1c0f build/elements/stm32f4xx_rtc.o
+ .debug_aranges
+                0x00000000      0x1d0 build/elements/stm32f4xx_rtc.o
+ .debug_ranges  0x00000000      0x520 build/elements/stm32f4xx_rtc.o
+ .debug_line    0x00000000      0xc07 build/elements/stm32f4xx_rtc.o
+ .debug_str     0x00000000      0xbf1 build/elements/stm32f4xx_rtc.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_rtc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_rtc.o
+ .debug_frame   0x00000000      0x488 build/elements/stm32f4xx_rtc.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_sdio.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_sdio.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x3c build/elements/stm32f4xx_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x34 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x34 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x1c build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/elements/stm32f4xx_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/elements/stm32f4xx_sdio.o
+ .debug_info    0x00000000      0x81e build/elements/stm32f4xx_sdio.o
+ .debug_abbrev  0x00000000      0x1af build/elements/stm32f4xx_sdio.o
+ .debug_loc     0x00000000      0x235 build/elements/stm32f4xx_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/elements/stm32f4xx_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/elements/stm32f4xx_sdio.o
+ .debug_line    0x00000000      0x3d0 build/elements/stm32f4xx_sdio.o
+ .debug_str     0x00000000      0x700 build/elements/stm32f4xx_sdio.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_sdio.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_sdio.o
+ .debug_frame   0x00000000      0x218 build/elements/stm32f4xx_sdio.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_spi.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_spi.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_spi.o
+ .text.SPI_Init
+                0x00000000       0x58 build/elements/stm32f4xx_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/elements/stm32f4xx_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/elements/stm32f4xx_spi.o
+ .text.SPI_Cmd  0x00000000       0x20 build/elements/stm32f4xx_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x20 build/elements/stm32f4xx_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x24 build/elements/stm32f4xx_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x24 build/elements/stm32f4xx_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x20 build/elements/stm32f4xx_spi.o
+ .text.SPI_TIModeCmd
+                0x00000000       0x20 build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 build/elements/stm32f4xx_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x20 build/elements/stm32f4xx_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/elements/stm32f4xx_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/elements/stm32f4xx_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x24 build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x30 build/elements/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x18 build/elements/stm32f4xx_spi.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_syscfg.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_syscfg.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_syscfg.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_syscfg.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000        0xc build/elements/stm32f4xx_syscfg.o
+ .text.SYSCFG_EXTILineConfig
+                0x00000000       0x3c build/elements/stm32f4xx_syscfg.o
+ .text.SYSCFG_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/elements/stm32f4xx_syscfg.o
+ .text.SYSCFG_CompensationCellCmd
+                0x00000000        0xc build/elements/stm32f4xx_syscfg.o
+ .text.SYSCFG_GetCompensationCellStatus
+                0x00000000       0x10 build/elements/stm32f4xx_syscfg.o
+ .debug_info    0x00000000      0x298 build/elements/stm32f4xx_syscfg.o
+ .debug_abbrev  0x00000000      0x169 build/elements/stm32f4xx_syscfg.o
+ .debug_loc     0x00000000       0x97 build/elements/stm32f4xx_syscfg.o
+ .debug_aranges
+                0x00000000       0x48 build/elements/stm32f4xx_syscfg.o
+ .debug_ranges  0x00000000       0x38 build/elements/stm32f4xx_syscfg.o
+ .debug_line    0x00000000      0x1bd build/elements/stm32f4xx_syscfg.o
+ .debug_str     0x00000000      0x3b4 build/elements/stm32f4xx_syscfg.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_syscfg.o
+ .debug_frame   0x00000000       0x80 build/elements/stm32f4xx_syscfg.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_tim.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_tim.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x1b8 build/elements/stm32f4xx_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/elements/stm32f4xx_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/elements/stm32f4xx_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x90 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x6c build/elements/stm32f4xx_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x28 build/elements/stm32f4xx_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x28 build/elements/stm32f4xx_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x190 build/elements/stm32f4xx_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/elements/stm32f4xx_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x154 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x34 build/elements/stm32f4xx_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/elements/stm32f4xx_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/elements/stm32f4xx_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x1c build/elements/stm32f4xx_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 build/elements/stm32f4xx_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/elements/stm32f4xx_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x18 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0xa0 build/elements/stm32f4xx_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x30 build/elements/stm32f4xx_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x28 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x14 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x1c build/elements/stm32f4xx_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x44 build/elements/stm32f4xx_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x20 build/elements/stm32f4xx_tim.o
+ .text.TIM_RemapConfig
+                0x00000000        0x8 build/elements/stm32f4xx_tim.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_usart.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_usart.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000       0xc8 build/elements/stm32f4xx_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/elements/stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x28 build/elements/stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/elements/stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x18 build/elements/stm32f4xx_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x1c build/elements/stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/elements/stm32f4xx_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/elements/stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/elements/stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x18 build/elements/stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x20 build/elements/stm32f4xx_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x18 build/elements/stm32f4xx_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/elements/stm32f4xx_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/elements/stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/elements/stm32f4xx_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x54 build/elements/stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x14 build/elements/stm32f4xx_usart.o
+ .text          0x00000000        0x0 build/elements/stm32f4xx_wwdg.o
+ .data          0x00000000        0x0 build/elements/stm32f4xx_wwdg.o
+ .bss           0x00000000        0x0 build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000       0x10 build/elements/stm32f4xx_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/elements/stm32f4xx_wwdg.o
+ .debug_info    0x00000000      0x281 build/elements/stm32f4xx_wwdg.o
+ .debug_abbrev  0x00000000      0x178 build/elements/stm32f4xx_wwdg.o
+ .debug_loc     0x00000000       0xd1 build/elements/stm32f4xx_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/elements/stm32f4xx_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/elements/stm32f4xx_wwdg.o
+ .debug_line    0x00000000      0x1dd build/elements/stm32f4xx_wwdg.o
+ .debug_str     0x00000000      0x347 build/elements/stm32f4xx_wwdg.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_wwdg.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements/stm32f4xx_wwdg.o
+ .debug_frame   0x00000000       0x9c build/elements/stm32f4xx_wwdg.o
+ .text          0x00000000       0x14 build/elements/startup_stm32f4xx.o
+ .data          0x00000000        0x0 build/elements/startup_stm32f4xx.o
+ .bss           0x00000000        0x0 build/elements/startup_stm32f4xx.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08008000         0x000f8000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD build/elements/cv_scaler.o
+LOAD build/elements/elements.o
+LOAD build/elements/resources.o
+LOAD build/elements/ui.o
+LOAD build/elements/codec.o
+LOAD build/elements/cv_adc.o
+LOAD build/elements/debug_port.o
+LOAD build/elements/gate_input.o
+LOAD build/elements/leds.o
+LOAD build/elements/pots_adc.o
+LOAD build/elements/switch.o
+LOAD build/elements/system.o
+LOAD build/elements/exciter.o
+LOAD build/elements/multistage_envelope.o
+LOAD build/elements/ominous_voice.o
+LOAD build/elements/part.o
+LOAD build/elements/resonator.o
+LOAD build/elements/tube.o
+LOAD build/elements/voice.o
+LOAD build/elements/atan.o
+LOAD build/elements/units.o
+LOAD build/elements/random.o
+LOAD build/elements/bootloader_utils.o
+LOAD build/elements/system_clock.o
+LOAD build/elements/core_cm3.o
+LOAD build/elements/system_stm32f4xx.o
+LOAD build/elements/misc.o
+LOAD build/elements/stm32f4xx_adc.o
+LOAD build/elements/stm32f4xx_can.o
+LOAD build/elements/stm32f4xx_crc.o
+LOAD build/elements/stm32f4xx_cryp_aes.o
+LOAD build/elements/stm32f4xx_cryp.o
+LOAD build/elements/stm32f4xx_cryp_des.o
+LOAD build/elements/stm32f4xx_cryp_tdes.o
+LOAD build/elements/stm32f4xx_dac.o
+LOAD build/elements/stm32f4xx_dbgmcu.o
+LOAD build/elements/stm32f4xx_dcmi.o
+LOAD build/elements/stm32f4xx_dma.o
+LOAD build/elements/stm32f4xx_exti.o
+LOAD build/elements/stm32f4xx_flash.o
+LOAD build/elements/stm32f4xx_fsmc.o
+LOAD build/elements/stm32f4xx_gpio.o
+LOAD build/elements/stm32f4xx_hash.o
+LOAD build/elements/stm32f4xx_hash_md5.o
+LOAD build/elements/stm32f4xx_hash_sha1.o
+LOAD build/elements/stm32f4xx_i2c.o
+LOAD build/elements/stm32f4xx_iwdg.o
+LOAD build/elements/stm32f4xx_pwr.o
+LOAD build/elements/stm32f4xx_rcc.o
+LOAD build/elements/stm32f4xx_rng.o
+LOAD build/elements/stm32f4xx_rtc.o
+LOAD build/elements/stm32f4xx_sdio.o
+LOAD build/elements/stm32f4xx_spi.o
+LOAD build/elements/stm32f4xx_syscfg.o
+LOAD build/elements/stm32f4xx_tim.o
+LOAD build/elements/stm32f4xx_usart.o
+LOAD build/elements/stm32f4xx_wwdg.o
+LOAD build/elements/startup_stm32f4xx.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+                0x20020000                _estack = 0x20020000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08008000      0x190
+                0x08008000                . = ALIGN (0x10)
+ *(.isr_vector)
+ .isr_vector    0x08008000      0x188 build/elements/startup_stm32f4xx.o
+                0x08008000                g_pfnVectors
+                0x08008190                . = ALIGN (0x10)
+ *fill*         0x08008188        0x8 
+
+.flashtext      0x08008190        0x0
+                0x08008190                . = ALIGN (0x10)
+ *(.flashtext)
+                0x08008190                . = ALIGN (0x10)
+
+.text           0x08008190    0x65270
+                0x08008190                . = ALIGN (0x10)
+ *(.text)
+ .text          0x08008190      0x134 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                0x08008190                memcpy
+ *(.text.*)
+ .text._ZN8elements8CvScaler4InitEv
+                0x080082c4      0x49c build/elements/cv_scaler.o
+                0x080082c4                elements::CvScaler::Init()
+ .text._ZN8elements8CvScaler15SaveCalibrationEv
+                0x08008760      0x1bc build/elements/cv_scaler.o
+                0x08008760                elements::CvScaler::SaveCalibration()
+ .text._ZN8elements8CvScaler13ReadPanelPotsEv
+                0x0800891c      0x20c build/elements/cv_scaler.o
+                0x0800891c                elements::CvScaler::ReadPanelPots()
+ .text._ZN8elements8CvScaler4ReadEPNS_5PatchEPNS_16PerformanceStateE
+                0x08008b28      0x4e0 build/elements/cv_scaler.o
+                0x08008b28                elements::CvScaler::Read(elements::Patch*, elements::PerformanceState*)
+ .text._Z10FillBufferPN8elements5Codec5FrameES2_j
+                0x08009008      0x388 build/elements/elements.o
+                0x08009008                FillBuffer(elements::Codec::Frame*, elements::Codec::Frame*, unsigned int)
+ .text.NMI_Handler
+                0x08009390        0x4 build/elements/elements.o
+                0x08009390                NMI_Handler
+ .text.HardFault_Handler
+                0x08009394        0x4 build/elements/elements.o
+                0x08009394                HardFault_Handler
+ .text.MemManage_Handler
+                0x08009398        0x4 build/elements/elements.o
+                0x08009398                MemManage_Handler
+ .text.BusFault_Handler
+                0x0800939c        0x4 build/elements/elements.o
+                0x0800939c                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080093a0        0x4 build/elements/elements.o
+                0x080093a0                UsageFault_Handler
+ .text.SVC_Handler
+                0x080093a4        0x4 build/elements/elements.o
+                0x080093a4                SVC_Handler
+ .text.DebugMon_Handler
+                0x080093a8        0x4 build/elements/elements.o
+                0x080093a8                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080093ac        0x4 build/elements/elements.o
+                0x080093ac                PendSV_Handler
+ .text.SysTick_Handler
+                0x080093b0       0x28 build/elements/elements.o
+                0x080093b0                SysTick_Handler
+ .text._Z4Initv
+                0x080093d8       0x88 build/elements/elements.o
+                0x080093d8                Init()
+ .text.startup.main
+                0x08009460       0x14 build/elements/elements.o
+                0x08009460                main
+ .text._ZN8elements2Ui4InitEPNS_4PartEPNS_8CvScalerE
+                0x08009474       0x38 build/elements/ui.o
+                0x08009474                elements::Ui::Init(elements::Part*, elements::CvScaler*)
+ .text._ZN8elements2Ui4PollEv
+                0x080094ac      0x390 build/elements/ui.o
+                0x080094ac                elements::Ui::Poll()
+ .text._ZN8elements2Ui11CalibrateC3Ev
+                0x0800983c       0x7c build/elements/ui.o
+                0x0800983c                elements::Ui::CalibrateC3()
+ .text._ZN8elements2Ui15OnSwitchPressedERKN6stmlib5EventE
+                0x080098b8      0x17c build/elements/ui.o
+                0x080098b8                elements::Ui::OnSwitchPressed(stmlib::Event const&)
+ .text._ZN8elements2Ui8DoEventsEv
+                0x08009a34       0x9c build/elements/ui.o
+                0x08009a34                elements::Ui::DoEvents()
+ .text._ZN8elements2Ui27HandleFactoryTestingRequestEh
+                0x08009ad0      0x19c build/elements/ui.o
+                0x08009ad0                elements::Ui::HandleFactoryTestingRequest(unsigned char)
+ .text._ZN8elements5Codec14InitializeGPIOEv
+                0x08009c6c       0xb8 build/elements/codec.o
+                0x08009c6c                elements::Codec::InitializeGPIO()
+ .text._ZN8elements5Codec26InitializeControlInterfaceEv
+                0x08009d24       0x60 build/elements/codec.o
+                0x08009d24                elements::Codec::InitializeControlInterface()
+ .text._ZN8elements5Codec24InitializeAudioInterfaceEmNS_13CodecProtocolENS_11CodecFormatE
+                0x08009d84      0x10c build/elements/codec.o
+                0x08009d84                elements::Codec::InitializeAudioInterface(unsigned long, elements::CodecProtocol, elements::CodecFormat)
+ .text._ZN8elements5Codec20WriteControlRegisterEht
+                0x08009e90      0x2c8 build/elements/codec.o
+                0x08009e90                elements::Codec::WriteControlRegister(unsigned char, unsigned short)
+ .text._ZN8elements5Codec15InitializeCodecEmNS_13CodecProtocolENS_11CodecFormatE
+                0x0800a158       0xd0 build/elements/codec.o
+                0x0800a158                elements::Codec::InitializeCodec(unsigned long, elements::CodecProtocol, elements::CodecFormat)
+ .text._ZN8elements5Codec13InitializeDMAEv
+                0x0800a228      0x110 build/elements/codec.o
+                0x0800a228                elements::Codec::InitializeDMA()
+ .text._ZN8elements5Codec4InitEmNS_13CodecProtocolENS_11CodecFormatE
+                0x0800a338       0x58 build/elements/codec.o
+                0x0800a338                elements::Codec::Init(unsigned long, elements::CodecProtocol, elements::CodecFormat)
+ .text._ZN8elements5Codec5StartEPFvPNS0_5FrameES2_jE
+                0x0800a390       0x90 build/elements/codec.o
+                0x0800a390                elements::Codec::Start(void (*)(elements::Codec::Frame*, elements::Codec::Frame*, unsigned int))
+ .text._ZN8elements5Codec4FillEj
+                0x0800a420       0x38 build/elements/codec.o
+                0x0800a420                elements::Codec::Fill(unsigned int)
+ .text.DMA1_Stream3_IRQHandler
+                0x0800a458       0x48 build/elements/codec.o
+                0x0800a458                DMA1_Stream3_IRQHandler
+ .text._ZN8elements5CvAdc4InitEb
+                0x0800a4a0      0x1d4 build/elements/cv_adc.o
+                0x0800a4a0                elements::CvAdc::Init(bool)
+ .text._ZN8elements5CvAdc7ConvertEv
+                0x0800a674        0xc build/elements/cv_adc.o
+                0x0800a674                elements::CvAdc::Convert()
+ .text._ZN8elements9DebugPort4InitEv
+                0x0800a680       0x88 build/elements/debug_port.o
+                0x0800a680                elements::DebugPort::Init()
+ .text._ZN8elements9GateInput4InitEv
+                0x0800a708       0x38 build/elements/gate_input.o
+                0x0800a708                elements::GateInput::Init()
+ .text._ZN8elements9GateInput4ReadEv
+                0x0800a740       0x18 build/elements/gate_input.o
+                0x0800a740                elements::GateInput::Read()
+ .text._ZN8elements4Leds4InitEv
+                0x0800a758      0x10c build/elements/leds.o
+                0x0800a758                elements::Leds::Init()
+ .text._ZN8elements4Leds5WriteEv
+                0x0800a864       0x24 build/elements/leds.o
+                0x0800a864                elements::Leds::Write()
+ .text._ZN8elements7PotsAdc4ScanEv
+                0x0800a888       0xa0 build/elements/pots_adc.o
+                0x0800a888                elements::PotsAdc::Scan()
+ .text._ZN8elements7PotsAdc4InitEv
+                0x0800a928       0xf4 build/elements/pots_adc.o
+                0x0800a928                elements::PotsAdc::Init()
+ .text._ZN8elements6Switch4InitEv
+                0x0800aa1c       0x3c build/elements/switch.o
+                0x0800aa1c                elements::Switch::Init()
+ .text._ZN8elements6Switch8DebounceEv
+                0x0800aa58       0x1c build/elements/switch.o
+                0x0800aa58                elements::Switch::Debounce()
+ .text._ZN8elements6System4InitEb
+                0x0800aa74       0x10 build/elements/system.o
+                0x0800aa74                elements::System::Init(bool)
+ .text._ZN8elements6System11StartTimersEv
+                0x0800aa84       0x2c build/elements/system.o
+                0x0800aa84                elements::System::StartTimers()
+ .text._ZN8elements7Exciter27ProcessGranularSamplePlayerEhPfj
+                0x0800aab0      0x20c build/elements/exciter.o
+                0x0800aab0                elements::Exciter::ProcessGranularSamplePlayer(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter19ProcessSamplePlayerEhPfj
+                0x0800acbc      0x40c build/elements/exciter.o
+                0x0800acbc                elements::Exciter::ProcessSamplePlayer(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter13ProcessMalletEhPfj
+                0x0800b0c8      0x104 build/elements/exciter.o
+                0x0800b0c8                elements::Exciter::ProcessMallet(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter15ProcessPlectrumEhPfj
+                0x0800b1cc      0x254 build/elements/exciter.o
+                0x0800b1cc                elements::Exciter::ProcessPlectrum(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter11ProcessFlowEhPfj
+                0x0800b420      0x268 build/elements/exciter.o
+                0x0800b420                elements::Exciter::ProcessFlow(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter12ProcessNoiseEhPfj
+                0x0800b688      0x12c build/elements/exciter.o
+                0x0800b688                elements::Exciter::ProcessNoise(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter16ProcessParticlesEhPfj
+                0x0800b7b4      0x6d4 build/elements/exciter.o
+                0x0800b7b4                elements::Exciter::ProcessParticles(unsigned char, float*, unsigned int)
+ .text._ZN8elements7Exciter4InitEv
+                0x0800be88       0x44 build/elements/exciter.o
+                0x0800be88                elements::Exciter::Init()
+ .text._ZN8elements7Exciter7ProcessEhPfj
+                0x0800becc      0x304 build/elements/exciter.o
+                0x0800becc                elements::Exciter::Process(unsigned char, float*, unsigned int)
+ .text._ZN8elements18MultistageEnvelope4InitEv
+                0x0800c1d0       0x54 build/elements/multistage_envelope.o
+                0x0800c1d0                elements::MultistageEnvelope::Init()
+ .text._ZN8elements11Spatializer7ProcessEPfS1_S1_j
+                0x0800c224      0x40c build/elements/ominous_voice.o
+                0x0800c224                elements::Spatializer::Process(float*, float*, float*, unsigned int)
+ .text._ZN8elements12FmOscillator7ProcessEffffPKfPfj
+                0x0800c630      0x21c build/elements/ominous_voice.o
+                0x0800c630                elements::FmOscillator::Process(float, float, float, float, float const*, float*, unsigned int)
+ .text._ZN8elements12OminousVoice4InitEv
+                0x0800c84c      0x278 build/elements/ominous_voice.o
+                0x0800c84c                elements::OminousVoice::Init()
+ .text._ZN8elements12OminousVoice17ConfigureEnvelopeERKNS_5PatchE
+                0x0800cac4      0x178 build/elements/ominous_voice.o
+                0x0800cac4                elements::OminousVoice::ConfigureEnvelope(elements::Patch const&)
+ .text._ZN8elements12OminousVoice7ProcessERKNS_5PatchEffbPKfS5_PfS6_S6_j
+                0x0800cc3c     0x1390 build/elements/ominous_voice.o
+                0x0800cc3c                elements::OminousVoice::Process(elements::Patch const&, float, float, bool, float const*, float const*, float*, float*, float*, unsigned int)
+ .text._ZN8elements4Part4InitEPt
+                0x0800dfcc      0x1a0 build/elements/part.o
+                0x0800dfcc                elements::Part::Init(unsigned short*)
+ .text._ZN8elements4Part4SeedEPmj
+                0x0800e16c      0x244 build/elements/part.o
+                0x0800e16c                elements::Part::Seed(unsigned long*, unsigned int)
+ .text._ZN8elements4Part7ProcessERKNS_16PerformanceStateEPKfS5_PfS6_j
+                0x0800e3b0      0xfdc build/elements/part.o
+                0x0800e3b0                elements::Part::Process(elements::PerformanceState const&, float const*, float const*, float*, float*, unsigned int)
+ .text._ZN8elements9Resonator4InitEv
+                0x0800f38c      0x180 build/elements/resonator.o
+                0x0800f38c                elements::Resonator::Init()
+ .text._ZN8elements9Resonator14ComputeFiltersEv
+                0x0800f50c      0x254 build/elements/resonator.o
+                0x0800f50c                elements::Resonator::ComputeFilters()
+ .text._ZN8elements9Resonator7ProcessEPKfS2_PfS3_j
+                0x0800f760      0x428 build/elements/resonator.o
+                0x0800f760                elements::Resonator::Process(float const*, float const*, float*, float*, unsigned int)
+ .text._ZN8elements4Tube7ProcessEffffPffj
+                0x0800fb88      0x17c build/elements/tube.o
+                0x0800fb88                elements::Tube::Process(float, float, float, float, float*, float, unsigned int)
+ .text._ZN8elements5Voice4InitEv
+                0x0800fd04      0x114 build/elements/voice.o
+                0x0800fd04                elements::Voice::Init()
+ .text._ZN8elements5Voice14ResetResonatorEv
+                0x0800fe18       0x18 build/elements/voice.o
+                0x0800fe18                elements::Voice::ResetResonator()
+ .text._ZN8elements5Voice7ProcessERKNS_5PatchEffbPKfS5_PfS6_S6_j
+                0x0800fe30      0xcf8 build/elements/voice.o
+                0x0800fe30                elements::Voice::Process(elements::Patch const&, float, float, bool, float const*, float const*, float*, float*, float*, unsigned int)
+ .text.SystemInit
+                0x08010b28      0x100 build/elements/system_stm32f4xx.o
+                0x08010b28                SystemInit
+ .text.NVIC_SetVectorTable
+                0x08010c28       0x14 build/elements/misc.o
+                0x08010c28                NVIC_SetVectorTable
+ .text.ADC_Init
+                0x08010c3c       0x5c build/elements/stm32f4xx_adc.o
+                0x08010c3c                ADC_Init
+ .text.ADC_CommonInit
+                0x08010c98       0x30 build/elements/stm32f4xx_adc.o
+                0x08010c98                ADC_CommonInit
+ .text.ADC_Cmd  0x08010cc8       0x14 build/elements/stm32f4xx_adc.o
+                0x08010cc8                ADC_Cmd
+ .text.ADC_RegularChannelConfig
+                0x08010cdc       0xa8 build/elements/stm32f4xx_adc.o
+                0x08010cdc                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x08010d84        0xc build/elements/stm32f4xx_adc.o
+                0x08010d84                ADC_SoftwareStartConv
+ .text.ADC_DMACmd
+                0x08010d90       0x14 build/elements/stm32f4xx_adc.o
+                0x08010d90                ADC_DMACmd
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x08010da4       0x14 build/elements/stm32f4xx_adc.o
+                0x08010da4                ADC_DMARequestAfterLastTransferCmd
+ .text.DMA_DeInit
+                0x08010db8      0x130 build/elements/stm32f4xx_dma.o
+                0x08010db8                DMA_DeInit
+ .text.DMA_Init
+                0x08010ee8       0x78 build/elements/stm32f4xx_dma.o
+                0x08010ee8                DMA_Init
+ .text.DMA_Cmd  0x08010f60       0x14 build/elements/stm32f4xx_dma.o
+                0x08010f60                DMA_Cmd
+ .text.DMA_ITConfig
+                0x08010f74       0x44 build/elements/stm32f4xx_dma.o
+                0x08010f74                DMA_ITConfig
+ .text.FLASH_Unlock
+                0x08010fb8       0x20 build/elements/stm32f4xx_flash.o
+                0x08010fb8                FLASH_Unlock
+ .text.FLASH_ClearFlag
+                0x08010fd8        0xc build/elements/stm32f4xx_flash.o
+                0x08010fd8                FLASH_ClearFlag
+ .text.FLASH_GetStatus
+                0x08010fe4       0x34 build/elements/stm32f4xx_flash.o
+                0x08010fe4                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x08011018       0x28 build/elements/stm32f4xx_flash.o
+                0x08011018                FLASH_WaitForLastOperation
+ .text.FLASH_EraseSector
+                0x08011040       0x78 build/elements/stm32f4xx_flash.o
+                0x08011040                FLASH_EraseSector
+ .text.FLASH_ProgramWord
+                0x080110b8       0x40 build/elements/stm32f4xx_flash.o
+                0x080110b8                FLASH_ProgramWord
+ .text.FLASH_ProgramHalfWord
+                0x080110f8       0x40 build/elements/stm32f4xx_flash.o
+                0x080110f8                FLASH_ProgramHalfWord
+ .text.GPIO_Init
+                0x08011138      0x298 build/elements/stm32f4xx_gpio.o
+                0x08011138                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x080113d0        0xc build/elements/stm32f4xx_gpio.o
+                0x080113d0                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x080113dc        0x4 build/elements/stm32f4xx_gpio.o
+                0x080113dc                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x080113e0        0x4 build/elements/stm32f4xx_gpio.o
+                0x080113e0                GPIO_ResetBits
+ .text.GPIO_WriteBit
+                0x080113e4        0xc build/elements/stm32f4xx_gpio.o
+                0x080113e4                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x080113f0       0x30 build/elements/stm32f4xx_gpio.o
+                0x080113f0                GPIO_PinAFConfig
+ .text.I2C_DeInit
+                0x08011420       0x6c build/elements/stm32f4xx_i2c.o
+                0x08011420                I2C_DeInit
+ .text.I2C_Init
+                0x0801148c       0xf4 build/elements/stm32f4xx_i2c.o
+                0x0801148c                I2C_Init
+ .text.I2C_Cmd  0x08011580       0x20 build/elements/stm32f4xx_i2c.o
+                0x08011580                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x080115a0       0x20 build/elements/stm32f4xx_i2c.o
+                0x080115a0                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x080115c0       0x20 build/elements/stm32f4xx_i2c.o
+                0x080115c0                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x080115e0       0x14 build/elements/stm32f4xx_i2c.o
+                0x080115e0                I2C_Send7bitAddress
+ .text.I2C_SendData
+                0x080115f4        0x4 build/elements/stm32f4xx_i2c.o
+                0x080115f4                I2C_SendData
+ .text.I2C_CheckEvent
+                0x080115f8       0x1c build/elements/stm32f4xx_i2c.o
+                0x080115f8                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x08011614       0x3c build/elements/stm32f4xx_i2c.o
+                0x08011614                I2C_GetFlagStatus
+ .text.RCC_PLLI2SConfig
+                0x08011650       0x14 build/elements/stm32f4xx_rcc.o
+                0x08011650                RCC_PLLI2SConfig
+ .text.RCC_PLLI2SCmd
+                0x08011664        0xc build/elements/stm32f4xx_rcc.o
+                0x08011664                RCC_PLLI2SCmd
+ .text.RCC_GetClocksFreq
+                0x08011670       0x94 build/elements/stm32f4xx_rcc.o
+                0x08011670                RCC_GetClocksFreq
+ .text.RCC_I2SCLKConfig
+                0x08011704        0xc build/elements/stm32f4xx_rcc.o
+                0x08011704                RCC_I2SCLKConfig
+ .text.RCC_AHB1PeriphClockCmd
+                0x08011710       0x1c build/elements/stm32f4xx_rcc.o
+                0x08011710                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0801172c       0x1c build/elements/stm32f4xx_rcc.o
+                0x0801172c                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08011748       0x1c build/elements/stm32f4xx_rcc.o
+                0x08011748                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x08011764       0x1c build/elements/stm32f4xx_rcc.o
+                0x08011764                RCC_APB1PeriphResetCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x08011780       0x1c build/elements/stm32f4xx_rcc.o
+                0x08011780                RCC_APB2PeriphResetCmd
+ .text.RCC_GetFlagStatus
+                0x0801179c       0x34 build/elements/stm32f4xx_rcc.o
+                0x0801179c                RCC_GetFlagStatus
+ .text.SPI_I2S_DeInit
+                0x080117d0       0x6c build/elements/stm32f4xx_spi.o
+                0x080117d0                SPI_I2S_DeInit
+ .text.I2S_Init
+                0x0801183c       0xf0 build/elements/stm32f4xx_spi.o
+                0x0801183c                I2S_Init
+ .text.I2S_Cmd  0x0801192c       0x20 build/elements/stm32f4xx_spi.o
+                0x0801192c                I2S_Cmd
+ .text.I2S_FullDuplexConfig
+                0x0801194c       0x54 build/elements/stm32f4xx_spi.o
+                0x0801194c                I2S_FullDuplexConfig
+ .text.SPI_I2S_DMACmd
+                0x080119a0       0x18 build/elements/stm32f4xx_spi.o
+                0x080119a0                SPI_I2S_DMACmd
+ .text.TIM_TimeBaseInit
+                0x080119b8       0xa0 build/elements/stm32f4xx_tim.o
+                0x080119b8                TIM_TimeBaseInit
+ .text.TIM_TimeBaseStructInit
+                0x08011a58       0x14 build/elements/stm32f4xx_tim.o
+                0x08011a58                TIM_TimeBaseStructInit
+ .text.TIM_ARRPreloadConfig
+                0x08011a6c       0x20 build/elements/stm32f4xx_tim.o
+                0x08011a6c                TIM_ARRPreloadConfig
+ .text.TIM_Cmd  0x08011a8c       0x20 build/elements/stm32f4xx_tim.o
+                0x08011a8c                TIM_Cmd
+ .text.TIM_OC1Init
+                0x08011aac       0x84 build/elements/stm32f4xx_tim.o
+                0x08011aac                TIM_OC1Init
+ .text.TIM_OC4Init
+                0x08011b30       0x70 build/elements/stm32f4xx_tim.o
+                0x08011b30                TIM_OC4Init
+ .text.TIM_OCStructInit
+                0x08011ba0       0x14 build/elements/stm32f4xx_tim.o
+                0x08011ba0                TIM_OCStructInit
+ .text.TIM_OC1PreloadConfig
+                0x08011bb4       0x14 build/elements/stm32f4xx_tim.o
+                0x08011bb4                TIM_OC1PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x08011bc8       0x18 build/elements/stm32f4xx_tim.o
+                0x08011bc8                TIM_OC4PreloadConfig
+ .text.TIM_CtrlPWMOutputs
+                0x08011be0       0x24 build/elements/stm32f4xx_tim.o
+                0x08011be0                TIM_CtrlPWMOutputs
+ .text.USART_Init
+                0x08011c04       0xd8 build/elements/stm32f4xx_usart.o
+                0x08011c04                USART_Init
+ .text.USART_Cmd
+                0x08011cdc       0x20 build/elements/stm32f4xx_usart.o
+                0x08011cdc                USART_Cmd
+ .text.Reset_Handler
+                0x08011cfc       0x4c build/elements/startup_stm32f4xx.o
+                0x08011cfc                Reset_Handler
+ .text.Default_Handler
+                0x08011d48        0x4 build/elements/startup_stm32f4xx.o
+                0x08011d48                RTC_Alarm_IRQHandler
+                0x08011d48                HASH_RNG_IRQHandler
+                0x08011d48                EXTI2_IRQHandler
+                0x08011d48                TIM8_CC_IRQHandler
+                0x08011d48                TIM1_CC_IRQHandler
+                0x08011d48                DMA2_Stream5_IRQHandler
+                0x08011d48                DMA1_Stream5_IRQHandler
+                0x08011d48                PVD_IRQHandler
+                0x08011d48                SDIO_IRQHandler
+                0x08011d48                TAMP_STAMP_IRQHandler
+                0x08011d48                CAN2_RX1_IRQHandler
+                0x08011d48                EXTI3_IRQHandler
+                0x08011d48                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08011d48                TIM1_UP_TIM10_IRQHandler
+                0x08011d48                TIM8_UP_TIM13_IRQHandler
+                0x08011d48                I2C3_ER_IRQHandler
+                0x08011d48                EXTI0_IRQHandler
+                0x08011d48                I2C2_EV_IRQHandler
+                0x08011d48                DMA1_Stream2_IRQHandler
+                0x08011d48                CAN1_RX0_IRQHandler
+                0x08011d48                FPU_IRQHandler
+                0x08011d48                OTG_HS_WKUP_IRQHandler
+                0x08011d48                CAN2_SCE_IRQHandler
+                0x08011d48                DMA2_Stream2_IRQHandler
+                0x08011d48                SPI1_IRQHandler
+                0x08011d48                TIM6_DAC_IRQHandler
+                0x08011d48                TIM1_BRK_TIM9_IRQHandler
+                0x08011d48                DCMI_IRQHandler
+                0x08011d48                CAN2_RX0_IRQHandler
+                0x08011d48                DMA2_Stream3_IRQHandler
+                0x08011d48                USART6_IRQHandler
+                0x08011d48                USART3_IRQHandler
+                0x08011d48                CRYP_IRQHandler
+                0x08011d48                CAN1_RX1_IRQHandler
+                0x08011d48                UART5_IRQHandler
+                0x08011d48                DMA2_Stream0_IRQHandler
+                0x08011d48                TIM4_IRQHandler
+                0x08011d48                I2C1_EV_IRQHandler
+                0x08011d48                DMA1_Stream6_IRQHandler
+                0x08011d48                DMA1_Stream1_IRQHandler
+                0x08011d48                UART4_IRQHandler
+                0x08011d48                TIM3_IRQHandler
+                0x08011d48                RCC_IRQHandler
+                0x08011d48                TIM8_BRK_TIM12_IRQHandler
+                0x08011d48                Default_Handler
+                0x08011d48                EXTI15_10_IRQHandler
+                0x08011d48                ADC_IRQHandler
+                0x08011d48                DMA1_Stream7_IRQHandler
+                0x08011d48                TIM7_IRQHandler
+                0x08011d48                CAN2_TX_IRQHandler
+                0x08011d48                TIM5_IRQHandler
+                0x08011d48                DMA2_Stream7_IRQHandler
+                0x08011d48                I2C3_EV_IRQHandler
+                0x08011d48                EXTI9_5_IRQHandler
+                0x08011d48                RTC_WKUP_IRQHandler
+                0x08011d48                ETH_WKUP_IRQHandler
+                0x08011d48                SPI2_IRQHandler
+                0x08011d48                OTG_HS_EP1_IN_IRQHandler
+                0x08011d48                DMA1_Stream0_IRQHandler
+                0x08011d48                CAN1_TX_IRQHandler
+                0x08011d48                EXTI4_IRQHandler
+                0x08011d48                FSMC_IRQHandler
+                0x08011d48                ETH_IRQHandler
+                0x08011d48                OTG_HS_EP1_OUT_IRQHandler
+                0x08011d48                WWDG_IRQHandler
+                0x08011d48                TIM2_IRQHandler
+                0x08011d48                OTG_FS_WKUP_IRQHandler
+                0x08011d48                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08011d48                OTG_HS_IRQHandler
+                0x08011d48                EXTI1_IRQHandler
+                0x08011d48                USART2_IRQHandler
+                0x08011d48                I2C2_ER_IRQHandler
+                0x08011d48                DMA2_Stream1_IRQHandler
+                0x08011d48                CAN1_SCE_IRQHandler
+                0x08011d48                FLASH_IRQHandler
+                0x08011d48                DMA2_Stream4_IRQHandler
+                0x08011d48                USART1_IRQHandler
+                0x08011d48                OTG_FS_IRQHandler
+                0x08011d48                SPI3_IRQHandler
+                0x08011d48                DMA1_Stream4_IRQHandler
+                0x08011d48                I2C1_ER_IRQHandler
+                0x08011d48                DMA2_Stream6_IRQHandler
+ .text.memmove  0x08011d4c       0xc0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+                0x08011d4c                memmove
+ .text.memset   0x08011e0c       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                0x08011e0c                memset
+ *(.rodata)
+ .rodata        0x08011ea0        0x8 build/elements/ominous_voice.o
+ *(.rodata*)
+ .rodata._ZN8elements17lut_midi_to_f_lowE
+                0x08011ea8      0x400 build/elements/resources.o
+                0x08011ea8                elements::lut_midi_to_f_low
+ .rodata._ZN8elements14lut_env_linearE
+                0x080122a8      0x408 build/elements/resources.o
+                0x080122a8                elements::lut_env_linear
+ .rodata._ZN8elements18lut_midi_to_f_highE
+                0x080126b0      0x400 build/elements/resources.o
+                0x080126b0                elements::lut_midi_to_f_high
+ .rodata._ZN8elements12lut_env_expoE
+                0x08012ab0      0x408 build/elements/resources.o
+                0x08012ab0                elements::lut_env_expo
+ .rodata._ZN8elements16smp_noise_sampleE
+                0x08012eb8    0x14008 build/elements/resources.o
+                0x08012eb8                elements::smp_noise_sample
+ .rodata._ZN8elements15smp_sample_dataE
+                0x08026ec0    0x3e81c build/elements/resources.o
+                0x08026ec0                elements::smp_sample_data
+ .rodata._ZN8elements8lut_sineE
+                0x080656dc     0x4004 build/elements/resources.o
+                0x080656dc                elements::lut_sine
+ .rodata._ZN8elements20lut_detune_quantizerE
+                0x080696e0      0x104 build/elements/resources.o
+                0x080696e0                elements::lut_detune_quantizer
+ .rodata._ZN8elements21lut_db_led_brightnessE
+                0x080697e4      0x404 build/elements/resources.o
+                0x080697e4                elements::lut_db_led_brightness
+ .rodata._ZN8elements26lut_midi_to_increment_highE
+                0x08069be8      0x400 build/elements/resources.o
+                0x08069be8                elements::lut_midi_to_increment_high
+ .rodata._ZN8elements22lut_accent_gain_coarseE
+                0x08069fe8      0x404 build/elements/resources.o
+                0x08069fe8                elements::lut_accent_gain_coarse
+ .rodata._ZN8elements13lut_4_decadesE
+                0x0806a3ec      0x404 build/elements/resources.o
+                0x0806a3ec                elements::lut_4_decades
+ .rodata._ZN8elements16lut_approx_svf_gE
+                0x0806a7f0      0x404 build/elements/resources.o
+                0x0806a7f0                elements::lut_approx_svf_g
+ .rodata._ZN8elements26lut_fm_frequency_quantizerE
+                0x0806abf4      0x204 build/elements/resources.o
+                0x0806abf4                elements::lut_fm_frequency_quantizer
+ .rodata._ZN8elements16lut_approx_svf_rE
+                0x0806adf8      0x404 build/elements/resources.o
+                0x0806adf8                elements::lut_approx_svf_r
+ .rodata._ZN8elements16lut_approx_svf_hE
+                0x0806b1fc      0x404 build/elements/resources.o
+                0x0806b1fc                elements::lut_approx_svf_h
+ .rodata._ZN8elements15lut_env_quarticE
+                0x0806b600      0x408 build/elements/resources.o
+                0x0806b600                elements::lut_env_quartic
+ .rodata._ZN8elements13lut_stiffnessE
+                0x0806ba08      0x404 build/elements/resources.o
+                0x0806ba08                elements::lut_stiffness
+ .rodata._ZN8elements18lut_env_incrementsE
+                0x0806be0c      0x408 build/elements/resources.o
+                0x0806be0c                elements::lut_env_increments
+ .rodata._ZN8elements14smp_boundariesE
+                0x0806c214       0x28 build/elements/resources.o
+                0x0806c214                elements::smp_boundaries
+ .rodata._ZN8elements20lut_accent_gain_fineE
+                0x0806c23c      0x404 build/elements/resources.o
+                0x0806c23c                elements::lut_accent_gain_fine
+ .rodata._ZN8elements19lut_approx_svf_gainE
+                0x0806c640      0x404 build/elements/resources.o
+                0x0806c640                elements::lut_approx_svf_gain
+ .rodata._ZN8elementsL19kDownsamplingFilterE
+                0x0806ca44      0x194 build/elements/ominous_voice.o
+ .rodata._ZN6stmlib20lut_pitch_ratio_highE
+                0x0806cbd8      0x404 build/elements/units.o
+                0x0806cbd8                stmlib::lut_pitch_ratio_high
+ .rodata._ZN6stmlib19lut_pitch_ratio_lowE
+                0x0806cfdc      0x404 build/elements/units.o
+                0x0806cfdc                stmlib::lut_pitch_ratio_low
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.init)
+ .init          0x0806d3e0        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+                0x0806d3e0                _init
+ .init          0x0806d3e4        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x0806d3ec        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+                0x0806d3ec                _fini
+ .fini          0x0806d3f0        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+                0x0806d400                . = ALIGN (0x10)
+ *fill*         0x0806d3f8        0x8 
+                0x0806d400                _etext = .
+                0x0806d400                _sidata = _etext
+
+.vfp11_veneer   0x0806d400        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0806d400        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0806d400        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x0806d400        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.data           0x20000000       0xd0 load address 0x0806d400
+                0x20000000                . = ALIGN (0x10)
+                0x20000000                _sdata = .
+ *(.ramtext*)
+                0x20000000                . = ALIGN (0x10)
+ *(.data*)
+ .data._ZN8elements8CvScaler4law_E
+                0x20000000       0x1c build/elements/cv_scaler.o
+                0x20000000                elements::CvScaler::law_
+ .data._ZN8elements18lookup_table_tableE
+                0x2000001c       0x48 build/elements/resources.o
+                0x2000001c                elements::lookup_table_table
+ .data._ZN8elements7PotsAdc10addresses_E
+                0x20000064       0x1c build/elements/pots_adc.o
+                0x20000064                elements::PotsAdc::addresses_
+ .data._ZN8elements7Exciter9fn_table_E
+                0x20000080       0x38 build/elements/exciter.o
+                0x20000080                elements::Exciter::fn_table_
+ .data._ZN6stmlib6Random10rng_state_E
+                0x200000b8        0x4 build/elements/random.o
+                0x200000b8                stmlib::Random::rng_state_
+ .data.APBAHBPrescTable
+                0x200000bc       0x10 build/elements/stm32f4xx_rcc.o
+ *(.data.*)
+                0x200000d0                . = ALIGN (0x10)
+ *fill*         0x200000cc        0x4 
+                0x200000d0                _edata = .
+
+.igot.plt       0x200000d0        0x0 load address 0x0806d4d0
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.bss            0x200000d0     0xce00 load address 0x0806d4d0
+                0x200000d0                . = ALIGN (0x10)
+                0x200000d0                _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.cv_scaler
+                0x200000d0      0x228 build/elements/elements.o
+                0x200000d0                cv_scaler
+ .bss.ui        0x200002f8       0xa0 build/elements/elements.o
+                0x200002f8                ui
+ .bss.blow_in_level
+                0x20000398        0x4 build/elements/elements.o
+                0x20000398                blow_in_level
+ .bss.part      0x2000039c     0xc884 build/elements/elements.o
+                0x2000039c                part
+ .bss.debug_port
+                0x2000cc20        0x4 build/elements/elements.o
+                0x2000cc20                debug_port
+ .bss.blow_in   0x2000cc24       0x40 build/elements/elements.o
+                0x2000cc24                blow_in
+ .bss.aux       0x2000cc64       0x40 build/elements/elements.o
+                0x2000cc64                aux
+ .bss.codec     0x2000cca4      0x194 build/elements/elements.o
+                0x2000cca4                codec
+ .bss.out       0x2000ce38       0x40 build/elements/elements.o
+                0x2000ce38                out
+ .bss.strike_in_level
+                0x2000ce78        0x4 build/elements/elements.o
+                0x2000ce78                strike_in_level
+ .bss.strike_in
+                0x2000ce7c       0x40 build/elements/elements.o
+                0x2000ce7c                strike_in
+ .bss._ZN8elements5Codec9instance_E
+                0x2000cebc        0x4 build/elements/codec.o
+                0x2000cebc                elements::Codec::instance_
+ .bss._ZN6stmlib12system_clockE
+                0x2000cec0        0x4 build/elements/system_clock.o
+                0x2000cec0                stmlib::system_clock
+ *(COMMON)
+                0x2000ced0                . = ALIGN (0x10)
+ *fill*         0x2000cec4        0xc 
+                0x2000ced0                _ebss = .
+                0x2000ced0                PROVIDE (end, _ebss)
+                0x2000ced0                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x2000ced0      0x400 load address 0x0807a2d0
+                0x2000ced0                . = ALIGN (0x10)
+                0x2000ced0                PROVIDE (end, .)
+                0x2000ced0                PROVIDE (_end, .)
+                0x2000ced0                . = (. + _Min_Heap_Size)
+                0x2000d2d0                . = (. + _Min_Stack_Size)
+ *fill*         0x2000ced0      0x400 
+                0x2000d2d0                . = ALIGN (0x10)
+
+.ccmdata        0x10000000    0x10000
+                0x10000000                . = ALIGN (0x10)
+ *(.ccmdata)
+ .ccmdata       0x10000000    0x10000 build/elements/elements.o
+                0x10000000                reverb_buffer
+                0x10010000                . = ALIGN (0x10)
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(build/elements/elements.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x39 build/elements/cv_scaler.o
+ .ARM.attributes
+                0x0000005b       0x39 build/elements/elements.o
+ .ARM.attributes
+                0x00000094       0x39 build/elements/resources.o
+ .ARM.attributes
+                0x000000cd       0x39 build/elements/ui.o
+ .ARM.attributes
+                0x00000106       0x39 build/elements/codec.o
+ .ARM.attributes
+                0x0000013f       0x39 build/elements/cv_adc.o
+ .ARM.attributes
+                0x00000178       0x39 build/elements/debug_port.o
+ .ARM.attributes
+                0x000001b1       0x39 build/elements/gate_input.o
+ .ARM.attributes
+                0x000001ea       0x39 build/elements/leds.o
+ .ARM.attributes
+                0x00000223       0x39 build/elements/pots_adc.o
+ .ARM.attributes
+                0x0000025c       0x39 build/elements/switch.o
+ .ARM.attributes
+                0x00000295       0x39 build/elements/system.o
+ .ARM.attributes
+                0x000002ce       0x39 build/elements/exciter.o
+ .ARM.attributes
+                0x00000307       0x39 build/elements/multistage_envelope.o
+ .ARM.attributes
+                0x00000340       0x39 build/elements/ominous_voice.o
+ .ARM.attributes
+                0x00000379       0x39 build/elements/part.o
+ .ARM.attributes
+                0x000003b2       0x39 build/elements/resonator.o
+ .ARM.attributes
+                0x000003eb       0x39 build/elements/tube.o
+ .ARM.attributes
+                0x00000424       0x39 build/elements/voice.o
+ .ARM.attributes
+                0x0000045d       0x39 build/elements/units.o
+ .ARM.attributes
+                0x00000496       0x39 build/elements/random.o
+ .ARM.attributes
+                0x000004cf       0x39 build/elements/system_clock.o
+ .ARM.attributes
+                0x00000508       0x39 build/elements/system_stm32f4xx.o
+ .ARM.attributes
+                0x00000541       0x39 build/elements/misc.o
+ .ARM.attributes
+                0x0000057a       0x39 build/elements/stm32f4xx_adc.o
+ .ARM.attributes
+                0x000005b3       0x39 build/elements/stm32f4xx_dma.o
+ .ARM.attributes
+                0x000005ec       0x39 build/elements/stm32f4xx_flash.o
+ .ARM.attributes
+                0x00000625       0x39 build/elements/stm32f4xx_gpio.o
+ .ARM.attributes
+                0x0000065e       0x39 build/elements/stm32f4xx_i2c.o
+ .ARM.attributes
+                0x00000697       0x39 build/elements/stm32f4xx_rcc.o
+ .ARM.attributes
+                0x000006d0       0x39 build/elements/stm32f4xx_spi.o
+ .ARM.attributes
+                0x00000709       0x39 build/elements/stm32f4xx_tim.o
+ .ARM.attributes
+                0x00000742       0x39 build/elements/stm32f4xx_usart.o
+ .ARM.attributes
+                0x0000077b       0x21 build/elements/startup_stm32f4xx.o
+ .ARM.attributes
+                0x0000079c       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000007bc       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000007f0       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000824       0x22 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/elements/cv_scaler.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/elements/elements.o
+ .comment       0x00000000       0x71 build/elements/resources.o
+ .comment       0x00000000       0x71 build/elements/ui.o
+ .comment       0x00000000       0x71 build/elements/codec.o
+ .comment       0x00000000       0x71 build/elements/cv_adc.o
+ .comment       0x00000000       0x71 build/elements/debug_port.o
+ .comment       0x00000000       0x71 build/elements/gate_input.o
+ .comment       0x00000000       0x71 build/elements/leds.o
+ .comment       0x00000000       0x71 build/elements/pots_adc.o
+ .comment       0x00000000       0x71 build/elements/switch.o
+ .comment       0x00000000       0x71 build/elements/system.o
+ .comment       0x00000000       0x71 build/elements/exciter.o
+ .comment       0x00000000       0x71 build/elements/multistage_envelope.o
+ .comment       0x00000000       0x71 build/elements/ominous_voice.o
+ .comment       0x00000000       0x71 build/elements/part.o
+ .comment       0x00000000       0x71 build/elements/resonator.o
+ .comment       0x00000000       0x71 build/elements/tube.o
+ .comment       0x00000000       0x71 build/elements/voice.o
+ .comment       0x00000000       0x71 build/elements/units.o
+ .comment       0x00000000       0x71 build/elements/random.o
+ .comment       0x00000000       0x71 build/elements/system_clock.o
+ .comment       0x00000000       0x71 build/elements/system_stm32f4xx.o
+ .comment       0x00000000       0x71 build/elements/misc.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_adc.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_dma.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_flash.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_i2c.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_spi.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_tim.o
+ .comment       0x00000000       0x71 build/elements/stm32f4xx_usart.o
+
+.debug_info     0x00000000    0x8d289
+ .debug_info    0x00000000     0x24f0 build/elements/cv_scaler.o
+ .debug_info    0x000024f0     0x5bbb build/elements/elements.o
+ .debug_info    0x000080ab    0x5b0e3 build/elements/resources.o
+ .debug_info    0x0006318e     0x54a6 build/elements/ui.o
+ .debug_info    0x00068634     0x2c8f build/elements/codec.o
+ .debug_info    0x0006b2c3      0xd78 build/elements/cv_adc.o
+ .debug_info    0x0006c03b      0x6ac build/elements/debug_port.o
+ .debug_info    0x0006c6e7      0x8cf build/elements/gate_input.o
+ .debug_info    0x0006cfb6      0xf2d build/elements/leds.o
+ .debug_info    0x0006dee3      0xb23 build/elements/pots_adc.o
+ .debug_info    0x0006ea06      0x955 build/elements/switch.o
+ .debug_info    0x0006f35b      0x7de build/elements/system.o
+ .debug_info    0x0006fb39     0x1df6 build/elements/exciter.o
+ .debug_info    0x0007192f      0xa4b build/elements/multistage_envelope.o
+ .debug_info    0x0007237a     0x419c build/elements/ominous_voice.o
+ .debug_info    0x00076516     0x6c16 build/elements/part.o
+ .debug_info    0x0007d12c     0x1fab build/elements/resonator.o
+ .debug_info    0x0007f0d7     0x12ed build/elements/tube.o
+ .debug_info    0x000803c4     0x3ec9 build/elements/voice.o
+ .debug_info    0x0008428d      0x973 build/elements/units.o
+ .debug_info    0x00084c00      0x16e build/elements/random.o
+ .debug_info    0x00084d6e      0x2ce build/elements/system_clock.o
+ .debug_info    0x0008503c      0x58b build/elements/system_stm32f4xx.o
+ .debug_info    0x000855c7      0x528 build/elements/misc.o
+ .debug_info    0x00085aef      0xc7a build/elements/stm32f4xx_adc.o
+ .debug_info    0x00086769      0x72c build/elements/stm32f4xx_dma.o
+ .debug_info    0x00086e95      0x7ce build/elements/stm32f4xx_flash.o
+ .debug_info    0x00087663      0x7b5 build/elements/stm32f4xx_gpio.o
+ .debug_info    0x00087e18      0xbbf build/elements/stm32f4xx_i2c.o
+ .debug_info    0x000889d7      0xcfc build/elements/stm32f4xx_rcc.o
+ .debug_info    0x000896d3      0xbb0 build/elements/stm32f4xx_spi.o
+ .debug_info    0x0008a283     0x24d7 build/elements/stm32f4xx_tim.o
+ .debug_info    0x0008c75a      0xb2f build/elements/stm32f4xx_usart.o
+
+.debug_abbrev   0x00000000     0x700f
+ .debug_abbrev  0x00000000      0x600 build/elements/cv_scaler.o
+ .debug_abbrev  0x00000600      0x772 build/elements/elements.o
+ .debug_abbrev  0x00000d72      0x102 build/elements/resources.o
+ .debug_abbrev  0x00000e74      0x690 build/elements/ui.o
+ .debug_abbrev  0x00001504      0x593 build/elements/codec.o
+ .debug_abbrev  0x00001a97      0x2b6 build/elements/cv_adc.o
+ .debug_abbrev  0x00001d4d      0x225 build/elements/debug_port.o
+ .debug_abbrev  0x00001f72      0x306 build/elements/gate_input.o
+ .debug_abbrev  0x00002278      0x31f build/elements/leds.o
+ .debug_abbrev  0x00002597      0x294 build/elements/pots_adc.o
+ .debug_abbrev  0x0000282b      0x306 build/elements/switch.o
+ .debug_abbrev  0x00002b31      0x259 build/elements/system.o
+ .debug_abbrev  0x00002d8a      0x6a3 build/elements/exciter.o
+ .debug_abbrev  0x0000342d      0x2eb build/elements/multistage_envelope.o
+ .debug_abbrev  0x00003718      0x819 build/elements/ominous_voice.o
+ .debug_abbrev  0x00003f31      0x77f build/elements/part.o
+ .debug_abbrev  0x000046b0      0x64d build/elements/resonator.o
+ .debug_abbrev  0x00004cfd      0x37f build/elements/tube.o
+ .debug_abbrev  0x0000507c      0x70b build/elements/voice.o
+ .debug_abbrev  0x00005787       0xbd build/elements/units.o
+ .debug_abbrev  0x00005844       0xf5 build/elements/random.o
+ .debug_abbrev  0x00005939      0x1fd build/elements/system_clock.o
+ .debug_abbrev  0x00005b36      0x15f build/elements/system_stm32f4xx.o
+ .debug_abbrev  0x00005c95      0x156 build/elements/misc.o
+ .debug_abbrev  0x00005deb      0x1dd build/elements/stm32f4xx_adc.o
+ .debug_abbrev  0x00005fc8      0x175 build/elements/stm32f4xx_dma.o
+ .debug_abbrev  0x0000613d      0x20d build/elements/stm32f4xx_flash.o
+ .debug_abbrev  0x0000634a      0x1f8 build/elements/stm32f4xx_gpio.o
+ .debug_abbrev  0x00006542      0x1ef build/elements/stm32f4xx_i2c.o
+ .debug_abbrev  0x00006731      0x279 build/elements/stm32f4xx_rcc.o
+ .debug_abbrev  0x000069aa      0x1e7 build/elements/stm32f4xx_spi.o
+ .debug_abbrev  0x00006b91      0x291 build/elements/stm32f4xx_tim.o
+ .debug_abbrev  0x00006e22      0x1ed build/elements/stm32f4xx_usart.o
+
+.debug_loc      0x00000000    0x13d7c
+ .debug_loc     0x00000000     0x1461 build/elements/cv_scaler.o
+ .debug_loc     0x00001461      0x243 build/elements/elements.o
+ .debug_loc     0x000016a4      0xc66 build/elements/ui.o
+ .debug_loc     0x0000230a      0x60d build/elements/codec.o
+ .debug_loc     0x00002917       0x9c build/elements/cv_adc.o
+ .debug_loc     0x000029b3       0x21 build/elements/debug_port.o
+ .debug_loc     0x000029d4       0x42 build/elements/gate_input.o
+ .debug_loc     0x00002a16       0x4d build/elements/leds.o
+ .debug_loc     0x00002a63       0xb4 build/elements/pots_adc.o
+ .debug_loc     0x00002b17       0x58 build/elements/switch.o
+ .debug_loc     0x00002b6f       0x63 build/elements/system.o
+ .debug_loc     0x00002bd2     0x1a87 build/elements/exciter.o
+ .debug_loc     0x00004659     0x2f4c build/elements/ominous_voice.o
+ .debug_loc     0x000075a5     0x2155 build/elements/part.o
+ .debug_loc     0x000096fa     0x18e0 build/elements/resonator.o
+ .debug_loc     0x0000afda      0x282 build/elements/tube.o
+ .debug_loc     0x0000b25c     0x19cb build/elements/voice.o
+ .debug_loc     0x0000cc27      0x153 build/elements/system_stm32f4xx.o
+ .debug_loc     0x0000cd7a      0x1b5 build/elements/misc.o
+ .debug_loc     0x0000cf2f      0xcae build/elements/stm32f4xx_adc.o
+ .debug_loc     0x0000dbdd      0x641 build/elements/stm32f4xx_dma.o
+ .debug_loc     0x0000e21e      0x6bd build/elements/stm32f4xx_flash.o
+ .debug_loc     0x0000e8db      0x58f build/elements/stm32f4xx_gpio.o
+ .debug_loc     0x0000ee6a      0xb16 build/elements/stm32f4xx_i2c.o
+ .debug_loc     0x0000f980      0xcee build/elements/stm32f4xx_rcc.o
+ .debug_loc     0x0001066e      0x7c2 build/elements/stm32f4xx_spi.o
+ .debug_loc     0x00010e30     0x2598 build/elements/stm32f4xx_tim.o
+ .debug_loc     0x000133c8      0x9b4 build/elements/stm32f4xx_usart.o
+
+.debug_aranges  0x00000000     0x1008
+ .debug_aranges
+                0x00000000       0x38 build/elements/cv_scaler.o
+ .debug_aranges
+                0x00000038       0xa8 build/elements/elements.o
+ .debug_aranges
+                0x000000e0       0x18 build/elements/resources.o
+ .debug_aranges
+                0x000000f8       0x60 build/elements/ui.o
+ .debug_aranges
+                0x00000158       0x70 build/elements/codec.o
+ .debug_aranges
+                0x000001c8       0x30 build/elements/cv_adc.o
+ .debug_aranges
+                0x000001f8       0x20 build/elements/debug_port.o
+ .debug_aranges
+                0x00000218       0x28 build/elements/gate_input.o
+ .debug_aranges
+                0x00000240       0x28 build/elements/leds.o
+ .debug_aranges
+                0x00000268       0x30 build/elements/pots_adc.o
+ .debug_aranges
+                0x00000298       0x28 build/elements/switch.o
+ .debug_aranges
+                0x000002c0       0x28 build/elements/system.o
+ .debug_aranges
+                0x000002e8       0x68 build/elements/exciter.o
+ .debug_aranges
+                0x00000350       0x20 build/elements/multistage_envelope.o
+ .debug_aranges
+                0x00000370       0x48 build/elements/ominous_voice.o
+ .debug_aranges
+                0x000003b8       0x30 build/elements/part.o
+ .debug_aranges
+                0x000003e8       0x30 build/elements/resonator.o
+ .debug_aranges
+                0x00000418       0x28 build/elements/tube.o
+ .debug_aranges
+                0x00000440       0x30 build/elements/voice.o
+ .debug_aranges
+                0x00000470       0x18 build/elements/units.o
+ .debug_aranges
+                0x00000488       0x18 build/elements/random.o
+ .debug_aranges
+                0x000004a0       0x28 build/elements/system_clock.o
+ .debug_aranges
+                0x000004c8       0x28 build/elements/system_stm32f4xx.o
+ .debug_aranges
+                0x000004f0       0x40 build/elements/misc.o
+ .debug_aranges
+                0x00000530      0x148 build/elements/stm32f4xx_adc.o
+ .debug_aranges
+                0x00000678       0xb0 build/elements/stm32f4xx_dma.o
+ .debug_aranges
+                0x00000728      0x108 build/elements/stm32f4xx_flash.o
+ .debug_aranges
+                0x00000830       0x88 build/elements/stm32f4xx_gpio.o
+ .debug_aranges
+                0x000008b8      0x120 build/elements/stm32f4xx_i2c.o
+ .debug_aranges
+                0x000009d8      0x178 build/elements/stm32f4xx_rcc.o
+ .debug_aranges
+                0x00000b50       0xe0 build/elements/stm32f4xx_spi.o
+ .debug_aranges
+                0x00000c30      0x2d8 build/elements/stm32f4xx_tim.o
+ .debug_aranges
+                0x00000f08      0x100 build/elements/stm32f4xx_usart.o
+
+.debug_ranges   0x00000000     0x4be8
+ .debug_ranges  0x00000000      0x510 build/elements/cv_scaler.o
+ .debug_ranges  0x00000510      0x560 build/elements/elements.o
+ .debug_ranges  0x00000a70      0x580 build/elements/ui.o
+ .debug_ranges  0x00000ff0      0x168 build/elements/codec.o
+ .debug_ranges  0x00001158       0x20 build/elements/cv_adc.o
+ .debug_ranges  0x00001178       0x28 build/elements/debug_port.o
+ .debug_ranges  0x000011a0       0x30 build/elements/gate_input.o
+ .debug_ranges  0x000011d0       0x30 build/elements/leds.o
+ .debug_ranges  0x00001200       0x38 build/elements/pots_adc.o
+ .debug_ranges  0x00001238       0x30 build/elements/switch.o
+ .debug_ranges  0x00001268       0x58 build/elements/system.o
+ .debug_ranges  0x000012c0      0x880 build/elements/exciter.o
+ .debug_ranges  0x00001b40       0x30 build/elements/multistage_envelope.o
+ .debug_ranges  0x00001b70      0xa68 build/elements/ominous_voice.o
+ .debug_ranges  0x000025d8      0xe98 build/elements/part.o
+ .debug_ranges  0x00003470      0x5a8 build/elements/resonator.o
+ .debug_ranges  0x00003a18       0x58 build/elements/tube.o
+ .debug_ranges  0x00003a70      0x638 build/elements/voice.o
+ .debug_ranges  0x000040a8       0x18 build/elements/system_clock.o
+ .debug_ranges  0x000040c0       0x30 build/elements/system_stm32f4xx.o
+ .debug_ranges  0x000040f0       0x30 build/elements/misc.o
+ .debug_ranges  0x00004120      0x138 build/elements/stm32f4xx_adc.o
+ .debug_ranges  0x00004258       0xa0 build/elements/stm32f4xx_dma.o
+ .debug_ranges  0x000042f8       0xf8 build/elements/stm32f4xx_flash.o
+ .debug_ranges  0x000043f0       0x78 build/elements/stm32f4xx_gpio.o
+ .debug_ranges  0x00004468      0x110 build/elements/stm32f4xx_i2c.o
+ .debug_ranges  0x00004578      0x168 build/elements/stm32f4xx_rcc.o
+ .debug_ranges  0x000046e0       0xd0 build/elements/stm32f4xx_spi.o
+ .debug_ranges  0x000047b0      0x348 build/elements/stm32f4xx_tim.o
+ .debug_ranges  0x00004af8       0xf0 build/elements/stm32f4xx_usart.o
+
+.debug_line     0x00000000     0xb429
+ .debug_line    0x00000000      0xa7a build/elements/cv_scaler.o
+ .debug_line    0x00000a7a      0x887 build/elements/elements.o
+ .debug_line    0x00001301      0x119 build/elements/resources.o
+ .debug_line    0x0000141a      0x907 build/elements/ui.o
+ .debug_line    0x00001d21      0x701 build/elements/codec.o
+ .debug_line    0x00002422      0x233 build/elements/cv_adc.o
+ .debug_line    0x00002655      0x1b3 build/elements/debug_port.o
+ .debug_line    0x00002808      0x440 build/elements/gate_input.o
+ .debug_line    0x00002c48      0x482 build/elements/leds.o
+ .debug_line    0x000030ca      0x205 build/elements/pots_adc.o
+ .debug_line    0x000032cf      0x43c build/elements/switch.o
+ .debug_line    0x0000370b      0x19f build/elements/system.o
+ .debug_line    0x000038aa      0xdf6 build/elements/exciter.o
+ .debug_line    0x000046a0      0x3e9 build/elements/multistage_envelope.o
+ .debug_line    0x00004a89      0xf76 build/elements/ominous_voice.o
+ .debug_line    0x000059ff      0xd16 build/elements/part.o
+ .debug_line    0x00006715      0xab7 build/elements/resonator.o
+ .debug_line    0x000071cc      0x45f build/elements/tube.o
+ .debug_line    0x0000762b      0xacc build/elements/voice.o
+ .debug_line    0x000080f7       0xc2 build/elements/units.o
+ .debug_line    0x000081b9       0xba build/elements/random.o
+ .debug_line    0x00008273       0xea build/elements/system_clock.o
+ .debug_line    0x0000835d      0x148 build/elements/system_stm32f4xx.o
+ .debug_line    0x000084a5      0x1b6 build/elements/misc.o
+ .debug_line    0x0000865b      0x503 build/elements/stm32f4xx_adc.o
+ .debug_line    0x00008b5e      0x39c build/elements/stm32f4xx_dma.o
+ .debug_line    0x00008efa      0x3f4 build/elements/stm32f4xx_flash.o
+ .debug_line    0x000092ee      0x353 build/elements/stm32f4xx_gpio.o
+ .debug_line    0x00009641      0x485 build/elements/stm32f4xx_i2c.o
+ .debug_line    0x00009ac6      0x4fc build/elements/stm32f4xx_rcc.o
+ .debug_line    0x00009fc2      0x422 build/elements/stm32f4xx_spi.o
+ .debug_line    0x0000a3e4      0xbde build/elements/stm32f4xx_tim.o
+ .debug_line    0x0000afc2      0x467 build/elements/stm32f4xx_usart.o
+
+.debug_str      0x00000000    0x13e77
+ .debug_str     0x00000000     0x161b build/elements/cv_scaler.o
+                               0x1771 (size before relaxing)
+ .debug_str     0x0000161b     0x3d73 build/elements/elements.o
+                               0x4dc4 (size before relaxing)
+ .debug_str     0x0000538e      0x469 build/elements/resources.o
+                                0x7ba (size before relaxing)
+ .debug_str     0x000057f7       0xca build/elements/ui.o
+                               0x453c (size before relaxing)
+ .debug_str     0x000058c1      0xf1b build/elements/codec.o
+                               0x1e47 (size before relaxing)
+ .debug_str     0x000067dc      0x232 build/elements/cv_adc.o
+                                0xabe (size before relaxing)
+ .debug_str     0x00006a0e       0xb4 build/elements/debug_port.o
+                                0x6dc (size before relaxing)
+ .debug_str     0x00006ac2       0x35 build/elements/gate_input.o
+                                0x6d8 (size before relaxing)
+ .debug_str     0x00006af7      0x2a8 build/elements/leds.o
+                                0xa94 (size before relaxing)
+ .debug_str     0x00006d9f       0x5b build/elements/pots_adc.o
+                                0xb80 (size before relaxing)
+ .debug_str     0x00006dfa       0x1b build/elements/switch.o
+                                0x799 (size before relaxing)
+ .debug_str     0x00006e15       0xd5 build/elements/system.o
+                                0x916 (size before relaxing)
+ .debug_str     0x00006eea      0x4db build/elements/exciter.o
+                               0x1204 (size before relaxing)
+ .debug_str     0x000073c5       0x41 build/elements/multistage_envelope.o
+                                0x9a0 (size before relaxing)
+ .debug_str     0x00007406      0x723 build/elements/ominous_voice.o
+                               0x1f8d (size before relaxing)
+ .debug_str     0x00007b29     0x8260 build/elements/part.o
+                               0xb2be (size before relaxing)
+ .debug_str     0x0000fd89      0x145 build/elements/resonator.o
+                               0x1111 (size before relaxing)
+ .debug_str     0x0000fece       0x76 build/elements/tube.o
+                                0x997 (size before relaxing)
+ .debug_str     0x0000ff44     0x1871 build/elements/voice.o
+                               0x3afd (size before relaxing)
+ .debug_str     0x000117b5       0x57 build/elements/units.o
+                                0x2e6 (size before relaxing)
+ .debug_str     0x0001180c       0x36 build/elements/random.o
+                                0x32f (size before relaxing)
+ .debug_str     0x00011842       0x63 build/elements/system_clock.o
+                                0x3e3 (size before relaxing)
+ .debug_str     0x000118a5      0x2b2 build/elements/system_stm32f4xx.o
+                                0x43e (size before relaxing)
+ .debug_str     0x00011b57      0x16f build/elements/misc.o
+                                0x477 (size before relaxing)
+ .debug_str     0x00011cc6      0x49b build/elements/stm32f4xx_adc.o
+                                0x8b9 (size before relaxing)
+ .debug_str     0x00012161      0x213 build/elements/stm32f4xx_dma.o
+                                0x5ea (size before relaxing)
+ .debug_str     0x00012374      0x2c2 build/elements/stm32f4xx_flash.o
+                                0x625 (size before relaxing)
+ .debug_str     0x00012636      0x13b build/elements/stm32f4xx_gpio.o
+                                0x568 (size before relaxing)
+ .debug_str     0x00012771      0x337 build/elements/stm32f4xx_i2c.o
+                                0x72c (size before relaxing)
+ .debug_str     0x00012aa8      0x41c build/elements/stm32f4xx_rcc.o
+                                0x8ee (size before relaxing)
+ .debug_str     0x00012ec4      0x2d1 build/elements/stm32f4xx_spi.o
+                                0x756 (size before relaxing)
+ .debug_str     0x00013195      0x950 build/elements/stm32f4xx_tim.o
+                                0xe9c (size before relaxing)
+ .debug_str     0x00013ae5      0x392 build/elements/stm32f4xx_usart.o
+                                0x76d (size before relaxing)
+
+.debug_frame    0x00000000     0x2288
+ .debug_frame   0x00000000       0xa0 build/elements/cv_scaler.o
+ .debug_frame   0x000000a0      0x168 build/elements/elements.o
+ .debug_frame   0x00000208       0xe0 build/elements/ui.o
+ .debug_frame   0x000002e8      0x15c build/elements/codec.o
+ .debug_frame   0x00000444       0x5c build/elements/cv_adc.o
+ .debug_frame   0x000004a0       0x30 build/elements/debug_port.o
+ .debug_frame   0x000004d0       0x40 build/elements/gate_input.o
+ .debug_frame   0x00000510       0x48 build/elements/leds.o
+ .debug_frame   0x00000558       0x64 build/elements/pots_adc.o
+ .debug_frame   0x000005bc       0x48 build/elements/switch.o
+ .debug_frame   0x00000604       0x38 build/elements/system.o
+ .debug_frame   0x0000063c      0x134 build/elements/exciter.o
+ .debug_frame   0x00000770       0x2c build/elements/multistage_envelope.o
+ .debug_frame   0x0000079c       0xec build/elements/ominous_voice.o
+ .debug_frame   0x00000888       0x90 build/elements/part.o
+ .debug_frame   0x00000918       0x80 build/elements/resonator.o
+ .debug_frame   0x00000998       0x3c build/elements/tube.o
+ .debug_frame   0x000009d4       0x88 build/elements/voice.o
+ .debug_frame   0x00000a5c       0x30 build/elements/system_clock.o
+ .debug_frame   0x00000a8c       0x34 build/elements/system_stm32f4xx.o
+ .debug_frame   0x00000ac0       0x6c build/elements/misc.o
+ .debug_frame   0x00000b2c      0x2b4 build/elements/stm32f4xx_adc.o
+ .debug_frame   0x00000de0      0x180 build/elements/stm32f4xx_dma.o
+ .debug_frame   0x00000f60      0x264 build/elements/stm32f4xx_flash.o
+ .debug_frame   0x000011c4      0x118 build/elements/stm32f4xx_gpio.o
+ .debug_frame   0x000012dc      0x248 build/elements/stm32f4xx_i2c.o
+ .debug_frame   0x00001524      0x2e4 build/elements/stm32f4xx_rcc.o
+ .debug_frame   0x00001808      0x1dc build/elements/stm32f4xx_spi.o
+ .debug_frame   0x000019e4      0x63c build/elements/stm32f4xx_tim.o
+ .debug_frame   0x00002020      0x210 build/elements/stm32f4xx_usart.o
+ .debug_frame   0x00002230       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .debug_frame   0x0000225c       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)

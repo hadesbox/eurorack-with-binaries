@@ -1,0 +1,2022 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+                              build/yarns_bootloader/bootloader.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+                              build/yarns_bootloader/display.o (strlen)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+                              build/yarns_bootloader/display.o (strncpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 build/yarns_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/yarns_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/yarns_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/yarns_bootloader/bootloader.o
+ .text          0x00000000        0x0 build/yarns_bootloader/bootloader.o
+ .data          0x00000000        0x0 build/yarns_bootloader/bootloader.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/bootloader.o
+ .text._ZN5yarns7DisplayD2Ev
+                0x00000000        0x4 build/yarns_bootloader/bootloader.o
+ .text._ZN5yarns7EncoderD2Ev
+                0x00000000        0x4 build/yarns_bootloader/bootloader.o
+ .text._ZN5yarns6MidiIOD2Ev
+                0x00000000        0x4 build/yarns_bootloader/bootloader.o
+ .text._ZN5yarns6SystemD2Ev
+                0x00000000        0x4 build/yarns_bootloader/bootloader.o
+ .text.startup._GLOBAL__sub_I_sys
+                0x00000000       0x54 build/yarns_bootloader/bootloader.o
+ .init_array    0x00000000        0x4 build/yarns_bootloader/bootloader.o
+ .bss.sys       0x00000000        0x4 build/yarns_bootloader/bootloader.o
+ .text          0x00000000        0x0 build/yarns_bootloader/characters.o
+ .data          0x00000000        0x0 build/yarns_bootloader/characters.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/characters.o
+ .text          0x00000000        0x0 build/yarns_bootloader/channel_leds.o
+ .data          0x00000000        0x0 build/yarns_bootloader/channel_leds.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/channel_leds.o
+ .text._ZN5yarns11ChannelLeds4InitEv
+                0x00000000       0x5c build/yarns_bootloader/channel_leds.o
+ .text._ZN5yarns11ChannelLeds5WriteEv
+                0x00000000       0x70 build/yarns_bootloader/channel_leds.o
+ .debug_info    0x00000000      0xac6 build/yarns_bootloader/channel_leds.o
+ .debug_abbrev  0x00000000      0x39f build/yarns_bootloader/channel_leds.o
+ .debug_loc     0x00000000       0x79 build/yarns_bootloader/channel_leds.o
+ .debug_aranges
+                0x00000000       0x28 build/yarns_bootloader/channel_leds.o
+ .debug_ranges  0x00000000       0x18 build/yarns_bootloader/channel_leds.o
+ .debug_line    0x00000000      0x464 build/yarns_bootloader/channel_leds.o
+ .debug_str     0x00000000      0x741 build/yarns_bootloader/channel_leds.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/channel_leds.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/channel_leds.o
+ .debug_frame   0x00000000       0x4c build/yarns_bootloader/channel_leds.o
+ .text          0x00000000        0x0 build/yarns_bootloader/dac.o
+ .data          0x00000000        0x0 build/yarns_bootloader/dac.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/dac.o
+ .text._ZN5yarns3Dac4InitEv
+                0x00000000       0xb0 build/yarns_bootloader/dac.o
+ .debug_info    0x00000000      0xec7 build/yarns_bootloader/dac.o
+ .debug_abbrev  0x00000000      0x404 build/yarns_bootloader/dac.o
+ .debug_loc     0x00000000       0x7e build/yarns_bootloader/dac.o
+ .debug_aranges
+                0x00000000       0x20 build/yarns_bootloader/dac.o
+ .debug_ranges  0x00000000       0x10 build/yarns_bootloader/dac.o
+ .debug_line    0x00000000      0x470 build/yarns_bootloader/dac.o
+ .debug_str     0x00000000      0x933 build/yarns_bootloader/dac.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/dac.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/dac.o
+ .debug_frame   0x00000000       0x30 build/yarns_bootloader/dac.o
+ .text          0x00000000        0x0 build/yarns_bootloader/display.o
+ .data          0x00000000        0x0 build/yarns_bootloader/display.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/display.o
+ .text._ZN5yarns7Display6ScrollEv
+                0x00000000       0x28 build/yarns_bootloader/display.o
+ .text          0x00000000        0x0 build/yarns_bootloader/encoder.o
+ .data          0x00000000        0x0 build/yarns_bootloader/encoder.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/encoder.o
+ .text          0x00000000        0x0 build/yarns_bootloader/gate_output.o
+ .data          0x00000000        0x0 build/yarns_bootloader/gate_output.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/gate_output.o
+ .text._ZN5yarns10GateOutput4InitEv
+                0x00000000       0x28 build/yarns_bootloader/gate_output.o
+ .text._ZN5yarns10GateOutput5WriteEPKb
+                0x00000000       0x3c build/yarns_bootloader/gate_output.o
+ .debug_info    0x00000000      0x401 build/yarns_bootloader/gate_output.o
+ .debug_abbrev  0x00000000      0x1f9 build/yarns_bootloader/gate_output.o
+ .debug_loc     0x00000000       0x6e build/yarns_bootloader/gate_output.o
+ .debug_aranges
+                0x00000000       0x28 build/yarns_bootloader/gate_output.o
+ .debug_ranges  0x00000000       0x18 build/yarns_bootloader/gate_output.o
+ .debug_line    0x00000000      0x174 build/yarns_bootloader/gate_output.o
+ .debug_str     0x00000000      0x43b build/yarns_bootloader/gate_output.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/gate_output.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/gate_output.o
+ .debug_frame   0x00000000       0x48 build/yarns_bootloader/gate_output.o
+ .text          0x00000000        0x0 build/yarns_bootloader/midi_io.o
+ .data          0x00000000        0x0 build/yarns_bootloader/midi_io.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/midi_io.o
+ .text          0x00000000        0x0 build/yarns_bootloader/switches.o
+ .data          0x00000000        0x0 build/yarns_bootloader/switches.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/switches.o
+ .text._ZN5yarns8Switches4InitEv
+                0x00000000       0x30 build/yarns_bootloader/switches.o
+ .text._ZN5yarns8Switches8DebounceEv
+                0x00000000       0x44 build/yarns_bootloader/switches.o
+ .debug_info    0x00000000      0x49c build/yarns_bootloader/switches.o
+ .debug_abbrev  0x00000000      0x234 build/yarns_bootloader/switches.o
+ .debug_loc     0x00000000       0x4d build/yarns_bootloader/switches.o
+ .debug_aranges
+                0x00000000       0x28 build/yarns_bootloader/switches.o
+ .debug_ranges  0x00000000       0x30 build/yarns_bootloader/switches.o
+ .debug_line    0x00000000      0x1e6 build/yarns_bootloader/switches.o
+ .debug_str     0x00000000      0x4c0 build/yarns_bootloader/switches.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/switches.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/switches.o
+ .debug_frame   0x00000000       0x4c build/yarns_bootloader/switches.o
+ .text          0x00000000        0x0 build/yarns_bootloader/system.o
+ .data          0x00000000        0x0 build/yarns_bootloader/system.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/system.o
+ .text._ZN5yarns6System4InitEv
+                0x00000000       0x84 build/yarns_bootloader/system.o
+ .text._ZN5yarns6System11StartTimersEv
+                0x00000000       0x34 build/yarns_bootloader/system.o
+ .debug_info    0x00000000      0xb1d build/yarns_bootloader/system.o
+ .debug_abbrev  0x00000000      0x2d5 build/yarns_bootloader/system.o
+ .debug_loc     0x00000000       0x42 build/yarns_bootloader/system.o
+ .debug_aranges
+                0x00000000       0x28 build/yarns_bootloader/system.o
+ .debug_ranges  0x00000000       0x38 build/yarns_bootloader/system.o
+ .debug_line    0x00000000      0x1da build/yarns_bootloader/system.o
+ .debug_str     0x00000000      0x962 build/yarns_bootloader/system.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/system.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/system.o
+ .debug_frame   0x00000000       0x48 build/yarns_bootloader/system.o
+ .text          0x00000000        0x0 build/yarns_bootloader/random.o
+ .data          0x00000000        0x0 build/yarns_bootloader/random.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/random.o
+ .data._ZN6stmlib6Random10rng_state_E
+                0x00000000        0x4 build/yarns_bootloader/random.o
+ .debug_info    0x00000000      0x16e build/yarns_bootloader/random.o
+ .debug_abbrev  0x00000000       0xf5 build/yarns_bootloader/random.o
+ .debug_aranges
+                0x00000000       0x18 build/yarns_bootloader/random.o
+ .debug_line    0x00000000       0xba build/yarns_bootloader/random.o
+ .debug_str     0x00000000      0x2fd build/yarns_bootloader/random.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/random.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/random.o
+ .text          0x00000000        0x0 build/yarns_bootloader/bootloader_utils.o
+ .data          0x00000000        0x0 build/yarns_bootloader/bootloader_utils.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/bootloader_utils.o
+ .group         0x00000000        0x8 build/yarns_bootloader/system_clock.o
+ .text          0x00000000        0x0 build/yarns_bootloader/system_clock.o
+ .data          0x00000000        0x0 build/yarns_bootloader/system_clock.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/yarns_bootloader/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/yarns_bootloader/system_clock.o
+ .init_array    0x00000000        0x4 build/yarns_bootloader/system_clock.o
+ .text          0x00000000        0x0 build/yarns_bootloader/core_cm3.o
+ .data          0x00000000        0x0 build/yarns_bootloader/core_cm3.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/yarns_bootloader/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/yarns_bootloader/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/yarns_bootloader/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/yarns_bootloader/core_cm3.o
+ .text          0x00000000        0x0 build/yarns_bootloader/system_stm32f10x.o
+ .data          0x00000000        0x0 build/yarns_bootloader/system_stm32f10x.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_AHBClk
+                0x00000000        0x4 build/yarns_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_SysClk
+                0x00000000        0x4 build/yarns_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency
+                0x00000000        0x4 build/yarns_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_APB1Clk
+                0x00000000        0x4 build/yarns_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_APB2Clk
+                0x00000000        0x4 build/yarns_bootloader/system_stm32f10x.o
+ .text          0x00000000        0x0 build/yarns_bootloader/misc.o
+ .data          0x00000000        0x0 build/yarns_bootloader/misc.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 build/yarns_bootloader/misc.o
+ .text.NVIC_Init
+                0x00000000       0x70 build/yarns_bootloader/misc.o
+ .text.NVIC_SetVectorTable
+                0x00000000       0x14 build/yarns_bootloader/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 build/yarns_bootloader/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/yarns_bootloader/misc.o
+ .debug_info    0x00000000      0x4c0 build/yarns_bootloader/misc.o
+ .debug_abbrev  0x00000000      0x141 build/yarns_bootloader/misc.o
+ .debug_loc     0x00000000      0x13d build/yarns_bootloader/misc.o
+ .debug_aranges
+                0x00000000       0x40 build/yarns_bootloader/misc.o
+ .debug_ranges  0x00000000       0x30 build/yarns_bootloader/misc.o
+ .debug_line    0x00000000      0x1b3 build/yarns_bootloader/misc.o
+ .debug_str     0x00000000      0x42a build/yarns_bootloader/misc.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/misc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/misc.o
+ .debug_frame   0x00000000       0x68 build/yarns_bootloader/misc.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_adc.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_adc.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x6c build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_Init
+                0x00000000       0x48 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_Cmd  0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ResetCalibration
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_StartCalibration
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x00000000       0x9c build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x5c build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_adc.o
+ .debug_info    0x00000000      0xbe4 build/yarns_bootloader/stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1dc build/yarns_bootloader/stm32f10x_adc.o
+ .debug_loc     0x00000000      0x940 build/yarns_bootloader/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000      0x138 build/yarns_bootloader/stm32f10x_adc.o
+ .debug_ranges  0x00000000      0x128 build/yarns_bootloader/stm32f10x_adc.o
+ .debug_line    0x00000000      0x4cf build/yarns_bootloader/stm32f10x_adc.o
+ .debug_str     0x00000000      0x779 build/yarns_bootloader/stm32f10x_adc.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_adc.o
+ .debug_frame   0x00000000      0x280 build/yarns_bootloader/stm32f10x_adc.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_bkp.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_bkp.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_info    0x00000000      0x790 build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x18a build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_loc     0x00000000       0xee build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x78 build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_ranges  0x00000000       0x68 build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_line    0x00000000      0x21d build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_str     0x00000000      0x62f build/yarns_bootloader/stm32f10x_bkp.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_bkp.o
+ .debug_frame   0x00000000       0xe0 build/yarns_bootloader/stm32f10x_bkp.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_can.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_can.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_Init
+                0x00000000       0xec build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x00000000       0xf4 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x00000000       0xd0 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x74 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_Receive
+                0x00000000       0x90 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xa4 build/yarns_bootloader/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0xa0 build/yarns_bootloader/stm32f10x_can.o
+ .rodata.CSWTCH.10
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_can.o
+ .debug_info    0x00000000      0xae8 build/yarns_bootloader/stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x28f build/yarns_bootloader/stm32f10x_can.o
+ .debug_loc     0x00000000      0x7f8 build/yarns_bootloader/stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0xb0 build/yarns_bootloader/stm32f10x_can.o
+ .debug_ranges  0x00000000      0x120 build/yarns_bootloader/stm32f10x_can.o
+ .debug_line    0x00000000      0x490 build/yarns_bootloader/stm32f10x_can.o
+ .debug_str     0x00000000      0x6ef build/yarns_bootloader/stm32f10x_can.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_can.o
+ .debug_frame   0x00000000      0x17c build/yarns_bootloader/stm32f10x_can.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_crc.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_crc.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_crc.o
+ .debug_info    0x00000000      0x1c7 build/yarns_bootloader/stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x114 build/yarns_bootloader/stm32f10x_crc.o
+ .debug_loc     0x00000000       0x75 build/yarns_bootloader/stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/yarns_bootloader/stm32f10x_crc.o
+ .debug_ranges  0x00000000       0x38 build/yarns_bootloader/stm32f10x_crc.o
+ .debug_line    0x00000000      0x16d build/yarns_bootloader/stm32f10x_crc.o
+ .debug_str     0x00000000      0x2a2 build/yarns_bootloader/stm32f10x_crc.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_crc.o
+ .debug_frame   0x00000000       0x70 build/yarns_bootloader/stm32f10x_crc.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_dac.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_dac.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_Init
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_Cmd  0x00000000       0x20 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_info    0x00000000      0x4ab build/yarns_bootloader/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1b8 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_loc     0x00000000      0x235 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x78 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_ranges  0x00000000       0x68 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_line    0x00000000      0x267 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_str     0x00000000      0x425 build/yarns_bootloader/stm32f10x_dac.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_dac.o
+ .debug_frame   0x00000000       0xec build/yarns_bootloader/stm32f10x_dac.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x12c build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xdc build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_loc     0x00000000       0x3a build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_ranges  0x00000000       0x20 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x129 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x26e build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x40 build/yarns_bootloader/stm32f10x_dbgmcu.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_dma.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_dma.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_DeInit
+                0x00000000      0x100 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_Init
+                0x00000000       0x40 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_Cmd  0x00000000       0x14 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_info    0x00000000      0x400 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x16d build/yarns_bootloader/stm32f10x_dma.o
+ .debug_loc     0x00000000      0x177 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x68 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_ranges  0x00000000       0x58 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_line    0x00000000      0x261 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_str     0x00000000      0x3fd build/yarns_bootloader/stm32f10x_dma.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_dma.o
+ .debug_frame   0x00000000       0xbc build/yarns_bootloader/stm32f10x_dma.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_exti.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_exti.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x80 build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_exti.o
+ .debug_info    0x00000000      0x314 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x169 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_loc     0x00000000      0x224 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x48 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_line    0x00000000      0x217 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_str     0x00000000      0x3c5 build/yarns_bootloader/stm32f10x_exti.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_exti.o
+ .debug_frame   0x00000000       0x98 build/yarns_bootloader/stm32f10x_exti.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_flash.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_flash.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x40 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0x7c build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x38 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x48 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000       0xa0 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0x94 build/yarns_bootloader/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x58 build/yarns_bootloader/stm32f10x_flash.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xbc build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x7c build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x54 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x8b8 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x197 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_loc     0x00000000      0x4ae build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x412 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x7d5 build/yarns_bootloader/stm32f10x_fsmc.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x190 build/yarns_bootloader/stm32f10x_fsmc.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_gpio.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xdc build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0x60 build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_gpio.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_i2c.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x3c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000       0xdc build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x38 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb22 build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x1de build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x73d build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x118 build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x108 build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x45c build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x6ce build/yarns_bootloader/stm32f10x_i2c.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x238 build/yarns_bootloader/stm32f10x_i2c.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x1c1 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000       0xff build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_loc     0x00000000       0x62 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x158 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x2c3 build/yarns_bootloader/stm32f10x_iwdg.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0x70 build/yarns_bootloader/stm32f10x_iwdg.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_pwr.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x34 build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x2ef build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x17c build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_loc     0x00000000      0x111 build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x60 build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_ranges  0x00000000       0x50 build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x216 build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x339 build/yarns_bootloader/stm32f10x_pwr.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_pwr.o
+ .debug_frame   0x00000000       0xb0 build/yarns_bootloader/stm32f10x_pwr.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_rcc.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x38 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_rcc.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_rtc.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x452 build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1ca build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_loc     0x00000000      0x20e build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x88 build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_ranges  0x00000000       0xd8 build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x248 build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x401 build/yarns_bootloader/stm32f10x_rtc.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_rtc.o
+ .debug_frame   0x00000000       0xf0 build/yarns_bootloader/stm32f10x_rtc.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_sdio.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_sdio.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x30 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_info    0x00000000      0x7ac build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1d6 build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_loc     0x00000000      0x238 build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_line    0x00000000      0x3bb build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_str     0x00000000      0x6a2 build/yarns_bootloader/stm32f10x_sdio.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x20c build/yarns_bootloader/stm32f10x_sdio.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_spi.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_spi.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x6c build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_Init
+                0x00000000       0x40 build/yarns_bootloader/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0xb4 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_Cmd  0x00000000       0x1c build/yarns_bootloader/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x1c build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x2c build/yarns_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_spi.o
+ .debug_info    0x00000000      0x997 build/yarns_bootloader/stm32f10x_spi.o
+ .debug_abbrev  0x00000000      0x1eb build/yarns_bootloader/stm32f10x_spi.o
+ .debug_loc     0x00000000      0x52c build/yarns_bootloader/stm32f10x_spi.o
+ .debug_aranges
+                0x00000000       0xd0 build/yarns_bootloader/stm32f10x_spi.o
+ .debug_ranges  0x00000000       0xc0 build/yarns_bootloader/stm32f10x_spi.o
+ .debug_line    0x00000000      0x3a1 build/yarns_bootloader/stm32f10x_spi.o
+ .debug_str     0x00000000      0x6a4 build/yarns_bootloader/stm32f10x_spi.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_spi.o
+ .debug_frame   0x00000000      0x1ac build/yarns_bootloader/stm32f10x_spi.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_tim.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_tim.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000       0xf8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0x48 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0x7c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x90 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0x6c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x168 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x150 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_Cmd  0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x20 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x88 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x40 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x4c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_info    0x00000000     0x2357 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_abbrev  0x00000000      0x297 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_loc     0x00000000     0x206e build/yarns_bootloader/stm32f10x_tim.o
+ .debug_aranges
+                0x00000000      0x2d0 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_ranges  0x00000000      0x458 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_line    0x00000000      0xbc9 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_str     0x00000000      0xe72 build/yarns_bootloader/stm32f10x_tim.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_tim.o
+ .debug_frame   0x00000000      0x614 build/yarns_bootloader/stm32f10x_tim.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_usart.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_usart.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0xb0 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x24 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x18 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x4c build/yarns_bootloader/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_usart.o
+ .text          0x00000000        0x0 build/yarns_bootloader/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 build/yarns_bootloader/stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x24e build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x13e build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_loc     0x00000000       0xae build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x1ce build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x2f6 build/yarns_bootloader/stm32f10x_wwdg.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns_bootloader/stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0x9c build/yarns_bootloader/stm32f10x_wwdg.o
+ .text          0x00000000       0x14 build/yarns_bootloader/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 build/yarns_bootloader/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 build/yarns_bootloader/startup_stm32f10x_md.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD build/yarns_bootloader/bootloader.o
+LOAD build/yarns_bootloader/characters.o
+LOAD build/yarns_bootloader/channel_leds.o
+LOAD build/yarns_bootloader/dac.o
+LOAD build/yarns_bootloader/display.o
+LOAD build/yarns_bootloader/encoder.o
+LOAD build/yarns_bootloader/gate_output.o
+LOAD build/yarns_bootloader/midi_io.o
+LOAD build/yarns_bootloader/switches.o
+LOAD build/yarns_bootloader/system.o
+LOAD build/yarns_bootloader/random.o
+LOAD build/yarns_bootloader/bootloader_utils.o
+LOAD build/yarns_bootloader/system_clock.o
+LOAD build/yarns_bootloader/core_cm3.o
+LOAD build/yarns_bootloader/system_stm32f10x.o
+LOAD build/yarns_bootloader/misc.o
+LOAD build/yarns_bootloader/stm32f10x_adc.o
+LOAD build/yarns_bootloader/stm32f10x_bkp.o
+LOAD build/yarns_bootloader/stm32f10x_can.o
+LOAD build/yarns_bootloader/stm32f10x_crc.o
+LOAD build/yarns_bootloader/stm32f10x_dac.o
+LOAD build/yarns_bootloader/stm32f10x_dbgmcu.o
+LOAD build/yarns_bootloader/stm32f10x_dma.o
+LOAD build/yarns_bootloader/stm32f10x_exti.o
+LOAD build/yarns_bootloader/stm32f10x_flash.o
+LOAD build/yarns_bootloader/stm32f10x_fsmc.o
+LOAD build/yarns_bootloader/stm32f10x_gpio.o
+LOAD build/yarns_bootloader/stm32f10x_i2c.o
+LOAD build/yarns_bootloader/stm32f10x_iwdg.o
+LOAD build/yarns_bootloader/stm32f10x_pwr.o
+LOAD build/yarns_bootloader/stm32f10x_rcc.o
+LOAD build/yarns_bootloader/stm32f10x_rtc.o
+LOAD build/yarns_bootloader/stm32f10x_sdio.o
+LOAD build/yarns_bootloader/stm32f10x_spi.o
+LOAD build/yarns_bootloader/stm32f10x_tim.o
+LOAD build/yarns_bootloader/stm32f10x_usart.o
+LOAD build/yarns_bootloader/stm32f10x_wwdg.o
+LOAD build/yarns_bootloader/startup_stm32f10x_md.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.text           0x08000000     0x10c4
+                0x08000000                _start = .
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c build/yarns_bootloader/startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.HardFault_Handler
+                0x0800010c        0x4 build/yarns_bootloader/bootloader.o
+                0x0800010c                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000110        0x4 build/yarns_bootloader/bootloader.o
+                0x08000110                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000114        0x4 build/yarns_bootloader/bootloader.o
+                0x08000114                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000118        0x4 build/yarns_bootloader/bootloader.o
+                0x08000118                UsageFault_Handler
+ .text.NMI_Handler
+                0x0800011c        0x4 build/yarns_bootloader/bootloader.o
+                0x0800011c                NMI_Handler
+ .text.SVC_Handler
+                0x08000120        0x4 build/yarns_bootloader/bootloader.o
+                0x08000120                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000124        0x4 build/yarns_bootloader/bootloader.o
+                0x08000124                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000128        0x4 build/yarns_bootloader/bootloader.o
+                0x08000128                PendSV_Handler
+ .text.SysTick_Handler
+                0x0800012c       0x7c build/yarns_bootloader/bootloader.o
+                0x0800012c                SysTick_Handler
+ .text._Z9PrintByteh
+                0x080001a8       0x44 build/yarns_bootloader/bootloader.o
+                0x080001a8                PrintByte(unsigned char)
+ .text._Z11ProgramPagePKhj
+                0x080001ec       0x30 build/yarns_bootloader/bootloader.o
+                0x080001ec                ProgramPage(unsigned char const*, unsigned int)
+ .text._Z16PrepareReceptionv
+                0x0800021c       0x64 build/yarns_bootloader/bootloader.o
+                0x0800021c                PrepareReception()
+ .text._Z16ProcessSysExByteh
+                0x08000280      0x148 build/yarns_bootloader/bootloader.o
+                0x08000280                ProcessSysExByte(unsigned char)
+ .text._Z4Initv
+                0x080003c8       0x58 build/yarns_bootloader/bootloader.o
+                0x080003c8                Init()
+ .text.startup.main
+                0x08000420       0xc0 build/yarns_bootloader/bootloader.o
+                0x08000420                main
+ .text._ZN5yarns7Display4InitEv
+                0x080004e0       0x58 build/yarns_bootloader/display.o
+                0x080004e0                yarns::Display::Init()
+ .text._ZN5yarns7Display11RefreshSlowEv
+                0x08000538       0x84 build/yarns_bootloader/display.o
+                0x08000538                yarns::Display::RefreshSlow()
+ .text._ZN5yarns7Display5PrintEPKcS2_
+                0x080005bc       0x2c build/yarns_bootloader/display.o
+                0x080005bc                yarns::Display::Print(char const*, char const*)
+ .text._ZN5yarns7Display19Shift14SegmentsWordEt
+                0x080005e8       0xe4 build/yarns_bootloader/display.o
+                0x080005e8                yarns::Display::Shift14SegmentsWord(unsigned short)
+ .text._ZN5yarns7Display11RefreshFastEv
+                0x080006cc       0x74 build/yarns_bootloader/display.o
+                0x080006cc                yarns::Display::RefreshFast()
+ .text._ZN5yarns7Encoder4InitEv
+                0x08000740       0x34 build/yarns_bootloader/encoder.o
+                0x08000740                yarns::Encoder::Init()
+ .text._ZN5yarns7Encoder8DebounceEv
+                0x08000774       0x48 build/yarns_bootloader/encoder.o
+                0x08000774                yarns::Encoder::Debounce()
+ .text._ZN5yarns6MidiIO4InitEv
+                0x080007bc       0x78 build/yarns_bootloader/midi_io.o
+                0x080007bc                yarns::MidiIO::Init()
+ .text._ZN6stmlib12UninitializeEv
+                0x08000834       0x74 build/yarns_bootloader/bootloader_utils.o
+                0x08000834                stmlib::Uninitialize()
+ .text._ZN6stmlib6JumpToEm
+                0x080008a8       0x10 build/yarns_bootloader/bootloader_utils.o
+                0x080008a8                stmlib::JumpTo(unsigned long)
+ .text.__set_MSP
+                0x080008b8        0x8 build/yarns_bootloader/core_cm3.o
+                0x080008b8                __set_MSP
+ .text.SystemInit
+                0x080008c0       0xf0 build/yarns_bootloader/system_stm32f10x.o
+                0x080008c0                SystemInit
+ .text.FLASH_Unlock
+                0x080009b0       0x18 build/yarns_bootloader/stm32f10x_flash.o
+                0x080009b0                FLASH_Unlock
+ .text.FLASH_GetStatus
+                0x080009c8       0x28 build/yarns_bootloader/stm32f10x_flash.o
+                0x080009c8                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x080009f0       0x40 build/yarns_bootloader/stm32f10x_flash.o
+                0x080009f0                FLASH_WaitForLastOperation
+ .text.FLASH_ErasePage
+                0x08000a30       0x44 build/yarns_bootloader/stm32f10x_flash.o
+                0x08000a30                FLASH_ErasePage
+ .text.FLASH_ProgramWord
+                0x08000a74       0x60 build/yarns_bootloader/stm32f10x_flash.o
+                0x08000a74                FLASH_ProgramWord
+ .text.GPIO_Init
+                0x08000ad4       0xb4 build/yarns_bootloader/stm32f10x_gpio.o
+                0x08000ad4                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08000b88        0xc build/yarns_bootloader/stm32f10x_gpio.o
+                0x08000b88                GPIO_ReadInputDataBit
+ .text.RCC_GetClocksFreq
+                0x08000b94       0x94 build/yarns_bootloader/stm32f10x_rcc.o
+                0x08000b94                RCC_GetClocksFreq
+ .text.RCC_APB2PeriphClockCmd
+                0x08000c28       0x18 build/yarns_bootloader/stm32f10x_rcc.o
+                0x08000c28                RCC_APB2PeriphClockCmd
+ .text.USART_Init
+                0x08000c40       0x90 build/yarns_bootloader/stm32f10x_usart.o
+                0x08000c40                USART_Init
+ .text.USART_Cmd
+                0x08000cd0       0x1c build/yarns_bootloader/stm32f10x_usart.o
+                0x08000cd0                USART_Cmd
+ .text.Reset_Handler
+                0x08000cec       0x48 build/yarns_bootloader/startup_stm32f10x_md.o
+                0x08000cec                Reset_Handler
+ .text.Default_Handler
+                0x08000d34        0x4 build/yarns_bootloader/startup_stm32f10x_md.o
+                0x08000d34                EXTI2_IRQHandler
+                0x08000d34                TIM1_CC_IRQHandler
+                0x08000d34                PVD_IRQHandler
+                0x08000d34                EXTI3_IRQHandler
+                0x08000d34                EXTI0_IRQHandler
+                0x08000d34                I2C2_EV_IRQHandler
+                0x08000d34                ADC1_2_IRQHandler
+                0x08000d34                SPI1_IRQHandler
+                0x08000d34                TAMPER_IRQHandler
+                0x08000d34                DMA1_Channel4_IRQHandler
+                0x08000d34                USART3_IRQHandler
+                0x08000d34                RTC_IRQHandler
+                0x08000d34                DMA1_Channel7_IRQHandler
+                0x08000d34                CAN1_RX1_IRQHandler
+                0x08000d34                TIM4_IRQHandler
+                0x08000d34                I2C1_EV_IRQHandler
+                0x08000d34                DMA1_Channel6_IRQHandler
+                0x08000d34                TIM3_IRQHandler
+                0x08000d34                RCC_IRQHandler
+                0x08000d34                TIM1_TRG_COM_IRQHandler
+                0x08000d34                DMA1_Channel1_IRQHandler
+                0x08000d34                Default_Handler
+                0x08000d34                EXTI15_10_IRQHandler
+                0x08000d34                EXTI9_5_IRQHandler
+                0x08000d34                SPI2_IRQHandler
+                0x08000d34                DMA1_Channel5_IRQHandler
+                0x08000d34                EXTI4_IRQHandler
+                0x08000d34                USB_LP_CAN1_RX0_IRQHandler
+                0x08000d34                USB_HP_CAN1_TX_IRQHandler
+                0x08000d34                DMA1_Channel3_IRQHandler
+                0x08000d34                TIM1_UP_IRQHandler
+                0x08000d34                WWDG_IRQHandler
+                0x08000d34                TIM2_IRQHandler
+                0x08000d34                TIM1_BRK_IRQHandler
+                0x08000d34                EXTI1_IRQHandler
+                0x08000d34                RTCAlarm_IRQHandler
+                0x08000d34                USART2_IRQHandler
+                0x08000d34                I2C2_ER_IRQHandler
+                0x08000d34                DMA1_Channel2_IRQHandler
+                0x08000d34                CAN1_SCE_IRQHandler
+                0x08000d34                FLASH_IRQHandler
+                0x08000d34                USART1_IRQHandler
+                0x08000d34                I2C1_ER_IRQHandler
+                0x08000d34                USBWakeUp_IRQHandler
+ .text.memset   0x08000d38       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                0x08000d38                memset
+ .text.strlen   0x08000dcc       0x60 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+                0x08000dcc                strlen
+ .text.strncpy  0x08000e2c       0x64 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+                0x08000e2c                strncpy
+ *(.rodata*)
+ .rodata._ZL12sysex_header
+                0x08000e90        0x8 build/yarns_bootloader/bootloader.o
+ .rodata.str1.4
+                0x08000e98       0x10 build/yarns_bootloader/bootloader.o
+ .rodata._ZN5yarns14chr_charactersE
+                0x08000ea8      0x200 build/yarns_bootloader/characters.o
+                0x08000ea8                yarns::chr_characters
+ .rodata._ZN5yarnsL20kCharacterEnablePinsE
+                0x080010a8        0x4 build/yarns_bootloader/display.o
+ *(.flashtext*)
+ *(.init)
+ .init          0x080010ac        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x080010ac                _init
+ .init          0x080010b0        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x080010b8        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x080010b8                _fini
+ .fini          0x080010bc        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+                0x080010c4                _etext = .
+                0x080010c4                _sidata = .
+
+.glue_7         0x080010c4        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x080010c4        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x080010c4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080010c4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080010c4        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.rel.dyn        0x080010c4        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.data           0x20000000       0x14 load address 0x080010c4
+                0x20000000                _sdata = .
+ *(.ramtext*)
+                0x20000000                . = ALIGN (0x4)
+ *(.data*)
+ .data.ADCPrescTable
+                0x20000000        0x4 build/yarns_bootloader/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x20000004       0x10 build/yarns_bootloader/stm32f10x_rcc.o
+                0x20000014                _edata = .
+
+.igot.plt       0x20000014        0x0 load address 0x080010d8
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.bss            0x20000014      0x6f4 load address 0x080010d8
+                0x20000014                _sstack = .
+                0x20000214                . = (. + 0x200)
+ *fill*         0x20000014      0x200 
+                0x20000214                _estack = .
+                0x20000214                _sbss = .
+ *(.bss*)
+ .bss.display   0x20000214       0x40 build/yarns_bootloader/bootloader.o
+                0x20000214                display
+ .bss.midi_in_buffer
+                0x20000254       0x88 build/yarns_bootloader/bootloader.o
+                0x20000254                midi_in_buffer
+ .bss.midi_io   0x200002dc        0x4 build/yarns_bootloader/bootloader.o
+                0x200002dc                midi_io
+ .bss._ZZ15SysTick_HandlerE7counter
+                0x200002e0        0x1 build/yarns_bootloader/bootloader.o
+ .bss._ZL10page_index
+                0x200002e1        0x1 build/yarns_bootloader/bootloader.o
+ *fill*         0x200002e2        0x2 
+ .bss._ZL15current_address
+                0x200002e4        0x4 build/yarns_bootloader/bootloader.o
+ .bss._ZL14sysex_commands
+                0x200002e8        0x4 build/yarns_bootloader/bootloader.o
+ .bss._ZL8checksum
+                0x200002ec        0x1 build/yarns_bootloader/bootloader.o
+ .bss._ZL11total_bytes
+                0x200002ed        0x1 build/yarns_bootloader/bootloader.o
+ *fill*         0x200002ee        0x2 
+ .bss._ZL10bytes_read
+                0x200002f0        0x4 build/yarns_bootloader/bootloader.o
+ .bss._ZL15rx_buffer_index
+                0x200002f4        0x2 build/yarns_bootloader/bootloader.o
+ *fill*         0x200002f6        0x2 
+ .bss.encoder   0x200002f8        0x4 build/yarns_bootloader/bootloader.o
+                0x200002f8                encoder
+ .bss._ZL9rx_buffer
+                0x200002fc      0x404 build/yarns_bootloader/bootloader.o
+ .bss._ZL5state
+                0x20000700        0x1 build/yarns_bootloader/bootloader.o
+ *fill*         0x20000701        0x3 
+ .bss._ZN6stmlib12system_clockE
+                0x20000704        0x4 build/yarns_bootloader/system_clock.o
+                0x20000704                stmlib::system_clock
+ *(COMMON)
+                0x20000708                _ebss = .
+OUTPUT(build/yarns_bootloader/yarns_bootloader.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x33 build/yarns_bootloader/bootloader.o
+ .ARM.attributes
+                0x00000050       0x33 build/yarns_bootloader/characters.o
+ .ARM.attributes
+                0x00000083       0x33 build/yarns_bootloader/display.o
+ .ARM.attributes
+                0x000000b6       0x33 build/yarns_bootloader/encoder.o
+ .ARM.attributes
+                0x000000e9       0x33 build/yarns_bootloader/midi_io.o
+ .ARM.attributes
+                0x0000011c       0x33 build/yarns_bootloader/bootloader_utils.o
+ .ARM.attributes
+                0x0000014f       0x33 build/yarns_bootloader/system_clock.o
+ .ARM.attributes
+                0x00000182       0x33 build/yarns_bootloader/core_cm3.o
+ .ARM.attributes
+                0x000001b5       0x33 build/yarns_bootloader/system_stm32f10x.o
+ .ARM.attributes
+                0x000001e8       0x33 build/yarns_bootloader/stm32f10x_flash.o
+ .ARM.attributes
+                0x0000021b       0x33 build/yarns_bootloader/stm32f10x_gpio.o
+ .ARM.attributes
+                0x0000024e       0x33 build/yarns_bootloader/stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000281       0x33 build/yarns_bootloader/stm32f10x_usart.o
+ .ARM.attributes
+                0x000002b4       0x21 build/yarns_bootloader/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x000002d5       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000302       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000032f       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000035c       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/yarns_bootloader/bootloader.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/yarns_bootloader/characters.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/display.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/encoder.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/midi_io.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/bootloader_utils.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/system_clock.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/core_cm3.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/system_stm32f10x.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_flash.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_gpio.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_rcc.o
+ .comment       0x00000000       0x71 build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_info     0x00000000     0x6910
+ .debug_info    0x00000000     0x2231 build/yarns_bootloader/bootloader.o
+ .debug_info    0x00002231      0x2b6 build/yarns_bootloader/characters.o
+ .debug_info    0x000024e7      0x855 build/yarns_bootloader/display.o
+ .debug_info    0x00002d3c      0x480 build/yarns_bootloader/encoder.o
+ .debug_info    0x000031bc      0x565 build/yarns_bootloader/midi_io.o
+ .debug_info    0x00003721      0x2fb build/yarns_bootloader/bootloader_utils.o
+ .debug_info    0x00003a1c      0x2ce build/yarns_bootloader/system_clock.o
+ .debug_info    0x00003cea      0x509 build/yarns_bootloader/core_cm3.o
+ .debug_info    0x000041f3      0x2a2 build/yarns_bootloader/system_stm32f10x.o
+ .debug_info    0x00004495      0x8e6 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_info    0x00004d7b      0x820 build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_info    0x0000559b      0x8f3 build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_info    0x00005e8e      0xa82 build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_abbrev   0x00000000     0x1b43
+ .debug_abbrev  0x00000000      0x61b build/yarns_bootloader/bootloader.o
+ .debug_abbrev  0x0000061b       0x75 build/yarns_bootloader/characters.o
+ .debug_abbrev  0x00000690      0x2d8 build/yarns_bootloader/display.o
+ .debug_abbrev  0x00000968      0x209 build/yarns_bootloader/encoder.o
+ .debug_abbrev  0x00000b71      0x202 build/yarns_bootloader/midi_io.o
+ .debug_abbrev  0x00000d73      0x18c build/yarns_bootloader/bootloader_utils.o
+ .debug_abbrev  0x00000eff      0x1fd build/yarns_bootloader/system_clock.o
+ .debug_abbrev  0x000010fc       0xbb build/yarns_bootloader/core_cm3.o
+ .debug_abbrev  0x000011b7      0x113 build/yarns_bootloader/system_stm32f10x.o
+ .debug_abbrev  0x000012ca      0x268 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_abbrev  0x00001532      0x1e7 build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_abbrev  0x00001719      0x23f build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_abbrev  0x00001958      0x1eb build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_loc      0x00000000     0x2937
+ .debug_loc     0x00000000      0x3e3 build/yarns_bootloader/bootloader.o
+ .debug_loc     0x000003e3      0x167 build/yarns_bootloader/display.o
+ .debug_loc     0x0000054a       0x58 build/yarns_bootloader/encoder.o
+ .debug_loc     0x000005a2       0x21 build/yarns_bootloader/midi_io.o
+ .debug_loc     0x000005c3       0x21 build/yarns_bootloader/bootloader_utils.o
+ .debug_loc     0x000005e4      0x33a build/yarns_bootloader/core_cm3.o
+ .debug_loc     0x0000091e      0x856 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_loc     0x00001174      0x5f3 build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_loc     0x00001767      0x76e build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_loc     0x00001ed5      0xa62 build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_aranges  0x00000000      0x618
+ .debug_aranges
+                0x00000000       0xb8 build/yarns_bootloader/bootloader.o
+ .debug_aranges
+                0x000000b8       0x18 build/yarns_bootloader/characters.o
+ .debug_aranges
+                0x000000d0       0x48 build/yarns_bootloader/display.o
+ .debug_aranges
+                0x00000118       0x28 build/yarns_bootloader/encoder.o
+ .debug_aranges
+                0x00000140       0x20 build/yarns_bootloader/midi_io.o
+ .debug_aranges
+                0x00000160       0x28 build/yarns_bootloader/bootloader_utils.o
+ .debug_aranges
+                0x00000188       0x28 build/yarns_bootloader/system_clock.o
+ .debug_aranges
+                0x000001b0       0xc8 build/yarns_bootloader/core_cm3.o
+ .debug_aranges
+                0x00000278       0x20 build/yarns_bootloader/system_stm32f10x.o
+ .debug_aranges
+                0x00000298       0xd0 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_aranges
+                0x00000368       0xa8 build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_aranges
+                0x00000410      0x118 build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000528       0xf0 build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_ranges   0x00000000      0x710
+ .debug_ranges  0x00000000      0x1f8 build/yarns_bootloader/bootloader.o
+ .debug_ranges  0x000001f8       0x70 build/yarns_bootloader/display.o
+ .debug_ranges  0x00000268       0x18 build/yarns_bootloader/encoder.o
+ .debug_ranges  0x00000280       0x28 build/yarns_bootloader/midi_io.o
+ .debug_ranges  0x000002a8       0x30 build/yarns_bootloader/bootloader_utils.o
+ .debug_ranges  0x000002d8       0x18 build/yarns_bootloader/system_clock.o
+ .debug_ranges  0x000002f0       0xb8 build/yarns_bootloader/core_cm3.o
+ .debug_ranges  0x000003a8       0x28 build/yarns_bootloader/system_stm32f10x.o
+ .debug_ranges  0x000003d0       0xc0 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_ranges  0x00000490       0x98 build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_ranges  0x00000528      0x108 build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_ranges  0x00000630       0xe0 build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_line     0x00000000     0x22e6
+ .debug_line    0x00000000      0x817 build/yarns_bootloader/bootloader.o
+ .debug_line    0x00000817       0x6b build/yarns_bootloader/characters.o
+ .debug_line    0x00000882      0x2b6 build/yarns_bootloader/display.o
+ .debug_line    0x00000b38      0x177 build/yarns_bootloader/encoder.o
+ .debug_line    0x00000caf      0x188 build/yarns_bootloader/midi_io.o
+ .debug_line    0x00000e37      0x12e build/yarns_bootloader/bootloader_utils.o
+ .debug_line    0x00000f65       0xea build/yarns_bootloader/system_clock.o
+ .debug_line    0x0000104f      0x234 build/yarns_bootloader/core_cm3.o
+ .debug_line    0x00001283      0x109 build/yarns_bootloader/system_stm32f10x.o
+ .debug_line    0x0000138c      0x412 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_line    0x0000179e      0x335 build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_line    0x00001ad3      0x40d build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_line    0x00001ee0      0x406 build/yarns_bootloader/stm32f10x_usart.o
+
+.debug_str      0x00000000     0x292d
+ .debug_str     0x00000000     0x151c build/yarns_bootloader/bootloader.o
+                               0x1661 (size before relaxing)
+ .debug_str     0x0000151c       0x49 build/yarns_bootloader/characters.o
+                                0x210 (size before relaxing)
+ .debug_str     0x00001565      0x1c7 build/yarns_bootloader/display.o
+                                0x7b5 (size before relaxing)
+ .debug_str     0x0000172c       0x19 build/yarns_bootloader/encoder.o
+                                0x51d (size before relaxing)
+ .debug_str     0x00001745       0xae build/yarns_bootloader/midi_io.o
+                                0x5af (size before relaxing)
+ .debug_str     0x000017f3       0xc3 build/yarns_bootloader/bootloader_utils.o
+                                0x32e (size before relaxing)
+ .debug_str     0x000018b6       0x63 build/yarns_bootloader/system_clock.o
+                                0x3b1 (size before relaxing)
+ .debug_str     0x00001919      0x256 build/yarns_bootloader/core_cm3.o
+                                0x32d (size before relaxing)
+ .debug_str     0x00001b6f      0x100 build/yarns_bootloader/system_stm32f10x.o
+                                0x311 (size before relaxing)
+ .debug_str     0x00001c6f      0x332 build/yarns_bootloader/stm32f10x_flash.o
+                                0x5de (size before relaxing)
+ .debug_str     0x00001fa1      0x255 build/yarns_bootloader/stm32f10x_gpio.o
+                                0x587 (size before relaxing)
+ .debug_str     0x000021f6      0x3cb build/yarns_bootloader/stm32f10x_rcc.o
+                                0x681 (size before relaxing)
+ .debug_str     0x000025c1      0x36c build/yarns_bootloader/stm32f10x_usart.o
+                                0x70a (size before relaxing)
+
+.debug_frame    0x00000000      0xcb8
+ .debug_frame   0x00000000      0x1b8 build/yarns_bootloader/bootloader.o
+ .debug_frame   0x000001b8       0xa8 build/yarns_bootloader/display.o
+ .debug_frame   0x00000260       0x4c build/yarns_bootloader/encoder.o
+ .debug_frame   0x000002ac       0x30 build/yarns_bootloader/midi_io.o
+ .debug_frame   0x000002dc       0x40 build/yarns_bootloader/bootloader_utils.o
+ .debug_frame   0x0000031c       0x30 build/yarns_bootloader/system_clock.o
+ .debug_frame   0x0000034c      0x170 build/yarns_bootloader/core_cm3.o
+ .debug_frame   0x000004bc       0x28 build/yarns_bootloader/system_stm32f10x.o
+ .debug_frame   0x000004e4      0x1f8 build/yarns_bootloader/stm32f10x_flash.o
+ .debug_frame   0x000006dc      0x15c build/yarns_bootloader/stm32f10x_gpio.o
+ .debug_frame   0x00000838      0x21c build/yarns_bootloader/stm32f10x_rcc.o
+ .debug_frame   0x00000a54      0x1ec build/yarns_bootloader/stm32f10x_usart.o
+ .debug_frame   0x00000c40       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000c6c       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000c8c       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)

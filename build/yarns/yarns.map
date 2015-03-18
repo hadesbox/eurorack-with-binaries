@@ -1,0 +1,2946 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+                              build/yarns/just_intonation_processor.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+                              build/yarns/midi_handler.o (memcpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+                              build/yarns/layout_configurator.o (memmove)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+                              build/yarns/settings.o (strcpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+                              build/yarns/display.o (strlen)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+                              build/yarns/display.o (strncpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 build/yarns/just_intonation_processor.o
+ .text          0x00000000        0x0 build/yarns/just_intonation_processor.o
+ .data          0x00000000        0x0 build/yarns/just_intonation_processor.o
+ .bss           0x00000000        0x0 build/yarns/just_intonation_processor.o
+ .text._ZN5yarns23JustIntonationProcessorD2Ev
+                0x00000000        0x4 build/yarns/just_intonation_processor.o
+ .text.startup._GLOBAL__sub_I__ZN5yarns23JustIntonationProcessor4InitEv
+                0x00000000       0x18 build/yarns/just_intonation_processor.o
+ .init_array    0x00000000        0x4 build/yarns/just_intonation_processor.o
+ .group         0x00000000        0x8 build/yarns/layout_configurator.o
+ .text          0x00000000        0x0 build/yarns/layout_configurator.o
+ .data          0x00000000        0x0 build/yarns/layout_configurator.o
+ .bss           0x00000000        0x0 build/yarns/layout_configurator.o
+ .group         0x00000000        0x8 build/yarns/midi_handler.o
+ .text          0x00000000        0x0 build/yarns/midi_handler.o
+ .data          0x00000000        0x0 build/yarns/midi_handler.o
+ .bss           0x00000000        0x0 build/yarns/midi_handler.o
+ .text._ZN5yarns11MidiHandlerD2Ev
+                0x00000000        0x4 build/yarns/midi_handler.o
+ .text.startup._GLOBAL__sub_I__ZN5yarns11MidiHandler13input_buffer_E
+                0x00000000       0x2c build/yarns/midi_handler.o
+ .init_array    0x00000000        0x4 build/yarns/midi_handler.o
+ .bss._ZN5yarns12midi_handlerE
+                0x00000000        0x4 build/yarns/midi_handler.o
+ .group         0x00000000        0x8 build/yarns/multi.o
+ .text          0x00000000        0x0 build/yarns/multi.o
+ .data          0x00000000        0x0 build/yarns/multi.o
+ .bss           0x00000000        0x0 build/yarns/multi.o
+ .text._ZN5yarns5MultiD2Ev
+                0x00000000        0x4 build/yarns/multi.o
+ .text.startup._GLOBAL__sub_I__ZN5yarns5Multi4InitEv
+                0x00000000       0x2c build/yarns/multi.o
+ .init_array    0x00000000        0x4 build/yarns/multi.o
+ .text          0x00000000        0x0 build/yarns/part.o
+ .data          0x00000000        0x0 build/yarns/part.o
+ .bss           0x00000000        0x0 build/yarns/part.o
+ .text._ZN5yarns4Part19ResetAllControllersEv
+                0x00000000       0x2c build/yarns/part.o
+ .text          0x00000000        0x0 build/yarns/resources.o
+ .data          0x00000000        0x0 build/yarns/resources.o
+ .bss           0x00000000        0x0 build/yarns/resources.o
+ .data._ZN5yarns21lookup_table_32_tableE
+                0x00000000       0x10 build/yarns/resources.o
+ .data._ZN5yarns12string_tableE
+                0x00000000        0x4 build/yarns/resources.o
+ .data._ZN5yarns10char_tableE
+                0x00000000        0x4 build/yarns/resources.o
+ .data._ZN5yarns18lookup_table_tableE
+                0x00000000        0xc build/yarns/resources.o
+ .rodata._ZN5yarnsL9str_dummyE
+                0x00000000        0x8 build/yarns/resources.o
+ .group         0x00000000        0x8 build/yarns/settings.o
+ .text          0x00000000        0x0 build/yarns/settings.o
+ .data          0x00000000        0x0 build/yarns/settings.o
+ .bss           0x00000000        0x0 build/yarns/settings.o
+ .text._ZN5yarns8SettingsD2Ev
+                0x00000000        0x4 build/yarns/settings.o
+ .text._ZN5yarns8Settings3SetEhh
+                0x00000000        0x4 build/yarns/settings.o
+ .text._ZN5yarns8Settings3SetERKNS_7SettingEh
+                0x00000000        0x8 build/yarns/settings.o
+ .text._ZN5yarns8Settings12PrintIntegerEPch
+                0x00000000       0x4c build/yarns/settings.o
+ .text.startup._GLOBAL__sub_I__ZN5yarns8Settings9settings_E
+                0x00000000       0x18 build/yarns/settings.o
+ .init_array    0x00000000        0x4 build/yarns/settings.o
+ .group         0x00000000        0x8 build/yarns/storage_manager.o
+ .text          0x00000000        0x0 build/yarns/storage_manager.o
+ .data          0x00000000        0x0 build/yarns/storage_manager.o
+ .bss           0x00000000        0x0 build/yarns/storage_manager.o
+ .text._ZN5yarns14StorageManagerD2Ev
+                0x00000000        0x4 build/yarns/storage_manager.o
+ .text.startup._GLOBAL__sub_I__ZN5yarns14StorageManager9SaveMultiEh
+                0x00000000       0x30 build/yarns/storage_manager.o
+ .init_array    0x00000000        0x4 build/yarns/storage_manager.o
+ .text          0x00000000        0x0 build/yarns/ui.o
+ .data          0x00000000        0x0 build/yarns/ui.o
+ .bss           0x00000000        0x0 build/yarns/ui.o
+ .text._ZN5yarns2Ui11FlushEventsEv
+                0x00000000        0xc build/yarns/ui.o
+ .text._ZN5yarns2Ui11OnLongClickERKN6stmlib5EventE
+                0x00000000       0x24 build/yarns/ui.o
+ .text          0x00000000        0x0 build/yarns/voice.o
+ .data          0x00000000        0x0 build/yarns/voice.o
+ .bss           0x00000000        0x0 build/yarns/voice.o
+ .text._ZN5yarns5Voice9CalibrateEPt
+                0x00000000        0x8 build/yarns/voice.o
+ .group         0x00000000        0x8 build/yarns/yarns.o
+ .group         0x00000000        0x8 build/yarns/yarns.o
+ .group         0x00000000        0x8 build/yarns/yarns.o
+ .group         0x00000000        0x8 build/yarns/yarns.o
+ .group         0x00000000        0x8 build/yarns/yarns.o
+ .group         0x00000000        0x8 build/yarns/yarns.o
+ .text          0x00000000        0x0 build/yarns/yarns.o
+ .data          0x00000000        0x0 build/yarns/yarns.o
+ .bss           0x00000000        0x0 build/yarns/yarns.o
+ .text._ZN5yarns3DacD2Ev
+                0x00000000        0x4 build/yarns/yarns.o
+ .text._ZN5yarns10GateOutputD2Ev
+                0x00000000        0x4 build/yarns/yarns.o
+ .text._ZN5yarns6MidiIOD2Ev
+                0x00000000        0x4 build/yarns/yarns.o
+ .text._ZN5yarns6SystemD2Ev
+                0x00000000        0x4 build/yarns/yarns.o
+ .text._ZN5yarns2UiD2Ev
+                0x00000000        0x4 build/yarns/yarns.o
+ .text._ZN6stmlib11GetUniqueIdEh
+                0x00000000       0x10 build/yarns/yarns.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib11GetUniqueIdEh
+                0x00000000       0x68 build/yarns/yarns.o
+ .init_array    0x00000000        0x4 build/yarns/yarns.o
+ .text          0x00000000        0x0 build/yarns/channel_leds.o
+ .data          0x00000000        0x0 build/yarns/channel_leds.o
+ .bss           0x00000000        0x0 build/yarns/channel_leds.o
+ .text          0x00000000        0x0 build/yarns/dac.o
+ .data          0x00000000        0x0 build/yarns/dac.o
+ .bss           0x00000000        0x0 build/yarns/dac.o
+ .text          0x00000000        0x0 build/yarns/display.o
+ .data          0x00000000        0x0 build/yarns/display.o
+ .bss           0x00000000        0x0 build/yarns/display.o
+ .text          0x00000000        0x0 build/yarns/encoder.o
+ .data          0x00000000        0x0 build/yarns/encoder.o
+ .bss           0x00000000        0x0 build/yarns/encoder.o
+ .text          0x00000000        0x0 build/yarns/gate_output.o
+ .data          0x00000000        0x0 build/yarns/gate_output.o
+ .bss           0x00000000        0x0 build/yarns/gate_output.o
+ .text          0x00000000        0x0 build/yarns/midi_io.o
+ .data          0x00000000        0x0 build/yarns/midi_io.o
+ .bss           0x00000000        0x0 build/yarns/midi_io.o
+ .text          0x00000000        0x0 build/yarns/switches.o
+ .data          0x00000000        0x0 build/yarns/switches.o
+ .bss           0x00000000        0x0 build/yarns/switches.o
+ .text          0x00000000        0x0 build/yarns/system.o
+ .data          0x00000000        0x0 build/yarns/system.o
+ .bss           0x00000000        0x0 build/yarns/system.o
+ .text          0x00000000        0x0 build/yarns/random.o
+ .data          0x00000000        0x0 build/yarns/random.o
+ .bss           0x00000000        0x0 build/yarns/random.o
+ .text          0x00000000        0x0 build/yarns/bootloader_utils.o
+ .data          0x00000000        0x0 build/yarns/bootloader_utils.o
+ .bss           0x00000000        0x0 build/yarns/bootloader_utils.o
+ .text._ZN6stmlib12UninitializeEv
+                0x00000000       0x74 build/yarns/bootloader_utils.o
+ .text._ZN6stmlib6JumpToEm
+                0x00000000       0x10 build/yarns/bootloader_utils.o
+ .debug_info    0x00000000      0x2fb build/yarns/bootloader_utils.o
+ .debug_abbrev  0x00000000      0x18c build/yarns/bootloader_utils.o
+ .debug_loc     0x00000000       0x21 build/yarns/bootloader_utils.o
+ .debug_aranges
+                0x00000000       0x28 build/yarns/bootloader_utils.o
+ .debug_ranges  0x00000000       0x30 build/yarns/bootloader_utils.o
+ .debug_line    0x00000000      0x12e build/yarns/bootloader_utils.o
+ .debug_str     0x00000000      0x32e build/yarns/bootloader_utils.o
+ .comment       0x00000000       0x71 build/yarns/bootloader_utils.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/bootloader_utils.o
+ .debug_frame   0x00000000       0x40 build/yarns/bootloader_utils.o
+ .group         0x00000000        0x8 build/yarns/system_clock.o
+ .text          0x00000000        0x0 build/yarns/system_clock.o
+ .data          0x00000000        0x0 build/yarns/system_clock.o
+ .bss           0x00000000        0x0 build/yarns/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/yarns/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/yarns/system_clock.o
+ .init_array    0x00000000        0x4 build/yarns/system_clock.o
+ .text          0x00000000        0x0 build/yarns/core_cm3.o
+ .data          0x00000000        0x0 build/yarns/core_cm3.o
+ .bss           0x00000000        0x0 build/yarns/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/yarns/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/yarns/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/yarns/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/yarns/core_cm3.o
+ .debug_info    0x00000000      0x509 build/yarns/core_cm3.o
+ .debug_abbrev  0x00000000       0xbb build/yarns/core_cm3.o
+ .debug_loc     0x00000000      0x33a build/yarns/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 build/yarns/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 build/yarns/core_cm3.o
+ .debug_line    0x00000000      0x234 build/yarns/core_cm3.o
+ .debug_str     0x00000000      0x32d build/yarns/core_cm3.o
+ .comment       0x00000000       0x71 build/yarns/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/core_cm3.o
+ .debug_frame   0x00000000      0x170 build/yarns/core_cm3.o
+ .text          0x00000000        0x0 build/yarns/system_stm32f10x.o
+ .data          0x00000000        0x0 build/yarns/system_stm32f10x.o
+ .bss           0x00000000        0x0 build/yarns/system_stm32f10x.o
+ .rodata.SystemFrequency_AHBClk
+                0x00000000        0x4 build/yarns/system_stm32f10x.o
+ .rodata.SystemFrequency_SysClk
+                0x00000000        0x4 build/yarns/system_stm32f10x.o
+ .rodata.SystemFrequency
+                0x00000000        0x4 build/yarns/system_stm32f10x.o
+ .rodata.SystemFrequency_APB1Clk
+                0x00000000        0x4 build/yarns/system_stm32f10x.o
+ .rodata.SystemFrequency_APB2Clk
+                0x00000000        0x4 build/yarns/system_stm32f10x.o
+ .text          0x00000000        0x0 build/yarns/misc.o
+ .data          0x00000000        0x0 build/yarns/misc.o
+ .bss           0x00000000        0x0 build/yarns/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 build/yarns/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/yarns/misc.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_adc.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_adc.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x6c build/yarns/stm32f10x_adc.o
+ .text.ADC_Init
+                0x00000000       0x48 build/yarns/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_Cmd  0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_ResetCalibration
+                0x00000000        0xc build/yarns/stm32f10x_adc.o
+ .text.ADC_GetResetCalibrationStatus
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_StartCalibration
+                0x00000000        0xc build/yarns/stm32f10x_adc.o
+ .text.ADC_GetCalibrationStatus
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/yarns/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_RegularChannelConfig
+                0x00000000       0x9c build/yarns/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc build/yarns/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/yarns/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x14 build/yarns/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x5c build/yarns/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/yarns/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/yarns/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/yarns/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 build/yarns/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/yarns/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/yarns/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x18 build/yarns/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/yarns/stm32f10x_adc.o
+ .debug_info    0x00000000      0xbe4 build/yarns/stm32f10x_adc.o
+ .debug_abbrev  0x00000000      0x1dc build/yarns/stm32f10x_adc.o
+ .debug_loc     0x00000000      0x940 build/yarns/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000      0x138 build/yarns/stm32f10x_adc.o
+ .debug_ranges  0x00000000      0x128 build/yarns/stm32f10x_adc.o
+ .debug_line    0x00000000      0x4cf build/yarns/stm32f10x_adc.o
+ .debug_str     0x00000000      0x779 build/yarns/stm32f10x_adc.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_adc.o
+ .debug_frame   0x00000000      0x280 build/yarns/stm32f10x_adc.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_bkp.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_bkp.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x00000000       0x14 build/yarns/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x00000000        0xc build/yarns/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x00000000        0xc build/yarns/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x00000000        0xc build/yarns/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x00000000       0x18 build/yarns/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x00000000       0x18 build/yarns/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x00000000       0x1c build/yarns/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x00000000       0x20 build/yarns/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x00000000       0x14 build/yarns/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x00000000        0xc build/yarns/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x00000000       0x14 build/yarns/stm32f10x_bkp.o
+ .debug_info    0x00000000      0x790 build/yarns/stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x18a build/yarns/stm32f10x_bkp.o
+ .debug_loc     0x00000000       0xee build/yarns/stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x78 build/yarns/stm32f10x_bkp.o
+ .debug_ranges  0x00000000       0x68 build/yarns/stm32f10x_bkp.o
+ .debug_line    0x00000000      0x21d build/yarns/stm32f10x_bkp.o
+ .debug_str     0x00000000      0x62f build/yarns/stm32f10x_bkp.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_bkp.o
+ .debug_frame   0x00000000       0xe0 build/yarns/stm32f10x_bkp.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_can.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_can.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/yarns/stm32f10x_can.o
+ .text.CAN_Init
+                0x00000000       0xec build/yarns/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x00000000       0xf4 build/yarns/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/yarns/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/yarns/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/yarns/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x00000000       0xd0 build/yarns/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x74 build/yarns/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/yarns/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x00000000        0xc build/yarns/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/yarns/stm32f10x_can.o
+ .text.CAN_Receive
+                0x00000000       0x90 build/yarns/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/yarns/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/yarns/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x2c build/yarns/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x00000000        0xc build/yarns/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xa4 build/yarns/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0xa0 build/yarns/stm32f10x_can.o
+ .rodata.CSWTCH.10
+                0x00000000        0x8 build/yarns/stm32f10x_can.o
+ .debug_info    0x00000000      0xae8 build/yarns/stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x28f build/yarns/stm32f10x_can.o
+ .debug_loc     0x00000000      0x7f8 build/yarns/stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0xb0 build/yarns/stm32f10x_can.o
+ .debug_ranges  0x00000000      0x120 build/yarns/stm32f10x_can.o
+ .debug_line    0x00000000      0x490 build/yarns/stm32f10x_can.o
+ .debug_str     0x00000000      0x6ef build/yarns/stm32f10x_can.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_can.o
+ .debug_frame   0x00000000      0x17c build/yarns/stm32f10x_can.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_crc.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_crc.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/yarns/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/yarns/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x1c build/yarns/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/yarns/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/yarns/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/yarns/stm32f10x_crc.o
+ .debug_info    0x00000000      0x1c7 build/yarns/stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x114 build/yarns/stm32f10x_crc.o
+ .debug_loc     0x00000000       0x75 build/yarns/stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/yarns/stm32f10x_crc.o
+ .debug_ranges  0x00000000       0x38 build/yarns/stm32f10x_crc.o
+ .debug_line    0x00000000      0x16d build/yarns/stm32f10x_crc.o
+ .debug_str     0x00000000      0x2a2 build/yarns/stm32f10x_crc.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_crc.o
+ .debug_frame   0x00000000       0x70 build/yarns/stm32f10x_crc.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_dac.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_dac.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/yarns/stm32f10x_dac.o
+ .text.DAC_Init
+                0x00000000       0x30 build/yarns/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/yarns/stm32f10x_dac.o
+ .text.DAC_Cmd  0x00000000       0x20 build/yarns/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x20 build/yarns/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x20 build/yarns/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/yarns/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x1c build/yarns/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/yarns/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/yarns/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/yarns/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/yarns/stm32f10x_dac.o
+ .debug_info    0x00000000      0x4ab build/yarns/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1b8 build/yarns/stm32f10x_dac.o
+ .debug_loc     0x00000000      0x235 build/yarns/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x78 build/yarns/stm32f10x_dac.o
+ .debug_ranges  0x00000000       0x68 build/yarns/stm32f10x_dac.o
+ .debug_line    0x00000000      0x267 build/yarns/stm32f10x_dac.o
+ .debug_str     0x00000000      0x425 build/yarns/stm32f10x_dac.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_dac.o
+ .debug_frame   0x00000000       0xec build/yarns/stm32f10x_dac.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/yarns/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/yarns/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x18 build/yarns/stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x12c build/yarns/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xdc build/yarns/stm32f10x_dbgmcu.o
+ .debug_loc     0x00000000       0x3a build/yarns/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x30 build/yarns/stm32f10x_dbgmcu.o
+ .debug_ranges  0x00000000       0x20 build/yarns/stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x129 build/yarns/stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x26e build/yarns/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x40 build/yarns/stm32f10x_dbgmcu.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_dma.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_dma.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_dma.o
+ .text.DMA_DeInit
+                0x00000000      0x100 build/yarns/stm32f10x_dma.o
+ .text.DMA_Init
+                0x00000000       0x40 build/yarns/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x1c build/yarns/stm32f10x_dma.o
+ .text.DMA_Cmd  0x00000000       0x14 build/yarns/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x14 build/yarns/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/yarns/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x1c build/yarns/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x14 build/yarns/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x1c build/yarns/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x14 build/yarns/stm32f10x_dma.o
+ .debug_info    0x00000000      0x400 build/yarns/stm32f10x_dma.o
+ .debug_abbrev  0x00000000      0x16d build/yarns/stm32f10x_dma.o
+ .debug_loc     0x00000000      0x177 build/yarns/stm32f10x_dma.o
+ .debug_aranges
+                0x00000000       0x68 build/yarns/stm32f10x_dma.o
+ .debug_ranges  0x00000000       0x58 build/yarns/stm32f10x_dma.o
+ .debug_line    0x00000000      0x261 build/yarns/stm32f10x_dma.o
+ .debug_str     0x00000000      0x3fd build/yarns/stm32f10x_dma.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_dma.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_dma.o
+ .debug_frame   0x00000000       0xbc build/yarns/stm32f10x_dma.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_exti.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_exti.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/yarns/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x80 build/yarns/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/yarns/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/yarns/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/yarns/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/yarns/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x1c build/yarns/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/yarns/stm32f10x_exti.o
+ .debug_info    0x00000000      0x314 build/yarns/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x169 build/yarns/stm32f10x_exti.o
+ .debug_loc     0x00000000      0x224 build/yarns/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/yarns/stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x48 build/yarns/stm32f10x_exti.o
+ .debug_line    0x00000000      0x217 build/yarns/stm32f10x_exti.o
+ .debug_str     0x00000000      0x3c5 build/yarns/stm32f10x_exti.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_exti.o
+ .debug_frame   0x00000000       0x98 build/yarns/stm32f10x_exti.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_flash.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_flash.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x14 build/yarns/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x18 build/yarns/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x18 build/yarns/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/yarns/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000        0xc build/yarns/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000        0xc build/yarns/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x10 build/yarns/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x10 build/yarns/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x18 build/yarns/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x20 build/yarns/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000        0xc build/yarns/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x40 build/yarns/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0x7c build/yarns/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x48 build/yarns/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000       0xa0 build/yarns/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0x94 build/yarns/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x58 build/yarns/stm32f10x_flash.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xbc build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x7c build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x54 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x20 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/yarns/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/yarns/stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x8b8 build/yarns/stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x197 build/yarns/stm32f10x_fsmc.o
+ .debug_loc     0x00000000      0x4ae build/yarns/stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/yarns/stm32f10x_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/yarns/stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x412 build/yarns/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x7d5 build/yarns/stm32f10x_fsmc.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x190 build/yarns/stm32f10x_fsmc.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_gpio.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xdc build/yarns/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/yarns/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x20 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc build/yarns/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x00000000       0x60 build/yarns/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2c build/yarns/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/yarns/stm32f10x_gpio.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_i2c.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x3c build/yarns/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000       0xdc build/yarns/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/yarns/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/yarns/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x14 build/yarns/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000        0x4 build/yarns/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/yarns/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x14 build/yarns/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/yarns/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x20 build/yarns/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x20 build/yarns/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/yarns/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/yarns/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/yarns/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x18 build/yarns/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x38 build/yarns/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/yarns/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1c build/yarns/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/yarns/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb22 build/yarns/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x1de build/yarns/stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x73d build/yarns/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x118 build/yarns/stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x108 build/yarns/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x45c build/yarns/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x6ce build/yarns/stm32f10x_i2c.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x238 build/yarns/stm32f10x_i2c.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/yarns/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/yarns/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/yarns/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/yarns/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/yarns/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/yarns/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x1c1 build/yarns/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000       0xff build/yarns/stm32f10x_iwdg.o
+ .debug_loc     0x00000000       0x62 build/yarns/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/yarns/stm32f10x_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/yarns/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x158 build/yarns/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x2c3 build/yarns/stm32f10x_iwdg.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0x70 build/yarns/stm32f10x_iwdg.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_pwr.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/yarns/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/yarns/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/yarns/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/yarns/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/yarns/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x34 build/yarns/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/yarns/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/yarns/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/yarns/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x2ef build/yarns/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x17c build/yarns/stm32f10x_pwr.o
+ .debug_loc     0x00000000      0x111 build/yarns/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x60 build/yarns/stm32f10x_pwr.o
+ .debug_ranges  0x00000000       0x50 build/yarns/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x216 build/yarns/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x339 build/yarns/stm32f10x_pwr.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_pwr.o
+ .debug_frame   0x00000000       0xb0 build/yarns/stm32f10x_pwr.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_rcc.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 build/yarns/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x38 build/yarns/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/yarns/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/yarns/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 build/yarns/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/yarns/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 build/yarns/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x00000000       0x18 build/yarns/stm32f10x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 build/yarns/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 build/yarns/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 build/yarns/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/yarns/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/yarns/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/yarns/stm32f10x_rcc.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_rtc.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x1c build/yarns/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x14 build/yarns/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x14 build/yarns/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x14 build/yarns/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x28 build/yarns/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x28 build/yarns/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x28 build/yarns/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x18 build/yarns/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x10 build/yarns/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x1c build/yarns/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x14 build/yarns/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x14 build/yarns/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x20 build/yarns/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x14 build/yarns/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x452 build/yarns/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1ca build/yarns/stm32f10x_rtc.o
+ .debug_loc     0x00000000      0x20e build/yarns/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x88 build/yarns/stm32f10x_rtc.o
+ .debug_ranges  0x00000000       0xd8 build/yarns/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x248 build/yarns/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x401 build/yarns/stm32f10x_rtc.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_rtc.o
+ .debug_frame   0x00000000       0xf0 build/yarns/stm32f10x_rtc.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_sdio.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_sdio.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x24 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x30 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000       0x18 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x18 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x2c build/yarns/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x2c build/yarns/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/yarns/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/yarns/stm32f10x_sdio.o
+ .debug_info    0x00000000      0x7ac build/yarns/stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1d6 build/yarns/stm32f10x_sdio.o
+ .debug_loc     0x00000000      0x238 build/yarns/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/yarns/stm32f10x_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/yarns/stm32f10x_sdio.o
+ .debug_line    0x00000000      0x3bb build/yarns/stm32f10x_sdio.o
+ .debug_str     0x00000000      0x6a2 build/yarns/stm32f10x_sdio.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x20c build/yarns/stm32f10x_sdio.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_spi.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_spi.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x6c build/yarns/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0xb4 build/yarns/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/yarns/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/yarns/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x1c build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x20 build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x14 build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/yarns/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x20 build/yarns/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x1c build/yarns/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x18 build/yarns/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/yarns/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x1c build/yarns/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/yarns/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/yarns/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x20 build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x2c build/yarns/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x10 build/yarns/stm32f10x_spi.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_tim.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_tim.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000       0xf8 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0x7c build/yarns/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x90 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0x6c build/yarns/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x168 build/yarns/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x150 build/yarns/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x28 build/yarns/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x20 build/yarns/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/yarns/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x88 build/yarns/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x28 build/yarns/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x24 build/yarns/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x18 build/yarns/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x40 build/yarns/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x4c build/yarns/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x14 build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x18 build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x18 build/yarns/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x18 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x18 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x18 build/yarns/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1c build/yarns/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x10 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/yarns/stm32f10x_tim.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_usart.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_usart.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0xb0 build/yarns/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/yarns/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x24 build/yarns/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/yarns/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/yarns/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x14 build/yarns/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x18 build/yarns/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x18 build/yarns/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x1c build/yarns/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x18 build/yarns/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x1c build/yarns/stm32f10x_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/yarns/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/yarns/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/yarns/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x14 build/yarns/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x14 build/yarns/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1c build/yarns/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x1c build/yarns/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x1c build/yarns/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x18 build/yarns/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x1c build/yarns/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/yarns/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x4c build/yarns/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x10 build/yarns/stm32f10x_usart.o
+ .text          0x00000000        0x0 build/yarns/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 build/yarns/stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000        0xc build/yarns/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/yarns/stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x24e build/yarns/stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x13e build/yarns/stm32f10x_wwdg.o
+ .debug_loc     0x00000000       0xae build/yarns/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/yarns/stm32f10x_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/yarns/stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x1ce build/yarns/stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x2f6 build/yarns/stm32f10x_wwdg.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/yarns/stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0x9c build/yarns/stm32f10x_wwdg.o
+ .text          0x00000000       0x14 build/yarns/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 build/yarns/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 build/yarns/startup_stm32f10x_md.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08001000         0x0001f000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD build/yarns/just_intonation_processor.o
+LOAD build/yarns/layout_configurator.o
+LOAD build/yarns/midi_handler.o
+LOAD build/yarns/multi.o
+LOAD build/yarns/part.o
+LOAD build/yarns/resources.o
+LOAD build/yarns/settings.o
+LOAD build/yarns/storage_manager.o
+LOAD build/yarns/ui.o
+LOAD build/yarns/voice.o
+LOAD build/yarns/yarns.o
+LOAD build/yarns/channel_leds.o
+LOAD build/yarns/dac.o
+LOAD build/yarns/display.o
+LOAD build/yarns/encoder.o
+LOAD build/yarns/gate_output.o
+LOAD build/yarns/midi_io.o
+LOAD build/yarns/switches.o
+LOAD build/yarns/system.o
+LOAD build/yarns/random.o
+LOAD build/yarns/bootloader_utils.o
+LOAD build/yarns/system_clock.o
+LOAD build/yarns/core_cm3.o
+LOAD build/yarns/system_stm32f10x.o
+LOAD build/yarns/misc.o
+LOAD build/yarns/stm32f10x_adc.o
+LOAD build/yarns/stm32f10x_bkp.o
+LOAD build/yarns/stm32f10x_can.o
+LOAD build/yarns/stm32f10x_crc.o
+LOAD build/yarns/stm32f10x_dac.o
+LOAD build/yarns/stm32f10x_dbgmcu.o
+LOAD build/yarns/stm32f10x_dma.o
+LOAD build/yarns/stm32f10x_exti.o
+LOAD build/yarns/stm32f10x_flash.o
+LOAD build/yarns/stm32f10x_fsmc.o
+LOAD build/yarns/stm32f10x_gpio.o
+LOAD build/yarns/stm32f10x_i2c.o
+LOAD build/yarns/stm32f10x_iwdg.o
+LOAD build/yarns/stm32f10x_pwr.o
+LOAD build/yarns/stm32f10x_rcc.o
+LOAD build/yarns/stm32f10x_rtc.o
+LOAD build/yarns/stm32f10x_sdio.o
+LOAD build/yarns/stm32f10x_spi.o
+LOAD build/yarns/stm32f10x_tim.o
+LOAD build/yarns/stm32f10x_usart.o
+LOAD build/yarns/stm32f10x_wwdg.o
+LOAD build/yarns/startup_stm32f10x_md.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.text           0x08001000    0x18af0
+                0x08001000                _start = .
+ *(.isr_vector)
+ .isr_vector    0x08001000      0x10c build/yarns/startup_stm32f10x_md.o
+                0x08001000                g_pfnVectors
+ *(.text*)
+ .text._ZN5yarns23JustIntonationProcessor4InitEv
+                0x0800110c       0x20 build/yarns/just_intonation_processor.o
+                0x0800110c                yarns::JustIntonationProcessor::Init()
+ .text._ZN5yarns23JustIntonationProcessor12TuneInternalEh
+                0x0800112c       0x98 build/yarns/just_intonation_processor.o
+                0x0800112c                yarns::JustIntonationProcessor::TuneInternal(unsigned char)
+ .text._ZSt25__unguarded_linear_insertIPN5yarns18LayoutConfigurator5SplitENS1_9SplitLessEEvT_T0_.isra.3
+                0x080011c4       0x3c build/yarns/layout_configurator.o
+ .text._ZSt16__insertion_sortIPN5yarns18LayoutConfigurator5SplitENS1_9SplitLessEEvT_S5_T0_.isra.14
+                0x08001200       0x78 build/yarns/layout_configurator.o
+ .text._ZSt13__adjust_heapIPN5yarns18LayoutConfigurator5SplitEiS2_NS1_9SplitLessEEvT_T0_S6_T1_T2_
+                0x08001278      0x100 build/yarns/layout_configurator.o
+                0x08001278                void std::__adjust_heap<yarns::LayoutConfigurator::Split*, int, yarns::LayoutConfigurator::Split, yarns::LayoutConfigurator::SplitLess>(yarns::LayoutConfigurator::Split*, int, int, yarns::LayoutConfigurator::Split, yarns::LayoutConfigurator::SplitLess)
+ .text._ZSt16__introsort_loopIPN5yarns18LayoutConfigurator5SplitEiNS1_9SplitLessEEvT_S5_T0_T1_.isra.13
+                0x08001378      0x230 build/yarns/layout_configurator.o
+ .text._ZN5yarns18LayoutConfigurator12StopLearningEPNS_5MultiE
+                0x080015a8      0x360 build/yarns/layout_configurator.o
+                0x080015a8                yarns::LayoutConfigurator::StopLearning(yarns::Multi*)
+ .text._ZN5yarns11MidiHandler32HandleScaleOctaveTuning1ByteFormEv
+                0x08001908       0x44 build/yarns/midi_handler.o
+                0x08001908                yarns::MidiHandler::HandleScaleOctaveTuning1ByteForm()
+ .text._ZN5yarns11MidiHandler32HandleScaleOctaveTuning2ByteFormEv
+                0x0800194c       0x34 build/yarns/midi_handler.o
+                0x0800194c                yarns::MidiHandler::HandleScaleOctaveTuning2ByteForm()
+ .text._ZN5yarns11MidiHandler26HandleYarnsSpecificMessageEv
+                0x08001980      0x188 build/yarns/midi_handler.o
+                0x08001980                yarns::MidiHandler::HandleYarnsSpecificMessage()
+ .text._ZN5yarns11MidiHandler4InitEv
+                0x08001b08       0x64 build/yarns/midi_handler.o
+                0x08001b08                yarns::MidiHandler::Init()
+ .text._ZN5yarns11MidiHandler18DecodeSysExMessageEv
+                0x08001b6c       0x58 build/yarns/midi_handler.o
+                0x08001b6c                yarns::MidiHandler::DecodeSysExMessage()
+ .text._ZN5yarns11MidiHandler15SysExSendPacketEhPKhj
+                0x08001bc4      0x194 build/yarns/midi_handler.o
+                0x08001bc4                yarns::MidiHandler::SysExSendPacket(unsigned char, unsigned char const*, unsigned int)
+ .text._ZN5yarns11MidiHandler16SysExSendPacketsEPKhj
+                0x08001d58       0x38 build/yarns/midi_handler.o
+                0x08001d58                yarns::MidiHandler::SysExSendPackets(unsigned char const*, unsigned int)
+ .text._ZN5yarns5Multi4StopEv.part.8
+                0x08001d90       0x54 build/yarns/multi.o
+ .text._ZN5yarns5Multi4InitEv
+                0x08001de4      0x130 build/yarns/multi.o
+                0x08001de4                yarns::Multi::Init()
+ .text._ZN5yarns5Multi5StartEb
+                0x08001f14       0xb4 build/yarns/multi.o
+                0x08001f14                yarns::Multi::Start(bool)
+ .text._ZN5yarns5Multi4StopEv
+                0x08001fc8        0xc build/yarns/multi.o
+                0x08001fc8                yarns::Multi::Stop()
+ .text._ZN5yarns5Multi7RefreshEv
+                0x08001fd4       0x30 build/yarns/multi.o
+                0x08001fd4                yarns::Multi::Refresh()
+ .text._ZN5yarns5Multi9GetCvGateEPtPb
+                0x08002004      0x294 build/yarns/multi.o
+                0x08002004                yarns::Multi::GetCvGate(unsigned short*, bool*)
+ .text._ZN5yarns5Multi14GetAudioSourceEPh
+                0x08002298       0xe0 build/yarns/multi.o
+                0x08002298                yarns::Multi::GetAudioSource(unsigned char*)
+ .text._ZN5yarns5Multi17GetLedsBrightnessEPh
+                0x08002378      0x15c build/yarns/multi.o
+                0x08002378                yarns::Multi::GetLedsBrightness(unsigned char*)
+ .text._ZN5yarns5Multi12UpdateLayoutEv
+                0x080024d4      0x110 build/yarns/multi.o
+                0x080024d4                yarns::Multi::UpdateLayout()
+ .text._ZN5yarns5Multi12ChangeLayoutENS_6LayoutES1_
+                0x080025e4      0x388 build/yarns/multi.o
+                0x080025e4                yarns::Multi::ChangeLayout(yarns::Layout, yarns::Layout)
+ .text._ZN5yarns5Multi3SetEhh
+                0x0800296c       0x50 build/yarns/multi.o
+                0x0800296c                yarns::Multi::Set(unsigned char, unsigned char)
+ .text._ZN5yarns5Multi5TouchEv
+                0x080029bc       0x50 build/yarns/multi.o
+                0x080029bc                yarns::Multi::Touch()
+ .text._ZN5yarns5Multi9StartSongEv
+                0x08002a0c       0x58 build/yarns/multi.o
+                0x08002a0c                yarns::Multi::StartSong()
+ .text._ZN5yarns5Multi9ClockSongEv
+                0x08002a64       0x98 build/yarns/multi.o
+                0x08002a64                yarns::Multi::ClockSong()
+ .text._ZN5yarns5Multi5ClockEv
+                0x08002afc      0x148 build/yarns/multi.o
+                0x08002afc                yarns::Multi::Clock()
+ .text._ZN5yarns5Multi13ControlChangeEhhh
+                0x08002c44       0x9c build/yarns/multi.o
+                0x08002c44                yarns::Multi::ControlChange(unsigned char, unsigned char, unsigned char)
+ .text._ZN5yarns4Part4InitEv
+                0x08002ce0      0x164 build/yarns/part.o
+                0x08002ce0                yarns::Part::Init()
+ .text._ZN5yarns4Part9PitchBendEht
+                0x08002e44       0x58 build/yarns/part.o
+                0x08002e44                yarns::Part::PitchBend(unsigned char, unsigned short)
+ .text._ZN5yarns4Part10AftertouchEhhh
+                0x08002e9c       0xc4 build/yarns/part.o
+                0x08002e9c                yarns::Part::Aftertouch(unsigned char, unsigned char, unsigned char)
+ .text._ZN5yarns4Part10AftertouchEhh
+                0x08002f60       0x2c build/yarns/part.o
+                0x08002f60                yarns::Part::Aftertouch(unsigned char, unsigned char)
+ .text._ZN5yarns4Part19ResetAllControllersEh
+                0x08002f8c       0x34 build/yarns/part.o
+                0x08002f8c                yarns::Part::ResetAllControllers(unsigned char)
+ .text._ZN5yarns4Part5StartEb
+                0x08002fc0       0xb4 build/yarns/part.o
+                0x08002fc0                yarns::Part::Start(bool)
+ .text._ZN5yarns4Part14StartRecordingEv
+                0x08003074       0x50 build/yarns/part.o
+                0x08003074                yarns::Part::StartRecording()
+ .text._ZN5yarns4Part11AllNotesOffEv
+                0x080030c4      0x118 build/yarns/part.o
+                0x080030c4                yarns::Part::AllNotesOff()
+ .text._ZN5yarns4Part11AllNotesOffEh
+                0x080031dc       0x14 build/yarns/part.o
+                0x080031dc                yarns::Part::AllNotesOff(unsigned char)
+ .text._ZN5yarns4Part11AllSoundOffEh
+                0x080031f0       0x14 build/yarns/part.o
+                0x080031f0                yarns::Part::AllSoundOff(unsigned char)
+ .text._ZN5yarns4Part20TouchVoiceAllocationEv
+                0x08003204       0x30 build/yarns/part.o
+                0x08003204                yarns::Part::TouchVoiceAllocation()
+ .text._ZN5yarns4Part11TouchVoicesEv
+                0x08003234       0x88 build/yarns/part.o
+                0x08003234                yarns::Part::TouchVoices()
+ .text._ZN5yarns4Part14AllocateVoicesEPNS_5VoiceEhb
+                0x080032bc       0x88 build/yarns/part.o
+                0x080032bc                yarns::Part::AllocateVoices(yarns::Voice*, unsigned char, bool)
+ .text._ZN5yarns4Part3SetEhh
+                0x08003344       0x64 build/yarns/part.o
+                0x08003344                yarns::Part::Set(unsigned char, unsigned char)
+ .text._ZN5yarns4Part4TuneEs
+                0x080033a8       0xd0 build/yarns/part.o
+                0x080033a8                yarns::Part::Tune(short)
+ .text._ZN5yarns4Part14InternalNoteOnEhh
+                0x08003478      0x608 build/yarns/part.o
+                0x08003478                yarns::Part::InternalNoteOn(unsigned char, unsigned char)
+ .text._ZN5yarns4Part15InternalNoteOffEh
+                0x08003a80      0x3b0 build/yarns/part.o
+                0x08003a80                yarns::Part::InternalNoteOff(unsigned char)
+ .text._ZN5yarns4Part7NoteOffEhh
+                0x08003e30      0x158 build/yarns/part.o
+                0x08003e30                yarns::Part::NoteOff(unsigned char, unsigned char)
+ .text._ZN5yarns4Part19ReleaseLatchedNotesEv
+                0x08003f88       0x34 build/yarns/part.o
+                0x08003f88                yarns::Part::ReleaseLatchedNotes()
+ .text._ZN5yarns4Part6NoteOnEhhh
+                0x08003fbc      0x348 build/yarns/part.o
+                0x08003fbc                yarns::Part::NoteOn(unsigned char, unsigned char, unsigned char)
+ .text._ZN5yarns4Part13ControlChangeEhhh
+                0x08004304       0x94 build/yarns/part.o
+                0x08004304                yarns::Part::ControlChange(unsigned char, unsigned char, unsigned char)
+ .text._ZN5yarns4Part29StopSequencerArpeggiatorNotesEv
+                0x08004398      0x108 build/yarns/part.o
+                0x08004398                yarns::Part::StopSequencerArpeggiatorNotes()
+ .text._ZN5yarns4Part14ClockSequencerEv
+                0x080044a0      0x3b8 build/yarns/part.o
+                0x080044a0                yarns::Part::ClockSequencer()
+ .text._ZN5yarns4Part16ClockArpeggiatorEv
+                0x08004858      0x79c build/yarns/part.o
+                0x08004858                yarns::Part::ClockArpeggiator()
+ .text._ZN5yarns4Part5ClockEv
+                0x08004ff4       0xdc build/yarns/part.o
+                0x08004ff4                yarns::Part::Clock()
+ .text._ZN5yarns4Part4StopEv
+                0x080050d0       0x18 build/yarns/part.o
+                0x080050d0                yarns::Part::Stop()
+ .text._ZN5yarns4Part5ResetEv
+                0x080050e8       0x3c build/yarns/part.o
+                0x080050e8                yarns::Part::Reset()
+ .text._ZN5yarns8Settings4InitEv
+                0x08005124       0x74 build/yarns/settings.o
+                0x08005124                yarns::Settings::Init()
+ .text._ZN5yarns8Settings3SetERKNS_7SettingEPhh
+                0x08005198       0x78 build/yarns/settings.o
+                0x08005198                yarns::Settings::Set(yarns::Setting const&, unsigned char*, unsigned char)
+ .text._ZN5yarns8Settings9SetFromCCEhhh
+                0x08005210       0x5c build/yarns/settings.o
+                0x08005210                yarns::Settings::SetFromCC(unsigned char, unsigned char, unsigned char)
+ .text._ZNK5yarns8Settings3GetERKNS_7SettingE
+                0x0800526c       0x3c build/yarns/settings.o
+                0x0800526c                yarns::Settings::Get(yarns::Setting const&) const
+ .text._ZNK5yarns8Settings5PrintERKNS_7SettingEPc
+                0x080052a8      0x1c0 build/yarns/settings.o
+                0x080052a8                yarns::Settings::Print(yarns::Setting const&, char*) const
+ .text._ZN5yarns8Settings9IncrementERKNS_7SettingEs
+                0x08005468       0x40 build/yarns/settings.o
+                0x08005468                yarns::Settings::Increment(yarns::Setting const&, short)
+ .text._ZN5yarns14StorageManager9SaveMultiEh
+                0x080054a8      0x138 build/yarns/storage_manager.o
+                0x080054a8                yarns::StorageManager::SaveMulti(unsigned char)
+ .text._ZN5yarns14StorageManager9LoadMultiEh
+                0x080055e0      0x248 build/yarns/storage_manager.o
+                0x080055e0                yarns::StorageManager::LoadMulti(unsigned char)
+ .text._ZN5yarns14StorageManager15SaveCalibrationEv
+                0x08005828       0xb4 build/yarns/storage_manager.o
+                0x08005828                yarns::StorageManager::SaveCalibration()
+ .text._ZN5yarns14StorageManager15LoadCalibrationEv
+                0x080058dc       0xe0 build/yarns/storage_manager.o
+                0x080058dc                yarns::StorageManager::LoadCalibration()
+ .text._ZN5yarns14StorageManager14SysExSendMultiEv
+                0x080059bc       0xf0 build/yarns/storage_manager.o
+                0x080059bc                yarns::StorageManager::SysExSendMulti()
+ .text._ZN5yarns14StorageManager16DeserializeMultiEv
+                0x08005aac      0x10c build/yarns/storage_manager.o
+                0x08005aac                yarns::StorageManager::DeserializeMulti()
+ .text._ZN5yarns2Ui7OnClickERKN6stmlib5EventE
+                0x08005bb8       0x1c build/yarns/ui.o
+                0x08005bb8                yarns::Ui::OnClick(stmlib::Event const&)
+ .text._ZN5yarns2Ui11OnIncrementERKN6stmlib5EventE
+                0x08005bd4       0x40 build/yarns/ui.o
+                0x08005bd4                yarns::Ui::OnIncrement(stmlib::Event const&)
+ .text._ZN5yarns2Ui15OnClickMainMenuERKN6stmlib5EventE
+                0x08005c14       0x50 build/yarns/ui.o
+                0x08005c14                yarns::Ui::OnClickMainMenu(stmlib::Event const&)
+ .text._ZN5yarns2Ui28OnClickCalibrationSelectNoteERKN6stmlib5EventE
+                0x08005c64       0x20 build/yarns/ui.o
+                0x08005c64                yarns::Ui::OnClickCalibrationSelectNote(stmlib::Event const&)
+ .text._ZN5yarns2Ui21OnClickFactoryTestingERKN6stmlib5EventE
+                0x08005c84        0x8 build/yarns/ui.o
+                0x08005c84                yarns::Ui::OnClickFactoryTesting(stmlib::Event const&)
+ .text._ZN5yarns2Ui26OnIncrementParameterSelectERKN6stmlib5EventE
+                0x08005c8c       0x4c build/yarns/ui.o
+                0x08005c8c                yarns::Ui::OnIncrementParameterSelect(stmlib::Event const&)
+ .text._ZN5yarns2Ui32OnIncrementCalibrationAdjustmentERKN6stmlib5EventE
+                0x08005cd8       0x34 build/yarns/ui.o
+                0x08005cd8                yarns::Ui::OnIncrementCalibrationAdjustment(stmlib::Event const&)
+ .text._ZN5yarns2Ui25OnIncrementFactoryTestingERKN6stmlib5EventE
+                0x08005d0c       0x48 build/yarns/ui.o
+                0x08005d0c                yarns::Ui::OnIncrementFactoryTesting(stmlib::Event const&)
+ .text._ZN5yarns2Ui14DoLearnCommandEv
+                0x08005d54       0x14 build/yarns/ui.o
+                0x08005d54                yarns::Ui::DoLearnCommand()
+ .text._ZN5yarns2Ui20PrintCalibrationNoteEv
+                0x08005d68       0x18 build/yarns/ui.o
+                0x08005d68                yarns::Ui::PrintCalibrationNote()
+ .text._ZN5yarns2Ui15PrintPushItNoteEv
+                0x08005d80       0x60 build/yarns/ui.o
+                0x08005d80                yarns::Ui::PrintPushItNote()
+ .text._ZN5yarns2Ui13PrintMenuNameEv
+                0x08005de0       0x18 build/yarns/ui.o
+                0x08005de0                yarns::Ui::PrintMenuName()
+ .text._ZN5yarns2Ui13PrintLearningEv
+                0x08005df8       0x10 build/yarns/ui.o
+                0x08005df8                yarns::Ui::PrintLearning()
+ .text._ZN5yarns2Ui18PrintVersionNumberEv
+                0x08005e08       0x10 build/yarns/ui.o
+                0x08005e08                yarns::Ui::PrintVersionNumber()
+ .text._ZN5yarns2Ui18PrintParameterNameEv
+                0x08005e18       0x30 build/yarns/ui.o
+                0x08005e18                yarns::Ui::PrintParameterName()
+ .text._ZN5yarns2Ui19PrintParameterValueEv
+                0x08005e48       0x4c build/yarns/ui.o
+                0x08005e48                yarns::Ui::PrintParameterValue()
+ .text._ZN5yarns2Ui18PrintRecordingPartEv
+                0x08005e94       0x2c build/yarns/ui.o
+                0x08005e94                yarns::Ui::PrintRecordingPart()
+ .text._ZN5yarns2Ui15OnClickLoadSaveERKN6stmlib5EventE
+                0x08005ec0       0x48 build/yarns/ui.o
+                0x08005ec0                yarns::Ui::OnClickLoadSave(stmlib::Event const&)
+ .text._ZN5yarns2Ui29OnClickCalibrationSelectVoiceERKN6stmlib5EventE
+                0x08005f08       0x30 build/yarns/ui.o
+                0x08005f08                yarns::Ui::OnClickCalibrationSelectVoice(stmlib::Event const&)
+ .text._ZN5yarns2Ui15OnClickLearningERKN6stmlib5EventE
+                0x08005f38       0x1c build/yarns/ui.o
+                0x08005f38                yarns::Ui::OnClickLearning(stmlib::Event const&)
+ .text._ZN5yarns2Ui24OnIncrementParameterEditERKN6stmlib5EventE
+                0x08005f54       0x34 build/yarns/ui.o
+                0x08005f54                yarns::Ui::OnIncrementParameterEdit(stmlib::Event const&)
+ .text._ZN5yarns2Ui13DoInitCommandEv
+                0x08005f88        0xc build/yarns/ui.o
+                0x08005f88                yarns::Ui::DoInitCommand()
+ .text._ZN5yarns2Ui13DoDumpCommandEv
+                0x08005f94        0xc build/yarns/ui.o
+                0x08005f94                yarns::Ui::DoDumpCommand()
+ .text._ZN5yarns2Ui18PrintProgramNumberEv
+                0x08005fa0       0x44 build/yarns/ui.o
+                0x08005fa0                yarns::Ui::PrintProgramNumber()
+ .text._ZN5yarns2Ui27PrintCalibrationVoiceNumberEv
+                0x08005fe4       0x44 build/yarns/ui.o
+                0x08005fe4                yarns::Ui::PrintCalibrationVoiceNumber()
+ .text._ZN5yarns2Ui19PrintFactoryTestingEv
+                0x08006028       0xbc build/yarns/ui.o
+                0x08006028                yarns::Ui::PrintFactoryTesting()
+ .text._ZN5yarns2Ui20PrintRecordingStatusEv
+                0x080060e4       0x74 build/yarns/ui.o
+                0x080060e4                yarns::Ui::PrintRecordingStatus()
+ .text._ZN5yarns2Ui22OnIncrementOverdubbingERKN6stmlib5EventE
+                0x08006158       0xac build/yarns/ui.o
+                0x08006158                yarns::Ui::OnIncrementOverdubbing(stmlib::Event const&)
+ .text._ZN5yarns2Ui26OnClickSelectRecordingPartERKN6stmlib5EventE
+                0x08006204       0x6c build/yarns/ui.o
+                0x08006204                yarns::Ui::OnClickSelectRecordingPart(stmlib::Event const&)
+ .text._ZN5yarns2Ui18OnClickOverdubbingERKN6stmlib5EventE
+                0x08006270       0x7c build/yarns/ui.o
+                0x08006270                yarns::Ui::OnClickOverdubbing(stmlib::Event const&)
+ .text._ZN5yarns2Ui21OnIncrementPushItNoteERKN6stmlib5EventE
+                0x080062ec      0x154 build/yarns/ui.o
+                0x080062ec                yarns::Ui::OnIncrementPushItNote(stmlib::Event const&)
+ .text._ZN5yarns2Ui20OnIncrementRecordingERKN6stmlib5EventE
+                0x08006440       0x4c build/yarns/ui.o
+                0x08006440                yarns::Ui::OnIncrementRecording(stmlib::Event const&)
+ .text._ZN5yarns2Ui16OnClickRecordingERKN6stmlib5EventE
+                0x0800648c      0x19c build/yarns/ui.o
+                0x0800648c                yarns::Ui::OnClickRecording(stmlib::Event const&)
+ .text._ZN5yarns2Ui4InitEv
+                0x08006628       0xa0 build/yarns/ui.o
+                0x08006628                yarns::Ui::Init()
+ .text._ZN5yarns2Ui4PollEv
+                0x080066c8      0x30c build/yarns/ui.o
+                0x080066c8                yarns::Ui::Poll()
+ .text._ZN5yarns2Ui12OnSwitchHeldERKN6stmlib5EventE
+                0x080069d4       0xe8 build/yarns/ui.o
+                0x080069d4                yarns::Ui::OnSwitchHeld(stmlib::Event const&)
+ .text._ZN5yarns2Ui8TapTempoEv
+                0x08006abc       0x64 build/yarns/ui.o
+                0x08006abc                yarns::Ui::TapTempo()
+ .text._ZN5yarns2Ui13OnSwitchPressERKN6stmlib5EventE
+                0x08006b20      0x458 build/yarns/ui.o
+                0x08006b20                yarns::Ui::OnSwitchPress(stmlib::Event const&)
+ .text._ZN5yarns2Ui8DoEventsEv
+                0x08006f78      0x24c build/yarns/ui.o
+                0x08006f78                yarns::Ui::DoEvents()
+ .text._ZN5yarns5Voice4InitEv
+                0x080071c4       0x80 build/yarns/voice.o
+                0x080071c4                yarns::Voice::Init()
+ .text._ZN5yarns5Voice19ResetAllControllersEv
+                0x08007244       0x20 build/yarns/voice.o
+                0x08007244                yarns::Voice::ResetAllControllers()
+ .text._ZN5yarns5Voice7RefreshEv
+                0x08007264      0x174 build/yarns/voice.o
+                0x08007264                yarns::Voice::Refresh()
+ .text._ZN5yarns5Voice6NoteOnEshhb
+                0x080073d8       0x54 build/yarns/voice.o
+                0x080073d8                yarns::Voice::NoteOn(short, unsigned char, unsigned char, bool)
+ .text._ZN5yarns5Voice7NoteOffEv
+                0x0800742c        0x8 build/yarns/voice.o
+                0x0800742c                yarns::Voice::NoteOff()
+ .text._ZN5yarns5Voice13ControlChangeEhh
+                0x08007434       0x20 build/yarns/voice.o
+                0x08007434                yarns::Voice::ControlChange(unsigned char, unsigned char)
+ .text._ZNK5yarns5Voice16trigger_dac_codeEv
+                0x08007454       0x88 build/yarns/voice.o
+                0x08007454                yarns::Voice::trigger_dac_code() const
+ .text._ZN5yarns5Voice21ComputePhaseIncrementEs
+                0x080074dc       0x4c build/yarns/voice.o
+                0x080074dc                yarns::Voice::ComputePhaseIncrement(short)
+ .text._ZN5yarns5Voice15FillAudioBufferEv
+                0x08007528      0x18c build/yarns/voice.o
+                0x08007528                yarns::Voice::FillAudioBuffer()
+ .text.HardFault_Handler
+                0x080076b4        0x4 build/yarns/yarns.o
+                0x080076b4                HardFault_Handler
+ .text.MemManage_Handler
+                0x080076b8        0x4 build/yarns/yarns.o
+                0x080076b8                MemManage_Handler
+ .text.BusFault_Handler
+                0x080076bc        0x4 build/yarns/yarns.o
+                0x080076bc                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080076c0        0x4 build/yarns/yarns.o
+                0x080076c0                UsageFault_Handler
+ .text.NMI_Handler
+                0x080076c4        0x4 build/yarns/yarns.o
+                0x080076c4                NMI_Handler
+ .text.SVC_Handler
+                0x080076c8        0x4 build/yarns/yarns.o
+                0x080076c8                SVC_Handler
+ .text.DebugMon_Handler
+                0x080076cc        0x4 build/yarns/yarns.o
+                0x080076cc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080076d0        0x4 build/yarns/yarns.o
+                0x080076d0                PendSV_Handler
+ .text.SysTick_Handler
+                0x080076d4      0x22c build/yarns/yarns.o
+                0x080076d4                SysTick_Handler
+ .text.TIM1_UP_IRQHandler
+                0x08007900      0x158 build/yarns/yarns.o
+                0x08007900                TIM1_UP_IRQHandler
+ .text._Z4Initv
+                0x08007a58       0x78 build/yarns/yarns.o
+                0x08007a58                Init()
+ .text._ZN11stmlib_midi16MidiStreamParserIN5yarns11MidiHandlerEE15MessageReceivedEh
+                0x08007ad0      0xb5c build/yarns/yarns.o
+                0x08007ad0                stmlib_midi::MidiStreamParser<yarns::MidiHandler>::MessageReceived(unsigned char)
+ .text.startup.main
+                0x0800862c      0x2cc build/yarns/yarns.o
+                0x0800862c                main
+ .text._ZN5yarns11ChannelLeds4InitEv
+                0x080088f8       0x5c build/yarns/channel_leds.o
+                0x080088f8                yarns::ChannelLeds::Init()
+ .text._ZN5yarns11ChannelLeds5WriteEv
+                0x08008954       0x70 build/yarns/channel_leds.o
+                0x08008954                yarns::ChannelLeds::Write()
+ .text._ZN5yarns3Dac4InitEv
+                0x080089c4       0xb0 build/yarns/dac.o
+                0x080089c4                yarns::Dac::Init()
+ .text._ZN5yarns7Display4InitEv
+                0x08008a74       0x58 build/yarns/display.o
+                0x08008a74                yarns::Display::Init()
+ .text._ZN5yarns7Display6ScrollEv
+                0x08008acc       0x28 build/yarns/display.o
+                0x08008acc                yarns::Display::Scroll()
+ .text._ZN5yarns7Display11RefreshSlowEv
+                0x08008af4       0x84 build/yarns/display.o
+                0x08008af4                yarns::Display::RefreshSlow()
+ .text._ZN5yarns7Display5PrintEPKcS2_
+                0x08008b78       0x2c build/yarns/display.o
+                0x08008b78                yarns::Display::Print(char const*, char const*)
+ .text._ZN5yarns7Display19Shift14SegmentsWordEt
+                0x08008ba4       0xe4 build/yarns/display.o
+                0x08008ba4                yarns::Display::Shift14SegmentsWord(unsigned short)
+ .text._ZN5yarns7Display11RefreshFastEv
+                0x08008c88       0x74 build/yarns/display.o
+                0x08008c88                yarns::Display::RefreshFast()
+ .text._ZN5yarns7Encoder4InitEv
+                0x08008cfc       0x34 build/yarns/encoder.o
+                0x08008cfc                yarns::Encoder::Init()
+ .text._ZN5yarns7Encoder8DebounceEv
+                0x08008d30       0x48 build/yarns/encoder.o
+                0x08008d30                yarns::Encoder::Debounce()
+ .text._ZN5yarns10GateOutput4InitEv
+                0x08008d78       0x28 build/yarns/gate_output.o
+                0x08008d78                yarns::GateOutput::Init()
+ .text._ZN5yarns10GateOutput5WriteEPKb
+                0x08008da0       0x3c build/yarns/gate_output.o
+                0x08008da0                yarns::GateOutput::Write(bool const*)
+ .text._ZN5yarns6MidiIO4InitEv
+                0x08008ddc       0x78 build/yarns/midi_io.o
+                0x08008ddc                yarns::MidiIO::Init()
+ .text._ZN5yarns8Switches4InitEv
+                0x08008e54       0x30 build/yarns/switches.o
+                0x08008e54                yarns::Switches::Init()
+ .text._ZN5yarns8Switches8DebounceEv
+                0x08008e84       0x44 build/yarns/switches.o
+                0x08008e84                yarns::Switches::Debounce()
+ .text._ZN5yarns6System4InitEv
+                0x08008ec8       0x84 build/yarns/system.o
+                0x08008ec8                yarns::System::Init()
+ .text._ZN5yarns6System11StartTimersEv
+                0x08008f4c       0x34 build/yarns/system.o
+                0x08008f4c                yarns::System::StartTimers()
+ .text.SystemInit
+                0x08008f80       0xf8 build/yarns/system_stm32f10x.o
+                0x08008f80                SystemInit
+ .text.NVIC_PriorityGroupConfig
+                0x08009078       0x14 build/yarns/misc.o
+                0x08009078                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x0800908c       0x70 build/yarns/misc.o
+                0x0800908c                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x080090fc       0x14 build/yarns/misc.o
+                0x080090fc                NVIC_SetVectorTable
+ .text.FLASH_Unlock
+                0x08009110       0x18 build/yarns/stm32f10x_flash.o
+                0x08009110                FLASH_Unlock
+ .text.FLASH_GetStatus
+                0x08009128       0x28 build/yarns/stm32f10x_flash.o
+                0x08009128                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x08009150       0x40 build/yarns/stm32f10x_flash.o
+                0x08009150                FLASH_WaitForLastOperation
+ .text.FLASH_ErasePage
+                0x08009190       0x44 build/yarns/stm32f10x_flash.o
+                0x08009190                FLASH_ErasePage
+ .text.FLASH_ProgramWord
+                0x080091d4       0x60 build/yarns/stm32f10x_flash.o
+                0x080091d4                FLASH_ProgramWord
+ .text.FLASH_ProgramHalfWord
+                0x08009234       0x38 build/yarns/stm32f10x_flash.o
+                0x08009234                FLASH_ProgramHalfWord
+ .text.GPIO_Init
+                0x0800926c       0xb4 build/yarns/stm32f10x_gpio.o
+                0x0800926c                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08009320        0xc build/yarns/stm32f10x_gpio.o
+                0x08009320                GPIO_ReadInputDataBit
+ .text.GPIO_WriteBit
+                0x0800932c        0xc build/yarns/stm32f10x_gpio.o
+                0x0800932c                GPIO_WriteBit
+ .text.RCC_GetClocksFreq
+                0x08009338       0x94 build/yarns/stm32f10x_rcc.o
+                0x08009338                RCC_GetClocksFreq
+ .text.RCC_APB2PeriphClockCmd
+                0x080093cc       0x18 build/yarns/stm32f10x_rcc.o
+                0x080093cc                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x080093e4       0x18 build/yarns/stm32f10x_rcc.o
+                0x080093e4                RCC_APB1PeriphClockCmd
+ .text.SPI_Init
+                0x080093fc       0x40 build/yarns/stm32f10x_spi.o
+                0x080093fc                SPI_Init
+ .text.SPI_Cmd  0x0800943c       0x1c build/yarns/stm32f10x_spi.o
+                0x0800943c                SPI_Cmd
+ .text.SPI_I2S_SendData
+                0x08009458        0x4 build/yarns/stm32f10x_spi.o
+                0x08009458                SPI_I2S_SendData
+ .text.TIM_TimeBaseInit
+                0x0800945c       0x48 build/yarns/stm32f10x_tim.o
+                0x0800945c                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x080094a4       0x1c build/yarns/stm32f10x_tim.o
+                0x080094a4                TIM_Cmd
+ .text.TIM_ITConfig
+                0x080094c0       0x14 build/yarns/stm32f10x_tim.o
+                0x080094c0                TIM_ITConfig
+ .text.TIM_InternalClockConfig
+                0x080094d4       0x10 build/yarns/stm32f10x_tim.o
+                0x080094d4                TIM_InternalClockConfig
+ .text.TIM_GetITStatus
+                0x080094e4       0x18 build/yarns/stm32f10x_tim.o
+                0x080094e4                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x080094fc        0x8 build/yarns/stm32f10x_tim.o
+                0x080094fc                TIM_ClearITPendingBit
+ .text.USART_Init
+                0x08009504       0x90 build/yarns/stm32f10x_usart.o
+                0x08009504                USART_Init
+ .text.USART_Cmd
+                0x08009594       0x1c build/yarns/stm32f10x_usart.o
+                0x08009594                USART_Cmd
+ .text.Reset_Handler
+                0x080095b0       0x48 build/yarns/startup_stm32f10x_md.o
+                0x080095b0                Reset_Handler
+ .text.Default_Handler
+                0x080095f8        0x4 build/yarns/startup_stm32f10x_md.o
+                0x080095f8                EXTI2_IRQHandler
+                0x080095f8                TIM1_CC_IRQHandler
+                0x080095f8                PVD_IRQHandler
+                0x080095f8                EXTI3_IRQHandler
+                0x080095f8                EXTI0_IRQHandler
+                0x080095f8                I2C2_EV_IRQHandler
+                0x080095f8                ADC1_2_IRQHandler
+                0x080095f8                SPI1_IRQHandler
+                0x080095f8                TAMPER_IRQHandler
+                0x080095f8                DMA1_Channel4_IRQHandler
+                0x080095f8                USART3_IRQHandler
+                0x080095f8                RTC_IRQHandler
+                0x080095f8                DMA1_Channel7_IRQHandler
+                0x080095f8                CAN1_RX1_IRQHandler
+                0x080095f8                TIM4_IRQHandler
+                0x080095f8                I2C1_EV_IRQHandler
+                0x080095f8                DMA1_Channel6_IRQHandler
+                0x080095f8                TIM3_IRQHandler
+                0x080095f8                RCC_IRQHandler
+                0x080095f8                TIM1_TRG_COM_IRQHandler
+                0x080095f8                DMA1_Channel1_IRQHandler
+                0x080095f8                Default_Handler
+                0x080095f8                EXTI15_10_IRQHandler
+                0x080095f8                EXTI9_5_IRQHandler
+                0x080095f8                SPI2_IRQHandler
+                0x080095f8                DMA1_Channel5_IRQHandler
+                0x080095f8                EXTI4_IRQHandler
+                0x080095f8                USB_LP_CAN1_RX0_IRQHandler
+                0x080095f8                USB_HP_CAN1_TX_IRQHandler
+                0x080095f8                DMA1_Channel3_IRQHandler
+                0x080095f8                WWDG_IRQHandler
+                0x080095f8                TIM2_IRQHandler
+                0x080095f8                TIM1_BRK_IRQHandler
+                0x080095f8                EXTI1_IRQHandler
+                0x080095f8                RTCAlarm_IRQHandler
+                0x080095f8                USART2_IRQHandler
+                0x080095f8                I2C2_ER_IRQHandler
+                0x080095f8                DMA1_Channel2_IRQHandler
+                0x080095f8                CAN1_SCE_IRQHandler
+                0x080095f8                FLASH_IRQHandler
+                0x080095f8                USART1_IRQHandler
+                0x080095f8                I2C1_ER_IRQHandler
+                0x080095f8                USBWakeUp_IRQHandler
+ .text          0x080095fc       0xec /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+                0x080095fc                memcpy
+ .text.memmove  0x080096e8       0xcc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+                0x080096e8                memmove
+ .text.memset   0x080097b4       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                0x080097b4                memset
+ .text.strcpy   0x08009848       0xbc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+                0x08009848                strcpy
+ .text.strlen   0x08009904       0x60 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+                0x08009904                strlen
+ .text.strncpy  0x08009964       0x64 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+                0x08009964                strncpy
+ *(.rodata*)
+ .rodata._ZN5yarns11MidiHandler15accepted_sysex_E
+                0x080099c8       0x50 build/yarns/midi_handler.o
+                0x080099c8                yarns::MidiHandler::accepted_sysex_
+ .rodata._ZN5yarnsL4songE
+                0x08009a18      0x924 build/yarns/multi.o
+ .rodata._ZN5yarnsL15clock_divisionsE
+                0x0800a33c        0xc build/yarns/multi.o
+ .rodata._ZN5yarnsL15clock_divisionsE
+                0x0800a348        0xc build/yarns/part.o
+ .rodata._ZN5yarns24wav_bandlimited_square_3E
+                0x0800a354      0x804 build/yarns/resources.o
+                0x0800a354                yarns::wav_bandlimited_square_3
+ .rodata._ZN5yarns24wav_bandlimited_square_4E
+                0x0800ab58      0x804 build/yarns/resources.o
+                0x0800ab58                yarns::wav_bandlimited_square_4
+ .rodata._ZN5yarns23wav_bandlimited_pulse_4E
+                0x0800b35c      0x804 build/yarns/resources.o
+                0x0800b35c                yarns::wav_bandlimited_pulse_4
+ .rodata._ZN5yarns15lut_scale_purviE
+                0x0800bb60       0x18 build/yarns/resources.o
+                0x0800bb60                yarns::lut_scale_purvi
+ .rodata._ZN5yarns21lut_scale_pythagoreanE
+                0x0800bb78       0x18 build/yarns/resources.o
+                0x0800bb78                yarns::lut_scale_pythagorean
+ .rodata._ZN5yarns22lut_scale_kaushik_todiE
+                0x0800bb90       0x18 build/yarns/resources.o
+                0x0800bb90                yarns::lut_scale_kaushik_todi
+ .rodata._ZN5yarns12lut_env_expoE
+                0x0800bba8      0x204 build/yarns/resources.o
+                0x0800bba8                yarns::lut_env_expo
+ .rodata._ZN5yarns8wav_ringE
+                0x0800bdac      0x204 build/yarns/resources.o
+                0x0800bdac                yarns::wav_ring
+ .rodata._ZN5yarns25lut_oscillator_incrementsE
+                0x0800bfb0      0x184 build/yarns/resources.o
+                0x0800bfb0                yarns::lut_oscillator_increments
+ .rodata._ZN5yarns26wav_bandlimited_triangle_3E
+                0x0800c134      0x804 build/yarns/resources.o
+                0x0800c134                yarns::wav_bandlimited_triangle_3
+ .rodata._ZN5yarns20lut_scale_kameshwariE
+                0x0800c938       0x18 build/yarns/resources.o
+                0x0800c938                yarns::lut_scale_kameshwari
+ .rodata._ZN5yarns26wav_bandlimited_triangle_5E
+                0x0800c950      0x804 build/yarns/resources.o
+                0x0800c950                yarns::wav_bandlimited_triangle_5
+ .rodata._ZN5yarns15lut_scale_yamanE
+                0x0800d154       0x18 build/yarns/resources.o
+                0x0800d154                yarns::lut_scale_yaman
+ .rodata._ZN5yarns20lut_scale_jogeshwariE
+                0x0800d16c       0x18 build/yarns/resources.o
+                0x0800d16c                yarns::lut_scale_jogeshwari
+ .rodata._ZN5yarns25lut_portamento_incrementsE
+                0x0800d184      0x200 build/yarns/resources.o
+                0x0800d184                yarns::lut_portamento_increments
+ .rodata._ZN5yarns9wav_noiseE
+                0x0800d384      0x204 build/yarns/resources.o
+                0x0800d384                yarns::wav_noise
+ .rodata._ZN5yarns14lut_scale_kafiE
+                0x0800d588       0x18 build/yarns/resources.o
+                0x0800d588                yarns::lut_scale_kafi
+ .rodata._ZN5yarns18lut_scale_pa__kafiE
+                0x0800d5a0       0x18 build/yarns/resources.o
+                0x0800d5a0                yarns::lut_scale_pa__kafi
+ .rodata._ZN5yarns15lut_scale_marwaE
+                0x0800d5b8       0x18 build/yarns/resources.o
+                0x0800d5b8                yarns::lut_scale_marwa
+ .rodata._ZN5yarns17lut_scale_bairagiE
+                0x0800d5d0       0x18 build/yarns/resources.o
+                0x0800d5d0                yarns::lut_scale_bairagi
+ .rodata._ZN5yarns14chr_charactersE
+                0x0800d5e8      0x200 build/yarns/resources.o
+                0x0800d5e8                yarns::chr_characters
+ .rodata._ZN5yarns21lut_scale_rangeshwariE
+                0x0800d7e8       0x18 build/yarns/resources.o
+                0x0800d7e8                yarns::lut_scale_rangeshwari
+ .rodata._ZN5yarns21lut_scale_chandradeepE
+                0x0800d800       0x18 build/yarns/resources.o
+                0x0800d800                yarns::lut_scale_chandradeep
+ .rodata._ZN5yarns17lut_scale_gunakriE
+                0x0800d818       0x18 build/yarns/resources.o
+                0x0800d818                yarns::lut_scale_gunakri
+ .rodata._ZN5yarns16lut_scale_khamajE
+                0x0800d830       0x18 build/yarns/resources.o
+                0x0800d830                yarns::lut_scale_khamaj
+ .rodata._ZN5yarns21wav_bandlimited_saw_3E
+                0x0800d848      0x804 build/yarns/resources.o
+                0x0800d848                yarns::wav_bandlimited_saw_3
+ .rodata._ZN5yarns15wav_exponentialE
+                0x0800e04c      0x204 build/yarns/resources.o
+                0x0800e04c                yarns::wav_exponential
+ .rodata._ZN5yarns24wav_bandlimited_square_1E
+                0x0800e250      0x804 build/yarns/resources.o
+                0x0800e250                yarns::wav_bandlimited_square_1
+ .rodata._ZN5yarns23wav_bandlimited_pulse_1E
+                0x0800ea54      0x804 build/yarns/resources.o
+                0x0800ea54                yarns::wav_bandlimited_pulse_1
+ .rodata._ZN5yarns21wav_bandlimited_saw_5E
+                0x0800f258      0x804 build/yarns/resources.o
+                0x0800f258                yarns::wav_bandlimited_saw_5
+ .rodata._ZN5yarns18lut_lfo_incrementsE
+                0x0800fa5c      0x200 build/yarns/resources.o
+                0x0800fa5c                yarns::lut_lfo_increments
+ .rodata._ZN5yarns23wav_bandlimited_pulse_3E
+                0x0800fc5c      0x804 build/yarns/resources.o
+                0x0800fc5c                yarns::wav_bandlimited_pulse_3
+ .rodata._ZN5yarns17lut_scale_m_kaunsE
+                0x08010460       0x18 build/yarns/resources.o
+                0x08010460                yarns::lut_scale_m_kauns
+ .rodata._ZN5yarns22lut_scale_bhimpalasreeE
+                0x08010478       0x18 build/yarns/resources.o
+                0x08010478                yarns::lut_scale_bhimpalasree
+ .rodata._ZN5yarns15lut_scale_mimalE
+                0x08010490       0x18 build/yarns/resources.o
+                0x08010490                yarns::lut_scale_mimal
+ .rodata._ZN5yarns21lut_scale_gangeshwariE
+                0x080104a8       0x18 build/yarns/resources.o
+                0x080104a8                yarns::lut_scale_gangeshwari
+ .rodata._ZN5yarns24wav_bandlimited_square_5E
+                0x080104c0      0x804 build/yarns/resources.o
+                0x080104c0                yarns::wav_bandlimited_square_5
+ .rodata._ZN5yarns23wav_bandlimited_pulse_5E
+                0x08010cc4      0x804 build/yarns/resources.o
+                0x08010cc4                yarns::wav_bandlimited_pulse_5
+ .rodata._ZN5yarns21wav_bandlimited_saw_1E
+                0x080114c8      0x804 build/yarns/resources.o
+                0x080114c8                yarns::wav_bandlimited_saw_1
+ .rodata._ZN5yarns15lut_scale_1_4_eE
+                0x08011ccc       0x18 build/yarns/resources.o
+                0x08011ccc                yarns::lut_scale_1_4_e
+ .rodata._ZN5yarns26wav_bandlimited_triangle_0E
+                0x08011ce4      0x804 build/yarns/resources.o
+                0x08011ce4                yarns::wav_bandlimited_triangle_0
+ .rodata._ZN5yarns17lut_scale_bhairavE
+                0x080124e8       0x18 build/yarns/resources.o
+                0x080124e8                yarns::lut_scale_bhairav
+ .rodata._ZN5yarns9wav_stepsE
+                0x08012500      0x204 build/yarns/resources.o
+                0x08012500                yarns::wav_steps
+ .rodata._ZN5yarns19lut_scale_rageshreeE
+                0x08012704       0x18 build/yarns/resources.o
+                0x08012704                yarns::lut_scale_rageshree
+ .rodata._ZN5yarns20lut_scale_natbhairavE
+                0x0801271c       0x18 build/yarns/resources.o
+                0x0801271c                yarns::lut_scale_natbhairav
+ .rodata._ZN5yarns17lut_scale_darbariE
+                0x08012734       0x18 build/yarns/resources.o
+                0x08012734                yarns::lut_scale_darbari
+ .rodata._ZN5yarns26wav_bandlimited_triangle_4E
+                0x0801274c      0x804 build/yarns/resources.o
+                0x0801274c                yarns::wav_bandlimited_triangle_4
+ .rodata._ZN5yarns21wav_bandlimited_saw_4E
+                0x08012f50      0x804 build/yarns/resources.o
+                0x08012f50                yarns::wav_bandlimited_saw_4
+ .rodata._ZN5yarns22lut_scale_parameshwariE
+                0x08013754       0x18 build/yarns/resources.o
+                0x08013754                yarns::lut_scale_parameshwari
+ .rodata._ZN5yarns8wav_sineE
+                0x0801376c      0x804 build/yarns/resources.o
+                0x0801376c                yarns::wav_sine
+ .rodata._ZN5yarns24lut_arpeggiator_patternsE
+                0x08013f70       0x2c build/yarns/resources.o
+                0x08013f70                yarns::lut_arpeggiator_patterns
+ .rodata._ZN5yarns15lut_scale_shreeE
+                0x08013f9c       0x18 build/yarns/resources.o
+                0x08013f9c                yarns::lut_scale_shree
+ .rodata._ZN5yarns16lut_scale_1_4_eaE
+                0x08013fb4       0x18 build/yarns/resources.o
+                0x08013fb4                yarns::lut_scale_1_4_ea
+ .rodata._ZN5yarns14lut_consonanceE
+                0x08013fcc      0xc00 build/yarns/resources.o
+                0x08013fcc                yarns::lut_consonance
+ .rodata._ZN5yarns21wav_bandlimited_saw_0E
+                0x08014bcc      0x804 build/yarns/resources.o
+                0x08014bcc                yarns::wav_bandlimited_saw_0
+ .rodata._ZN5yarns16lut_scale_1_4_ebE
+                0x080153d0       0x18 build/yarns/resources.o
+                0x080153d0                yarns::lut_scale_1_4_eb
+ .rodata._ZN5yarns21wav_bandlimited_saw_2E
+                0x080153e8      0x804 build/yarns/resources.o
+                0x080153e8                yarns::wav_bandlimited_saw_2
+ .rodata._ZN5yarns13lut_euclideanE
+                0x08015bec     0x1000 build/yarns/resources.o
+                0x08015bec                yarns::lut_euclidean
+ .rodata._ZN5yarns24wav_bandlimited_square_0E
+                0x08016bec      0x804 build/yarns/resources.o
+                0x08016bec                yarns::wav_bandlimited_square_0
+ .rodata._ZN5yarns23wav_bandlimited_pulse_0E
+                0x080173f0      0x804 build/yarns/resources.o
+                0x080173f0                yarns::wav_bandlimited_pulse_0
+ .rodata._ZN5yarns17lut_scale_bilawalE
+                0x08017bf4       0x18 build/yarns/resources.o
+                0x08017bf4                yarns::lut_scale_bilawal
+ .rodata._ZN5yarns16lut_scale_b_todiE
+                0x08017c0c       0x18 build/yarns/resources.o
+                0x08017c0c                yarns::lut_scale_b_todi
+ .rodata._ZN5yarns24wav_bandlimited_square_2E
+                0x08017c24      0x804 build/yarns/resources.o
+                0x08017c24                yarns::wav_bandlimited_square_2
+ .rodata._ZN5yarns23wav_bandlimited_pulse_2E
+                0x08018428      0x804 build/yarns/resources.o
+                0x08018428                yarns::wav_bandlimited_pulse_2
+ .rodata._ZN5yarnsL18quad_triggers_menuE
+                0x08018c2c       0x14 build/yarns/settings.o
+ .rodata._ZN5yarnsL13layout_valuesE
+                0x08018c40       0x28 build/yarns/settings.o
+ .rodata._ZN5yarnsL21quad_polychained_menuE
+                0x08018c68       0x1c build/yarns/settings.o
+ .rodata._ZN5yarnsL20midi_out_mode_valuesE
+                0x08018c84        0xc build/yarns/settings.o
+ .rodata._ZN5yarnsL11note_valuesE
+                0x08018c90       0x30 build/yarns/settings.o
+ .rodata._ZN5yarnsL22octal_polychained_menuE
+                0x08018cc0       0x1c build/yarns/settings.o
+ .rodata._ZN5yarnsL20tuning_system_valuesE
+                0x08018cdc       0x88 build/yarns/settings.o
+ .rodata._ZN5yarnsL14dual_mono_menuE
+                0x08018d64       0x20 build/yarns/settings.o
+ .rodata._ZN5yarnsL21dual_polychained_menuE
+                0x08018d84       0x1c build/yarns/settings.o
+ .rodata._ZN5yarnsL30sequencer_arp_direction_valuesE
+                0x08018da0       0x18 build/yarns/settings.o
+ .rodata._ZN5yarnsL9mono_menuE
+                0x08018db8       0x20 build/yarns/settings.o
+ .rodata._ZN5yarnsL14quad_mono_menuE
+                0x08018dd8       0x20 build/yarns/settings.o
+ .rodata._ZN5yarnsL14three_one_menuE
+                0x08018df8       0x20 build/yarns/settings.o
+ .rodata._ZN5yarnsL34voicing_allocation_priority_valuesE
+                0x08018e18        0xc build/yarns/settings.o
+ .rodata.str1.4
+                0x08018e24      0x55f build/yarns/settings.o
+                                0x56c (size before relaxing)
+ *fill*         0x08019383        0x1 
+ .rodata._ZN5yarnsL20trigger_shape_valuesE
+                0x08019384       0x18 build/yarns/settings.o
+ .rodata._ZN5yarns8Settings9settings_E
+                0x0801939c      0x4d0 build/yarns/settings.o
+                0x0801939c                yarns::Settings::settings_
+ .rodata._ZN5yarnsL30voicing_allocation_mode_valuesE
+                0x0801986c       0x14 build/yarns/settings.o
+ .rodata._ZN5yarnsL21clock_division_valuesE
+                0x08019880       0x30 build/yarns/settings.o
+ .rodata._ZN5yarnsL21voicing_aux_cv_valuesE
+                0x080198b0       0x14 build/yarns/settings.o
+ .rodata._ZN5yarnsL14dual_poly_menuE
+                0x080198c4       0x20 build/yarns/settings.o
+ .rodata._ZN5yarnsL25voicing_oscillator_valuesE
+                0x080198e4       0x1c build/yarns/settings.o
+ .rodata._ZN5yarns8Settings6menus_E
+                0x08019900       0x28 build/yarns/settings.o
+                0x08019900                yarns::Settings::menus_
+ .rodata._ZN5yarnsL14quad_poly_menuE
+                0x08019928       0x20 build/yarns/settings.o
+ .rodata._ZN5yarnsL14boolean_valuesE
+                0x08019948        0x8 build/yarns/settings.o
+ .rodata._ZN5yarns2Ui9commands_E
+                0x08019950       0x70 build/yarns/ui.o
+                0x08019950                yarns::Ui::commands_
+ .rodata._ZN5yarnsL6octaveE
+                0x080199c0        0xc build/yarns/ui.o
+ .rodata._ZN5yarnsL10notes_longE
+                0x080199cc       0x1c build/yarns/ui.o
+ .rodata.str1.4
+                0x080199e8       0xa4 build/yarns/ui.o
+ .rodata._ZN5yarnsL19calibration_stringsE
+                0x08019a8c       0x30 build/yarns/ui.o
+ .rodata._ZN5yarnsL10wavetablesE
+                0x08019abc       0x18 build/yarns/voice.o
+ .rodata._ZN5yarnsL20kCharacterEnablePinsE
+                0x08019ad4        0x4 build/yarns/display.o
+ *(.flashtext*)
+ *(.init)
+ .init          0x08019ad8        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x08019ad8                _init
+ .init          0x08019adc        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x08019ae4        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x08019ae4                _fini
+ .fini          0x08019ae8        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+                0x08019af0                _etext = .
+                0x08019af0                _sidata = .
+
+.glue_7         0x08019af0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08019af0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08019af0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08019af0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08019af0        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.rel.dyn        0x08019af0        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.data           0x20000000      0x334 load address 0x08019af0
+                0x20000000                _sdata = .
+ *(.ramtext*)
+                0x20000000                . = ALIGN (0x4)
+ *(.data*)
+ .data._ZN5yarns14waveform_tableE
+                0x20000000       0x84 build/yarns/resources.o
+                0x20000000                yarns::waveform_table
+ .data._ZN5yarns25lookup_table_signed_tableE
+                0x20000084       0x7c build/yarns/resources.o
+                0x20000084                yarns::lookup_table_signed_table
+ .data._ZN5yarns2Ui6modes_E
+                0x20000100      0x21c build/yarns/ui.o
+                0x20000100                yarns::Ui::modes_
+ .data._ZN6stmlib6Random10rng_state_E
+                0x2000031c        0x4 build/yarns/random.o
+                0x2000031c                stmlib::Random::rng_state_
+ .data.ADCPrescTable
+                0x20000320        0x4 build/yarns/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x20000324       0x10 build/yarns/stm32f10x_rcc.o
+                0x20000334                _edata = .
+
+.igot.plt       0x20000334        0x0 load address 0x08019e24
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.bss            0x20000334     0x15c0 load address 0x08019e24
+                0x20000334                _sstack = .
+                0x20000534                . = (. + 0x200)
+ *fill*         0x20000334      0x200 
+                0x20000534                _estack = .
+                0x20000534                _sbss = .
+ *(.bss*)
+ .bss._ZN5yarns25just_intonation_processorE
+                0x20000534       0x44 build/yarns/just_intonation_processor.o
+                0x20000534                yarns::just_intonation_processor
+ .bss._ZN5yarns11MidiHandler19sysex_rx_write_ptr_E
+                0x20000578        0x1 build/yarns/midi_handler.o
+                0x20000578                yarns::MidiHandler::sysex_rx_write_ptr_
+ *fill*         0x20000579        0x3 
+ .bss._ZN5yarns11MidiHandler7parser_E
+                0x2000057c        0x8 build/yarns/midi_handler.o
+                0x2000057c                yarns::MidiHandler::parser_
+ .bss._ZN5yarns11MidiHandler26factory_testing_requested_E
+                0x20000584        0x1 build/yarns/midi_handler.o
+                0x20000584                yarns::MidiHandler::factory_testing_requested_
+ .bss._ZN5yarns11MidiHandler22previous_packet_index_E
+                0x20000585        0x1 build/yarns/midi_handler.o
+                0x20000585                yarns::MidiHandler::previous_packet_index_
+ *fill*         0x20000586        0x2 
+ .bss._ZN5yarns11MidiHandler28high_priority_output_buffer_E
+                0x20000588       0x28 build/yarns/midi_handler.o
+                0x20000588                yarns::MidiHandler::high_priority_output_buffer_
+ .bss._ZN5yarns11MidiHandler18calibration_voice_E
+                0x200005b0        0x1 build/yarns/midi_handler.o
+                0x200005b0                yarns::MidiHandler::calibration_voice_
+ *fill*         0x200005b1        0x3 
+ .bss._ZN5yarns11MidiHandler14output_buffer_E
+                0x200005b4       0x88 build/yarns/midi_handler.o
+                0x200005b4                yarns::MidiHandler::output_buffer_
+ .bss._ZN5yarns11MidiHandler13input_buffer_E
+                0x2000063c       0x88 build/yarns/midi_handler.o
+                0x2000063c                yarns::MidiHandler::input_buffer_
+ .bss._ZN5yarns11MidiHandler16sysex_rx_buffer_E
+                0x200006c4       0x90 build/yarns/midi_handler.o
+                0x200006c4                yarns::MidiHandler::sysex_rx_buffer_
+ .bss._ZN5yarns11MidiHandler17calibration_note_E
+                0x20000754        0x1 build/yarns/midi_handler.o
+                0x20000754                yarns::MidiHandler::calibration_note_
+ *fill*         0x20000755        0x3 
+ .bss._ZN5yarns5multiE
+                0x20000758      0xab4 build/yarns/multi.o
+                0x20000758                yarns::multi
+ .bss._ZN5yarns8settingsE
+                0x2000120c      0x104 build/yarns/settings.o
+                0x2000120c                yarns::settings
+ .bss._ZN5yarns15storage_managerE
+                0x20001310      0x408 build/yarns/storage_manager.o
+                0x20001310                yarns::storage_manager
+ .bss.gate_output
+                0x20001718        0x4 build/yarns/yarns.o
+                0x20001718                gate_output
+ .bss.dac       0x2000171c       0x10 build/yarns/yarns.o
+                0x2000171c                dac
+ .bss.ui        0x2000172c      0x1a4 build/yarns/yarns.o
+                0x2000172c                ui
+ .bss.midi_io   0x200018d0        0x4 build/yarns/yarns.o
+                0x200018d0                midi_io
+ .bss.audio_source
+                0x200018d4        0x4 build/yarns/yarns.o
+                0x200018d4                audio_source
+ .bss._ZZ15SysTick_HandlerE7counter
+                0x200018d8        0x1 build/yarns/yarns.o
+ *fill*         0x200018d9        0x3 
+ .bss.sys       0x200018dc        0x4 build/yarns/yarns.o
+                0x200018dc                sys
+ .bss.cv        0x200018e0        0x8 build/yarns/yarns.o
+                0x200018e0                cv
+ .bss.factory_testing_counter
+                0x200018e8        0x2 build/yarns/yarns.o
+                0x200018e8                factory_testing_counter
+ .bss.has_audio_sources
+                0x200018ea        0x1 build/yarns/yarns.o
+                0x200018ea                has_audio_sources
+ *fill*         0x200018eb        0x1 
+ .bss.gate      0x200018ec        0x4 build/yarns/yarns.o
+                0x200018ec                gate
+ .bss._ZN6stmlib12system_clockE
+                0x200018f0        0x4 build/yarns/system_clock.o
+                0x200018f0                stmlib::system_clock
+ *(COMMON)
+                0x200018f4                _ebss = .
+OUTPUT(build/yarns/yarns.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x33 build/yarns/just_intonation_processor.o
+ .ARM.attributes
+                0x00000050       0x33 build/yarns/layout_configurator.o
+ .ARM.attributes
+                0x00000083       0x33 build/yarns/midi_handler.o
+ .ARM.attributes
+                0x000000b6       0x33 build/yarns/multi.o
+ .ARM.attributes
+                0x000000e9       0x33 build/yarns/part.o
+ .ARM.attributes
+                0x0000011c       0x33 build/yarns/resources.o
+ .ARM.attributes
+                0x0000014f       0x33 build/yarns/settings.o
+ .ARM.attributes
+                0x00000182       0x33 build/yarns/storage_manager.o
+ .ARM.attributes
+                0x000001b5       0x33 build/yarns/ui.o
+ .ARM.attributes
+                0x000001e8       0x33 build/yarns/voice.o
+ .ARM.attributes
+                0x0000021b       0x33 build/yarns/yarns.o
+ .ARM.attributes
+                0x0000024e       0x33 build/yarns/channel_leds.o
+ .ARM.attributes
+                0x00000281       0x33 build/yarns/dac.o
+ .ARM.attributes
+                0x000002b4       0x33 build/yarns/display.o
+ .ARM.attributes
+                0x000002e7       0x33 build/yarns/encoder.o
+ .ARM.attributes
+                0x0000031a       0x33 build/yarns/gate_output.o
+ .ARM.attributes
+                0x0000034d       0x33 build/yarns/midi_io.o
+ .ARM.attributes
+                0x00000380       0x33 build/yarns/switches.o
+ .ARM.attributes
+                0x000003b3       0x33 build/yarns/system.o
+ .ARM.attributes
+                0x000003e6       0x33 build/yarns/random.o
+ .ARM.attributes
+                0x00000419       0x33 build/yarns/system_clock.o
+ .ARM.attributes
+                0x0000044c       0x33 build/yarns/system_stm32f10x.o
+ .ARM.attributes
+                0x0000047f       0x33 build/yarns/misc.o
+ .ARM.attributes
+                0x000004b2       0x33 build/yarns/stm32f10x_flash.o
+ .ARM.attributes
+                0x000004e5       0x33 build/yarns/stm32f10x_gpio.o
+ .ARM.attributes
+                0x00000518       0x33 build/yarns/stm32f10x_rcc.o
+ .ARM.attributes
+                0x0000054b       0x33 build/yarns/stm32f10x_spi.o
+ .ARM.attributes
+                0x0000057e       0x33 build/yarns/stm32f10x_tim.o
+ .ARM.attributes
+                0x000005b1       0x33 build/yarns/stm32f10x_usart.o
+ .ARM.attributes
+                0x000005e4       0x21 build/yarns/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x00000605       0x1b /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000620       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000064d       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000067a       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x000006a7       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000006d4       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000701       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/yarns/just_intonation_processor.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/yarns/layout_configurator.o
+ .comment       0x00000000       0x71 build/yarns/midi_handler.o
+ .comment       0x00000000       0x71 build/yarns/multi.o
+ .comment       0x00000000       0x71 build/yarns/part.o
+ .comment       0x00000000       0x71 build/yarns/resources.o
+ .comment       0x00000000       0x71 build/yarns/settings.o
+ .comment       0x00000000       0x71 build/yarns/storage_manager.o
+ .comment       0x00000000       0x71 build/yarns/ui.o
+ .comment       0x00000000       0x71 build/yarns/voice.o
+ .comment       0x00000000       0x71 build/yarns/yarns.o
+ .comment       0x00000000       0x71 build/yarns/channel_leds.o
+ .comment       0x00000000       0x71 build/yarns/dac.o
+ .comment       0x00000000       0x71 build/yarns/display.o
+ .comment       0x00000000       0x71 build/yarns/encoder.o
+ .comment       0x00000000       0x71 build/yarns/gate_output.o
+ .comment       0x00000000       0x71 build/yarns/midi_io.o
+ .comment       0x00000000       0x71 build/yarns/switches.o
+ .comment       0x00000000       0x71 build/yarns/system.o
+ .comment       0x00000000       0x71 build/yarns/random.o
+ .comment       0x00000000       0x71 build/yarns/system_clock.o
+ .comment       0x00000000       0x71 build/yarns/system_stm32f10x.o
+ .comment       0x00000000       0x71 build/yarns/misc.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_flash.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_gpio.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_rcc.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_spi.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_tim.o
+ .comment       0x00000000       0x71 build/yarns/stm32f10x_usart.o
+
+.debug_info     0x00000000    0x4fde6
+ .debug_info    0x00000000      0xae7 build/yarns/just_intonation_processor.o
+ .debug_info    0x00000ae7     0x4eba build/yarns/layout_configurator.o
+ .debug_info    0x000059a1     0x4da2 build/yarns/midi_handler.o
+ .debug_info    0x0000a743     0x6f67 build/yarns/multi.o
+ .debug_info    0x000116aa     0x72e9 build/yarns/part.o
+ .debug_info    0x00018993     0xf3ad build/yarns/resources.o
+ .debug_info    0x00027d40     0x46de build/yarns/settings.o
+ .debug_info    0x0002c41e     0x589c build/yarns/storage_manager.o
+ .debug_info    0x00031cba     0x83de build/yarns/ui.o
+ .debug_info    0x0003a098     0x2b9f build/yarns/voice.o
+ .debug_info    0x0003cc37     0x9527 build/yarns/yarns.o
+ .debug_info    0x0004615e      0xac6 build/yarns/channel_leds.o
+ .debug_info    0x00046c24      0xec7 build/yarns/dac.o
+ .debug_info    0x00047aeb      0x855 build/yarns/display.o
+ .debug_info    0x00048340      0x480 build/yarns/encoder.o
+ .debug_info    0x000487c0      0x401 build/yarns/gate_output.o
+ .debug_info    0x00048bc1      0x565 build/yarns/midi_io.o
+ .debug_info    0x00049126      0x49c build/yarns/switches.o
+ .debug_info    0x000495c2      0xb1d build/yarns/system.o
+ .debug_info    0x0004a0df      0x16e build/yarns/random.o
+ .debug_info    0x0004a24d      0x2ce build/yarns/system_clock.o
+ .debug_info    0x0004a51b      0x2a2 build/yarns/system_stm32f10x.o
+ .debug_info    0x0004a7bd      0x4c0 build/yarns/misc.o
+ .debug_info    0x0004ac7d      0x8e6 build/yarns/stm32f10x_flash.o
+ .debug_info    0x0004b563      0x820 build/yarns/stm32f10x_gpio.o
+ .debug_info    0x0004bd83      0x8f3 build/yarns/stm32f10x_rcc.o
+ .debug_info    0x0004c676      0x997 build/yarns/stm32f10x_spi.o
+ .debug_info    0x0004d00d     0x2357 build/yarns/stm32f10x_tim.o
+ .debug_info    0x0004f364      0xa82 build/yarns/stm32f10x_usart.o
+
+.debug_abbrev   0x00000000     0x7095
+ .debug_abbrev  0x00000000      0x420 build/yarns/just_intonation_processor.o
+ .debug_abbrev  0x00000420      0x69b build/yarns/layout_configurator.o
+ .debug_abbrev  0x00000abb      0x74d build/yarns/midi_handler.o
+ .debug_abbrev  0x00001208      0x83a build/yarns/multi.o
+ .debug_abbrev  0x00001a42      0x7c5 build/yarns/part.o
+ .debug_abbrev  0x00002207      0x10a build/yarns/resources.o
+ .debug_abbrev  0x00002311      0x6bb build/yarns/settings.o
+ .debug_abbrev  0x000029cc      0x7da build/yarns/storage_manager.o
+ .debug_abbrev  0x000031a6      0x807 build/yarns/ui.o
+ .debug_abbrev  0x000039ad      0x64f build/yarns/voice.o
+ .debug_abbrev  0x00003ffc      0x8d0 build/yarns/yarns.o
+ .debug_abbrev  0x000048cc      0x39f build/yarns/channel_leds.o
+ .debug_abbrev  0x00004c6b      0x404 build/yarns/dac.o
+ .debug_abbrev  0x0000506f      0x2d8 build/yarns/display.o
+ .debug_abbrev  0x00005347      0x209 build/yarns/encoder.o
+ .debug_abbrev  0x00005550      0x1f9 build/yarns/gate_output.o
+ .debug_abbrev  0x00005749      0x202 build/yarns/midi_io.o
+ .debug_abbrev  0x0000594b      0x234 build/yarns/switches.o
+ .debug_abbrev  0x00005b7f      0x2d5 build/yarns/system.o
+ .debug_abbrev  0x00005e54       0xf5 build/yarns/random.o
+ .debug_abbrev  0x00005f49      0x1fd build/yarns/system_clock.o
+ .debug_abbrev  0x00006146      0x113 build/yarns/system_stm32f10x.o
+ .debug_abbrev  0x00006259      0x141 build/yarns/misc.o
+ .debug_abbrev  0x0000639a      0x268 build/yarns/stm32f10x_flash.o
+ .debug_abbrev  0x00006602      0x1e7 build/yarns/stm32f10x_gpio.o
+ .debug_abbrev  0x000067e9      0x23f build/yarns/stm32f10x_rcc.o
+ .debug_abbrev  0x00006a28      0x1eb build/yarns/stm32f10x_spi.o
+ .debug_abbrev  0x00006c13      0x297 build/yarns/stm32f10x_tim.o
+ .debug_abbrev  0x00006eaa      0x1eb build/yarns/stm32f10x_usart.o
+
+.debug_loc      0x00000000    0x13d3d
+ .debug_loc     0x00000000      0x187 build/yarns/just_intonation_processor.o
+ .debug_loc     0x00000187     0x12f0 build/yarns/layout_configurator.o
+ .debug_loc     0x00001477      0xb40 build/yarns/midi_handler.o
+ .debug_loc     0x00001fb7     0x1a94 build/yarns/multi.o
+ .debug_loc     0x00003a4b     0x4176 build/yarns/part.o
+ .debug_loc     0x00007bc1      0xb3a build/yarns/settings.o
+ .debug_loc     0x000086fb      0xdd0 build/yarns/storage_manager.o
+ .debug_loc     0x000094cb     0x2a23 build/yarns/ui.o
+ .debug_loc     0x0000beee      0xa8a build/yarns/voice.o
+ .debug_loc     0x0000c978     0x2901 build/yarns/yarns.o
+ .debug_loc     0x0000f279       0x79 build/yarns/channel_leds.o
+ .debug_loc     0x0000f2f2       0x7e build/yarns/dac.o
+ .debug_loc     0x0000f370      0x167 build/yarns/display.o
+ .debug_loc     0x0000f4d7       0x58 build/yarns/encoder.o
+ .debug_loc     0x0000f52f       0x6e build/yarns/gate_output.o
+ .debug_loc     0x0000f59d       0x21 build/yarns/midi_io.o
+ .debug_loc     0x0000f5be       0x4d build/yarns/switches.o
+ .debug_loc     0x0000f60b       0x42 build/yarns/system.o
+ .debug_loc     0x0000f64d      0x13d build/yarns/misc.o
+ .debug_loc     0x0000f78a      0x856 build/yarns/stm32f10x_flash.o
+ .debug_loc     0x0000ffe0      0x5f3 build/yarns/stm32f10x_gpio.o
+ .debug_loc     0x000105d3      0x76e build/yarns/stm32f10x_rcc.o
+ .debug_loc     0x00010d41      0x52c build/yarns/stm32f10x_spi.o
+ .debug_loc     0x0001126d     0x206e build/yarns/stm32f10x_tim.o
+ .debug_loc     0x000132db      0xa62 build/yarns/stm32f10x_usart.o
+
+.debug_aranges  0x00000000      0xee8
+ .debug_aranges
+                0x00000000       0x38 build/yarns/just_intonation_processor.o
+ .debug_aranges
+                0x00000038       0x40 build/yarns/layout_configurator.o
+ .debug_aranges
+                0x00000078       0x60 build/yarns/midi_handler.o
+ .debug_aranges
+                0x000000d8       0xa8 build/yarns/multi.o
+ .debug_aranges
+                0x00000180       0xf8 build/yarns/part.o
+ .debug_aranges
+                0x00000278       0x18 build/yarns/resources.o
+ .debug_aranges
+                0x00000290       0x70 build/yarns/settings.o
+ .debug_aranges
+                0x00000300       0x58 build/yarns/storage_manager.o
+ .debug_aranges
+                0x00000358      0x160 build/yarns/ui.o
+ .debug_aranges
+                0x000004b8       0x68 build/yarns/voice.o
+ .debug_aranges
+                0x00000520       0xb8 build/yarns/yarns.o
+ .debug_aranges
+                0x000005d8       0x28 build/yarns/channel_leds.o
+ .debug_aranges
+                0x00000600       0x20 build/yarns/dac.o
+ .debug_aranges
+                0x00000620       0x48 build/yarns/display.o
+ .debug_aranges
+                0x00000668       0x28 build/yarns/encoder.o
+ .debug_aranges
+                0x00000690       0x28 build/yarns/gate_output.o
+ .debug_aranges
+                0x000006b8       0x20 build/yarns/midi_io.o
+ .debug_aranges
+                0x000006d8       0x28 build/yarns/switches.o
+ .debug_aranges
+                0x00000700       0x28 build/yarns/system.o
+ .debug_aranges
+                0x00000728       0x18 build/yarns/random.o
+ .debug_aranges
+                0x00000740       0x28 build/yarns/system_clock.o
+ .debug_aranges
+                0x00000768       0x20 build/yarns/system_stm32f10x.o
+ .debug_aranges
+                0x00000788       0x40 build/yarns/misc.o
+ .debug_aranges
+                0x000007c8       0xd0 build/yarns/stm32f10x_flash.o
+ .debug_aranges
+                0x00000898       0xa8 build/yarns/stm32f10x_gpio.o
+ .debug_aranges
+                0x00000940      0x118 build/yarns/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000a58       0xd0 build/yarns/stm32f10x_spi.o
+ .debug_aranges
+                0x00000b28      0x2d0 build/yarns/stm32f10x_tim.o
+ .debug_aranges
+                0x00000df8       0xf0 build/yarns/stm32f10x_usart.o
+
+.debug_ranges   0x00000000     0x5268
+ .debug_ranges  0x00000000       0x28 build/yarns/just_intonation_processor.o
+ .debug_ranges  0x00000028      0x418 build/yarns/layout_configurator.o
+ .debug_ranges  0x00000440      0x350 build/yarns/midi_handler.o
+ .debug_ranges  0x00000790      0x800 build/yarns/multi.o
+ .debug_ranges  0x00000f90     0x10f8 build/yarns/part.o
+ .debug_ranges  0x00002088      0x1f0 build/yarns/settings.o
+ .debug_ranges  0x00002278      0x4a0 build/yarns/storage_manager.o
+ .debug_ranges  0x00002718      0xc98 build/yarns/ui.o
+ .debug_ranges  0x000033b0      0x220 build/yarns/voice.o
+ .debug_ranges  0x000035d0     0x1278 build/yarns/yarns.o
+ .debug_ranges  0x00004848       0x18 build/yarns/channel_leds.o
+ .debug_ranges  0x00004860       0x10 build/yarns/dac.o
+ .debug_ranges  0x00004870       0x70 build/yarns/display.o
+ .debug_ranges  0x000048e0       0x18 build/yarns/encoder.o
+ .debug_ranges  0x000048f8       0x18 build/yarns/gate_output.o
+ .debug_ranges  0x00004910       0x28 build/yarns/midi_io.o
+ .debug_ranges  0x00004938       0x30 build/yarns/switches.o
+ .debug_ranges  0x00004968       0x38 build/yarns/system.o
+ .debug_ranges  0x000049a0       0x18 build/yarns/system_clock.o
+ .debug_ranges  0x000049b8       0x28 build/yarns/system_stm32f10x.o
+ .debug_ranges  0x000049e0       0x30 build/yarns/misc.o
+ .debug_ranges  0x00004a10       0xc0 build/yarns/stm32f10x_flash.o
+ .debug_ranges  0x00004ad0       0x98 build/yarns/stm32f10x_gpio.o
+ .debug_ranges  0x00004b68      0x108 build/yarns/stm32f10x_rcc.o
+ .debug_ranges  0x00004c70       0xc0 build/yarns/stm32f10x_spi.o
+ .debug_ranges  0x00004d30      0x458 build/yarns/stm32f10x_tim.o
+ .debug_ranges  0x00005188       0xe0 build/yarns/stm32f10x_usart.o
+
+.debug_line     0x00000000     0xa41b
+ .debug_line    0x00000000      0x420 build/yarns/just_intonation_processor.o
+ .debug_line    0x00000420      0x7b4 build/yarns/layout_configurator.o
+ .debug_line    0x00000bd4      0x7c1 build/yarns/midi_handler.o
+ .debug_line    0x00001395      0xd1d build/yarns/multi.o
+ .debug_line    0x000020b2     0x127e build/yarns/part.o
+ .debug_line    0x00003330       0xb2 build/yarns/resources.o
+ .debug_line    0x000033e2      0x6af build/yarns/settings.o
+ .debug_line    0x00003a91      0x87f build/yarns/storage_manager.o
+ .debug_line    0x00004310     0x131f build/yarns/ui.o
+ .debug_line    0x0000562f      0x70f build/yarns/voice.o
+ .debug_line    0x00005d3e      0xffc build/yarns/yarns.o
+ .debug_line    0x00006d3a      0x464 build/yarns/channel_leds.o
+ .debug_line    0x0000719e      0x470 build/yarns/dac.o
+ .debug_line    0x0000760e      0x2b6 build/yarns/display.o
+ .debug_line    0x000078c4      0x177 build/yarns/encoder.o
+ .debug_line    0x00007a3b      0x174 build/yarns/gate_output.o
+ .debug_line    0x00007baf      0x188 build/yarns/midi_io.o
+ .debug_line    0x00007d37      0x1e6 build/yarns/switches.o
+ .debug_line    0x00007f1d      0x1da build/yarns/system.o
+ .debug_line    0x000080f7       0xba build/yarns/random.o
+ .debug_line    0x000081b1       0xea build/yarns/system_clock.o
+ .debug_line    0x0000829b      0x109 build/yarns/system_stm32f10x.o
+ .debug_line    0x000083a4      0x1b3 build/yarns/misc.o
+ .debug_line    0x00008557      0x412 build/yarns/stm32f10x_flash.o
+ .debug_line    0x00008969      0x335 build/yarns/stm32f10x_gpio.o
+ .debug_line    0x00008c9e      0x40d build/yarns/stm32f10x_rcc.o
+ .debug_line    0x000090ab      0x3a1 build/yarns/stm32f10x_spi.o
+ .debug_line    0x0000944c      0xbc9 build/yarns/stm32f10x_tim.o
+ .debug_line    0x0000a015      0x406 build/yarns/stm32f10x_usart.o
+
+.debug_str      0x00000000     0xd6e8
+ .debug_str     0x00000000      0x708 build/yarns/just_intonation_processor.o
+                                0x7ea (size before relaxing)
+ .debug_str     0x00000708     0x3ca4 build/yarns/layout_configurator.o
+                               0x4338 (size before relaxing)
+ .debug_str     0x000043ac     0x1adb build/yarns/midi_handler.o
+                               0x4e26 (size before relaxing)
+ .debug_str     0x00005e87      0xcf7 build/yarns/multi.o
+                               0x55d3 (size before relaxing)
+ .debug_str     0x00006b7e      0x56f build/yarns/part.o
+                               0x523d (size before relaxing)
+ .debug_str     0x000070ed      0xd73 build/yarns/resources.o
+                               0x102f (size before relaxing)
+ .debug_str     0x00007e60      0x292 build/yarns/settings.o
+                               0x4684 (size before relaxing)
+ .debug_str     0x000080f2      0x31c build/yarns/storage_manager.o
+                               0x4e8e (size before relaxing)
+ .debug_str     0x0000840e     0x1f18 build/yarns/ui.o
+                               0x631d (size before relaxing)
+ .debug_str     0x0000a326      0x7ae build/yarns/voice.o
+                               0x1bf1 (size before relaxing)
+ .debug_str     0x0000aad4      0x627 build/yarns/yarns.o
+                               0x7703 (size before relaxing)
+ .debug_str     0x0000b0fb      0x169 build/yarns/channel_leds.o
+                                0x741 (size before relaxing)
+ .debug_str     0x0000b264       0xe3 build/yarns/dac.o
+                                0x933 (size before relaxing)
+ .debug_str     0x0000b347       0xa0 build/yarns/display.o
+                                0x7b5 (size before relaxing)
+ .debug_str     0x0000b3e7       0x2f build/yarns/encoder.o
+                                0x51d (size before relaxing)
+ .debug_str     0x0000b416       0x1d build/yarns/gate_output.o
+                                0x43b (size before relaxing)
+ .debug_str     0x0000b433       0xae build/yarns/midi_io.o
+                                0x5af (size before relaxing)
+ .debug_str     0x0000b4e1       0x1a build/yarns/switches.o
+                                0x4c0 (size before relaxing)
+ .debug_str     0x0000b4fb      0x549 build/yarns/system.o
+                                0x962 (size before relaxing)
+ .debug_str     0x0000ba44       0x36 build/yarns/random.o
+                                0x2fd (size before relaxing)
+ .debug_str     0x0000ba7a       0x63 build/yarns/system_clock.o
+                                0x3b1 (size before relaxing)
+ .debug_str     0x0000badd      0x237 build/yarns/system_stm32f10x.o
+                                0x311 (size before relaxing)
+ .debug_str     0x0000bd14       0xe2 build/yarns/misc.o
+                                0x42a (size before relaxing)
+ .debug_str     0x0000bdf6      0x313 build/yarns/stm32f10x_flash.o
+                                0x5de (size before relaxing)
+ .debug_str     0x0000c109      0x22b build/yarns/stm32f10x_gpio.o
+                                0x587 (size before relaxing)
+ .debug_str     0x0000c334      0x3a0 build/yarns/stm32f10x_rcc.o
+                                0x681 (size before relaxing)
+ .debug_str     0x0000c6d4      0x2af build/yarns/stm32f10x_spi.o
+                                0x6a4 (size before relaxing)
+ .debug_str     0x0000c983      0xa00 build/yarns/stm32f10x_tim.o
+                                0xe72 (size before relaxing)
+ .debug_str     0x0000d383      0x365 build/yarns/stm32f10x_usart.o
+                                0x70a (size before relaxing)
+
+.debug_frame    0x00000000     0x22e0
+ .debug_frame   0x00000000       0x60 build/yarns/just_intonation_processor.o
+ .debug_frame   0x00000060       0xc0 build/yarns/layout_configurator.o
+ .debug_frame   0x00000120      0x108 build/yarns/midi_handler.o
+ .debug_frame   0x00000228      0x200 build/yarns/multi.o
+ .debug_frame   0x00000428      0x338 build/yarns/part.o
+ .debug_frame   0x00000760      0x108 build/yarns/settings.o
+ .debug_frame   0x00000868       0xfc build/yarns/storage_manager.o
+ .debug_frame   0x00000964      0x3b4 build/yarns/ui.o
+ .debug_frame   0x00000d18       0xf8 build/yarns/voice.o
+ .debug_frame   0x00000e10      0x1b4 build/yarns/yarns.o
+ .debug_frame   0x00000fc4       0x4c build/yarns/channel_leds.o
+ .debug_frame   0x00001010       0x30 build/yarns/dac.o
+ .debug_frame   0x00001040       0xa8 build/yarns/display.o
+ .debug_frame   0x000010e8       0x4c build/yarns/encoder.o
+ .debug_frame   0x00001134       0x48 build/yarns/gate_output.o
+ .debug_frame   0x0000117c       0x30 build/yarns/midi_io.o
+ .debug_frame   0x000011ac       0x4c build/yarns/switches.o
+ .debug_frame   0x000011f8       0x48 build/yarns/system.o
+ .debug_frame   0x00001240       0x30 build/yarns/system_clock.o
+ .debug_frame   0x00001270       0x28 build/yarns/system_stm32f10x.o
+ .debug_frame   0x00001298       0x68 build/yarns/misc.o
+ .debug_frame   0x00001300      0x1f8 build/yarns/stm32f10x_flash.o
+ .debug_frame   0x000014f8      0x15c build/yarns/stm32f10x_gpio.o
+ .debug_frame   0x00001654      0x21c build/yarns/stm32f10x_rcc.o
+ .debug_frame   0x00001870      0x1ac build/yarns/stm32f10x_spi.o
+ .debug_frame   0x00001a1c      0x614 build/yarns/stm32f10x_tim.o
+ .debug_frame   0x00002030      0x1ec build/yarns/stm32f10x_usart.o
+ .debug_frame   0x0000221c       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00002248       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00002274       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00002294       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strlen.o)
+ .debug_frame   0x000022b4       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-strncpy.o)

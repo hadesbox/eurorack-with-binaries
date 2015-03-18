@@ -1,0 +1,2543 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+                              build/peaks/peaks.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+                              build/peaks/ui.o (memmove)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/peaks.o
+ .text          0x00000000        0x0 build/peaks/peaks.o
+ .data          0x00000000        0x0 build/peaks/peaks.o
+ .bss           0x00000000        0x0 build/peaks/peaks.o
+ .text._ZN5peaks3DacD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text._ZN5peaks9GateInputD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text._ZN5peaks6SystemD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text._ZN5peaks3AdcD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text._ZN5peaks4LedsD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text._ZN5peaks8SwitchesD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text._ZN5peaks2UiD2Ev
+                0x00000000        0x4 build/peaks/peaks.o
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 build/peaks/peaks.o
+ .text.startup._GLOBAL__sub_I_adc
+                0x00000000       0x8c build/peaks/peaks.o
+ .init_array    0x00000000        0x4 build/peaks/peaks.o
+ .bss.leds      0x00000000        0x4 build/peaks/peaks.o
+ .bss.adc       0x00000000        0x8 build/peaks/peaks.o
+ .bss.switches  0x00000000        0x4 build/peaks/peaks.o
+ .bss.counter   0x00000000        0x2 build/peaks/peaks.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .group         0x00000000        0x8 build/peaks/processors.o
+ .text          0x00000000        0x0 build/peaks/processors.o
+ .data          0x00000000        0x0 build/peaks/processors.o
+ .bss           0x00000000        0x0 build/peaks/processors.o
+ .text.__tcf_0  0x00000000        0x4 build/peaks/processors.o
+ .text.startup._GLOBAL__sub_I__ZN5peaks10Processors16callbacks_table_E
+                0x00000000       0x14 build/peaks/processors.o
+ .init_array    0x00000000        0x4 build/peaks/processors.o
+ .text          0x00000000        0x0 build/peaks/resources.o
+ .data          0x00000000        0x0 build/peaks/resources.o
+ .bss           0x00000000        0x0 build/peaks/resources.o
+ .rodata._ZN5peaksL9str_dummyE
+                0x00000000        0x8 build/peaks/resources.o
+ .data._ZN5peaks12string_tableE
+                0x00000000        0x4 build/peaks/resources.o
+ .data._ZN5peaks14waveform_tableE
+                0x00000000       0x10 build/peaks/resources.o
+ .data._ZN5peaks21lookup_table_32_tableE
+                0x00000000        0xc build/peaks/resources.o
+ .data._ZN5peaks16waveform_8_tableE
+                0x00000000        0x4 build/peaks/resources.o
+ .group         0x00000000        0x8 build/peaks/ui.o
+ .text          0x00000000        0x0 build/peaks/ui.o
+ .data          0x00000000        0x0 build/peaks/ui.o
+ .bss           0x00000000        0x0 build/peaks/ui.o
+ .text._ZN5peaks2Ui8LockPotsEv
+                0x00000000       0x28 build/peaks/ui.o
+ .text._ZN5peaks2Ui11FlushEventsEv
+                0x00000000        0xc build/peaks/ui.o
+ .text._ZN5peaks2Ui15OnSwitchPressedERKN6stmlib5EventE
+                0x00000000       0x1c build/peaks/ui.o
+ .bss._ZN5peaks7storageE
+                0x00000000        0x4 build/peaks/ui.o
+ .text          0x00000000        0x0 build/peaks/adc.o
+ .data          0x00000000        0x0 build/peaks/adc.o
+ .bss           0x00000000        0x0 build/peaks/adc.o
+ .text          0x00000000        0x0 build/peaks/dac.o
+ .data          0x00000000        0x0 build/peaks/dac.o
+ .bss           0x00000000        0x0 build/peaks/dac.o
+ .text._ZN5peaks3Dac5WriteEt
+                0x00000000       0x40 build/peaks/dac.o
+ .text          0x00000000        0x0 build/peaks/gate_input.o
+ .data          0x00000000        0x0 build/peaks/gate_input.o
+ .bss           0x00000000        0x0 build/peaks/gate_input.o
+ .text          0x00000000        0x0 build/peaks/leds.o
+ .data          0x00000000        0x0 build/peaks/leds.o
+ .bss           0x00000000        0x0 build/peaks/leds.o
+ .text          0x00000000        0x0 build/peaks/switches.o
+ .data          0x00000000        0x0 build/peaks/switches.o
+ .bss           0x00000000        0x0 build/peaks/switches.o
+ .text          0x00000000        0x0 build/peaks/system.o
+ .data          0x00000000        0x0 build/peaks/system.o
+ .bss           0x00000000        0x0 build/peaks/system.o
+ .text          0x00000000        0x0 build/peaks/bass_drum.o
+ .data          0x00000000        0x0 build/peaks/bass_drum.o
+ .bss           0x00000000        0x0 build/peaks/bass_drum.o
+ .text          0x00000000        0x0 build/peaks/fm_drum.o
+ .data          0x00000000        0x0 build/peaks/fm_drum.o
+ .bss           0x00000000        0x0 build/peaks/fm_drum.o
+ .text          0x00000000        0x0 build/peaks/high_hat.o
+ .data          0x00000000        0x0 build/peaks/high_hat.o
+ .bss           0x00000000        0x0 build/peaks/high_hat.o
+ .text          0x00000000        0x0 build/peaks/snare_drum.o
+ .data          0x00000000        0x0 build/peaks/snare_drum.o
+ .bss           0x00000000        0x0 build/peaks/snare_drum.o
+ .text          0x00000000        0x0 build/peaks/svf.o
+ .data          0x00000000        0x0 build/peaks/svf.o
+ .bss           0x00000000        0x0 build/peaks/svf.o
+ .text          0x00000000        0x0 build/peaks/lfo.o
+ .data          0x00000000        0x0 build/peaks/lfo.o
+ .bss           0x00000000        0x0 build/peaks/lfo.o
+ .text          0x00000000        0x0 build/peaks/multistage_envelope.o
+ .data          0x00000000        0x0 build/peaks/multistage_envelope.o
+ .bss           0x00000000        0x0 build/peaks/multistage_envelope.o
+ .text          0x00000000        0x0 build/peaks/number_station.o
+ .data          0x00000000        0x0 build/peaks/number_station.o
+ .bss           0x00000000        0x0 build/peaks/number_station.o
+ .text          0x00000000        0x0 build/peaks/pulse_randomizer.o
+ .data          0x00000000        0x0 build/peaks/pulse_randomizer.o
+ .bss           0x00000000        0x0 build/peaks/pulse_randomizer.o
+ .text          0x00000000        0x0 build/peaks/pulse_shaper.o
+ .data          0x00000000        0x0 build/peaks/pulse_shaper.o
+ .bss           0x00000000        0x0 build/peaks/pulse_shaper.o
+ .text          0x00000000        0x0 build/peaks/random.o
+ .data          0x00000000        0x0 build/peaks/random.o
+ .bss           0x00000000        0x0 build/peaks/random.o
+ .text          0x00000000        0x0 build/peaks/bootloader_utils.o
+ .data          0x00000000        0x0 build/peaks/bootloader_utils.o
+ .bss           0x00000000        0x0 build/peaks/bootloader_utils.o
+ .text._ZN6stmlib12UninitializeEv
+                0x00000000       0x74 build/peaks/bootloader_utils.o
+ .text._ZN6stmlib6JumpToEm
+                0x00000000       0x10 build/peaks/bootloader_utils.o
+ .debug_info    0x00000000      0x2fb build/peaks/bootloader_utils.o
+ .debug_abbrev  0x00000000      0x18c build/peaks/bootloader_utils.o
+ .debug_loc     0x00000000       0x21 build/peaks/bootloader_utils.o
+ .debug_aranges
+                0x00000000       0x28 build/peaks/bootloader_utils.o
+ .debug_ranges  0x00000000       0x30 build/peaks/bootloader_utils.o
+ .debug_line    0x00000000      0x12e build/peaks/bootloader_utils.o
+ .debug_str     0x00000000      0x32e build/peaks/bootloader_utils.o
+ .comment       0x00000000       0x71 build/peaks/bootloader_utils.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/bootloader_utils.o
+ .debug_frame   0x00000000       0x40 build/peaks/bootloader_utils.o
+ .group         0x00000000        0x8 build/peaks/system_clock.o
+ .text          0x00000000        0x0 build/peaks/system_clock.o
+ .data          0x00000000        0x0 build/peaks/system_clock.o
+ .bss           0x00000000        0x0 build/peaks/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/peaks/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/peaks/system_clock.o
+ .init_array    0x00000000        0x4 build/peaks/system_clock.o
+ .text          0x00000000        0x0 build/peaks/core_cm3.o
+ .data          0x00000000        0x0 build/peaks/core_cm3.o
+ .bss           0x00000000        0x0 build/peaks/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/peaks/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/peaks/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/peaks/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/peaks/core_cm3.o
+ .debug_info    0x00000000      0x509 build/peaks/core_cm3.o
+ .debug_abbrev  0x00000000       0xbb build/peaks/core_cm3.o
+ .debug_loc     0x00000000      0x33a build/peaks/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 build/peaks/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 build/peaks/core_cm3.o
+ .debug_line    0x00000000      0x234 build/peaks/core_cm3.o
+ .debug_str     0x00000000      0x32d build/peaks/core_cm3.o
+ .comment       0x00000000       0x71 build/peaks/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/core_cm3.o
+ .debug_frame   0x00000000      0x170 build/peaks/core_cm3.o
+ .text          0x00000000        0x0 build/peaks/system_stm32f10x.o
+ .data          0x00000000        0x0 build/peaks/system_stm32f10x.o
+ .bss           0x00000000        0x0 build/peaks/system_stm32f10x.o
+ .rodata.SystemFrequency_AHBClk
+                0x00000000        0x4 build/peaks/system_stm32f10x.o
+ .rodata.SystemFrequency_SysClk
+                0x00000000        0x4 build/peaks/system_stm32f10x.o
+ .rodata.SystemFrequency
+                0x00000000        0x4 build/peaks/system_stm32f10x.o
+ .rodata.SystemFrequency_APB1Clk
+                0x00000000        0x4 build/peaks/system_stm32f10x.o
+ .rodata.SystemFrequency_APB2Clk
+                0x00000000        0x4 build/peaks/system_stm32f10x.o
+ .text          0x00000000        0x0 build/peaks/misc.o
+ .data          0x00000000        0x0 build/peaks/misc.o
+ .bss           0x00000000        0x0 build/peaks/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 build/peaks/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/peaks/misc.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_adc.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_adc.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/peaks/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/peaks/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/peaks/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc build/peaks/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/peaks/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x14 build/peaks/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/peaks/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x5c build/peaks/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/peaks/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/peaks/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/peaks/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 build/peaks/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/peaks/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/peaks/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/peaks/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/peaks/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x18 build/peaks/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/peaks/stm32f10x_adc.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_bkp.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_bkp.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x00000000       0x14 build/peaks/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x00000000        0xc build/peaks/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x00000000        0xc build/peaks/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x00000000        0xc build/peaks/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x00000000       0x18 build/peaks/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x00000000       0x18 build/peaks/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x00000000       0x1c build/peaks/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x00000000       0x20 build/peaks/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x00000000       0x14 build/peaks/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x00000000        0xc build/peaks/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x00000000       0x14 build/peaks/stm32f10x_bkp.o
+ .debug_info    0x00000000      0x790 build/peaks/stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x18a build/peaks/stm32f10x_bkp.o
+ .debug_loc     0x00000000       0xee build/peaks/stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x78 build/peaks/stm32f10x_bkp.o
+ .debug_ranges  0x00000000       0x68 build/peaks/stm32f10x_bkp.o
+ .debug_line    0x00000000      0x21d build/peaks/stm32f10x_bkp.o
+ .debug_str     0x00000000      0x62f build/peaks/stm32f10x_bkp.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_bkp.o
+ .debug_frame   0x00000000       0xe0 build/peaks/stm32f10x_bkp.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_can.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_can.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/peaks/stm32f10x_can.o
+ .text.CAN_Init
+                0x00000000       0xec build/peaks/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x00000000       0xf4 build/peaks/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/peaks/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/peaks/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/peaks/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x00000000       0xd0 build/peaks/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x74 build/peaks/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/peaks/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x00000000        0xc build/peaks/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/peaks/stm32f10x_can.o
+ .text.CAN_Receive
+                0x00000000       0x90 build/peaks/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/peaks/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/peaks/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x2c build/peaks/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x00000000        0xc build/peaks/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xa4 build/peaks/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0xa0 build/peaks/stm32f10x_can.o
+ .rodata.CSWTCH.10
+                0x00000000        0x8 build/peaks/stm32f10x_can.o
+ .debug_info    0x00000000      0xae8 build/peaks/stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x28f build/peaks/stm32f10x_can.o
+ .debug_loc     0x00000000      0x7f8 build/peaks/stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0xb0 build/peaks/stm32f10x_can.o
+ .debug_ranges  0x00000000      0x120 build/peaks/stm32f10x_can.o
+ .debug_line    0x00000000      0x490 build/peaks/stm32f10x_can.o
+ .debug_str     0x00000000      0x6ef build/peaks/stm32f10x_can.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_can.o
+ .debug_frame   0x00000000      0x17c build/peaks/stm32f10x_can.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_crc.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_crc.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/peaks/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/peaks/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x1c build/peaks/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/peaks/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/peaks/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/peaks/stm32f10x_crc.o
+ .debug_info    0x00000000      0x1c7 build/peaks/stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x114 build/peaks/stm32f10x_crc.o
+ .debug_loc     0x00000000       0x75 build/peaks/stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/peaks/stm32f10x_crc.o
+ .debug_ranges  0x00000000       0x38 build/peaks/stm32f10x_crc.o
+ .debug_line    0x00000000      0x16d build/peaks/stm32f10x_crc.o
+ .debug_str     0x00000000      0x2a2 build/peaks/stm32f10x_crc.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_crc.o
+ .debug_frame   0x00000000       0x70 build/peaks/stm32f10x_crc.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_dac.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_dac.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/peaks/stm32f10x_dac.o
+ .text.DAC_Init
+                0x00000000       0x30 build/peaks/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/peaks/stm32f10x_dac.o
+ .text.DAC_Cmd  0x00000000       0x20 build/peaks/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x20 build/peaks/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x20 build/peaks/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/peaks/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x1c build/peaks/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/peaks/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/peaks/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/peaks/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/peaks/stm32f10x_dac.o
+ .debug_info    0x00000000      0x4ab build/peaks/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1b8 build/peaks/stm32f10x_dac.o
+ .debug_loc     0x00000000      0x235 build/peaks/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x78 build/peaks/stm32f10x_dac.o
+ .debug_ranges  0x00000000       0x68 build/peaks/stm32f10x_dac.o
+ .debug_line    0x00000000      0x267 build/peaks/stm32f10x_dac.o
+ .debug_str     0x00000000      0x425 build/peaks/stm32f10x_dac.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_dac.o
+ .debug_frame   0x00000000       0xec build/peaks/stm32f10x_dac.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/peaks/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/peaks/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x18 build/peaks/stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x12c build/peaks/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xdc build/peaks/stm32f10x_dbgmcu.o
+ .debug_loc     0x00000000       0x3a build/peaks/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x30 build/peaks/stm32f10x_dbgmcu.o
+ .debug_ranges  0x00000000       0x20 build/peaks/stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x129 build/peaks/stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x26e build/peaks/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x40 build/peaks/stm32f10x_dbgmcu.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_dma.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_dma.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x1c build/peaks/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x14 build/peaks/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/peaks/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x1c build/peaks/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x14 build/peaks/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x1c build/peaks/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x14 build/peaks/stm32f10x_dma.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_exti.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_exti.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/peaks/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x80 build/peaks/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/peaks/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/peaks/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/peaks/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/peaks/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x1c build/peaks/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/peaks/stm32f10x_exti.o
+ .debug_info    0x00000000      0x314 build/peaks/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x169 build/peaks/stm32f10x_exti.o
+ .debug_loc     0x00000000      0x224 build/peaks/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/peaks/stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x48 build/peaks/stm32f10x_exti.o
+ .debug_line    0x00000000      0x217 build/peaks/stm32f10x_exti.o
+ .debug_str     0x00000000      0x3c5 build/peaks/stm32f10x_exti.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_exti.o
+ .debug_frame   0x00000000       0x98 build/peaks/stm32f10x_exti.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_flash.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_flash.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x14 build/peaks/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x18 build/peaks/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x18 build/peaks/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/peaks/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000        0xc build/peaks/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000        0xc build/peaks/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x10 build/peaks/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x10 build/peaks/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x18 build/peaks/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x20 build/peaks/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000        0xc build/peaks/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x40 build/peaks/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0x7c build/peaks/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x48 build/peaks/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000       0xa0 build/peaks/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0x94 build/peaks/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x58 build/peaks/stm32f10x_flash.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xbc build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x7c build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x54 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x20 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/peaks/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/peaks/stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x8b8 build/peaks/stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x197 build/peaks/stm32f10x_fsmc.o
+ .debug_loc     0x00000000      0x4ae build/peaks/stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/peaks/stm32f10x_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/peaks/stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x412 build/peaks/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x7d5 build/peaks/stm32f10x_fsmc.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x190 build/peaks/stm32f10x_fsmc.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_gpio.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xdc build/peaks/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/peaks/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x20 build/peaks/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc build/peaks/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2c build/peaks/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/peaks/stm32f10x_gpio.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_i2c.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x3c build/peaks/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000       0xdc build/peaks/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/peaks/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/peaks/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x14 build/peaks/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000        0x4 build/peaks/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/peaks/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x14 build/peaks/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/peaks/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x20 build/peaks/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x20 build/peaks/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/peaks/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/peaks/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/peaks/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x18 build/peaks/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x38 build/peaks/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/peaks/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1c build/peaks/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/peaks/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb22 build/peaks/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x1de build/peaks/stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x73d build/peaks/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x118 build/peaks/stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x108 build/peaks/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x45c build/peaks/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x6ce build/peaks/stm32f10x_i2c.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x238 build/peaks/stm32f10x_i2c.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/peaks/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/peaks/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/peaks/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/peaks/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/peaks/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/peaks/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x1c1 build/peaks/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000       0xff build/peaks/stm32f10x_iwdg.o
+ .debug_loc     0x00000000       0x62 build/peaks/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/peaks/stm32f10x_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/peaks/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x158 build/peaks/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x2c3 build/peaks/stm32f10x_iwdg.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0x70 build/peaks/stm32f10x_iwdg.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_pwr.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/peaks/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/peaks/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/peaks/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/peaks/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/peaks/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x34 build/peaks/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/peaks/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/peaks/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/peaks/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x2ef build/peaks/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x17c build/peaks/stm32f10x_pwr.o
+ .debug_loc     0x00000000      0x111 build/peaks/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x60 build/peaks/stm32f10x_pwr.o
+ .debug_ranges  0x00000000       0x50 build/peaks/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x216 build/peaks/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x339 build/peaks/stm32f10x_pwr.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_pwr.o
+ .debug_frame   0x00000000       0xb0 build/peaks/stm32f10x_pwr.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_rcc.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 build/peaks/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x38 build/peaks/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/peaks/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/peaks/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 build/peaks/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/peaks/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 build/peaks/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000       0x94 build/peaks/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 build/peaks/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 build/peaks/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/peaks/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/peaks/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/peaks/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x00000000        0x4 build/peaks/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x00000000       0x10 build/peaks/stm32f10x_rcc.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_rtc.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x1c build/peaks/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x14 build/peaks/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x14 build/peaks/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x14 build/peaks/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x28 build/peaks/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x28 build/peaks/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x28 build/peaks/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x18 build/peaks/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x10 build/peaks/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x1c build/peaks/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x14 build/peaks/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x14 build/peaks/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x20 build/peaks/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x14 build/peaks/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x452 build/peaks/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1ca build/peaks/stm32f10x_rtc.o
+ .debug_loc     0x00000000      0x20e build/peaks/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x88 build/peaks/stm32f10x_rtc.o
+ .debug_ranges  0x00000000       0xd8 build/peaks/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x248 build/peaks/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x401 build/peaks/stm32f10x_rtc.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_rtc.o
+ .debug_frame   0x00000000       0xf0 build/peaks/stm32f10x_rtc.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_sdio.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_sdio.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x24 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x30 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000       0x18 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x18 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x2c build/peaks/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x2c build/peaks/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/peaks/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/peaks/stm32f10x_sdio.o
+ .debug_info    0x00000000      0x7ac build/peaks/stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1d6 build/peaks/stm32f10x_sdio.o
+ .debug_loc     0x00000000      0x238 build/peaks/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/peaks/stm32f10x_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/peaks/stm32f10x_sdio.o
+ .debug_line    0x00000000      0x3bb build/peaks/stm32f10x_sdio.o
+ .debug_str     0x00000000      0x6a2 build/peaks/stm32f10x_sdio.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x20c build/peaks/stm32f10x_sdio.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_spi.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_spi.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x6c build/peaks/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0xb4 build/peaks/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/peaks/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/peaks/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x1c build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x20 build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x14 build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/peaks/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x20 build/peaks/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x1c build/peaks/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x18 build/peaks/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/peaks/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x1c build/peaks/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/peaks/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/peaks/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x20 build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x2c build/peaks/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x10 build/peaks/stm32f10x_spi.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_tim.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_tim.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000       0xf8 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0x7c build/peaks/stm32f10x_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 build/peaks/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x168 build/peaks/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x150 build/peaks/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x28 build/peaks/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x20 build/peaks/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/peaks/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x88 build/peaks/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x28 build/peaks/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x24 build/peaks/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x18 build/peaks/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x40 build/peaks/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x4c build/peaks/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x14 build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x18 build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x18 build/peaks/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x18 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x18 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x18 build/peaks/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1c build/peaks/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x10 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/peaks/stm32f10x_tim.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_usart.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_usart.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0xb0 build/peaks/stm32f10x_usart.o
+ .text.USART_Init
+                0x00000000       0x90 build/peaks/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/peaks/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x24 build/peaks/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/peaks/stm32f10x_usart.o
+ .text.USART_Cmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/peaks/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x14 build/peaks/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x18 build/peaks/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x18 build/peaks/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x18 build/peaks/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/peaks/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/peaks/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/peaks/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x14 build/peaks/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x14 build/peaks/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x18 build/peaks/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x1c build/peaks/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/peaks/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x4c build/peaks/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x10 build/peaks/stm32f10x_usart.o
+ .debug_info    0x00000000      0xa82 build/peaks/stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x1eb build/peaks/stm32f10x_usart.o
+ .debug_loc     0x00000000      0xa62 build/peaks/stm32f10x_usart.o
+ .debug_aranges
+                0x00000000       0xf0 build/peaks/stm32f10x_usart.o
+ .debug_ranges  0x00000000       0xe0 build/peaks/stm32f10x_usart.o
+ .debug_line    0x00000000      0x406 build/peaks/stm32f10x_usart.o
+ .debug_str     0x00000000      0x70a build/peaks/stm32f10x_usart.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_usart.o
+ .debug_frame   0x00000000      0x1ec build/peaks/stm32f10x_usart.o
+ .text          0x00000000        0x0 build/peaks/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 build/peaks/stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000        0xc build/peaks/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/peaks/stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x24e build/peaks/stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x13e build/peaks/stm32f10x_wwdg.o
+ .debug_loc     0x00000000       0xae build/peaks/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/peaks/stm32f10x_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/peaks/stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x1ce build/peaks/stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x2f6 build/peaks/stm32f10x_wwdg.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/peaks/stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0x9c build/peaks/stm32f10x_wwdg.o
+ .text          0x00000000       0x14 build/peaks/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 build/peaks/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 build/peaks/startup_stm32f10x_md.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08004000         0x0001c000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD build/peaks/peaks.o
+LOAD build/peaks/processors.o
+LOAD build/peaks/resources.o
+LOAD build/peaks/ui.o
+LOAD build/peaks/adc.o
+LOAD build/peaks/dac.o
+LOAD build/peaks/gate_input.o
+LOAD build/peaks/leds.o
+LOAD build/peaks/switches.o
+LOAD build/peaks/system.o
+LOAD build/peaks/bass_drum.o
+LOAD build/peaks/fm_drum.o
+LOAD build/peaks/high_hat.o
+LOAD build/peaks/snare_drum.o
+LOAD build/peaks/svf.o
+LOAD build/peaks/lfo.o
+LOAD build/peaks/multistage_envelope.o
+LOAD build/peaks/number_station.o
+LOAD build/peaks/pulse_randomizer.o
+LOAD build/peaks/pulse_shaper.o
+LOAD build/peaks/random.o
+LOAD build/peaks/bootloader_utils.o
+LOAD build/peaks/system_clock.o
+LOAD build/peaks/core_cm3.o
+LOAD build/peaks/system_stm32f10x.o
+LOAD build/peaks/misc.o
+LOAD build/peaks/stm32f10x_adc.o
+LOAD build/peaks/stm32f10x_bkp.o
+LOAD build/peaks/stm32f10x_can.o
+LOAD build/peaks/stm32f10x_crc.o
+LOAD build/peaks/stm32f10x_dac.o
+LOAD build/peaks/stm32f10x_dbgmcu.o
+LOAD build/peaks/stm32f10x_dma.o
+LOAD build/peaks/stm32f10x_exti.o
+LOAD build/peaks/stm32f10x_flash.o
+LOAD build/peaks/stm32f10x_fsmc.o
+LOAD build/peaks/stm32f10x_gpio.o
+LOAD build/peaks/stm32f10x_i2c.o
+LOAD build/peaks/stm32f10x_iwdg.o
+LOAD build/peaks/stm32f10x_pwr.o
+LOAD build/peaks/stm32f10x_rcc.o
+LOAD build/peaks/stm32f10x_rtc.o
+LOAD build/peaks/stm32f10x_sdio.o
+LOAD build/peaks/stm32f10x_spi.o
+LOAD build/peaks/stm32f10x_tim.o
+LOAD build/peaks/stm32f10x_usart.o
+LOAD build/peaks/stm32f10x_wwdg.o
+LOAD build/peaks/startup_stm32f10x_md.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.text           0x08004000    0x12a90
+                0x08004000                _start = .
+ *(.isr_vector)
+ .isr_vector    0x08004000      0x10c build/peaks/startup_stm32f10x_md.o
+                0x08004000                g_pfnVectors
+ *(.text*)
+ .text.HardFault_Handler
+                0x0800410c        0x4 build/peaks/peaks.o
+                0x0800410c                HardFault_Handler
+ .text.MemManage_Handler
+                0x08004110        0x4 build/peaks/peaks.o
+                0x08004110                MemManage_Handler
+ .text.BusFault_Handler
+                0x08004114        0x4 build/peaks/peaks.o
+                0x08004114                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08004118        0x4 build/peaks/peaks.o
+                0x08004118                UsageFault_Handler
+ .text.NMI_Handler
+                0x0800411c        0x4 build/peaks/peaks.o
+                0x0800411c                NMI_Handler
+ .text.SVC_Handler
+                0x08004120        0x4 build/peaks/peaks.o
+                0x08004120                SVC_Handler
+ .text.DebugMon_Handler
+                0x08004124        0x4 build/peaks/peaks.o
+                0x08004124                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08004128        0x4 build/peaks/peaks.o
+                0x08004128                PendSV_Handler
+ .text.SysTick_Handler
+                0x0800412c        0xc build/peaks/peaks.o
+                0x0800412c                SysTick_Handler
+ .text.TIM1_UP_IRQHandler
+                0x08004138      0x1b8 build/peaks/peaks.o
+                0x08004138                TIM1_UP_IRQHandler
+ .text._Z4Initv
+                0x080042f0       0x60 build/peaks/peaks.o
+                0x080042f0                Init()
+ .text.startup.main
+                0x08004350       0xa0 build/peaks/peaks.o
+                0x08004350                main
+ .text._ZN5peaks10Processors27MultistageEnvelopeConfigureEPtNS_11ControlModeE
+                0x080043f0       0xb4 build/peaks/processors.o
+                0x080043f0                peaks::Processors::MultistageEnvelopeConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors17BassDrumConfigureEPtNS_11ControlModeE
+                0x080044a4       0xb4 build/peaks/processors.o
+                0x080044a4                peaks::Processors::BassDrumConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors16HighHatConfigureEPtNS_11ControlModeE
+                0x08004558        0x4 build/peaks/processors.o
+                0x08004558                peaks::Processors::HighHatConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors20PulseShaperConfigureEPtNS_11ControlModeE
+                0x0800455c       0x48 build/peaks/processors.o
+                0x0800455c                peaks::Processors::PulseShaperConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors16BouncingBallInitEv
+                0x080045a4       0x28 build/peaks/processors.o
+                0x080045a4                peaks::Processors::BouncingBallInit()
+ .text._ZN5peaks10Processors31BouncingBallProcessSingleSampleEh
+                0x080045cc       0x74 build/peaks/processors.o
+                0x080045cc                peaks::Processors::BouncingBallProcessSingleSample(unsigned char)
+ .text._ZN5peaks10Processors21BouncingBallConfigureEPtNS_11ControlModeE
+                0x08004640       0xa8 build/peaks/processors.o
+                0x08004640                peaks::Processors::BouncingBallConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors17MiniSequencerInitEv
+                0x080046e8       0x28 build/peaks/processors.o
+                0x080046e8                peaks::Processors::MiniSequencerInit()
+ .text._ZN5peaks10Processors32MiniSequencerProcessSingleSampleEh
+                0x08004710       0x48 build/peaks/processors.o
+                0x08004710                peaks::Processors::MiniSequencerProcessSingleSample(unsigned char)
+ .text._ZN5peaks10Processors22NumberStationConfigureEPtNS_11ControlModeE
+                0x08004758       0x84 build/peaks/processors.o
+                0x08004758                peaks::Processors::NumberStationConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors23NumberStationFillBufferEv
+                0x080047dc       0x10 build/peaks/processors.o
+                0x080047dc                peaks::Processors::NumberStationFillBuffer()
+ .text._ZN5peaks10Processors17NumberStationInitEv
+                0x080047ec        0x8 build/peaks/processors.o
+                0x080047ec                peaks::Processors::NumberStationInit()
+ .text._ZN5peaks10Processors25PulseRandomizerFillBufferEv
+                0x080047f4       0x10 build/peaks/processors.o
+                0x080047f4                peaks::Processors::PulseRandomizerFillBuffer()
+ .text._ZN5peaks10Processors19PulseRandomizerInitEv
+                0x08004804        0x8 build/peaks/processors.o
+                0x08004804                peaks::Processors::PulseRandomizerInit()
+ .text._ZN5peaks10Processors21PulseShaperFillBufferEv
+                0x0800480c       0x10 build/peaks/processors.o
+                0x0800480c                peaks::Processors::PulseShaperFillBuffer()
+ .text._ZN5peaks10Processors15PulseShaperInitEv
+                0x0800481c        0x8 build/peaks/processors.o
+                0x0800481c                peaks::Processors::PulseShaperInit()
+ .text._ZN5peaks10Processors15FmDrumConfigureEPtNS_11ControlModeE
+                0x08004824       0xa8 build/peaks/processors.o
+                0x08004824                peaks::Processors::FmDrumConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors16FmDrumFillBufferEv
+                0x080048cc       0x10 build/peaks/processors.o
+                0x080048cc                peaks::Processors::FmDrumFillBuffer()
+ .text._ZN5peaks10Processors10FmDrumInitEv
+                0x080048dc        0x8 build/peaks/processors.o
+                0x080048dc                peaks::Processors::FmDrumInit()
+ .text._ZN5peaks10Processors26HighHatProcessSingleSampleEh
+                0x080048e4        0x8 build/peaks/processors.o
+                0x080048e4                peaks::Processors::HighHatProcessSingleSample(unsigned char)
+ .text._ZN5peaks10Processors11HighHatInitEv
+                0x080048ec        0x8 build/peaks/processors.o
+                0x080048ec                peaks::Processors::HighHatInit()
+ .text._ZN5peaks10Processors28SnareDrumProcessSingleSampleEh
+                0x080048f4        0x8 build/peaks/processors.o
+                0x080048f4                peaks::Processors::SnareDrumProcessSingleSample(unsigned char)
+ .text._ZN5peaks10Processors13SnareDrumInitEv
+                0x080048fc        0x8 build/peaks/processors.o
+                0x080048fc                peaks::Processors::SnareDrumInit()
+ .text._ZN5peaks10Processors27BassDrumProcessSingleSampleEh
+                0x08004904        0x8 build/peaks/processors.o
+                0x08004904                peaks::Processors::BassDrumProcessSingleSample(unsigned char)
+ .text._ZN5peaks10Processors12BassDrumInitEv
+                0x0800490c        0x8 build/peaks/processors.o
+                0x0800490c                peaks::Processors::BassDrumInit()
+ .text._ZN5peaks10Processors12LfoConfigureEPtNS_11ControlModeE
+                0x08004914       0xa4 build/peaks/processors.o
+                0x08004914                peaks::Processors::LfoConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors13LfoFillBufferEv
+                0x080049b8        0xc build/peaks/processors.o
+                0x080049b8                peaks::Processors::LfoFillBuffer()
+ .text._ZN5peaks10Processors7LfoInitEv
+                0x080049c4        0x8 build/peaks/processors.o
+                0x080049c4                peaks::Processors::LfoInit()
+ .text._ZN5peaks10Processors37MultistageEnvelopeProcessSingleSampleEh
+                0x080049cc        0x8 build/peaks/processors.o
+                0x080049cc                peaks::Processors::MultistageEnvelopeProcessSingleSample(unsigned char)
+ .text._ZN5peaks10Processors22MultistageEnvelopeInitEv
+                0x080049d4        0x8 build/peaks/processors.o
+                0x080049d4                peaks::Processors::MultistageEnvelopeInit()
+ .text._ZN5peaks10Processors22MiniSequencerConfigureEPtNS_11ControlModeE
+                0x080049dc       0x50 build/peaks/processors.o
+                0x080049dc                peaks::Processors::MiniSequencerConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors24PulseRandomizerConfigureEPtNS_11ControlModeE
+                0x08004a2c       0x40 build/peaks/processors.o
+                0x08004a2c                peaks::Processors::PulseRandomizerConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors18SnareDrumConfigureEPtNS_11ControlModeE
+                0x08004a6c      0x138 build/peaks/processors.o
+                0x08004a6c                peaks::Processors::SnareDrumConfigure(unsigned short*, peaks::ControlMode)
+ .text._ZN5peaks10Processors12set_functionENS_17ProcessorFunctionE
+                0x08004ba4       0xfc build/peaks/processors.o
+                0x08004ba4                peaks::Processors::set_function(peaks::ProcessorFunction)
+ .text._ZN5peaks10Processors4InitEh
+                0x08004ca0      0x3d0 build/peaks/processors.o
+                0x08004ca0                peaks::Processors::Init(unsigned char)
+ .text._ZN5peaks10Processors9ConfigureEv
+                0x08005070       0xd0 build/peaks/ui.o
+                0x08005070                peaks::Processors::Configure()
+ .text._ZN5peaks2Ui9SaveStateEv
+                0x08005140      0x110 build/peaks/ui.o
+                0x08005140                peaks::Ui::SaveState()
+ .text._ZN5peaks2Ui4PollEv
+                0x08005250      0x554 build/peaks/ui.o
+                0x08005250                peaks::Ui::Poll()
+ .text._ZN5peaks2Ui17ChangeControlModeEv
+                0x080057a4      0xaa0 build/peaks/ui.o
+                0x080057a4                peaks::Ui::ChangeControlMode()
+ .text._ZN5peaks2Ui11SetFunctionEhNS_8FunctionE
+                0x08006244      0x590 build/peaks/ui.o
+                0x08006244                peaks::Ui::SetFunction(unsigned char, peaks::Function)
+ .text._ZN5peaks2Ui4InitEv
+                0x080067d4      0x610 build/peaks/ui.o
+                0x080067d4                peaks::Ui::Init()
+ .text._ZN5peaks2Ui16OnSwitchReleasedERKN6stmlib5EventE
+                0x08006de4      0x430 build/peaks/ui.o
+                0x08006de4                peaks::Ui::OnSwitchReleased(stmlib::Event const&)
+ .text._ZN5peaks2Ui12OnPotChangedERKN6stmlib5EventE
+                0x08007214      0x50c build/peaks/ui.o
+                0x08007214                peaks::Ui::OnPotChanged(stmlib::Event const&)
+ .text._ZN5peaks2Ui8PollPotsEv
+                0x08007720       0x4c build/peaks/ui.o
+                0x08007720                peaks::Ui::PollPots()
+ .text._ZN5peaks2Ui8DoEventsEv
+                0x0800776c       0x9c build/peaks/ui.o
+                0x0800776c                peaks::Ui::DoEvents()
+ .text._ZN5peaks3Adc4InitEv
+                0x08007808      0x114 build/peaks/adc.o
+                0x08007808                peaks::Adc::Init()
+ .text._ZN5peaks3Dac4InitEv
+                0x0800791c       0x94 build/peaks/dac.o
+                0x0800791c                peaks::Dac::Init()
+ .text._ZN5peaks3Dac6UpdateEv
+                0x080079b0       0x68 build/peaks/dac.o
+                0x080079b0                peaks::Dac::Update()
+ .text._ZN5peaks9GateInput4InitEv
+                0x08007a18       0x4c build/peaks/gate_input.o
+                0x08007a18                peaks::GateInput::Init()
+ .text._ZN5peaks9GateInput8ReadBitsEv
+                0x08007a64       0x2c build/peaks/gate_input.o
+                0x08007a64                peaks::GateInput::ReadBits()
+ .text._ZN5peaks4Leds4InitEv
+                0x08007a90       0xc4 build/peaks/leds.o
+                0x08007a90                peaks::Leds::Init()
+ .text._ZN5peaks4Leds5WriteEv
+                0x08007b54       0x70 build/peaks/leds.o
+                0x08007b54                peaks::Leds::Write()
+ .text._ZN5peaks8Switches4InitEv
+                0x08007bc4       0x68 build/peaks/switches.o
+                0x08007bc4                peaks::Switches::Init()
+ .text._ZN5peaks8Switches8DebounceEv
+                0x08007c2c       0x64 build/peaks/switches.o
+                0x08007c2c                peaks::Switches::Debounce()
+ .text._ZN5peaks6System4InitEmb
+                0x08007c90       0xa0 build/peaks/system.o
+                0x08007c90                peaks::System::Init(unsigned long, bool)
+ .text._ZN5peaks6System11StartTimersEv
+                0x08007d30       0x34 build/peaks/system.o
+                0x08007d30                peaks::System::StartTimers()
+ .text._ZN5peaks8BassDrum4InitEv
+                0x08007d64       0x78 build/peaks/bass_drum.o
+                0x08007d64                peaks::BassDrum::Init()
+ .text._ZN5peaks6FmDrum4InitEv
+                0x08007ddc       0x10 build/peaks/fm_drum.o
+                0x08007ddc                peaks::FmDrum::Init()
+ .text._ZN5peaks6FmDrum5MorphEtt
+                0x08007dec      0x10c build/peaks/fm_drum.o
+                0x08007dec                peaks::FmDrum::Morph(unsigned short, unsigned short)
+ .text._ZN5peaks6FmDrum10FillBufferEPN6stmlib10RingBufferIhLj16EEEPNS2_IsLj16EEE
+                0x08007ef8      0x27c build/peaks/fm_drum.o
+                0x08007ef8                peaks::FmDrum::FillBuffer(stmlib::RingBuffer<unsigned char, 16u>*, stmlib::RingBuffer<short, 16u>*)
+ .text._ZN5peaks7HighHat4InitEv
+                0x08008174       0x44 build/peaks/high_hat.o
+                0x08008174                peaks::HighHat::Init()
+ .text._ZN5peaks9SnareDrum4InitEv
+                0x080081b8       0xb4 build/peaks/snare_drum.o
+                0x080081b8                peaks::SnareDrum::Init()
+ .text._ZN5peaks3Svf4InitEv
+                0x0800826c       0x24 build/peaks/svf.o
+                0x0800826c                peaks::Svf::Init()
+ .text._ZN5peaks3Lfo17ComputeSampleSineEv
+                0x08008290       0xc8 build/peaks/lfo.o
+                0x08008290                peaks::Lfo::ComputeSampleSine()
+ .text._ZN5peaks3Lfo21ComputeSampleTriangleEv
+                0x08008358       0x8c build/peaks/lfo.o
+                0x08008358                peaks::Lfo::ComputeSampleTriangle()
+ .text._ZN5peaks3Lfo19ComputeSampleSquareEv
+                0x080083e4       0x38 build/peaks/lfo.o
+                0x080083e4                peaks::Lfo::ComputeSampleSquare()
+ .text._ZN5peaks3Lfo18ComputeSampleStepsEv
+                0x0800841c       0x44 build/peaks/lfo.o
+                0x0800841c                peaks::Lfo::ComputeSampleSteps()
+ .text._ZN5peaks3Lfo18ComputeSampleNoiseEv
+                0x08008460       0xb0 build/peaks/lfo.o
+                0x08008460                peaks::Lfo::ComputeSampleNoise()
+ .text._ZN5peaks3Lfo4InitEv
+                0x08008510       0x40 build/peaks/lfo.o
+                0x08008510                peaks::Lfo::Init()
+ .text._ZN5peaks3Lfo26set_shape_parameter_presetEt
+                0x08008550       0x24 build/peaks/lfo.o
+                0x08008550                peaks::Lfo::set_shape_parameter_preset(unsigned short)
+ .text._ZN5peaks3Lfo10FillBufferEPN6stmlib10RingBufferIhLj16EEEPNS2_IsLj16EEE
+                0x08008574      0x1b8 build/peaks/lfo.o
+                0x08008574                peaks::Lfo::FillBuffer(stmlib::RingBuffer<unsigned char, 16u>*, stmlib::RingBuffer<short, 16u>*)
+ .text._ZN5peaks18MultistageEnvelope4InitEv
+                0x0800872c       0x4c build/peaks/multistage_envelope.o
+                0x0800872c                peaks::MultistageEnvelope::Init()
+ .text._ZN5peaks18MultistageEnvelope19ProcessSingleSampleEh
+                0x08008778      0x140 build/peaks/multistage_envelope.o
+                0x08008778                peaks::MultistageEnvelope::ProcessSingleSample(unsigned char)
+ .text._ZN5peaks13NumberStation4InitEv
+                0x080088b8       0x50 build/peaks/number_station.o
+                0x080088b8                peaks::NumberStation::Init()
+ .text._ZN5peaks13NumberStation10FillBufferEPN6stmlib10RingBufferIhLj16EEEPNS2_IsLj16EEE
+                0x08008908      0x428 build/peaks/number_station.o
+                0x08008908                peaks::NumberStation::FillBuffer(stmlib::RingBuffer<unsigned char, 16u>*, stmlib::RingBuffer<short, 16u>*)
+ .text._ZN5peaks15PulseRandomizer4InitEv
+                0x08008d30       0x30 build/peaks/pulse_randomizer.o
+                0x08008d30                peaks::PulseRandomizer::Init()
+ .text._ZN5peaks15PulseRandomizer10FillBufferEPN6stmlib10RingBufferIhLj16EEEPNS2_IsLj16EEE
+                0x08008d60      0x1a0 build/peaks/pulse_randomizer.o
+                0x08008d60                peaks::PulseRandomizer::FillBuffer(stmlib::RingBuffer<unsigned char, 16u>*, stmlib::RingBuffer<short, 16u>*)
+ .text._ZN5peaks11PulseShaper4InitEv
+                0x08008f00       0x28 build/peaks/pulse_shaper.o
+                0x08008f00                peaks::PulseShaper::Init()
+ .text._ZN5peaks11PulseShaper10FillBufferEPN6stmlib10RingBufferIhLj16EEEPNS2_IsLj16EEE
+                0x08008f28      0x198 build/peaks/pulse_shaper.o
+                0x08008f28                peaks::PulseShaper::FillBuffer(stmlib::RingBuffer<unsigned char, 16u>*, stmlib::RingBuffer<short, 16u>*)
+ .text.SystemInit
+                0x080090c0       0xf8 build/peaks/system_stm32f10x.o
+                0x080090c0                SystemInit
+ .text.NVIC_PriorityGroupConfig
+                0x080091b8       0x14 build/peaks/misc.o
+                0x080091b8                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x080091cc       0x70 build/peaks/misc.o
+                0x080091cc                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x0800923c       0x14 build/peaks/misc.o
+                0x0800923c                NVIC_SetVectorTable
+ .text.ADC_DeInit
+                0x08009250       0x6c build/peaks/stm32f10x_adc.o
+                0x08009250                ADC_DeInit
+ .text.ADC_Init
+                0x080092bc       0x48 build/peaks/stm32f10x_adc.o
+                0x080092bc                ADC_Init
+ .text.ADC_Cmd  0x08009304       0x14 build/peaks/stm32f10x_adc.o
+                0x08009304                ADC_Cmd
+ .text.ADC_DMACmd
+                0x08009318       0x14 build/peaks/stm32f10x_adc.o
+                0x08009318                ADC_DMACmd
+ .text.ADC_ResetCalibration
+                0x0800932c        0xc build/peaks/stm32f10x_adc.o
+                0x0800932c                ADC_ResetCalibration
+ .text.ADC_GetResetCalibrationStatus
+                0x08009338        0x8 build/peaks/stm32f10x_adc.o
+                0x08009338                ADC_GetResetCalibrationStatus
+ .text.ADC_StartCalibration
+                0x08009340        0xc build/peaks/stm32f10x_adc.o
+                0x08009340                ADC_StartCalibration
+ .text.ADC_GetCalibrationStatus
+                0x0800934c        0x8 build/peaks/stm32f10x_adc.o
+                0x0800934c                ADC_GetCalibrationStatus
+ .text.ADC_SoftwareStartConvCmd
+                0x08009354       0x14 build/peaks/stm32f10x_adc.o
+                0x08009354                ADC_SoftwareStartConvCmd
+ .text.ADC_RegularChannelConfig
+                0x08009368       0x9c build/peaks/stm32f10x_adc.o
+                0x08009368                ADC_RegularChannelConfig
+ .text.DMA_DeInit
+                0x08009404      0x100 build/peaks/stm32f10x_dma.o
+                0x08009404                DMA_DeInit
+ .text.DMA_Init
+                0x08009504       0x40 build/peaks/stm32f10x_dma.o
+                0x08009504                DMA_Init
+ .text.DMA_Cmd  0x08009544       0x14 build/peaks/stm32f10x_dma.o
+                0x08009544                DMA_Cmd
+ .text.FLASH_Unlock
+                0x08009558       0x18 build/peaks/stm32f10x_flash.o
+                0x08009558                FLASH_Unlock
+ .text.FLASH_GetStatus
+                0x08009570       0x28 build/peaks/stm32f10x_flash.o
+                0x08009570                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x08009598       0x40 build/peaks/stm32f10x_flash.o
+                0x08009598                FLASH_WaitForLastOperation
+ .text.FLASH_ErasePage
+                0x080095d8       0x44 build/peaks/stm32f10x_flash.o
+                0x080095d8                FLASH_ErasePage
+ .text.FLASH_ProgramWord
+                0x0800961c       0x60 build/peaks/stm32f10x_flash.o
+                0x0800961c                FLASH_ProgramWord
+ .text.FLASH_ProgramHalfWord
+                0x0800967c       0x38 build/peaks/stm32f10x_flash.o
+                0x0800967c                FLASH_ProgramHalfWord
+ .text.GPIO_Init
+                0x080096b4       0xb4 build/peaks/stm32f10x_gpio.o
+                0x080096b4                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08009768        0xc build/peaks/stm32f10x_gpio.o
+                0x08009768                GPIO_ReadInputDataBit
+ .text.GPIO_ReadInputData
+                0x08009774        0x8 build/peaks/stm32f10x_gpio.o
+                0x08009774                GPIO_ReadInputData
+ .text.GPIO_SetBits
+                0x0800977c        0x4 build/peaks/stm32f10x_gpio.o
+                0x0800977c                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x08009780        0x4 build/peaks/stm32f10x_gpio.o
+                0x08009780                GPIO_ResetBits
+ .text.GPIO_WriteBit
+                0x08009784        0xc build/peaks/stm32f10x_gpio.o
+                0x08009784                GPIO_WriteBit
+ .text.GPIO_PinRemapConfig
+                0x08009790       0x60 build/peaks/stm32f10x_gpio.o
+                0x08009790                GPIO_PinRemapConfig
+ .text.RCC_ADCCLKConfig
+                0x080097f0       0x14 build/peaks/stm32f10x_rcc.o
+                0x080097f0                RCC_ADCCLKConfig
+ .text.RCC_AHBPeriphClockCmd
+                0x08009804       0x18 build/peaks/stm32f10x_rcc.o
+                0x08009804                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x0800981c       0x18 build/peaks/stm32f10x_rcc.o
+                0x0800981c                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08009834       0x18 build/peaks/stm32f10x_rcc.o
+                0x08009834                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x0800984c       0x18 build/peaks/stm32f10x_rcc.o
+                0x0800984c                RCC_APB2PeriphResetCmd
+ .text.SPI_Init
+                0x08009864       0x40 build/peaks/stm32f10x_spi.o
+                0x08009864                SPI_Init
+ .text.SPI_Cmd  0x080098a4       0x1c build/peaks/stm32f10x_spi.o
+                0x080098a4                SPI_Cmd
+ .text.SPI_I2S_SendData
+                0x080098c0        0x4 build/peaks/stm32f10x_spi.o
+                0x080098c0                SPI_I2S_SendData
+ .text.TIM_TimeBaseInit
+                0x080098c4       0x48 build/peaks/stm32f10x_tim.o
+                0x080098c4                TIM_TimeBaseInit
+ .text.TIM_OC3Init
+                0x0800990c       0x90 build/peaks/stm32f10x_tim.o
+                0x0800990c                TIM_OC3Init
+ .text.TIM_OC4Init
+                0x0800999c       0x6c build/peaks/stm32f10x_tim.o
+                0x0800999c                TIM_OC4Init
+ .text.TIM_Cmd  0x08009a08       0x1c build/peaks/stm32f10x_tim.o
+                0x08009a08                TIM_Cmd
+ .text.TIM_ITConfig
+                0x08009a24       0x14 build/peaks/stm32f10x_tim.o
+                0x08009a24                TIM_ITConfig
+ .text.TIM_InternalClockConfig
+                0x08009a38       0x10 build/peaks/stm32f10x_tim.o
+                0x08009a38                TIM_InternalClockConfig
+ .text.TIM_OC3PreloadConfig
+                0x08009a48       0x10 build/peaks/stm32f10x_tim.o
+                0x08009a48                TIM_OC3PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x08009a58       0x14 build/peaks/stm32f10x_tim.o
+                0x08009a58                TIM_OC4PreloadConfig
+ .text.TIM_SetCompare3
+                0x08009a6c        0x4 build/peaks/stm32f10x_tim.o
+                0x08009a6c                TIM_SetCompare3
+ .text.TIM_SetCompare4
+                0x08009a70        0x8 build/peaks/stm32f10x_tim.o
+                0x08009a70                TIM_SetCompare4
+ .text.TIM_GetITStatus
+                0x08009a78       0x18 build/peaks/stm32f10x_tim.o
+                0x08009a78                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x08009a90        0x8 build/peaks/stm32f10x_tim.o
+                0x08009a90                TIM_ClearITPendingBit
+ .text.Reset_Handler
+                0x08009a98       0x48 build/peaks/startup_stm32f10x_md.o
+                0x08009a98                Reset_Handler
+ .text.Default_Handler
+                0x08009ae0        0x4 build/peaks/startup_stm32f10x_md.o
+                0x08009ae0                EXTI2_IRQHandler
+                0x08009ae0                TIM1_CC_IRQHandler
+                0x08009ae0                PVD_IRQHandler
+                0x08009ae0                EXTI3_IRQHandler
+                0x08009ae0                EXTI0_IRQHandler
+                0x08009ae0                I2C2_EV_IRQHandler
+                0x08009ae0                ADC1_2_IRQHandler
+                0x08009ae0                SPI1_IRQHandler
+                0x08009ae0                TAMPER_IRQHandler
+                0x08009ae0                DMA1_Channel4_IRQHandler
+                0x08009ae0                USART3_IRQHandler
+                0x08009ae0                RTC_IRQHandler
+                0x08009ae0                DMA1_Channel7_IRQHandler
+                0x08009ae0                CAN1_RX1_IRQHandler
+                0x08009ae0                TIM4_IRQHandler
+                0x08009ae0                I2C1_EV_IRQHandler
+                0x08009ae0                DMA1_Channel6_IRQHandler
+                0x08009ae0                TIM3_IRQHandler
+                0x08009ae0                RCC_IRQHandler
+                0x08009ae0                TIM1_TRG_COM_IRQHandler
+                0x08009ae0                DMA1_Channel1_IRQHandler
+                0x08009ae0                Default_Handler
+                0x08009ae0                EXTI15_10_IRQHandler
+                0x08009ae0                EXTI9_5_IRQHandler
+                0x08009ae0                SPI2_IRQHandler
+                0x08009ae0                DMA1_Channel5_IRQHandler
+                0x08009ae0                EXTI4_IRQHandler
+                0x08009ae0                USB_LP_CAN1_RX0_IRQHandler
+                0x08009ae0                USB_HP_CAN1_TX_IRQHandler
+                0x08009ae0                DMA1_Channel3_IRQHandler
+                0x08009ae0                WWDG_IRQHandler
+                0x08009ae0                TIM2_IRQHandler
+                0x08009ae0                TIM1_BRK_IRQHandler
+                0x08009ae0                EXTI1_IRQHandler
+                0x08009ae0                RTCAlarm_IRQHandler
+                0x08009ae0                USART2_IRQHandler
+                0x08009ae0                I2C2_ER_IRQHandler
+                0x08009ae0                DMA1_Channel2_IRQHandler
+                0x08009ae0                CAN1_SCE_IRQHandler
+                0x08009ae0                FLASH_IRQHandler
+                0x08009ae0                USART1_IRQHandler
+                0x08009ae0                I2C1_ER_IRQHandler
+                0x08009ae0                USBWakeUp_IRQHandler
+ .text.memmove  0x08009ae4       0xcc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+                0x08009ae4                memmove
+ .text.memset   0x08009bb0       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                0x08009bb0                memset
+ *(.rodata*)
+ .rodata._ZN5peaks10Processors16callbacks_table_E
+                0x08009c44      0x180 build/peaks/processors.o
+                0x08009c44                peaks::Processors::callbacks_table_
+ .rodata._ZN5peaks13wav_fold_sineE
+                0x08009dc4      0x804 build/peaks/resources.o
+                0x08009dc4                peaks::wav_fold_sine
+ .rodata._ZN5peaks15lut_env_quarticE
+                0x0800a5c8      0x204 build/peaks/resources.o
+                0x0800a5c8                peaks::lut_env_quartic
+ .rodata._ZN5peaks10wav_digitsE
+                0x0800a7cc     0x8fd8 build/peaks/resources.o
+                0x0800a7cc                peaks::wav_digits
+ .rodata._ZN5peaks12lut_svf_dampE
+                0x080137a4      0x204 build/peaks/resources.o
+                0x080137a4                peaks::lut_svf_damp
+ .rodata._ZN5peaks15lut_delay_timesE
+                0x080139a8      0x204 build/peaks/resources.o
+                0x080139a8                peaks::lut_delay_times
+ .rodata._ZN5peaks18lut_env_incrementsE
+                0x08013bac      0x404 build/peaks/resources.o
+                0x08013bac                peaks::lut_env_increments
+ .rodata._ZN5peaks14wav_fold_powerE
+                0x08013fb0      0x804 build/peaks/resources.o
+                0x08013fb0                peaks::wav_fold_power
+ .rodata._ZN5peaks12lut_env_expoE
+                0x080147b4      0x204 build/peaks/resources.o
+                0x080147b4                peaks::lut_env_expo
+ .rodata._ZN5peaks14lut_env_linearE
+                0x080149b8      0x204 build/peaks/resources.o
+                0x080149b8                peaks::lut_env_linear
+ .rodata._ZN5peaks8wav_sineE
+                0x08014bbc      0x804 build/peaks/resources.o
+                0x08014bbc                peaks::wav_sine
+ .rodata._ZN5peaks11lut_gravityE
+                0x080153c0      0x204 build/peaks/resources.o
+                0x080153c0                peaks::lut_gravity
+ .rodata._ZN5peaks18lut_lfo_incrementsE
+                0x080155c4      0x404 build/peaks/resources.o
+                0x080155c4                peaks::lut_lfo_increments
+ .rodata._ZN5peaks13wav_overdriveE
+                0x080159c8      0x804 build/peaks/resources.o
+                0x080159c8                peaks::wav_overdrive
+ .rodata._ZN5peaks25lut_oscillator_incrementsE
+                0x080161cc      0x184 build/peaks/resources.o
+                0x080161cc                peaks::lut_oscillator_increments
+ .rodata._ZN5peaks17lut_raised_cosineE
+                0x08016350      0x204 build/peaks/resources.o
+                0x08016350                peaks::lut_raised_cosine
+ .rodata._ZN5peaks14lut_svf_cutoffE
+                0x08016554      0x204 build/peaks/resources.o
+                0x08016554                peaks::lut_svf_cutoff
+ .rodata._ZN5peaks13lut_svf_scaleE
+                0x08016758      0x204 build/peaks/resources.o
+                0x08016758                peaks::lut_svf_scale
+ .rodata._ZN5peaks2Ui15function_table_E
+                0x0801695c       0x10 build/peaks/ui.o
+                0x0801695c                peaks::Ui::function_table_
+ .rodata._ZN5peaksL6sd_mapE
+                0x0801696c       0x50 build/peaks/fm_drum.o
+ .rodata._ZN5peaksL6bd_mapE
+                0x080169bc       0x50 build/peaks/fm_drum.o
+ .rodata._ZN5peaksL7presetsE
+                0x08016a0c       0x1c build/peaks/lfo.o
+ *(.flashtext*)
+ *(.init)
+ .init          0x08016a28        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x08016a28                _init
+ .init          0x08016a2c        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x08016a34        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x08016a34                _fini
+ .fini          0x08016a38        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .fini.__stub   0x08016a40       0x50 linker stubs
+                0x08016a90                _etext = .
+                0x08016a90                _sidata = .
+
+.glue_7         0x08016a90        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x08016a90        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x08016a90        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08016a90        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08016a90        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.rel.dyn        0x08016a90        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.data           0x20000000      0x614 load address 0x08016a90
+                0x20000000                _sdata = .
+ *(.ramtext*)
+ .ramtext       0x20000000      0x158 build/peaks/bass_drum.o
+                0x20000000                peaks::BassDrum::ProcessSingleSample(unsigned char)
+ .ramtext       0x20000158       0x6c build/peaks/fm_drum.o
+                0x20000158                peaks::FmDrum::ComputeEnvelopeIncrement(unsigned short)
+                0x20000178                peaks::FmDrum::ComputePhaseIncrement(short)
+ .ramtext       0x200001c4      0x120 build/peaks/high_hat.o
+                0x200001c4                peaks::HighHat::ProcessSingleSample(unsigned char)
+ .ramtext       0x200002e4      0x1b8 build/peaks/snare_drum.o
+                0x200002e4                peaks::SnareDrum::ProcessSingleSample(unsigned char)
+ .ramtext       0x2000049c       0xfc build/peaks/svf.o
+                0x2000049c                peaks::Svf::Process(long)
+                0x20000598                . = ALIGN (0x4)
+ *(.data*)
+ .data._ZN5peaks18lookup_table_tableE
+                0x20000598       0x24 build/peaks/resources.o
+                0x20000598                peaks::lookup_table_table
+ .data._ZN5peaks3Lfo24compute_sample_fn_table_E
+                0x200005bc       0x28 build/peaks/lfo.o
+                0x200005bc                peaks::Lfo::compute_sample_fn_table_
+ .data._ZN5peaks12voice_digitsE
+                0x200005e4       0x2c build/peaks/number_station.o
+                0x200005e4                peaks::voice_digits
+ .data._ZN6stmlib6Random10rng_state_E
+                0x20000610        0x4 build/peaks/random.o
+                0x20000610                stmlib::Random::rng_state_
+                0x20000614                _edata = .
+
+.igot.plt       0x20000614        0x0 load address 0x080170a4
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.bss            0x20000614      0xdcc load address 0x080170a4
+                0x20000614                _sstack = .
+                0x20000814                . = (. + 0x200)
+ *fill*         0x20000614      0x200 
+                0x20000814                _estack = .
+                0x20000814                _sbss = .
+ *(.bss*)
+ .bss._ZZ18TIM1_UP_IRQHandlerE7control
+                0x20000814        0x1 build/peaks/peaks.o
+ *fill*         0x20000815        0x3 
+ .bss.dac       0x20000818        0x8 build/peaks/peaks.o
+                0x20000818                dac
+ .bss.ui        0x20000820      0x168 build/peaks/peaks.o
+                0x20000820                ui
+ .bss._ZZ18TIM1_UP_IRQHandlerE4cv_1
+                0x20000988        0x2 build/peaks/peaks.o
+ .bss._ZZ18TIM1_UP_IRQHandlerE4cv_2
+                0x2000098a        0x2 build/peaks/peaks.o
+ .bss.sys       0x2000098c        0x4 build/peaks/peaks.o
+                0x2000098c                sys
+ .bss.gate_input
+                0x20000990        0x4 build/peaks/peaks.o
+                0x20000990                gate_input
+ .bss._ZN5peaks10processorsE
+                0x20000994      0xa48 build/peaks/processors.o
+                0x20000994                peaks::processors
+ .bss._ZN6stmlib12system_clockE
+                0x200013dc        0x4 build/peaks/system_clock.o
+                0x200013dc                stmlib::system_clock
+ *(COMMON)
+                0x200013e0                _ebss = .
+OUTPUT(build/peaks/peaks.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x33 build/peaks/peaks.o
+ .ARM.attributes
+                0x00000050       0x33 build/peaks/processors.o
+ .ARM.attributes
+                0x00000083       0x33 build/peaks/resources.o
+ .ARM.attributes
+                0x000000b6       0x33 build/peaks/ui.o
+ .ARM.attributes
+                0x000000e9       0x33 build/peaks/adc.o
+ .ARM.attributes
+                0x0000011c       0x33 build/peaks/dac.o
+ .ARM.attributes
+                0x0000014f       0x33 build/peaks/gate_input.o
+ .ARM.attributes
+                0x00000182       0x33 build/peaks/leds.o
+ .ARM.attributes
+                0x000001b5       0x33 build/peaks/switches.o
+ .ARM.attributes
+                0x000001e8       0x33 build/peaks/system.o
+ .ARM.attributes
+                0x0000021b       0x33 build/peaks/bass_drum.o
+ .ARM.attributes
+                0x0000024e       0x33 build/peaks/fm_drum.o
+ .ARM.attributes
+                0x00000281       0x33 build/peaks/high_hat.o
+ .ARM.attributes
+                0x000002b4       0x33 build/peaks/snare_drum.o
+ .ARM.attributes
+                0x000002e7       0x33 build/peaks/svf.o
+ .ARM.attributes
+                0x0000031a       0x33 build/peaks/lfo.o
+ .ARM.attributes
+                0x0000034d       0x33 build/peaks/multistage_envelope.o
+ .ARM.attributes
+                0x00000380       0x33 build/peaks/number_station.o
+ .ARM.attributes
+                0x000003b3       0x33 build/peaks/pulse_randomizer.o
+ .ARM.attributes
+                0x000003e6       0x33 build/peaks/pulse_shaper.o
+ .ARM.attributes
+                0x00000419       0x33 build/peaks/random.o
+ .ARM.attributes
+                0x0000044c       0x33 build/peaks/system_clock.o
+ .ARM.attributes
+                0x0000047f       0x33 build/peaks/system_stm32f10x.o
+ .ARM.attributes
+                0x000004b2       0x33 build/peaks/misc.o
+ .ARM.attributes
+                0x000004e5       0x33 build/peaks/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000518       0x33 build/peaks/stm32f10x_dma.o
+ .ARM.attributes
+                0x0000054b       0x33 build/peaks/stm32f10x_flash.o
+ .ARM.attributes
+                0x0000057e       0x33 build/peaks/stm32f10x_gpio.o
+ .ARM.attributes
+                0x000005b1       0x33 build/peaks/stm32f10x_rcc.o
+ .ARM.attributes
+                0x000005e4       0x33 build/peaks/stm32f10x_spi.o
+ .ARM.attributes
+                0x00000617       0x33 build/peaks/stm32f10x_tim.o
+ .ARM.attributes
+                0x0000064a       0x21 build/peaks/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x0000066b       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000698       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000006c5       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/peaks/peaks.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/peaks/processors.o
+ .comment       0x00000000       0x71 build/peaks/resources.o
+ .comment       0x00000000       0x71 build/peaks/ui.o
+ .comment       0x00000000       0x71 build/peaks/adc.o
+ .comment       0x00000000       0x71 build/peaks/dac.o
+ .comment       0x00000000       0x71 build/peaks/gate_input.o
+ .comment       0x00000000       0x71 build/peaks/leds.o
+ .comment       0x00000000       0x71 build/peaks/switches.o
+ .comment       0x00000000       0x71 build/peaks/system.o
+ .comment       0x00000000       0x71 build/peaks/bass_drum.o
+ .comment       0x00000000       0x71 build/peaks/fm_drum.o
+ .comment       0x00000000       0x71 build/peaks/high_hat.o
+ .comment       0x00000000       0x71 build/peaks/snare_drum.o
+ .comment       0x00000000       0x71 build/peaks/svf.o
+ .comment       0x00000000       0x71 build/peaks/lfo.o
+ .comment       0x00000000       0x71 build/peaks/multistage_envelope.o
+ .comment       0x00000000       0x71 build/peaks/number_station.o
+ .comment       0x00000000       0x71 build/peaks/pulse_randomizer.o
+ .comment       0x00000000       0x71 build/peaks/pulse_shaper.o
+ .comment       0x00000000       0x71 build/peaks/random.o
+ .comment       0x00000000       0x71 build/peaks/system_clock.o
+ .comment       0x00000000       0x71 build/peaks/system_stm32f10x.o
+ .comment       0x00000000       0x71 build/peaks/misc.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_adc.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_dma.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_flash.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_gpio.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_rcc.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_spi.o
+ .comment       0x00000000       0x71 build/peaks/stm32f10x_tim.o
+
+.debug_info     0x00000000    0x3ad59
+ .debug_info    0x00000000     0x5a2e build/peaks/peaks.o
+ .debug_info    0x00005a2e     0x6f2d build/peaks/processors.o
+ .debug_info    0x0000c95b     0xd004 build/peaks/resources.o
+ .debug_info    0x0001995f     0x8f7c build/peaks/ui.o
+ .debug_info    0x000228db      0x935 build/peaks/adc.o
+ .debug_info    0x00023210      0x7a2 build/peaks/dac.o
+ .debug_info    0x000239b2      0x439 build/peaks/gate_input.o
+ .debug_info    0x00023deb      0xa32 build/peaks/leds.o
+ .debug_info    0x0002481d      0x51c build/peaks/switches.o
+ .debug_info    0x00024d39      0xbe0 build/peaks/system.o
+ .debug_info    0x00025919     0x1b9c build/peaks/bass_drum.o
+ .debug_info    0x000274b5     0x22f9 build/peaks/fm_drum.o
+ .debug_info    0x000297ae     0x18c1 build/peaks/high_hat.o
+ .debug_info    0x0002b06f     0x1e16 build/peaks/snare_drum.o
+ .debug_info    0x0002ce85      0xf91 build/peaks/svf.o
+ .debug_info    0x0002de16     0x2590 build/peaks/lfo.o
+ .debug_info    0x000303a6      0xb76 build/peaks/multistage_envelope.o
+ .debug_info    0x00030f1c     0x16ee build/peaks/number_station.o
+ .debug_info    0x0003260a     0x1245 build/peaks/pulse_randomizer.o
+ .debug_info    0x0003384f     0x12a1 build/peaks/pulse_shaper.o
+ .debug_info    0x00034af0      0x16e build/peaks/random.o
+ .debug_info    0x00034c5e      0x2ce build/peaks/system_clock.o
+ .debug_info    0x00034f2c      0x2a2 build/peaks/system_stm32f10x.o
+ .debug_info    0x000351ce      0x4c0 build/peaks/misc.o
+ .debug_info    0x0003568e      0xbe4 build/peaks/stm32f10x_adc.o
+ .debug_info    0x00036272      0x400 build/peaks/stm32f10x_dma.o
+ .debug_info    0x00036672      0x8e6 build/peaks/stm32f10x_flash.o
+ .debug_info    0x00036f58      0x820 build/peaks/stm32f10x_gpio.o
+ .debug_info    0x00037778      0x8f3 build/peaks/stm32f10x_rcc.o
+ .debug_info    0x0003806b      0x997 build/peaks/stm32f10x_spi.o
+ .debug_info    0x00038a02     0x2357 build/peaks/stm32f10x_tim.o
+
+.debug_abbrev   0x00000000     0x667e
+ .debug_abbrev  0x00000000      0x696 build/peaks/peaks.o
+ .debug_abbrev  0x00000696      0x72c build/peaks/processors.o
+ .debug_abbrev  0x00000dc2       0xe0 build/peaks/resources.o
+ .debug_abbrev  0x00000ea2      0x894 build/peaks/ui.o
+ .debug_abbrev  0x00001736      0x261 build/peaks/adc.o
+ .debug_abbrev  0x00001997      0x262 build/peaks/dac.o
+ .debug_abbrev  0x00001bf9      0x22c build/peaks/gate_input.o
+ .debug_abbrev  0x00001e25      0x23d build/peaks/leds.o
+ .debug_abbrev  0x00002062      0x234 build/peaks/switches.o
+ .debug_abbrev  0x00002296      0x2f2 build/peaks/system.o
+ .debug_abbrev  0x00002588      0x436 build/peaks/bass_drum.o
+ .debug_abbrev  0x000029be      0x57c build/peaks/fm_drum.o
+ .debug_abbrev  0x00002f3a      0x41f build/peaks/high_hat.o
+ .debug_abbrev  0x00003359      0x49d build/peaks/snare_drum.o
+ .debug_abbrev  0x000037f6      0x3a0 build/peaks/svf.o
+ .debug_abbrev  0x00003b96      0x609 build/peaks/lfo.o
+ .debug_abbrev  0x0000419f      0x35a build/peaks/multistage_envelope.o
+ .debug_abbrev  0x000044f9      0x4a4 build/peaks/number_station.o
+ .debug_abbrev  0x0000499d      0x4ae build/peaks/pulse_randomizer.o
+ .debug_abbrev  0x00004e4b      0x494 build/peaks/pulse_shaper.o
+ .debug_abbrev  0x000052df       0xf5 build/peaks/random.o
+ .debug_abbrev  0x000053d4      0x1fd build/peaks/system_clock.o
+ .debug_abbrev  0x000055d1      0x113 build/peaks/system_stm32f10x.o
+ .debug_abbrev  0x000056e4      0x141 build/peaks/misc.o
+ .debug_abbrev  0x00005825      0x1dc build/peaks/stm32f10x_adc.o
+ .debug_abbrev  0x00005a01      0x16d build/peaks/stm32f10x_dma.o
+ .debug_abbrev  0x00005b6e      0x268 build/peaks/stm32f10x_flash.o
+ .debug_abbrev  0x00005dd6      0x1e7 build/peaks/stm32f10x_gpio.o
+ .debug_abbrev  0x00005fbd      0x23f build/peaks/stm32f10x_rcc.o
+ .debug_abbrev  0x000061fc      0x1eb build/peaks/stm32f10x_spi.o
+ .debug_abbrev  0x000063e7      0x297 build/peaks/stm32f10x_tim.o
+
+.debug_loc      0x00000000     0xfd37
+ .debug_loc     0x00000000      0x2b5 build/peaks/peaks.o
+ .debug_loc     0x000002b5     0x20ab build/peaks/processors.o
+ .debug_loc     0x00002360     0x4442 build/peaks/ui.o
+ .debug_loc     0x000067a2       0x2c build/peaks/adc.o
+ .debug_loc     0x000067ce       0x9a build/peaks/dac.o
+ .debug_loc     0x00006868       0x7c build/peaks/gate_input.o
+ .debug_loc     0x000068e4       0x4d build/peaks/leds.o
+ .debug_loc     0x00006931       0x4d build/peaks/switches.o
+ .debug_loc     0x0000697e       0x8f build/peaks/system.o
+ .debug_loc     0x00006a0d      0x386 build/peaks/bass_drum.o
+ .debug_loc     0x00006d93      0xfb9 build/peaks/fm_drum.o
+ .debug_loc     0x00007d4c      0x29f build/peaks/high_hat.o
+ .debug_loc     0x00007feb      0x45d build/peaks/snare_drum.o
+ .debug_loc     0x00008448      0x254 build/peaks/svf.o
+ .debug_loc     0x0000869c     0x1551 build/peaks/lfo.o
+ .debug_loc     0x00009bed       0xe6 build/peaks/multistage_envelope.o
+ .debug_loc     0x00009cd3      0xfd8 build/peaks/number_station.o
+ .debug_loc     0x0000acab      0x48e build/peaks/pulse_randomizer.o
+ .debug_loc     0x0000b139      0x4b9 build/peaks/pulse_shaper.o
+ .debug_loc     0x0000b5f2      0x13d build/peaks/misc.o
+ .debug_loc     0x0000b72f      0x940 build/peaks/stm32f10x_adc.o
+ .debug_loc     0x0000c06f      0x177 build/peaks/stm32f10x_dma.o
+ .debug_loc     0x0000c1e6      0x856 build/peaks/stm32f10x_flash.o
+ .debug_loc     0x0000ca3c      0x5f3 build/peaks/stm32f10x_gpio.o
+ .debug_loc     0x0000d02f      0x76e build/peaks/stm32f10x_rcc.o
+ .debug_loc     0x0000d79d      0x52c build/peaks/stm32f10x_spi.o
+ .debug_loc     0x0000dcc9     0x206e build/peaks/stm32f10x_tim.o
+
+.debug_aranges  0x00000000      0xdd0
+ .debug_aranges
+                0x00000000       0xc0 build/peaks/peaks.o
+ .debug_aranges
+                0x000000c0      0x140 build/peaks/processors.o
+ .debug_aranges
+                0x00000200       0x18 build/peaks/resources.o
+ .debug_aranges
+                0x00000218       0x80 build/peaks/ui.o
+ .debug_aranges
+                0x00000298       0x20 build/peaks/adc.o
+ .debug_aranges
+                0x000002b8       0x30 build/peaks/dac.o
+ .debug_aranges
+                0x000002e8       0x28 build/peaks/gate_input.o
+ .debug_aranges
+                0x00000310       0x28 build/peaks/leds.o
+ .debug_aranges
+                0x00000338       0x28 build/peaks/switches.o
+ .debug_aranges
+                0x00000360       0x28 build/peaks/system.o
+ .debug_aranges
+                0x00000388       0x28 build/peaks/bass_drum.o
+ .debug_aranges
+                0x000003b0       0x40 build/peaks/fm_drum.o
+ .debug_aranges
+                0x000003f0       0x28 build/peaks/high_hat.o
+ .debug_aranges
+                0x00000418       0x28 build/peaks/snare_drum.o
+ .debug_aranges
+                0x00000440       0x28 build/peaks/svf.o
+ .debug_aranges
+                0x00000468       0x58 build/peaks/lfo.o
+ .debug_aranges
+                0x000004c0       0x28 build/peaks/multistage_envelope.o
+ .debug_aranges
+                0x000004e8       0x28 build/peaks/number_station.o
+ .debug_aranges
+                0x00000510       0x28 build/peaks/pulse_randomizer.o
+ .debug_aranges
+                0x00000538       0x28 build/peaks/pulse_shaper.o
+ .debug_aranges
+                0x00000560       0x18 build/peaks/random.o
+ .debug_aranges
+                0x00000578       0x28 build/peaks/system_clock.o
+ .debug_aranges
+                0x000005a0       0x20 build/peaks/system_stm32f10x.o
+ .debug_aranges
+                0x000005c0       0x40 build/peaks/misc.o
+ .debug_aranges
+                0x00000600      0x138 build/peaks/stm32f10x_adc.o
+ .debug_aranges
+                0x00000738       0x68 build/peaks/stm32f10x_dma.o
+ .debug_aranges
+                0x000007a0       0xd0 build/peaks/stm32f10x_flash.o
+ .debug_aranges
+                0x00000870       0xa8 build/peaks/stm32f10x_gpio.o
+ .debug_aranges
+                0x00000918      0x118 build/peaks/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000a30       0xd0 build/peaks/stm32f10x_spi.o
+ .debug_aranges
+                0x00000b00      0x2d0 build/peaks/stm32f10x_tim.o
+
+.debug_ranges   0x00000000     0x5160
+ .debug_ranges  0x00000000      0x2d0 build/peaks/peaks.o
+ .debug_ranges  0x000002d0      0xd08 build/peaks/processors.o
+ .debug_ranges  0x00000fd8     0x21b8 build/peaks/ui.o
+ .debug_ranges  0x00003190       0x28 build/peaks/adc.o
+ .debug_ranges  0x000031b8       0x38 build/peaks/dac.o
+ .debug_ranges  0x000031f0       0x18 build/peaks/gate_input.o
+ .debug_ranges  0x00003208       0x30 build/peaks/leds.o
+ .debug_ranges  0x00003238       0x30 build/peaks/switches.o
+ .debug_ranges  0x00003268       0x50 build/peaks/system.o
+ .debug_ranges  0x000032b8      0x290 build/peaks/bass_drum.o
+ .debug_ranges  0x00003548      0x348 build/peaks/fm_drum.o
+ .debug_ranges  0x00003890      0x110 build/peaks/high_hat.o
+ .debug_ranges  0x000039a0      0x380 build/peaks/snare_drum.o
+ .debug_ranges  0x00003d20      0x100 build/peaks/svf.o
+ .debug_ranges  0x00003e20      0x2f8 build/peaks/lfo.o
+ .debug_ranges  0x00004118       0x70 build/peaks/multistage_envelope.o
+ .debug_ranges  0x00004188      0x348 build/peaks/number_station.o
+ .debug_ranges  0x000044d0      0x1b8 build/peaks/pulse_randomizer.o
+ .debug_ranges  0x00004688      0x170 build/peaks/pulse_shaper.o
+ .debug_ranges  0x000047f8       0x18 build/peaks/system_clock.o
+ .debug_ranges  0x00004810       0x28 build/peaks/system_stm32f10x.o
+ .debug_ranges  0x00004838       0x30 build/peaks/misc.o
+ .debug_ranges  0x00004868      0x128 build/peaks/stm32f10x_adc.o
+ .debug_ranges  0x00004990       0x58 build/peaks/stm32f10x_dma.o
+ .debug_ranges  0x000049e8       0xc0 build/peaks/stm32f10x_flash.o
+ .debug_ranges  0x00004aa8       0x98 build/peaks/stm32f10x_gpio.o
+ .debug_ranges  0x00004b40      0x108 build/peaks/stm32f10x_rcc.o
+ .debug_ranges  0x00004c48       0xc0 build/peaks/stm32f10x_spi.o
+ .debug_ranges  0x00004d08      0x458 build/peaks/stm32f10x_tim.o
+
+.debug_line     0x00000000     0x9611
+ .debug_line    0x00000000      0x968 build/peaks/peaks.o
+ .debug_line    0x00000968      0xeb8 build/peaks/processors.o
+ .debug_line    0x00001820       0xb2 build/peaks/resources.o
+ .debug_line    0x000018d2     0x16ce build/peaks/ui.o
+ .debug_line    0x00002fa0      0x1b1 build/peaks/adc.o
+ .debug_line    0x00003151      0x1bf build/peaks/dac.o
+ .debug_line    0x00003310      0x178 build/peaks/gate_input.o
+ .debug_line    0x00003488      0x1b0 build/peaks/leds.o
+ .debug_line    0x00003638      0x1fa build/peaks/switches.o
+ .debug_line    0x00003832      0x202 build/peaks/system.o
+ .debug_line    0x00003a34      0x55d build/peaks/bass_drum.o
+ .debug_line    0x00003f91      0x661 build/peaks/fm_drum.o
+ .debug_line    0x000045f2      0x4eb build/peaks/high_hat.o
+ .debug_line    0x00004add      0x554 build/peaks/snare_drum.o
+ .debug_line    0x00005031      0x2d6 build/peaks/svf.o
+ .debug_line    0x00005307      0x719 build/peaks/lfo.o
+ .debug_line    0x00005a20      0x4cb build/peaks/multistage_envelope.o
+ .debug_line    0x00005eeb      0x663 build/peaks/number_station.o
+ .debug_line    0x0000654e      0x565 build/peaks/pulse_randomizer.o
+ .debug_line    0x00006ab3      0x510 build/peaks/pulse_shaper.o
+ .debug_line    0x00006fc3       0xba build/peaks/random.o
+ .debug_line    0x0000707d       0xea build/peaks/system_clock.o
+ .debug_line    0x00007167      0x109 build/peaks/system_stm32f10x.o
+ .debug_line    0x00007270      0x1b3 build/peaks/misc.o
+ .debug_line    0x00007423      0x4cf build/peaks/stm32f10x_adc.o
+ .debug_line    0x000078f2      0x261 build/peaks/stm32f10x_dma.o
+ .debug_line    0x00007b53      0x412 build/peaks/stm32f10x_flash.o
+ .debug_line    0x00007f65      0x335 build/peaks/stm32f10x_gpio.o
+ .debug_line    0x0000829a      0x40d build/peaks/stm32f10x_rcc.o
+ .debug_line    0x000086a7      0x3a1 build/peaks/stm32f10x_spi.o
+ .debug_line    0x00008a48      0xbc9 build/peaks/stm32f10x_tim.o
+
+.debug_str      0x00000000     0x8a4f
+ .debug_str     0x00000000     0x4b9a build/peaks/peaks.o
+                               0x4f2d (size before relaxing)
+ .debug_str     0x00004b9a      0x3aa build/peaks/processors.o
+                               0x4120 (size before relaxing)
+ .debug_str     0x00004f44      0x3b2 build/peaks/resources.o
+                                0x5ca (size before relaxing)
+ .debug_str     0x000052f6      0x800 build/peaks/ui.o
+                               0x538c (size before relaxing)
+ .debug_str     0x00005af6      0x3f0 build/peaks/adc.o
+                                0x712 (size before relaxing)
+ .debug_str     0x00005ee6      0x118 build/peaks/dac.o
+                                0x5f0 (size before relaxing)
+ .debug_str     0x00005ffe       0x2f build/peaks/gate_input.o
+                                0x4e4 (size before relaxing)
+ .debug_str     0x0000602d      0x205 build/peaks/leds.o
+                                0x84d (size before relaxing)
+ .debug_str     0x00006232       0x21 build/peaks/switches.o
+                                0x4fb (size before relaxing)
+ .debug_str     0x00006253      0x501 build/peaks/system.o
+                                0x9bc (size before relaxing)
+ .debug_str     0x00006754       0x35 build/peaks/bass_drum.o
+                                0xdad (size before relaxing)
+ .debug_str     0x00006789      0x240 build/peaks/fm_drum.o
+                               0x144e (size before relaxing)
+ .debug_str     0x000069c9       0x31 build/peaks/high_hat.o
+                                0xce2 (size before relaxing)
+ .debug_str     0x000069fa       0x5e build/peaks/snare_drum.o
+                                0xef3 (size before relaxing)
+ .debug_str     0x00006a58       0x26 build/peaks/svf.o
+                                0x87c (size before relaxing)
+ .debug_str     0x00006a7e      0x126 build/peaks/lfo.o
+                               0x17e8 (size before relaxing)
+ .debug_str     0x00006ba4       0x33 build/peaks/multistage_envelope.o
+                                0xa4c (size before relaxing)
+ .debug_str     0x00006bd7       0xb6 build/peaks/number_station.o
+                               0x1098 (size before relaxing)
+ .debug_str     0x00006c8d       0x34 build/peaks/pulse_randomizer.o
+                                0xecd (size before relaxing)
+ .debug_str     0x00006cc1       0xe9 build/peaks/pulse_shaper.o
+                                0xe01 (size before relaxing)
+ .debug_str     0x00006daa       0x36 build/peaks/random.o
+                                0x2fd (size before relaxing)
+ .debug_str     0x00006de0       0x63 build/peaks/system_clock.o
+                                0x3b1 (size before relaxing)
+ .debug_str     0x00006e43      0x237 build/peaks/system_stm32f10x.o
+                                0x311 (size before relaxing)
+ .debug_str     0x0000707a       0xdb build/peaks/misc.o
+                                0x42a (size before relaxing)
+ .debug_str     0x00007155      0x3e6 build/peaks/stm32f10x_adc.o
+                                0x779 (size before relaxing)
+ .debug_str     0x0000753b       0xfd build/peaks/stm32f10x_dma.o
+                                0x3fd (size before relaxing)
+ .debug_str     0x00007638      0x2fc build/peaks/stm32f10x_flash.o
+                                0x5de (size before relaxing)
+ .debug_str     0x00007934      0x1d1 build/peaks/stm32f10x_gpio.o
+                                0x587 (size before relaxing)
+ .debug_str     0x00007b05      0x393 build/peaks/stm32f10x_rcc.o
+                                0x681 (size before relaxing)
+ .debug_str     0x00007e98      0x2a1 build/peaks/stm32f10x_spi.o
+                                0x6a4 (size before relaxing)
+ .debug_str     0x00008139      0x916 build/peaks/stm32f10x_tim.o
+                                0xe72 (size before relaxing)
+
+.debug_frame    0x00000000     0x1d10
+ .debug_frame   0x00000000      0x18c build/peaks/peaks.o
+ .debug_frame   0x0000018c      0x2d4 build/peaks/processors.o
+ .debug_frame   0x00000460      0x1a0 build/peaks/ui.o
+ .debug_frame   0x00000600       0x34 build/peaks/adc.o
+ .debug_frame   0x00000634       0x64 build/peaks/dac.o
+ .debug_frame   0x00000698       0x48 build/peaks/gate_input.o
+ .debug_frame   0x000006e0       0x4c build/peaks/leds.o
+ .debug_frame   0x0000072c       0x4c build/peaks/switches.o
+ .debug_frame   0x00000778       0x48 build/peaks/system.o
+ .debug_frame   0x000007c0       0x54 build/peaks/bass_drum.o
+ .debug_frame   0x00000814       0x94 build/peaks/fm_drum.o
+ .debug_frame   0x000008a8       0x4c build/peaks/high_hat.o
+ .debug_frame   0x000008f4       0x54 build/peaks/snare_drum.o
+ .debug_frame   0x00000948       0x48 build/peaks/svf.o
+ .debug_frame   0x00000990       0xd8 build/peaks/lfo.o
+ .debug_frame   0x00000a68       0x4c build/peaks/multistage_envelope.o
+ .debug_frame   0x00000ab4       0x54 build/peaks/number_station.o
+ .debug_frame   0x00000b08       0x44 build/peaks/pulse_randomizer.o
+ .debug_frame   0x00000b4c       0x40 build/peaks/pulse_shaper.o
+ .debug_frame   0x00000b8c       0x30 build/peaks/system_clock.o
+ .debug_frame   0x00000bbc       0x28 build/peaks/system_stm32f10x.o
+ .debug_frame   0x00000be4       0x68 build/peaks/misc.o
+ .debug_frame   0x00000c4c      0x280 build/peaks/stm32f10x_adc.o
+ .debug_frame   0x00000ecc       0xbc build/peaks/stm32f10x_dma.o
+ .debug_frame   0x00000f88      0x1f8 build/peaks/stm32f10x_flash.o
+ .debug_frame   0x00001180      0x15c build/peaks/stm32f10x_gpio.o
+ .debug_frame   0x000012dc      0x21c build/peaks/stm32f10x_rcc.o
+ .debug_frame   0x000014f8      0x1ac build/peaks/stm32f10x_spi.o
+ .debug_frame   0x000016a4      0x614 build/peaks/stm32f10x_tim.o
+ .debug_frame   0x00001cb8       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001ce4       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
