@@ -3,8 +3,9 @@
 
 This is a mirror repo of the Mutable Instrumetns Eurorack repo, but additionally it contains under the folder BUILD all the latest compiled programs for the modules (including some WAVs).
 
-=======
+The reason why I pushed this repo was to provide compiled programs, since Its not super easy to setup all the libraries and binding in some platform (i.e. OSX), because I tried my self. I was quite easy on Ubuntu, so I pushed all this compiled programs for my personal use (and to share them).
 
+=======
 
 
 # Uploading
