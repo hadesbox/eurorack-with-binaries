@@ -13,7 +13,7 @@ The reason why I pushed this repo was to provide compiled programs, since Its no
 
 There are three ways of uploading a firmware to the modules:
 
-1. Audio input via wav file (very slow, but no programmer is needed and it’s supported by every module).
+1. Audio input via wav file (very slow, but no programmer is needed and it’s supported by every module, in order to use this method you must already have the "braids_bootloader" into the microcontroller, so a blank *new* microcontroller cannot use this method).
 2. FTDI (slower than JTAG, but the programmer isn’t as expensive; 10-15$; Yarns has no FTDI port)
 3. JTAG (fast, but the programmer is expensive; 50-60$)
 
