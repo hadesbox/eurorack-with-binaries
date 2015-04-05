@@ -1,0 +1,2110 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+                              build/tides_bootloader/bootloader.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+                              build/tides_bootloader/bootloader.o (memcpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/tides_bootloader/bootloader.o
+ .text          0x00000000        0x0 build/tides_bootloader/bootloader.o
+ .data          0x00000000        0x0 build/tides_bootloader/bootloader.o
+ .bss           0x00000000        0x0 build/tides_bootloader/bootloader.o
+ .text._ZN20stm_audio_bootloader13PacketDecoderD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text._ZN20stm_audio_bootloader11DemodulatorD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text._ZN5tides3AdcD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text._ZN5tides3DacD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text._ZN5tides8SwitchesD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text._ZN5tides4LedsD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text._ZN5tides6SystemD2Ev
+                0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text.startup._GLOBAL__sub_I_adc
+                0x00000000       0x8c build/tides_bootloader/bootloader.o
+ .init_array    0x00000000        0x4 build/tides_bootloader/bootloader.o
+ .text          0x00000000        0x0 build/tides_bootloader/adc.o
+ .data          0x00000000        0x0 build/tides_bootloader/adc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/adc.o
+ .text          0x00000000        0x0 build/tides_bootloader/dac.o
+ .data          0x00000000        0x0 build/tides_bootloader/dac.o
+ .bss           0x00000000        0x0 build/tides_bootloader/dac.o
+ .text          0x00000000        0x0 build/tides_bootloader/gate_input.o
+ .data          0x00000000        0x0 build/tides_bootloader/gate_input.o
+ .bss           0x00000000        0x0 build/tides_bootloader/gate_input.o
+ .text._ZN5tides9GateInput4InitEv
+                0x00000000       0x30 build/tides_bootloader/gate_input.o
+ .debug_info    0x00000000      0x794 build/tides_bootloader/gate_input.o
+ .debug_abbrev  0x00000000      0x2d2 build/tides_bootloader/gate_input.o
+ .debug_loc     0x00000000       0x2c build/tides_bootloader/gate_input.o
+ .debug_aranges
+                0x00000000       0x20 build/tides_bootloader/gate_input.o
+ .debug_ranges  0x00000000       0x10 build/tides_bootloader/gate_input.o
+ .debug_line    0x00000000      0x416 build/tides_bootloader/gate_input.o
+ .debug_str     0x00000000      0x5b0 build/tides_bootloader/gate_input.o
+ .comment       0x00000000       0x71 build/tides_bootloader/gate_input.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/gate_input.o
+ .debug_frame   0x00000000       0x2c build/tides_bootloader/gate_input.o
+ .text          0x00000000        0x0 build/tides_bootloader/gate_output.o
+ .data          0x00000000        0x0 build/tides_bootloader/gate_output.o
+ .bss           0x00000000        0x0 build/tides_bootloader/gate_output.o
+ .text._ZN5tides10GateOutput4InitEv
+                0x00000000       0x28 build/tides_bootloader/gate_output.o
+ .debug_info    0x00000000      0x322 build/tides_bootloader/gate_output.o
+ .debug_abbrev  0x00000000      0x1c0 build/tides_bootloader/gate_output.o
+ .debug_loc     0x00000000       0x21 build/tides_bootloader/gate_output.o
+ .debug_aranges
+                0x00000000       0x20 build/tides_bootloader/gate_output.o
+ .debug_ranges  0x00000000       0x10 build/tides_bootloader/gate_output.o
+ .debug_line    0x00000000      0x15d build/tides_bootloader/gate_output.o
+ .debug_str     0x00000000      0x400 build/tides_bootloader/gate_output.o
+ .comment       0x00000000       0x71 build/tides_bootloader/gate_output.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/gate_output.o
+ .debug_frame   0x00000000       0x2c build/tides_bootloader/gate_output.o
+ .text          0x00000000        0x0 build/tides_bootloader/leds.o
+ .data          0x00000000        0x0 build/tides_bootloader/leds.o
+ .bss           0x00000000        0x0 build/tides_bootloader/leds.o
+ .text          0x00000000        0x0 build/tides_bootloader/switches.o
+ .data          0x00000000        0x0 build/tides_bootloader/switches.o
+ .bss           0x00000000        0x0 build/tides_bootloader/switches.o
+ .text          0x00000000        0x0 build/tides_bootloader/system.o
+ .data          0x00000000        0x0 build/tides_bootloader/system.o
+ .bss           0x00000000        0x0 build/tides_bootloader/system.o
+ .text          0x00000000        0x0 build/tides_bootloader/uart_logger.o
+ .data          0x00000000        0x0 build/tides_bootloader/uart_logger.o
+ .bss           0x00000000        0x0 build/tides_bootloader/uart_logger.o
+ .text._ZN5tides10UartLogger4InitEm
+                0x00000000       0x5c build/tides_bootloader/uart_logger.o
+ .text._ZN5tides10UartLogger5TraceEh
+                0x00000000       0x10 build/tides_bootloader/uart_logger.o
+ .debug_info    0x00000000      0x533 build/tides_bootloader/uart_logger.o
+ .debug_abbrev  0x00000000      0x214 build/tides_bootloader/uart_logger.o
+ .debug_loc     0x00000000       0x4d build/tides_bootloader/uart_logger.o
+ .debug_aranges
+                0x00000000       0x28 build/tides_bootloader/uart_logger.o
+ .debug_ranges  0x00000000       0x30 build/tides_bootloader/uart_logger.o
+ .debug_line    0x00000000      0x19d build/tides_bootloader/uart_logger.o
+ .debug_str     0x00000000      0x552 build/tides_bootloader/uart_logger.o
+ .comment       0x00000000       0x71 build/tides_bootloader/uart_logger.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/uart_logger.o
+ .debug_frame   0x00000000       0x40 build/tides_bootloader/uart_logger.o
+ .text          0x00000000        0x0 build/tides_bootloader/random.o
+ .data          0x00000000        0x0 build/tides_bootloader/random.o
+ .bss           0x00000000        0x0 build/tides_bootloader/random.o
+ .data._ZN6stmlib6Random10rng_state_E
+                0x00000000        0x4 build/tides_bootloader/random.o
+ .debug_info    0x00000000      0x16e build/tides_bootloader/random.o
+ .debug_abbrev  0x00000000       0xf5 build/tides_bootloader/random.o
+ .debug_aranges
+                0x00000000       0x18 build/tides_bootloader/random.o
+ .debug_line    0x00000000       0xba build/tides_bootloader/random.o
+ .debug_str     0x00000000      0x2fd build/tides_bootloader/random.o
+ .comment       0x00000000       0x71 build/tides_bootloader/random.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/random.o
+ .text          0x00000000        0x0 build/tides_bootloader/bootloader_utils.o
+ .data          0x00000000        0x0 build/tides_bootloader/bootloader_utils.o
+ .bss           0x00000000        0x0 build/tides_bootloader/bootloader_utils.o
+ .group         0x00000000        0x8 build/tides_bootloader/system_clock.o
+ .text          0x00000000        0x0 build/tides_bootloader/system_clock.o
+ .data          0x00000000        0x0 build/tides_bootloader/system_clock.o
+ .bss           0x00000000        0x0 build/tides_bootloader/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/tides_bootloader/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/tides_bootloader/system_clock.o
+ .init_array    0x00000000        0x4 build/tides_bootloader/system_clock.o
+ .text          0x00000000        0x0 build/tides_bootloader/demodulator.o
+ .data          0x00000000        0x0 build/tides_bootloader/demodulator.o
+ .bss           0x00000000        0x0 build/tides_bootloader/demodulator.o
+ .text          0x00000000        0x0 build/tides_bootloader/packet_decoder.o
+ .data          0x00000000        0x0 build/tides_bootloader/packet_decoder.o
+ .bss           0x00000000        0x0 build/tides_bootloader/packet_decoder.o
+ .text._Z5crc32mPKvj
+                0x00000000       0x2c build/tides_bootloader/packet_decoder.o
+ .text          0x00000000        0x0 build/tides_bootloader/core_cm3.o
+ .data          0x00000000        0x0 build/tides_bootloader/core_cm3.o
+ .bss           0x00000000        0x0 build/tides_bootloader/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/tides_bootloader/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/tides_bootloader/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/tides_bootloader/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/tides_bootloader/core_cm3.o
+ .text          0x00000000        0x0 build/tides_bootloader/system_stm32f10x.o
+ .data          0x00000000        0x0 build/tides_bootloader/system_stm32f10x.o
+ .bss           0x00000000        0x0 build/tides_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_AHBClk
+                0x00000000        0x4 build/tides_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_SysClk
+                0x00000000        0x4 build/tides_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency
+                0x00000000        0x4 build/tides_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_APB1Clk
+                0x00000000        0x4 build/tides_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_APB2Clk
+                0x00000000        0x4 build/tides_bootloader/system_stm32f10x.o
+ .text          0x00000000        0x0 build/tides_bootloader/misc.o
+ .data          0x00000000        0x0 build/tides_bootloader/misc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x18 build/tides_bootloader/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/tides_bootloader/misc.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_adc.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_adc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x00000000        0xc build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x5c build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_adc.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_bkp.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_bkp.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_bkp.o
+ .debug_info    0x00000000      0x790 build/tides_bootloader/stm32f10x_bkp.o
+ .debug_abbrev  0x00000000      0x18a build/tides_bootloader/stm32f10x_bkp.o
+ .debug_loc     0x00000000       0xee build/tides_bootloader/stm32f10x_bkp.o
+ .debug_aranges
+                0x00000000       0x78 build/tides_bootloader/stm32f10x_bkp.o
+ .debug_ranges  0x00000000       0x68 build/tides_bootloader/stm32f10x_bkp.o
+ .debug_line    0x00000000      0x21d build/tides_bootloader/stm32f10x_bkp.o
+ .debug_str     0x00000000      0x62f build/tides_bootloader/stm32f10x_bkp.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_bkp.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_bkp.o
+ .debug_frame   0x00000000       0xe0 build/tides_bootloader/stm32f10x_bkp.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_can.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_can.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_Init
+                0x00000000       0xec build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x00000000       0xf4 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x00000000       0xd0 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x74 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x00000000        0xc build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_Receive
+                0x00000000       0x90 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x00000000        0xc build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xa4 build/tides_bootloader/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0xa0 build/tides_bootloader/stm32f10x_can.o
+ .rodata.CSWTCH.10
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_can.o
+ .debug_info    0x00000000      0xae8 build/tides_bootloader/stm32f10x_can.o
+ .debug_abbrev  0x00000000      0x28f build/tides_bootloader/stm32f10x_can.o
+ .debug_loc     0x00000000      0x7f8 build/tides_bootloader/stm32f10x_can.o
+ .debug_aranges
+                0x00000000       0xb0 build/tides_bootloader/stm32f10x_can.o
+ .debug_ranges  0x00000000      0x120 build/tides_bootloader/stm32f10x_can.o
+ .debug_line    0x00000000      0x490 build/tides_bootloader/stm32f10x_can.o
+ .debug_str     0x00000000      0x6ef build/tides_bootloader/stm32f10x_can.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_can.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_can.o
+ .debug_frame   0x00000000      0x17c build/tides_bootloader/stm32f10x_can.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_crc.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_crc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/tides_bootloader/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/tides_bootloader/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/tides_bootloader/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/tides_bootloader/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/tides_bootloader/stm32f10x_crc.o
+ .debug_info    0x00000000      0x1c7 build/tides_bootloader/stm32f10x_crc.o
+ .debug_abbrev  0x00000000      0x114 build/tides_bootloader/stm32f10x_crc.o
+ .debug_loc     0x00000000       0x75 build/tides_bootloader/stm32f10x_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/tides_bootloader/stm32f10x_crc.o
+ .debug_ranges  0x00000000       0x38 build/tides_bootloader/stm32f10x_crc.o
+ .debug_line    0x00000000      0x16d build/tides_bootloader/stm32f10x_crc.o
+ .debug_str     0x00000000      0x2a2 build/tides_bootloader/stm32f10x_crc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_crc.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_crc.o
+ .debug_frame   0x00000000       0x70 build/tides_bootloader/stm32f10x_crc.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_dac.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_dac.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_Init
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_Cmd  0x00000000       0x20 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_dac.o
+ .debug_info    0x00000000      0x4ab build/tides_bootloader/stm32f10x_dac.o
+ .debug_abbrev  0x00000000      0x1b8 build/tides_bootloader/stm32f10x_dac.o
+ .debug_loc     0x00000000      0x235 build/tides_bootloader/stm32f10x_dac.o
+ .debug_aranges
+                0x00000000       0x78 build/tides_bootloader/stm32f10x_dac.o
+ .debug_ranges  0x00000000       0x68 build/tides_bootloader/stm32f10x_dac.o
+ .debug_line    0x00000000      0x267 build/tides_bootloader/stm32f10x_dac.o
+ .debug_str     0x00000000      0x425 build/tides_bootloader/stm32f10x_dac.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_dac.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_dac.o
+ .debug_frame   0x00000000       0xec build/tides_bootloader/stm32f10x_dac.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/tides_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_info    0x00000000      0x12c build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x00000000       0xdc build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_loc     0x00000000       0x3a build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_ranges  0x00000000       0x20 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_line    0x00000000      0x129 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_str     0x00000000      0x26e build/tides_bootloader/stm32f10x_dbgmcu.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .debug_frame   0x00000000       0x40 build/tides_bootloader/stm32f10x_dbgmcu.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_dma.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_dma.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_dma.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_exti.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_exti.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x00000000       0x80 build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/tides_bootloader/stm32f10x_exti.o
+ .debug_info    0x00000000      0x314 build/tides_bootloader/stm32f10x_exti.o
+ .debug_abbrev  0x00000000      0x169 build/tides_bootloader/stm32f10x_exti.o
+ .debug_loc     0x00000000      0x224 build/tides_bootloader/stm32f10x_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/tides_bootloader/stm32f10x_exti.o
+ .debug_ranges  0x00000000       0x48 build/tides_bootloader/stm32f10x_exti.o
+ .debug_line    0x00000000      0x217 build/tides_bootloader/stm32f10x_exti.o
+ .debug_str     0x00000000      0x3c5 build/tides_bootloader/stm32f10x_exti.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_exti.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_exti.o
+ .debug_frame   0x00000000       0x98 build/tides_bootloader/stm32f10x_exti.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_flash.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_flash.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x00000000        0xc build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x00000000        0xc build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x00000000        0xc build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x00000000       0x40 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x00000000       0x7c build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x38 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x00000000       0x48 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x00000000       0xa0 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x00000000       0x94 build/tides_bootloader/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x00000000       0x58 build/tides_bootloader/stm32f10x_flash.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_fsmc.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_fsmc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xbc build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x7c build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x54 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/tides_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_info    0x00000000      0x8b8 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_abbrev  0x00000000      0x197 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_loc     0x00000000      0x4ae build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_line    0x00000000      0x412 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_str     0x00000000      0x7d5 build/tides_bootloader/stm32f10x_fsmc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_fsmc.o
+ .debug_frame   0x00000000      0x190 build/tides_bootloader/stm32f10x_fsmc.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_gpio.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_gpio.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x00000000       0xdc build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_gpio.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_i2c.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_i2c.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x00000000       0x3c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x00000000       0xdc build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x00000000       0x38 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_i2c.o
+ .debug_info    0x00000000      0xb22 build/tides_bootloader/stm32f10x_i2c.o
+ .debug_abbrev  0x00000000      0x1de build/tides_bootloader/stm32f10x_i2c.o
+ .debug_loc     0x00000000      0x73d build/tides_bootloader/stm32f10x_i2c.o
+ .debug_aranges
+                0x00000000      0x118 build/tides_bootloader/stm32f10x_i2c.o
+ .debug_ranges  0x00000000      0x108 build/tides_bootloader/stm32f10x_i2c.o
+ .debug_line    0x00000000      0x45c build/tides_bootloader/stm32f10x_i2c.o
+ .debug_str     0x00000000      0x6ce build/tides_bootloader/stm32f10x_i2c.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_i2c.o
+ .debug_frame   0x00000000      0x238 build/tides_bootloader/stm32f10x_i2c.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_iwdg.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_iwdg.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/tides_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/tides_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_info    0x00000000      0x1c1 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_abbrev  0x00000000       0xff build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_loc     0x00000000       0x62 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_line    0x00000000      0x158 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_str     0x00000000      0x2c3 build/tides_bootloader/stm32f10x_iwdg.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_iwdg.o
+ .debug_frame   0x00000000       0x70 build/tides_bootloader/stm32f10x_iwdg.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_pwr.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_pwr.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x34 build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_pwr.o
+ .debug_info    0x00000000      0x2ef build/tides_bootloader/stm32f10x_pwr.o
+ .debug_abbrev  0x00000000      0x17c build/tides_bootloader/stm32f10x_pwr.o
+ .debug_loc     0x00000000      0x111 build/tides_bootloader/stm32f10x_pwr.o
+ .debug_aranges
+                0x00000000       0x60 build/tides_bootloader/stm32f10x_pwr.o
+ .debug_ranges  0x00000000       0x50 build/tides_bootloader/stm32f10x_pwr.o
+ .debug_line    0x00000000      0x216 build/tides_bootloader/stm32f10x_pwr.o
+ .debug_str     0x00000000      0x339 build/tides_bootloader/stm32f10x_pwr.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_pwr.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_pwr.o
+ .debug_frame   0x00000000       0xb0 build/tides_bootloader/stm32f10x_pwr.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_rcc.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_rcc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x40 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x38 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x00000000       0x94 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x00000000       0x34 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/tides_bootloader/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_rcc.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_rtc.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_rtc.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_rtc.o
+ .debug_info    0x00000000      0x452 build/tides_bootloader/stm32f10x_rtc.o
+ .debug_abbrev  0x00000000      0x1ca build/tides_bootloader/stm32f10x_rtc.o
+ .debug_loc     0x00000000      0x20e build/tides_bootloader/stm32f10x_rtc.o
+ .debug_aranges
+                0x00000000       0x88 build/tides_bootloader/stm32f10x_rtc.o
+ .debug_ranges  0x00000000       0xd8 build/tides_bootloader/stm32f10x_rtc.o
+ .debug_line    0x00000000      0x248 build/tides_bootloader/stm32f10x_rtc.o
+ .debug_str     0x00000000      0x401 build/tides_bootloader/stm32f10x_rtc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_rtc.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_rtc.o
+ .debug_frame   0x00000000       0xf0 build/tides_bootloader/stm32f10x_rtc.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_sdio.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_sdio.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x30 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/tides_bootloader/stm32f10x_sdio.o
+ .debug_info    0x00000000      0x7ac build/tides_bootloader/stm32f10x_sdio.o
+ .debug_abbrev  0x00000000      0x1d6 build/tides_bootloader/stm32f10x_sdio.o
+ .debug_loc     0x00000000      0x238 build/tides_bootloader/stm32f10x_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/tides_bootloader/stm32f10x_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/tides_bootloader/stm32f10x_sdio.o
+ .debug_line    0x00000000      0x3bb build/tides_bootloader/stm32f10x_sdio.o
+ .debug_str     0x00000000      0x6a2 build/tides_bootloader/stm32f10x_sdio.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_sdio.o
+ .debug_frame   0x00000000      0x20c build/tides_bootloader/stm32f10x_sdio.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_spi.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_spi.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x00000000       0x6c build/tides_bootloader/stm32f10x_spi.o
+ .text.I2S_Init
+                0x00000000       0xb4 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_spi.o
+ .text.I2S_Cmd  0x00000000       0x1c build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x2c build/tides_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_spi.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_tim.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_tim.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x00000000       0xf8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x168 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x150 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x20 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0x88 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x40 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x4c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_tim.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_usart.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_usart.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x00000000       0xb0 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_Init
+                0x00000000       0x90 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x24 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_Cmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x18 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x4c build/tides_bootloader/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_usart.o
+ .debug_info    0x00000000      0xa82 build/tides_bootloader/stm32f10x_usart.o
+ .debug_abbrev  0x00000000      0x1eb build/tides_bootloader/stm32f10x_usart.o
+ .debug_loc     0x00000000      0xa62 build/tides_bootloader/stm32f10x_usart.o
+ .debug_aranges
+                0x00000000       0xf0 build/tides_bootloader/stm32f10x_usart.o
+ .debug_ranges  0x00000000       0xe0 build/tides_bootloader/stm32f10x_usart.o
+ .debug_line    0x00000000      0x406 build/tides_bootloader/stm32f10x_usart.o
+ .debug_str     0x00000000      0x70a build/tides_bootloader/stm32f10x_usart.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_usart.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_usart.o
+ .debug_frame   0x00000000      0x1ec build/tides_bootloader/stm32f10x_usart.o
+ .text          0x00000000        0x0 build/tides_bootloader/stm32f10x_wwdg.o
+ .data          0x00000000        0x0 build/tides_bootloader/stm32f10x_wwdg.o
+ .bss           0x00000000        0x0 build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000        0xc build/tides_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_info    0x00000000      0x24e build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_abbrev  0x00000000      0x13e build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_loc     0x00000000       0xae build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_line    0x00000000      0x1ce build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_str     0x00000000      0x2f6 build/tides_bootloader/stm32f10x_wwdg.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 build/tides_bootloader/stm32f10x_wwdg.o
+ .debug_frame   0x00000000       0x9c build/tides_bootloader/stm32f10x_wwdg.o
+ .text          0x00000000       0x14 build/tides_bootloader/startup_stm32f10x_md.o
+ .data          0x00000000        0x0 build/tides_bootloader/startup_stm32f10x_md.o
+ .bss           0x00000000        0x0 build/tides_bootloader/startup_stm32f10x_md.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00005000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+LOAD build/tides_bootloader/bootloader.o
+LOAD build/tides_bootloader/adc.o
+LOAD build/tides_bootloader/dac.o
+LOAD build/tides_bootloader/gate_input.o
+LOAD build/tides_bootloader/gate_output.o
+LOAD build/tides_bootloader/leds.o
+LOAD build/tides_bootloader/switches.o
+LOAD build/tides_bootloader/system.o
+LOAD build/tides_bootloader/uart_logger.o
+LOAD build/tides_bootloader/random.o
+LOAD build/tides_bootloader/bootloader_utils.o
+LOAD build/tides_bootloader/system_clock.o
+LOAD build/tides_bootloader/demodulator.o
+LOAD build/tides_bootloader/packet_decoder.o
+LOAD build/tides_bootloader/core_cm3.o
+LOAD build/tides_bootloader/system_stm32f10x.o
+LOAD build/tides_bootloader/misc.o
+LOAD build/tides_bootloader/stm32f10x_adc.o
+LOAD build/tides_bootloader/stm32f10x_bkp.o
+LOAD build/tides_bootloader/stm32f10x_can.o
+LOAD build/tides_bootloader/stm32f10x_crc.o
+LOAD build/tides_bootloader/stm32f10x_dac.o
+LOAD build/tides_bootloader/stm32f10x_dbgmcu.o
+LOAD build/tides_bootloader/stm32f10x_dma.o
+LOAD build/tides_bootloader/stm32f10x_exti.o
+LOAD build/tides_bootloader/stm32f10x_flash.o
+LOAD build/tides_bootloader/stm32f10x_fsmc.o
+LOAD build/tides_bootloader/stm32f10x_gpio.o
+LOAD build/tides_bootloader/stm32f10x_i2c.o
+LOAD build/tides_bootloader/stm32f10x_iwdg.o
+LOAD build/tides_bootloader/stm32f10x_pwr.o
+LOAD build/tides_bootloader/stm32f10x_rcc.o
+LOAD build/tides_bootloader/stm32f10x_rtc.o
+LOAD build/tides_bootloader/stm32f10x_sdio.o
+LOAD build/tides_bootloader/stm32f10x_spi.o
+LOAD build/tides_bootloader/stm32f10x_tim.o
+LOAD build/tides_bootloader/stm32f10x_usart.o
+LOAD build/tides_bootloader/stm32f10x_wwdg.o
+LOAD build/tides_bootloader/startup_stm32f10x_md.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.text           0x08000000     0x223c
+                0x08000000                _start = .
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c build/tides_bootloader/startup_stm32f10x_md.o
+                0x08000000                g_pfnVectors
+ *(.text*)
+ .text.HardFault_Handler
+                0x0800010c        0x4 build/tides_bootloader/bootloader.o
+                0x0800010c                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000110        0x4 build/tides_bootloader/bootloader.o
+                0x08000110                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000114        0x4 build/tides_bootloader/bootloader.o
+                0x08000114                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000118        0x4 build/tides_bootloader/bootloader.o
+                0x08000118                UsageFault_Handler
+ .text.NMI_Handler
+                0x0800011c        0x4 build/tides_bootloader/bootloader.o
+                0x0800011c                NMI_Handler
+ .text.SVC_Handler
+                0x08000120        0x4 build/tides_bootloader/bootloader.o
+                0x08000120                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000124        0x4 build/tides_bootloader/bootloader.o
+                0x08000124                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000128        0x4 build/tides_bootloader/bootloader.o
+                0x08000128                PendSV_Handler
+ .text.SysTick_Handler
+                0x0800012c       0xd8 build/tides_bootloader/bootloader.o
+                0x0800012c                SysTick_Handler
+ .text.TIM1_UP_IRQHandler
+                0x08000204       0xa4 build/tides_bootloader/bootloader.o
+                0x08000204                TIM1_UP_IRQHandler
+ .text._Z11ProgramPagePKhj
+                0x080002a8       0x30 build/tides_bootloader/bootloader.o
+                0x080002a8                ProgramPage(unsigned char const*, unsigned int)
+ .text._Z4Initv
+                0x080002d8       0x54 build/tides_bootloader/bootloader.o
+                0x080002d8                Init()
+ .text._Z19InitializeReceptionv
+                0x0800032c       0x74 build/tides_bootloader/bootloader.o
+                0x0800032c                InitializeReception()
+ .text.startup.main
+                0x080003a0      0x1f0 build/tides_bootloader/bootloader.o
+                0x080003a0                main
+ .text._ZN5tides3Adc4InitEb
+                0x08000590      0x17c build/tides_bootloader/adc.o
+                0x08000590                tides::Adc::Init(bool)
+ .text._ZN5tides3Adc6DeInitEv
+                0x0800070c       0x24 build/tides_bootloader/adc.o
+                0x0800070c                tides::Adc::DeInit()
+ .text._ZN5tides3Dac4InitEv
+                0x08000730       0x94 build/tides_bootloader/dac.o
+                0x08000730                tides::Dac::Init()
+ .text._ZN5tides4Leds4InitEv
+                0x080007c4       0xcc build/tides_bootloader/leds.o
+                0x080007c4                tides::Leds::Init()
+ .text._ZN5tides4Leds5WriteEv
+                0x08000890       0x50 build/tides_bootloader/leds.o
+                0x08000890                tides::Leds::Write()
+ .text._ZN5tides8Switches4InitEv
+                0x080008e0       0x30 build/tides_bootloader/switches.o
+                0x080008e0                tides::Switches::Init()
+ .text._ZN5tides8Switches8DebounceEv
+                0x08000910       0x30 build/tides_bootloader/switches.o
+                0x08000910                tides::Switches::Debounce()
+ .text._ZN5tides6System4InitEmb
+                0x08000940       0xa0 build/tides_bootloader/system.o
+                0x08000940                tides::System::Init(unsigned long, bool)
+ .text._ZN5tides6System11StartTimersEv
+                0x080009e0       0x34 build/tides_bootloader/system.o
+                0x080009e0                tides::System::StartTimers()
+ .text._ZN6stmlib12UninitializeEv
+                0x08000a14       0x74 build/tides_bootloader/bootloader_utils.o
+                0x08000a14                stmlib::Uninitialize()
+ .text._ZN6stmlib6JumpToEm
+                0x08000a88       0x10 build/tides_bootloader/bootloader_utils.o
+                0x08000a88                stmlib::JumpTo(unsigned long)
+ .text._ZN20stm_audio_bootloader11Demodulator5ResetEv
+                0x08000a98       0x4c build/tides_bootloader/demodulator.o
+                0x08000a98                stm_audio_bootloader::Demodulator::Reset()
+ .text._ZN20stm_audio_bootloader11Demodulator4InitEmtt
+                0x08000ae4       0x48 build/tides_bootloader/demodulator.o
+                0x08000ae4                stm_audio_bootloader::Demodulator::Init(unsigned long, unsigned short, unsigned short)
+ .text._ZN20stm_audio_bootloader11Demodulator12DecideSymbolEb
+                0x08000b2c      0x120 build/tides_bootloader/demodulator.o
+                0x08000b2c                stm_audio_bootloader::Demodulator::DecideSymbol(bool)
+ .text._ZN20stm_audio_bootloader11Demodulator19EstimateDcComponentEv
+                0x08000c4c       0x5c build/tides_bootloader/demodulator.o
+                0x08000c4c                stm_audio_bootloader::Demodulator::EstimateDcComponent()
+ .text._ZN20stm_audio_bootloader11Demodulator13EstimatePowerEv
+                0x08000ca8       0x68 build/tides_bootloader/demodulator.o
+                0x08000ca8                stm_audio_bootloader::Demodulator::EstimatePower()
+ .text._ZN20stm_audio_bootloader11Demodulator10DemodulateEv
+                0x08000d10      0x274 build/tides_bootloader/demodulator.o
+                0x08000d10                stm_audio_bootloader::Demodulator::Demodulate()
+ .text._ZN20stm_audio_bootloader13PacketDecoder4InitEt
+                0x08000f84       0x18 build/tides_bootloader/packet_decoder.o
+                0x08000f84                stm_audio_bootloader::PacketDecoder::Init(unsigned short)
+ .text._ZN20stm_audio_bootloader13PacketDecoder15ParseSyncHeaderEh
+                0x08000f9c       0x9c build/tides_bootloader/packet_decoder.o
+                0x08000f9c                stm_audio_bootloader::PacketDecoder::ParseSyncHeader(unsigned char)
+ .text._ZN20stm_audio_bootloader13PacketDecoder13ProcessSymbolEh
+                0x08001038       0xb0 build/tides_bootloader/packet_decoder.o
+                0x08001038                stm_audio_bootloader::PacketDecoder::ProcessSymbol(unsigned char)
+ .text.__set_MSP
+                0x080010e8        0x8 build/tides_bootloader/core_cm3.o
+                0x080010e8                __set_MSP
+ .text.SystemInit
+                0x080010f0       0xf8 build/tides_bootloader/system_stm32f10x.o
+                0x080010f0                SystemInit
+ .text.NVIC_PriorityGroupConfig
+                0x080011e8       0x14 build/tides_bootloader/misc.o
+                0x080011e8                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x080011fc       0x70 build/tides_bootloader/misc.o
+                0x080011fc                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x0800126c       0x14 build/tides_bootloader/misc.o
+                0x0800126c                NVIC_SetVectorTable
+ .text.ADC_DeInit
+                0x08001280       0x6c build/tides_bootloader/stm32f10x_adc.o
+                0x08001280                ADC_DeInit
+ .text.ADC_Init
+                0x080012ec       0x48 build/tides_bootloader/stm32f10x_adc.o
+                0x080012ec                ADC_Init
+ .text.ADC_Cmd  0x08001334       0x14 build/tides_bootloader/stm32f10x_adc.o
+                0x08001334                ADC_Cmd
+ .text.ADC_DMACmd
+                0x08001348       0x14 build/tides_bootloader/stm32f10x_adc.o
+                0x08001348                ADC_DMACmd
+ .text.ADC_ResetCalibration
+                0x0800135c        0xc build/tides_bootloader/stm32f10x_adc.o
+                0x0800135c                ADC_ResetCalibration
+ .text.ADC_GetResetCalibrationStatus
+                0x08001368        0x8 build/tides_bootloader/stm32f10x_adc.o
+                0x08001368                ADC_GetResetCalibrationStatus
+ .text.ADC_StartCalibration
+                0x08001370        0xc build/tides_bootloader/stm32f10x_adc.o
+                0x08001370                ADC_StartCalibration
+ .text.ADC_GetCalibrationStatus
+                0x0800137c        0x8 build/tides_bootloader/stm32f10x_adc.o
+                0x0800137c                ADC_GetCalibrationStatus
+ .text.ADC_SoftwareStartConvCmd
+                0x08001384       0x14 build/tides_bootloader/stm32f10x_adc.o
+                0x08001384                ADC_SoftwareStartConvCmd
+ .text.ADC_RegularChannelConfig
+                0x08001398       0x9c build/tides_bootloader/stm32f10x_adc.o
+                0x08001398                ADC_RegularChannelConfig
+ .text.DMA_DeInit
+                0x08001434      0x100 build/tides_bootloader/stm32f10x_dma.o
+                0x08001434                DMA_DeInit
+ .text.DMA_Init
+                0x08001534       0x40 build/tides_bootloader/stm32f10x_dma.o
+                0x08001534                DMA_Init
+ .text.DMA_Cmd  0x08001574       0x14 build/tides_bootloader/stm32f10x_dma.o
+                0x08001574                DMA_Cmd
+ .text.FLASH_Unlock
+                0x08001588       0x18 build/tides_bootloader/stm32f10x_flash.o
+                0x08001588                FLASH_Unlock
+ .text.FLASH_GetStatus
+                0x080015a0       0x28 build/tides_bootloader/stm32f10x_flash.o
+                0x080015a0                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x080015c8       0x40 build/tides_bootloader/stm32f10x_flash.o
+                0x080015c8                FLASH_WaitForLastOperation
+ .text.FLASH_ErasePage
+                0x08001608       0x44 build/tides_bootloader/stm32f10x_flash.o
+                0x08001608                FLASH_ErasePage
+ .text.FLASH_ProgramWord
+                0x0800164c       0x60 build/tides_bootloader/stm32f10x_flash.o
+                0x0800164c                FLASH_ProgramWord
+ .text.GPIO_Init
+                0x080016ac       0xb4 build/tides_bootloader/stm32f10x_gpio.o
+                0x080016ac                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08001760        0xc build/tides_bootloader/stm32f10x_gpio.o
+                0x08001760                GPIO_ReadInputDataBit
+ .text.GPIO_WriteBit
+                0x0800176c        0xc build/tides_bootloader/stm32f10x_gpio.o
+                0x0800176c                GPIO_WriteBit
+ .text.GPIO_PinRemapConfig
+                0x08001778       0x60 build/tides_bootloader/stm32f10x_gpio.o
+                0x08001778                GPIO_PinRemapConfig
+ .text.RCC_ADCCLKConfig
+                0x080017d8       0x14 build/tides_bootloader/stm32f10x_rcc.o
+                0x080017d8                RCC_ADCCLKConfig
+ .text.RCC_AHBPeriphClockCmd
+                0x080017ec       0x18 build/tides_bootloader/stm32f10x_rcc.o
+                0x080017ec                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08001804       0x18 build/tides_bootloader/stm32f10x_rcc.o
+                0x08001804                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0800181c       0x18 build/tides_bootloader/stm32f10x_rcc.o
+                0x0800181c                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x08001834       0x18 build/tides_bootloader/stm32f10x_rcc.o
+                0x08001834                RCC_APB2PeriphResetCmd
+ .text.SPI_Init
+                0x0800184c       0x40 build/tides_bootloader/stm32f10x_spi.o
+                0x0800184c                SPI_Init
+ .text.SPI_Cmd  0x0800188c       0x1c build/tides_bootloader/stm32f10x_spi.o
+                0x0800188c                SPI_Cmd
+ .text.TIM_TimeBaseInit
+                0x080018a8       0x48 build/tides_bootloader/stm32f10x_tim.o
+                0x080018a8                TIM_TimeBaseInit
+ .text.TIM_OC1Init
+                0x080018f0       0x7c build/tides_bootloader/stm32f10x_tim.o
+                0x080018f0                TIM_OC1Init
+ .text.TIM_OC2Init
+                0x0800196c       0x90 build/tides_bootloader/stm32f10x_tim.o
+                0x0800196c                TIM_OC2Init
+ .text.TIM_OC3Init
+                0x080019fc       0x90 build/tides_bootloader/stm32f10x_tim.o
+                0x080019fc                TIM_OC3Init
+ .text.TIM_OC4Init
+                0x08001a8c       0x6c build/tides_bootloader/stm32f10x_tim.o
+                0x08001a8c                TIM_OC4Init
+ .text.TIM_Cmd  0x08001af8       0x1c build/tides_bootloader/stm32f10x_tim.o
+                0x08001af8                TIM_Cmd
+ .text.TIM_ITConfig
+                0x08001b14       0x14 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b14                TIM_ITConfig
+ .text.TIM_InternalClockConfig
+                0x08001b28       0x10 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b28                TIM_InternalClockConfig
+ .text.TIM_OC1PreloadConfig
+                0x08001b38       0x10 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b38                TIM_OC1PreloadConfig
+ .text.TIM_OC2PreloadConfig
+                0x08001b48       0x14 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b48                TIM_OC2PreloadConfig
+ .text.TIM_OC3PreloadConfig
+                0x08001b5c       0x10 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b5c                TIM_OC3PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x08001b6c       0x14 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b6c                TIM_OC4PreloadConfig
+ .text.TIM_SetCompare1
+                0x08001b80        0x4 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b80                TIM_SetCompare1
+ .text.TIM_SetCompare2
+                0x08001b84        0x4 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b84                TIM_SetCompare2
+ .text.TIM_SetCompare3
+                0x08001b88        0x4 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b88                TIM_SetCompare3
+ .text.TIM_SetCompare4
+                0x08001b8c        0x8 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b8c                TIM_SetCompare4
+ .text.TIM_GetITStatus
+                0x08001b94       0x18 build/tides_bootloader/stm32f10x_tim.o
+                0x08001b94                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x08001bac        0x8 build/tides_bootloader/stm32f10x_tim.o
+                0x08001bac                TIM_ClearITPendingBit
+ .text.Reset_Handler
+                0x08001bb4       0x48 build/tides_bootloader/startup_stm32f10x_md.o
+                0x08001bb4                Reset_Handler
+ .text.Default_Handler
+                0x08001bfc        0x4 build/tides_bootloader/startup_stm32f10x_md.o
+                0x08001bfc                EXTI2_IRQHandler
+                0x08001bfc                TIM1_CC_IRQHandler
+                0x08001bfc                PVD_IRQHandler
+                0x08001bfc                EXTI3_IRQHandler
+                0x08001bfc                EXTI0_IRQHandler
+                0x08001bfc                I2C2_EV_IRQHandler
+                0x08001bfc                ADC1_2_IRQHandler
+                0x08001bfc                SPI1_IRQHandler
+                0x08001bfc                TAMPER_IRQHandler
+                0x08001bfc                DMA1_Channel4_IRQHandler
+                0x08001bfc                USART3_IRQHandler
+                0x08001bfc                RTC_IRQHandler
+                0x08001bfc                DMA1_Channel7_IRQHandler
+                0x08001bfc                CAN1_RX1_IRQHandler
+                0x08001bfc                TIM4_IRQHandler
+                0x08001bfc                I2C1_EV_IRQHandler
+                0x08001bfc                DMA1_Channel6_IRQHandler
+                0x08001bfc                TIM3_IRQHandler
+                0x08001bfc                RCC_IRQHandler
+                0x08001bfc                TIM1_TRG_COM_IRQHandler
+                0x08001bfc                DMA1_Channel1_IRQHandler
+                0x08001bfc                Default_Handler
+                0x08001bfc                EXTI15_10_IRQHandler
+                0x08001bfc                EXTI9_5_IRQHandler
+                0x08001bfc                SPI2_IRQHandler
+                0x08001bfc                DMA1_Channel5_IRQHandler
+                0x08001bfc                EXTI4_IRQHandler
+                0x08001bfc                USB_LP_CAN1_RX0_IRQHandler
+                0x08001bfc                USB_HP_CAN1_TX_IRQHandler
+                0x08001bfc                DMA1_Channel3_IRQHandler
+                0x08001bfc                WWDG_IRQHandler
+                0x08001bfc                TIM2_IRQHandler
+                0x08001bfc                TIM1_BRK_IRQHandler
+                0x08001bfc                EXTI1_IRQHandler
+                0x08001bfc                RTCAlarm_IRQHandler
+                0x08001bfc                USART2_IRQHandler
+                0x08001bfc                I2C2_ER_IRQHandler
+                0x08001bfc                DMA1_Channel2_IRQHandler
+                0x08001bfc                CAN1_SCE_IRQHandler
+                0x08001bfc                FLASH_IRQHandler
+                0x08001bfc                USART1_IRQHandler
+                0x08001bfc                I2C1_ER_IRQHandler
+                0x08001bfc                USBWakeUp_IRQHandler
+ .text          0x08001c00       0xec /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+                0x08001c00                memcpy
+ .text.memset   0x08001cec       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                0x08001cec                memset
+ *(.rodata*)
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_3_7E
+                0x08001d80       0x10 build/tides_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_4_7E
+                0x08001d90       0x10 build/tides_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_6_7E
+                0x08001da0       0x10 build/tides_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_8_7E
+                0x08001db0       0x10 build/tides_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL12cutoff_tableE
+                0x08001dc0       0x44 build/tides_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL24filter_coefficients_12_7E
+                0x08001e04       0x10 build/tides_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL24filter_coefficients_16_7E
+                0x08001e14       0x10 build/tides_bootloader/demodulator.o
+ .rodata._ZL9crc32_tab
+                0x08001e24      0x400 build/tides_bootloader/packet_decoder.o
+ *(.flashtext*)
+ *(.init)
+ .init          0x08002224        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x08002224                _init
+ .init          0x08002228        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x08002230        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+                0x08002230                _fini
+ .fini          0x08002234        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+                0x0800223c                _etext = .
+                0x0800223c                _sidata = .
+
+.glue_7         0x0800223c        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x0800223c        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x0800223c        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x0800223c        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x0800223c        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.rel.dyn        0x0800223c        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.data           0x20000000      0x208 load address 0x0800223c
+                0x20000000                _sdata = .
+ *(.ramtext*)
+                0x20000000                . = ALIGN (0x4)
+ *(.data*)
+ .data.discard_samples
+                0x20000000        0x2 build/tides_bootloader/bootloader.o
+                0x20000000                discard_samples
+ *fill*         0x20000002        0x2 
+ .data._ZN20stm_audio_bootloader8lut_sineE
+                0x20000004      0x204 build/tides_bootloader/demodulator.o
+                0x20000004                stm_audio_bootloader::lut_sine
+                0x20000208                _edata = .
+
+.igot.plt       0x20000208        0x0 load address 0x08002444
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtbegin.o
+
+.bss            0x20000208     0x146c load address 0x08002444
+                0x20000208                _sstack = .
+                0x20000408                . = (. + 0x200)
+ *fill*         0x20000208      0x200 
+                0x20000408                _estack = .
+                0x20000408                _sbss = .
+ *(.bss*)
+ .bss.demodulator
+                0x20000408      0xd18 build/tides_bootloader/bootloader.o
+                0x20000408                demodulator
+ .bss.dac       0x20001120        0x8 build/tides_bootloader/bootloader.o
+                0x20001120                dac
+ .bss.ui_state  0x20001128        0x1 build/tides_bootloader/bootloader.o
+                0x20001128                ui_state
+ *fill*         0x20001129        0x3 
+ .bss.leds      0x2000112c        0xc build/tides_bootloader/bootloader.o
+                0x2000112c                leds
+ .bss.adc       0x20001138       0x10 build/tides_bootloader/bootloader.o
+                0x20001138                adc
+ .bss.switches  0x20001148        0x4 build/tides_bootloader/bootloader.o
+                0x20001148                switches
+ .bss._ZL15current_address
+                0x2000114c        0x4 build/tides_bootloader/bootloader.o
+ .bss.sys       0x20001150        0x4 build/tides_bootloader/bootloader.o
+                0x20001150                sys
+ .bss.decoder   0x20001154      0x114 build/tides_bootloader/bootloader.o
+                0x20001154                decoder
+ .bss.switch_released
+                0x20001268        0x1 build/tides_bootloader/bootloader.o
+                0x20001268                switch_released
+ *fill*         0x20001269        0x3 
+ .bss.rx_buffer
+                0x2000126c      0x400 build/tides_bootloader/bootloader.o
+                0x2000126c                rx_buffer
+ .bss._ZL12packet_index
+                0x2000166c        0x2 build/tides_bootloader/bootloader.o
+ *fill*         0x2000166e        0x2 
+ .bss._ZN6stmlib12system_clockE
+                0x20001670        0x4 build/tides_bootloader/system_clock.o
+                0x20001670                stmlib::system_clock
+ *(COMMON)
+                0x20001674                _ebss = .
+OUTPUT(build/tides_bootloader/tides_bootloader.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x33 build/tides_bootloader/bootloader.o
+ .ARM.attributes
+                0x00000050       0x33 build/tides_bootloader/adc.o
+ .ARM.attributes
+                0x00000083       0x33 build/tides_bootloader/dac.o
+ .ARM.attributes
+                0x000000b6       0x33 build/tides_bootloader/leds.o
+ .ARM.attributes
+                0x000000e9       0x33 build/tides_bootloader/switches.o
+ .ARM.attributes
+                0x0000011c       0x33 build/tides_bootloader/system.o
+ .ARM.attributes
+                0x0000014f       0x33 build/tides_bootloader/bootloader_utils.o
+ .ARM.attributes
+                0x00000182       0x33 build/tides_bootloader/system_clock.o
+ .ARM.attributes
+                0x000001b5       0x33 build/tides_bootloader/demodulator.o
+ .ARM.attributes
+                0x000001e8       0x33 build/tides_bootloader/packet_decoder.o
+ .ARM.attributes
+                0x0000021b       0x33 build/tides_bootloader/core_cm3.o
+ .ARM.attributes
+                0x0000024e       0x33 build/tides_bootloader/system_stm32f10x.o
+ .ARM.attributes
+                0x00000281       0x33 build/tides_bootloader/misc.o
+ .ARM.attributes
+                0x000002b4       0x33 build/tides_bootloader/stm32f10x_adc.o
+ .ARM.attributes
+                0x000002e7       0x33 build/tides_bootloader/stm32f10x_dma.o
+ .ARM.attributes
+                0x0000031a       0x33 build/tides_bootloader/stm32f10x_flash.o
+ .ARM.attributes
+                0x0000034d       0x33 build/tides_bootloader/stm32f10x_gpio.o
+ .ARM.attributes
+                0x00000380       0x33 build/tides_bootloader/stm32f10x_rcc.o
+ .ARM.attributes
+                0x000003b3       0x33 build/tides_bootloader/stm32f10x_spi.o
+ .ARM.attributes
+                0x000003e6       0x33 build/tides_bootloader/stm32f10x_tim.o
+ .ARM.attributes
+                0x00000419       0x21 build/tides_bootloader/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x0000043a       0x1b /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000455       0x2d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000482       0x1d /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7-m/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/tides_bootloader/bootloader.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/tides_bootloader/adc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/dac.o
+ .comment       0x00000000       0x71 build/tides_bootloader/leds.o
+ .comment       0x00000000       0x71 build/tides_bootloader/switches.o
+ .comment       0x00000000       0x71 build/tides_bootloader/system.o
+ .comment       0x00000000       0x71 build/tides_bootloader/bootloader_utils.o
+ .comment       0x00000000       0x71 build/tides_bootloader/system_clock.o
+ .comment       0x00000000       0x71 build/tides_bootloader/demodulator.o
+ .comment       0x00000000       0x71 build/tides_bootloader/packet_decoder.o
+ .comment       0x00000000       0x71 build/tides_bootloader/core_cm3.o
+ .comment       0x00000000       0x71 build/tides_bootloader/system_stm32f10x.o
+ .comment       0x00000000       0x71 build/tides_bootloader/misc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_adc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_dma.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_flash.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_gpio.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_rcc.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_spi.o
+ .comment       0x00000000       0x71 build/tides_bootloader/stm32f10x_tim.o
+
+.debug_info     0x00000000     0xe700
+ .debug_info    0x00000000     0x3152 build/tides_bootloader/bootloader.o
+ .debug_info    0x00003152      0xb1f build/tides_bootloader/adc.o
+ .debug_info    0x00003c71      0x603 build/tides_bootloader/dac.o
+ .debug_info    0x00004274      0xb11 build/tides_bootloader/leds.o
+ .debug_info    0x00004d85      0x4a3 build/tides_bootloader/switches.o
+ .debug_info    0x00005228      0xbe0 build/tides_bootloader/system.o
+ .debug_info    0x00005e08      0x2fb build/tides_bootloader/bootloader_utils.o
+ .debug_info    0x00006103      0x2ce build/tides_bootloader/system_clock.o
+ .debug_info    0x000063d1     0x16c2 build/tides_bootloader/demodulator.o
+ .debug_info    0x00007a93      0x937 build/tides_bootloader/packet_decoder.o
+ .debug_info    0x000083ca      0x509 build/tides_bootloader/core_cm3.o
+ .debug_info    0x000088d3      0x2a2 build/tides_bootloader/system_stm32f10x.o
+ .debug_info    0x00008b75      0x4c0 build/tides_bootloader/misc.o
+ .debug_info    0x00009035      0xbe4 build/tides_bootloader/stm32f10x_adc.o
+ .debug_info    0x00009c19      0x400 build/tides_bootloader/stm32f10x_dma.o
+ .debug_info    0x0000a019      0x8e6 build/tides_bootloader/stm32f10x_flash.o
+ .debug_info    0x0000a8ff      0x820 build/tides_bootloader/stm32f10x_gpio.o
+ .debug_info    0x0000b11f      0x8f3 build/tides_bootloader/stm32f10x_rcc.o
+ .debug_info    0x0000ba12      0x997 build/tides_bootloader/stm32f10x_spi.o
+ .debug_info    0x0000c3a9     0x2357 build/tides_bootloader/stm32f10x_tim.o
+
+.debug_abbrev   0x00000000     0x3020
+ .debug_abbrev  0x00000000      0x67d build/tides_bootloader/bootloader.o
+ .debug_abbrev  0x0000067d      0x28b build/tides_bootloader/adc.o
+ .debug_abbrev  0x00000908      0x245 build/tides_bootloader/dac.o
+ .debug_abbrev  0x00000b4d      0x22b build/tides_bootloader/leds.o
+ .debug_abbrev  0x00000d78      0x24a build/tides_bootloader/switches.o
+ .debug_abbrev  0x00000fc2      0x2e4 build/tides_bootloader/system.o
+ .debug_abbrev  0x000012a6      0x18c build/tides_bootloader/bootloader_utils.o
+ .debug_abbrev  0x00001432      0x1fd build/tides_bootloader/system_clock.o
+ .debug_abbrev  0x0000162f      0x4d2 build/tides_bootloader/demodulator.o
+ .debug_abbrev  0x00001b01      0x3b7 build/tides_bootloader/packet_decoder.o
+ .debug_abbrev  0x00001eb8       0xbb build/tides_bootloader/core_cm3.o
+ .debug_abbrev  0x00001f73      0x113 build/tides_bootloader/system_stm32f10x.o
+ .debug_abbrev  0x00002086      0x141 build/tides_bootloader/misc.o
+ .debug_abbrev  0x000021c7      0x1dc build/tides_bootloader/stm32f10x_adc.o
+ .debug_abbrev  0x000023a3      0x16d build/tides_bootloader/stm32f10x_dma.o
+ .debug_abbrev  0x00002510      0x268 build/tides_bootloader/stm32f10x_flash.o
+ .debug_abbrev  0x00002778      0x1e7 build/tides_bootloader/stm32f10x_gpio.o
+ .debug_abbrev  0x0000295f      0x23f build/tides_bootloader/stm32f10x_rcc.o
+ .debug_abbrev  0x00002b9e      0x1eb build/tides_bootloader/stm32f10x_spi.o
+ .debug_abbrev  0x00002d89      0x297 build/tides_bootloader/stm32f10x_tim.o
+
+.debug_loc      0x00000000     0x6504
+ .debug_loc     0x00000000      0x7cc build/tides_bootloader/bootloader.o
+ .debug_loc     0x000007cc       0x60 build/tides_bootloader/adc.o
+ .debug_loc     0x0000082c       0x2c build/tides_bootloader/dac.o
+ .debug_loc     0x00000858       0x4d build/tides_bootloader/leds.o
+ .debug_loc     0x000008a5       0x4d build/tides_bootloader/switches.o
+ .debug_loc     0x000008f2       0x8f build/tides_bootloader/system.o
+ .debug_loc     0x00000981       0x21 build/tides_bootloader/bootloader_utils.o
+ .debug_loc     0x000009a2      0xe39 build/tides_bootloader/demodulator.o
+ .debug_loc     0x000017db      0x2aa build/tides_bootloader/packet_decoder.o
+ .debug_loc     0x00001a85      0x33a build/tides_bootloader/core_cm3.o
+ .debug_loc     0x00001dbf      0x13d build/tides_bootloader/misc.o
+ .debug_loc     0x00001efc      0x940 build/tides_bootloader/stm32f10x_adc.o
+ .debug_loc     0x0000283c      0x177 build/tides_bootloader/stm32f10x_dma.o
+ .debug_loc     0x000029b3      0x856 build/tides_bootloader/stm32f10x_flash.o
+ .debug_loc     0x00003209      0x5f3 build/tides_bootloader/stm32f10x_gpio.o
+ .debug_loc     0x000037fc      0x76e build/tides_bootloader/stm32f10x_rcc.o
+ .debug_loc     0x00003f6a      0x52c build/tides_bootloader/stm32f10x_spi.o
+ .debug_loc     0x00004496     0x206e build/tides_bootloader/stm32f10x_tim.o
+
+.debug_aranges  0x00000000      0xb50
+ .debug_aranges
+                0x00000000       0xc8 build/tides_bootloader/bootloader.o
+ .debug_aranges
+                0x000000c8       0x28 build/tides_bootloader/adc.o
+ .debug_aranges
+                0x000000f0       0x20 build/tides_bootloader/dac.o
+ .debug_aranges
+                0x00000110       0x28 build/tides_bootloader/leds.o
+ .debug_aranges
+                0x00000138       0x28 build/tides_bootloader/switches.o
+ .debug_aranges
+                0x00000160       0x28 build/tides_bootloader/system.o
+ .debug_aranges
+                0x00000188       0x28 build/tides_bootloader/bootloader_utils.o
+ .debug_aranges
+                0x000001b0       0x28 build/tides_bootloader/system_clock.o
+ .debug_aranges
+                0x000001d8       0x48 build/tides_bootloader/demodulator.o
+ .debug_aranges
+                0x00000220       0x38 build/tides_bootloader/packet_decoder.o
+ .debug_aranges
+                0x00000258       0xc8 build/tides_bootloader/core_cm3.o
+ .debug_aranges
+                0x00000320       0x20 build/tides_bootloader/system_stm32f10x.o
+ .debug_aranges
+                0x00000340       0x40 build/tides_bootloader/misc.o
+ .debug_aranges
+                0x00000380      0x138 build/tides_bootloader/stm32f10x_adc.o
+ .debug_aranges
+                0x000004b8       0x68 build/tides_bootloader/stm32f10x_dma.o
+ .debug_aranges
+                0x00000520       0xd0 build/tides_bootloader/stm32f10x_flash.o
+ .debug_aranges
+                0x000005f0       0xa8 build/tides_bootloader/stm32f10x_gpio.o
+ .debug_aranges
+                0x00000698      0x118 build/tides_bootloader/stm32f10x_rcc.o
+ .debug_aranges
+                0x000007b0       0xd0 build/tides_bootloader/stm32f10x_spi.o
+ .debug_aranges
+                0x00000880      0x2d0 build/tides_bootloader/stm32f10x_tim.o
+
+.debug_ranges   0x00000000     0x1278
+ .debug_ranges  0x00000000      0x498 build/tides_bootloader/bootloader.o
+ .debug_ranges  0x00000498       0x38 build/tides_bootloader/adc.o
+ .debug_ranges  0x000004d0       0x28 build/tides_bootloader/dac.o
+ .debug_ranges  0x000004f8       0x30 build/tides_bootloader/leds.o
+ .debug_ranges  0x00000528       0x30 build/tides_bootloader/switches.o
+ .debug_ranges  0x00000558       0x30 build/tides_bootloader/system.o
+ .debug_ranges  0x00000588       0x30 build/tides_bootloader/bootloader_utils.o
+ .debug_ranges  0x000005b8       0x18 build/tides_bootloader/system_clock.o
+ .debug_ranges  0x000005d0      0x248 build/tides_bootloader/demodulator.o
+ .debug_ranges  0x00000818       0x58 build/tides_bootloader/packet_decoder.o
+ .debug_ranges  0x00000870       0xb8 build/tides_bootloader/core_cm3.o
+ .debug_ranges  0x00000928       0x28 build/tides_bootloader/system_stm32f10x.o
+ .debug_ranges  0x00000950       0x30 build/tides_bootloader/misc.o
+ .debug_ranges  0x00000980      0x128 build/tides_bootloader/stm32f10x_adc.o
+ .debug_ranges  0x00000aa8       0x58 build/tides_bootloader/stm32f10x_dma.o
+ .debug_ranges  0x00000b00       0xc0 build/tides_bootloader/stm32f10x_flash.o
+ .debug_ranges  0x00000bc0       0x98 build/tides_bootloader/stm32f10x_gpio.o
+ .debug_ranges  0x00000c58      0x108 build/tides_bootloader/stm32f10x_rcc.o
+ .debug_ranges  0x00000d60       0xc0 build/tides_bootloader/stm32f10x_spi.o
+ .debug_ranges  0x00000e20      0x458 build/tides_bootloader/stm32f10x_tim.o
+
+.debug_line     0x00000000     0x46a4
+ .debug_line    0x00000000      0x960 build/tides_bootloader/bootloader.o
+ .debug_line    0x00000960      0x201 build/tides_bootloader/adc.o
+ .debug_line    0x00000b61      0x18a build/tides_bootloader/dac.o
+ .debug_line    0x00000ceb      0x1a5 build/tides_bootloader/leds.o
+ .debug_line    0x00000e90      0x1e1 build/tides_bootloader/switches.o
+ .debug_line    0x00001071      0x1e5 build/tides_bootloader/system.o
+ .debug_line    0x00001256      0x12e build/tides_bootloader/bootloader_utils.o
+ .debug_line    0x00001384       0xea build/tides_bootloader/system_clock.o
+ .debug_line    0x0000146e      0x6de build/tides_bootloader/demodulator.o
+ .debug_line    0x00001b4c      0x47a build/tides_bootloader/packet_decoder.o
+ .debug_line    0x00001fc6      0x234 build/tides_bootloader/core_cm3.o
+ .debug_line    0x000021fa      0x109 build/tides_bootloader/system_stm32f10x.o
+ .debug_line    0x00002303      0x1b3 build/tides_bootloader/misc.o
+ .debug_line    0x000024b6      0x4cf build/tides_bootloader/stm32f10x_adc.o
+ .debug_line    0x00002985      0x261 build/tides_bootloader/stm32f10x_dma.o
+ .debug_line    0x00002be6      0x412 build/tides_bootloader/stm32f10x_flash.o
+ .debug_line    0x00002ff8      0x335 build/tides_bootloader/stm32f10x_gpio.o
+ .debug_line    0x0000332d      0x40d build/tides_bootloader/stm32f10x_rcc.o
+ .debug_line    0x0000373a      0x3a1 build/tides_bootloader/stm32f10x_spi.o
+ .debug_line    0x00003adb      0xbc9 build/tides_bootloader/stm32f10x_tim.o
+
+.debug_str      0x00000000     0x4a31
+ .debug_str     0x00000000     0x1c28 build/tides_bootloader/bootloader.o
+                               0x1da7 (size before relaxing)
+ .debug_str     0x00001c28      0x4a5 build/tides_bootloader/adc.o
+                                0x837 (size before relaxing)
+ .debug_str     0x000020cd       0xb4 build/tides_bootloader/dac.o
+                                0x5ba (size before relaxing)
+ .debug_str     0x00002181      0x267 build/tides_bootloader/leds.o
+                                0x8a9 (size before relaxing)
+ .debug_str     0x000023e8       0x21 build/tides_bootloader/switches.o
+                                0x4fb (size before relaxing)
+ .debug_str     0x00002409      0x501 build/tides_bootloader/system.o
+                                0x9bc (size before relaxing)
+ .debug_str     0x0000290a       0xb2 build/tides_bootloader/bootloader_utils.o
+                                0x32e (size before relaxing)
+ .debug_str     0x000029bc       0x63 build/tides_bootloader/system_clock.o
+                                0x3b1 (size before relaxing)
+ .debug_str     0x00002a1f      0x290 build/tides_bootloader/demodulator.o
+                               0x10fc (size before relaxing)
+ .debug_str     0x00002caf       0x69 build/tides_bootloader/packet_decoder.o
+                                0x764 (size before relaxing)
+ .debug_str     0x00002d18      0x250 build/tides_bootloader/core_cm3.o
+                                0x32d (size before relaxing)
+ .debug_str     0x00002f68      0x100 build/tides_bootloader/system_stm32f10x.o
+                                0x311 (size before relaxing)
+ .debug_str     0x00003068       0xdb build/tides_bootloader/misc.o
+                                0x42a (size before relaxing)
+ .debug_str     0x00003143      0x3e6 build/tides_bootloader/stm32f10x_adc.o
+                                0x779 (size before relaxing)
+ .debug_str     0x00003529       0xfd build/tides_bootloader/stm32f10x_dma.o
+                                0x3fd (size before relaxing)
+ .debug_str     0x00003626      0x318 build/tides_bootloader/stm32f10x_flash.o
+                                0x5de (size before relaxing)
+ .debug_str     0x0000393e      0x200 build/tides_bootloader/stm32f10x_gpio.o
+                                0x587 (size before relaxing)
+ .debug_str     0x00003b3e      0x38d build/tides_bootloader/stm32f10x_rcc.o
+                                0x681 (size before relaxing)
+ .debug_str     0x00003ecb      0x2b2 build/tides_bootloader/stm32f10x_spi.o
+                                0x6a4 (size before relaxing)
+ .debug_str     0x0000417d      0x8b4 build/tides_bootloader/stm32f10x_tim.o
+                                0xe72 (size before relaxing)
+
+.debug_frame    0x00000000     0x1758
+ .debug_frame   0x00000000      0x1d0 build/tides_bootloader/bootloader.o
+ .debug_frame   0x000001d0       0x50 build/tides_bootloader/adc.o
+ .debug_frame   0x00000220       0x30 build/tides_bootloader/dac.o
+ .debug_frame   0x00000250       0x4c build/tides_bootloader/leds.o
+ .debug_frame   0x0000029c       0x48 build/tides_bootloader/switches.o
+ .debug_frame   0x000002e4       0x48 build/tides_bootloader/system.o
+ .debug_frame   0x0000032c       0x40 build/tides_bootloader/bootloader_utils.o
+ .debug_frame   0x0000036c       0x30 build/tides_bootloader/system_clock.o
+ .debug_frame   0x0000039c       0xc0 build/tides_bootloader/demodulator.o
+ .debug_frame   0x0000045c       0x64 build/tides_bootloader/packet_decoder.o
+ .debug_frame   0x000004c0      0x170 build/tides_bootloader/core_cm3.o
+ .debug_frame   0x00000630       0x28 build/tides_bootloader/system_stm32f10x.o
+ .debug_frame   0x00000658       0x68 build/tides_bootloader/misc.o
+ .debug_frame   0x000006c0      0x280 build/tides_bootloader/stm32f10x_adc.o
+ .debug_frame   0x00000940       0xbc build/tides_bootloader/stm32f10x_dma.o
+ .debug_frame   0x000009fc      0x1f8 build/tides_bootloader/stm32f10x_flash.o
+ .debug_frame   0x00000bf4      0x15c build/tides_bootloader/stm32f10x_gpio.o
+ .debug_frame   0x00000d50      0x21c build/tides_bootloader/stm32f10x_rcc.o
+ .debug_frame   0x00000f6c      0x1ac build/tides_bootloader/stm32f10x_spi.o
+ .debug_frame   0x00001118      0x614 build/tides_bootloader/stm32f10x_tim.o
+ .debug_frame   0x0000172c       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)

@@ -1,0 +1,2714 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+                              build/elements_bootloader/bootloader.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                              build/elements_bootloader/bootloader.o (memcpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .group         0x00000000        0x8 build/elements_bootloader/bootloader.o
+ .text          0x00000000        0x0 build/elements_bootloader/bootloader.o
+ .data          0x00000000        0x0 build/elements_bootloader/bootloader.o
+ .bss           0x00000000        0x0 build/elements_bootloader/bootloader.o
+ .text._ZN8elements5CodecD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text._ZN8elements4LedsD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text._ZN8elements7PotsAdcD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text._ZN8elements6SwitchD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text._ZN8elements5MeterD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text._ZN20stm_audio_bootloader13PacketDecoderD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text._ZN20stm_audio_bootloader11DemodulatorD2Ev
+                0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .text.startup._GLOBAL__sub_I_codec
+                0x00000000       0x8c build/elements_bootloader/bootloader.o
+ .init_array    0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .bss.__errno   0x00000000        0x4 build/elements_bootloader/bootloader.o
+ .bss.pot_index
+                0x00000000        0x1 build/elements_bootloader/bootloader.o
+ .text          0x00000000        0x0 build/elements_bootloader/codec.o
+ .data          0x00000000        0x0 build/elements_bootloader/codec.o
+ .bss           0x00000000        0x0 build/elements_bootloader/codec.o
+ .text          0x00000000        0x0 build/elements_bootloader/cv_adc.o
+ .data          0x00000000        0x0 build/elements_bootloader/cv_adc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/cv_adc.o
+ .text._ZN8elements5CvAdc4InitEb
+                0x00000000      0x1d4 build/elements_bootloader/cv_adc.o
+ .text._ZN8elements5CvAdc6DeInitEv
+                0x00000000        0x4 build/elements_bootloader/cv_adc.o
+ .text._ZN8elements5CvAdc7ConvertEv
+                0x00000000        0xc build/elements_bootloader/cv_adc.o
+ .debug_info    0x00000000      0xd78 build/elements_bootloader/cv_adc.o
+ .debug_abbrev  0x00000000      0x2b6 build/elements_bootloader/cv_adc.o
+ .debug_loc     0x00000000       0x9c build/elements_bootloader/cv_adc.o
+ .debug_aranges
+                0x00000000       0x30 build/elements_bootloader/cv_adc.o
+ .debug_ranges  0x00000000       0x20 build/elements_bootloader/cv_adc.o
+ .debug_line    0x00000000      0x233 build/elements_bootloader/cv_adc.o
+ .debug_str     0x00000000      0xabe build/elements_bootloader/cv_adc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/cv_adc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/cv_adc.o
+ .debug_frame   0x00000000       0x5c build/elements_bootloader/cv_adc.o
+ .text          0x00000000        0x0 build/elements_bootloader/debug_port.o
+ .data          0x00000000        0x0 build/elements_bootloader/debug_port.o
+ .bss           0x00000000        0x0 build/elements_bootloader/debug_port.o
+ .text._ZN8elements9DebugPort4InitEv
+                0x00000000       0x88 build/elements_bootloader/debug_port.o
+ .debug_info    0x00000000      0x6ac build/elements_bootloader/debug_port.o
+ .debug_abbrev  0x00000000      0x225 build/elements_bootloader/debug_port.o
+ .debug_loc     0x00000000       0x21 build/elements_bootloader/debug_port.o
+ .debug_aranges
+                0x00000000       0x20 build/elements_bootloader/debug_port.o
+ .debug_ranges  0x00000000       0x28 build/elements_bootloader/debug_port.o
+ .debug_line    0x00000000      0x1b3 build/elements_bootloader/debug_port.o
+ .debug_str     0x00000000      0x6dc build/elements_bootloader/debug_port.o
+ .comment       0x00000000       0x71 build/elements_bootloader/debug_port.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/debug_port.o
+ .debug_frame   0x00000000       0x30 build/elements_bootloader/debug_port.o
+ .text          0x00000000        0x0 build/elements_bootloader/gate_input.o
+ .data          0x00000000        0x0 build/elements_bootloader/gate_input.o
+ .bss           0x00000000        0x0 build/elements_bootloader/gate_input.o
+ .text._ZN8elements9GateInput4InitEv
+                0x00000000       0x38 build/elements_bootloader/gate_input.o
+ .text._ZN8elements9GateInput4ReadEv
+                0x00000000       0x18 build/elements_bootloader/gate_input.o
+ .debug_info    0x00000000      0x8cf build/elements_bootloader/gate_input.o
+ .debug_abbrev  0x00000000      0x306 build/elements_bootloader/gate_input.o
+ .debug_loc     0x00000000       0x42 build/elements_bootloader/gate_input.o
+ .debug_aranges
+                0x00000000       0x28 build/elements_bootloader/gate_input.o
+ .debug_ranges  0x00000000       0x30 build/elements_bootloader/gate_input.o
+ .debug_line    0x00000000      0x440 build/elements_bootloader/gate_input.o
+ .debug_str     0x00000000      0x6d8 build/elements_bootloader/gate_input.o
+ .comment       0x00000000       0x71 build/elements_bootloader/gate_input.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/gate_input.o
+ .debug_frame   0x00000000       0x40 build/elements_bootloader/gate_input.o
+ .text          0x00000000        0x0 build/elements_bootloader/leds.o
+ .data          0x00000000        0x0 build/elements_bootloader/leds.o
+ .bss           0x00000000        0x0 build/elements_bootloader/leds.o
+ .text          0x00000000        0x0 build/elements_bootloader/pots_adc.o
+ .data          0x00000000        0x0 build/elements_bootloader/pots_adc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/pots_adc.o
+ .text          0x00000000        0x0 build/elements_bootloader/switch.o
+ .data          0x00000000        0x0 build/elements_bootloader/switch.o
+ .bss           0x00000000        0x0 build/elements_bootloader/switch.o
+ .text          0x00000000        0x0 build/elements_bootloader/system.o
+ .data          0x00000000        0x0 build/elements_bootloader/system.o
+ .bss           0x00000000        0x0 build/elements_bootloader/system.o
+ .text          0x00000000        0x0 build/elements_bootloader/demodulator.o
+ .data          0x00000000        0x0 build/elements_bootloader/demodulator.o
+ .bss           0x00000000        0x0 build/elements_bootloader/demodulator.o
+ .text          0x00000000        0x0 build/elements_bootloader/packet_decoder.o
+ .data          0x00000000        0x0 build/elements_bootloader/packet_decoder.o
+ .bss           0x00000000        0x0 build/elements_bootloader/packet_decoder.o
+ .text._Z5crc32mPKvj
+                0x00000000      0x168 build/elements_bootloader/packet_decoder.o
+ .text          0x00000000        0x0 build/elements_bootloader/atan.o
+ .data          0x00000000        0x0 build/elements_bootloader/atan.o
+ .bss           0x00000000        0x0 build/elements_bootloader/atan.o
+ .rodata._ZN6stmlib8atan_lutE
+                0x00000000      0x404 build/elements_bootloader/atan.o
+ .debug_info    0x00000000      0x54c build/elements_bootloader/atan.o
+ .debug_abbrev  0x00000000       0xbd build/elements_bootloader/atan.o
+ .debug_aranges
+                0x00000000       0x18 build/elements_bootloader/atan.o
+ .debug_line    0x00000000       0xc1 build/elements_bootloader/atan.o
+ .debug_str     0x00000000      0x297 build/elements_bootloader/atan.o
+ .comment       0x00000000       0x71 build/elements_bootloader/atan.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/atan.o
+ .text          0x00000000        0x0 build/elements_bootloader/units.o
+ .data          0x00000000        0x0 build/elements_bootloader/units.o
+ .bss           0x00000000        0x0 build/elements_bootloader/units.o
+ .rodata._ZN6stmlib20lut_pitch_ratio_highE
+                0x00000000      0x404 build/elements_bootloader/units.o
+ .rodata._ZN6stmlib19lut_pitch_ratio_lowE
+                0x00000000      0x404 build/elements_bootloader/units.o
+ .debug_info    0x00000000      0x973 build/elements_bootloader/units.o
+ .debug_abbrev  0x00000000       0xbd build/elements_bootloader/units.o
+ .debug_aranges
+                0x00000000       0x18 build/elements_bootloader/units.o
+ .debug_line    0x00000000       0xc2 build/elements_bootloader/units.o
+ .debug_str     0x00000000      0x2e6 build/elements_bootloader/units.o
+ .comment       0x00000000       0x71 build/elements_bootloader/units.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/units.o
+ .text          0x00000000        0x0 build/elements_bootloader/random.o
+ .data          0x00000000        0x0 build/elements_bootloader/random.o
+ .bss           0x00000000        0x0 build/elements_bootloader/random.o
+ .data._ZN6stmlib6Random10rng_state_E
+                0x00000000        0x4 build/elements_bootloader/random.o
+ .debug_info    0x00000000      0x16e build/elements_bootloader/random.o
+ .debug_abbrev  0x00000000       0xf5 build/elements_bootloader/random.o
+ .debug_aranges
+                0x00000000       0x18 build/elements_bootloader/random.o
+ .debug_line    0x00000000       0xba build/elements_bootloader/random.o
+ .debug_str     0x00000000      0x32f build/elements_bootloader/random.o
+ .comment       0x00000000       0x71 build/elements_bootloader/random.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/random.o
+ .text          0x00000000        0x0 build/elements_bootloader/bootloader_utils.o
+ .data          0x00000000        0x0 build/elements_bootloader/bootloader_utils.o
+ .bss           0x00000000        0x0 build/elements_bootloader/bootloader_utils.o
+ .group         0x00000000        0x8 build/elements_bootloader/system_clock.o
+ .text          0x00000000        0x0 build/elements_bootloader/system_clock.o
+ .data          0x00000000        0x0 build/elements_bootloader/system_clock.o
+ .bss           0x00000000        0x0 build/elements_bootloader/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/elements_bootloader/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/elements_bootloader/system_clock.o
+ .init_array    0x00000000        0x4 build/elements_bootloader/system_clock.o
+ .text          0x00000000        0x0 build/elements_bootloader/core_cm3.o
+ .data          0x00000000        0x0 build/elements_bootloader/core_cm3.o
+ .bss           0x00000000        0x0 build/elements_bootloader/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/elements_bootloader/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/elements_bootloader/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/elements_bootloader/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/elements_bootloader/core_cm3.o
+ .debug_info    0x00000000      0x509 build/elements_bootloader/core_cm3.o
+ .debug_abbrev  0x00000000       0xbb build/elements_bootloader/core_cm3.o
+ .debug_loc     0x00000000      0x33a build/elements_bootloader/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 build/elements_bootloader/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 build/elements_bootloader/core_cm3.o
+ .debug_line    0x00000000      0x234 build/elements_bootloader/core_cm3.o
+ .debug_str     0x00000000      0x35f build/elements_bootloader/core_cm3.o
+ .comment       0x00000000       0x71 build/elements_bootloader/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/core_cm3.o
+ .debug_frame   0x00000000      0x170 build/elements_bootloader/core_cm3.o
+ .text          0x00000000        0x0 build/elements_bootloader/system_stm32f4xx.o
+ .data          0x00000000        0x0 build/elements_bootloader/system_stm32f4xx.o
+ .bss           0x00000000        0x0 build/elements_bootloader/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x70 build/elements_bootloader/system_stm32f4xx.o
+ .data.AHBPrescTable
+                0x00000000       0x10 build/elements_bootloader/system_stm32f4xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 build/elements_bootloader/system_stm32f4xx.o
+ .text          0x00000000        0x0 build/elements_bootloader/misc.o
+ .data          0x00000000        0x0 build/elements_bootloader/misc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 build/elements_bootloader/misc.o
+ .text.NVIC_Init
+                0x00000000       0x80 build/elements_bootloader/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x1c build/elements_bootloader/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/elements_bootloader/misc.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_adc.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_adc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_CommonStructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_VBATCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_ContinuousModeCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetMultiModeConversionValue
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_DMACmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x68 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_SoftwareStartInjectedConv
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_adc.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_can.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_can.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_Init
+                0x00000000      0x1a0 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_FilterInit
+                0x00000000      0x110 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_TTComModeCmd
+                0x00000000       0x5c build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_Transmit
+                0x00000000       0xe0 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x54 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_Receive
+                0x00000000       0xa8 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_FIFORelease
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_OperatingModeRequest
+                0x00000000      0x228 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x80 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_GetLastErrorCode
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_GetReceiveErrorCounter
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000       0x58 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_ClearFlag
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xe4 build/elements_bootloader/stm32f4xx_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0x8c build/elements_bootloader/stm32f4xx_can.o
+ .debug_info    0x00000000      0xca1 build/elements_bootloader/stm32f4xx_can.o
+ .debug_abbrev  0x00000000      0x29d build/elements_bootloader/stm32f4xx_can.o
+ .debug_loc     0x00000000      0xc7d build/elements_bootloader/stm32f4xx_can.o
+ .debug_aranges
+                0x00000000       0xd8 build/elements_bootloader/stm32f4xx_can.o
+ .debug_ranges  0x00000000      0x150 build/elements_bootloader/stm32f4xx_can.o
+ .debug_line    0x00000000      0x58b build/elements_bootloader/stm32f4xx_can.o
+ .debug_str     0x00000000      0x7f3 build/elements_bootloader/stm32f4xx_can.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_can.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_can.o
+ .debug_frame   0x00000000      0x1d0 build/elements_bootloader/stm32f4xx_can.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_crc.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_crc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0xb0 build/elements_bootloader/stm32f4xx_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_crc.o
+ .debug_info    0x00000000      0x1e3 build/elements_bootloader/stm32f4xx_crc.o
+ .debug_abbrev  0x00000000      0x125 build/elements_bootloader/stm32f4xx_crc.o
+ .debug_loc     0x00000000       0x82 build/elements_bootloader/stm32f4xx_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/elements_bootloader/stm32f4xx_crc.o
+ .debug_ranges  0x00000000       0x38 build/elements_bootloader/stm32f4xx_crc.o
+ .debug_line    0x00000000      0x17d build/elements_bootloader/stm32f4xx_crc.o
+ .debug_str     0x00000000      0x2e9 build/elements_bootloader/stm32f4xx_crc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_crc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_crc.o
+ .debug_frame   0x00000000       0x78 build/elements_bootloader/stm32f4xx_crc.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_ECB
+                0x00000000      0x1fc build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_CBC
+                0x00000000      0x224 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_CTR
+                0x00000000      0x1ac build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_info    0x00000000     0x15ba build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_abbrev  0x00000000      0x267 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_loc     0x00000000     0x1cde build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_aranges
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_ranges  0x00000000       0x20 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_line    0x00000000      0x5bf build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_str     0x00000000      0x51a build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .debug_frame   0x00000000       0x7c build/elements_bootloader/stm32f4xx_cryp_aes.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_DeInit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_Init
+                0x00000000       0x60 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_StructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_KeyInit
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_KeyStructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_IVInit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_IVStructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_FIFOFlush
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_Cmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_DataIn
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_DataOut
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_SaveContext
+                0x00000000       0xbc build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_RestoreContext
+                0x00000000       0x44 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_DMACmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_GetITStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_cryp.o
+ .text.CRYP_GetFlagStatus
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_info    0x00000000      0x742 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_abbrev  0x00000000      0x1d7 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_loc     0x00000000      0x2e6 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_aranges
+                0x00000000       0xa0 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_ranges  0x00000000       0x90 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_line    0x00000000      0x323 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_str     0x00000000      0x672 build/elements_bootloader/stm32f4xx_cryp.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_cryp.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_cryp.o
+ .debug_frame   0x00000000      0x148 build/elements_bootloader/stm32f4xx_cryp.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .text.CRYP_DES_ECB
+                0x00000000       0xd0 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .text.CRYP_DES_CBC
+                0x00000000       0xe8 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_info    0x00000000      0x761 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_abbrev  0x00000000      0x1ef build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_loc     0x00000000      0x632 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_aranges
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_ranges  0x00000000       0x18 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_line    0x00000000      0x25d build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_str     0x00000000      0x505 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_cryp_des.o
+ .debug_frame   0x00000000       0x5c build/elements_bootloader/stm32f4xx_cryp_des.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .text.CRYP_TDES_ECB
+                0x00000000       0xe8 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .text.CRYP_TDES_CBC
+                0x00000000      0x104 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_info    0x00000000      0x8df build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_abbrev  0x00000000      0x1ef build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_loc     0x00000000      0x877 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_aranges
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_ranges  0x00000000       0x18 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_line    0x00000000      0x2be build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_str     0x00000000      0x50b build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .debug_frame   0x00000000       0x5c build/elements_bootloader/stm32f4xx_cryp_tdes.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dac.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dac.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_Init
+                0x00000000       0x38 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_Cmd  0x00000000       0x2c build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_ITConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_ClearFlag
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_GetITStatus
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dac.o
+ .text.DAC_ClearITPendingBit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dac.o
+ .debug_info    0x00000000      0x676 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_abbrev  0x00000000      0x1d2 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_loc     0x00000000      0x586 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_aranges
+                0x00000000       0xa0 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_ranges  0x00000000       0x90 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_line    0x00000000      0x2e6 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_str     0x00000000      0x508 build/elements_bootloader/stm32f4xx_dac.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_dac.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_dac.o
+ .debug_frame   0x00000000      0x140 build/elements_bootloader/stm32f4xx_dac.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_APB1PeriphConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_APB2PeriphConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_info    0x00000000      0x1d0 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_abbrev  0x00000000       0xe0 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_loc     0x00000000       0xe7 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x40 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_ranges  0x00000000       0x30 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_line    0x00000000      0x15e build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_str     0x00000000      0x2f3 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .debug_frame   0x00000000       0x60 build/elements_bootloader/stm32f4xx_dbgmcu.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dcmi.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dcmi.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_Init
+                0x00000000       0x50 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_StructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_CROPConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_CROPCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_SetEmbeddedSynchroCodes
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_JPEGCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_Cmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_CaptureCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_ReadData
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_ITConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_GetFlagStatus
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_ClearFlag
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_GetITStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_dcmi.o
+ .text.DCMI_ClearITPendingBit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_info    0x00000000      0x532 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_abbrev  0x00000000      0x1a7 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_loc     0x00000000      0x313 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_aranges
+                0x00000000       0x90 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_ranges  0x00000000       0x80 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_line    0x00000000      0x2b9 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_str     0x00000000      0x577 build/elements_bootloader/stm32f4xx_dcmi.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_dcmi.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_dcmi.o
+ .debug_frame   0x00000000      0x11c build/elements_bootloader/stm32f4xx_dcmi.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dma.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_dma.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_MemoryTargetConfig
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_GetCurrentMemoryTarget
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_GetCmdStatus
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_GetFIFOStatus
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x54 build/elements_bootloader/stm32f4xx_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_dma.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_exti.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_exti.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_Init
+                0x00000000       0x88 build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_exti.o
+ .debug_info    0x00000000      0x33a build/elements_bootloader/stm32f4xx_exti.o
+ .debug_abbrev  0x00000000      0x1c5 build/elements_bootloader/stm32f4xx_exti.o
+ .debug_loc     0x00000000      0x21a build/elements_bootloader/stm32f4xx_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/elements_bootloader/stm32f4xx_exti.o
+ .debug_ranges  0x00000000       0x48 build/elements_bootloader/stm32f4xx_exti.o
+ .debug_line    0x00000000      0x219 build/elements_bootloader/stm32f4xx_exti.o
+ .debug_str     0x00000000      0x40c build/elements_bootloader/stm32f4xx_exti.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_exti.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_exti.o
+ .debug_frame   0x00000000       0x9c build/elements_bootloader/stm32f4xx_exti.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_flash.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_flash.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_SetLatency
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_DataCacheCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheReset
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_DataCacheReset
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_Unlock
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_Lock
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_BORConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_EraseAllSectors
+                0x00000000       0x5c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_ProgramDoubleWord
+                0x00000000       0x44 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x00000000       0x40 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_ProgramByte
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_RDPConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_flash.o
+ .text.FLASH_OB_Launch
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_flash.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_fsmc.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_fsmc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xe8 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x50 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x80 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_info    0x00000000      0x8f3 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_abbrev  0x00000000      0x190 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_loc     0x00000000      0x5e8 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_line    0x00000000      0x414 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_str     0x00000000      0x832 build/elements_bootloader/stm32f4xx_fsmc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_fsmc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_fsmc.o
+ .debug_frame   0x00000000      0x198 build/elements_bootloader/stm32f4xx_fsmc.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_gpio.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000      0x118 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_gpio.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_DeInit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_Init
+                0x00000000       0x48 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_StructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_Reset
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_SetLastWordValidBitsNbr
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_DataIn
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_GetInFIFOWordsNbr
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_GetDigest
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_StartDigest
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_SaveContext
+                0x00000000       0x94 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_RestoreContext
+                0x00000000       0x98 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_DMACmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_GetFlagStatus
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_ClearFlag
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_GetITStatus
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_hash.o
+ .text.HASH_ClearITPendingBit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_info    0x00000000      0x56a build/elements_bootloader/stm32f4xx_hash.o
+ .debug_abbrev  0x00000000      0x210 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_loc     0x00000000      0x2c3 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_aranges
+                0x00000000       0xa0 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_ranges  0x00000000       0x90 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_line    0x00000000      0x2d5 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_str     0x00000000      0x4e7 build/elements_bootloader/stm32f4xx_hash.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_hash.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_hash.o
+ .debug_frame   0x00000000      0x140 build/elements_bootloader/stm32f4xx_hash.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .text.HASH_MD5
+                0x00000000      0x15c build/elements_bootloader/stm32f4xx_hash_md5.o
+ .text.HMAC_MD5
+                0x00000000      0x3ac build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_info    0x00000000      0x8a8 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_abbrev  0x00000000      0x213 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_loc     0x00000000      0x99a build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_aranges
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_ranges  0x00000000       0x30 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_line    0x00000000      0x424 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_str     0x00000000      0x40d build/elements_bootloader/stm32f4xx_hash_md5.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .debug_frame   0x00000000       0x58 build/elements_bootloader/stm32f4xx_hash_md5.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .text.HASH_SHA1
+                0x00000000      0x160 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .text.HMAC_SHA1
+                0x00000000      0x3ac build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_info    0x00000000      0x8fc build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_abbrev  0x00000000      0x21c build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_loc     0x00000000      0x9f2 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_aranges
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_ranges  0x00000000       0x30 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_line    0x00000000      0x43a build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_str     0x00000000      0x412 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .debug_frame   0x00000000       0x58 build/elements_bootloader/stm32f4xx_hash_sha1.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_i2c.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_i2c.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_i2c.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_iwdg.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_iwdg.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_info    0x00000000      0x1e1 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_abbrev  0x00000000      0x112 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_loc     0x00000000       0x62 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_line    0x00000000      0x166 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_str     0x00000000      0x30a build/elements_bootloader/stm32f4xx_iwdg.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_iwdg.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_iwdg.o
+ .debug_frame   0x00000000       0x70 build/elements_bootloader/stm32f4xx_iwdg.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_pwr.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_BackupRegulatorCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_MainRegulatorModeConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_FlashPowerDownCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_info    0x00000000      0x520 build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_abbrev  0x00000000      0x1c6 build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_loc     0x00000000      0x19b build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_aranges
+                0x00000000       0x78 build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_ranges  0x00000000       0x68 build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_line    0x00000000      0x25e build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_str     0x00000000      0x446 build/elements_bootloader/stm32f4xx_pwr.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_pwr.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_pwr.o
+ .debug_frame   0x00000000       0xe0 build/elements_bootloader/stm32f4xx_pwr.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_rcc.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rcc.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_rng.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_rng.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_DeInit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_Cmd  0x00000000       0x1c build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_GetRandomNumber
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_ClearFlag
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_GetITStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rng.o
+ .text.RNG_ClearITPendingBit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rng.o
+ .debug_info    0x00000000      0x2b0 build/elements_bootloader/stm32f4xx_rng.o
+ .debug_abbrev  0x00000000      0x16d build/elements_bootloader/stm32f4xx_rng.o
+ .debug_loc     0x00000000      0x15a build/elements_bootloader/stm32f4xx_rng.o
+ .debug_aranges
+                0x00000000       0x58 build/elements_bootloader/stm32f4xx_rng.o
+ .debug_ranges  0x00000000       0x48 build/elements_bootloader/stm32f4xx_rng.o
+ .debug_line    0x00000000      0x1dd build/elements_bootloader/stm32f4xx_rng.o
+ .debug_str     0x00000000      0x339 build/elements_bootloader/stm32f4xx_rng.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_rng.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_rng.o
+ .debug_frame   0x00000000       0x98 build/elements_bootloader/stm32f4xx_rng.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_rtc.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_rtc.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_StructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_WriteProtectionCmd
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_EnterInitMode
+                0x00000000       0x44 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_Init
+                0x00000000       0x4c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_ExitInitMode
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x48 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_DeInit
+                0x00000000       0x8c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_RefClockCmd
+                0x00000000       0x40 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_BypassShadowCmd
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_SetTime
+                0x00000000      0x3ac build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TimeStructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetTime
+                0x00000000       0x5c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetSubSecond
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_SetDate
+                0x00000000      0x3a4 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_DateStructInit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetDate
+                0x00000000       0x5c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000      0x4e4 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_AlarmStructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetAlarm
+                0x00000000       0x94 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_AlarmCmd
+                0x00000000       0x5c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_AlarmSubSecondConfig
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetAlarmSubSecond
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_WakeUpClockConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_SetWakeUpCounter
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetWakeUpCounter
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_WakeUpCmd
+                0x00000000       0x5c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_DayLightSavingConfig
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetStoreOperation
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_OutputConfig
+                0x00000000       0x2c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_CoarseCalibConfig
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_CoarseCalibCmd
+                0x00000000       0x40 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_CalibOutputCmd
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_CalibOutputConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_SmoothCalibConfig
+                0x00000000       0x74 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TimeStampCmd
+                0x00000000       0x38 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetTimeStamp
+                0x00000000       0xcc build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetTimeStampSubSecond
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperTriggerConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperFilterConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperSamplingFreqConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperPinsPrechargeDuration
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TimeStampOnTamperDetectionCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperPullUpCmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_WriteBackupRegister
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_ReadBackupRegister
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TamperPinSelection
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_TimeStampPinSelection
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_OutputTypeConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_SynchroShiftConfig
+                0x00000000       0x94 build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x4c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_info    0x00000000     0x1643 build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_abbrev  0x00000000      0x25b build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_loc     0x00000000     0x1c0f build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_aranges
+                0x00000000      0x1d0 build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_ranges  0x00000000      0x520 build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_line    0x00000000      0xc07 build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_str     0x00000000      0xbf1 build/elements_bootloader/stm32f4xx_rtc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_rtc.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_rtc.o
+ .debug_frame   0x00000000      0x488 build/elements_bootloader/stm32f4xx_rtc.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_sdio.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_sdio.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_info    0x00000000      0x81e build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_abbrev  0x00000000      0x1af build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_loc     0x00000000      0x235 build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_line    0x00000000      0x3d0 build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_str     0x00000000      0x700 build/elements_bootloader/stm32f4xx_sdio.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_sdio.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_sdio.o
+ .debug_frame   0x00000000      0x218 build/elements_bootloader/stm32f4xx_sdio.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_spi.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_spi.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_Init
+                0x00000000       0x58 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_Cmd  0x00000000       0x20 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_TIModeCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x24 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_spi.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_syscfg.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_syscfg.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_syscfg.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_syscfg.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_syscfg.o
+ .text.SYSCFG_EXTILineConfig
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_syscfg.o
+ .text.SYSCFG_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_syscfg.o
+ .text.SYSCFG_CompensationCellCmd
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_syscfg.o
+ .text.SYSCFG_GetCompensationCellStatus
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_info    0x00000000      0x298 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_abbrev  0x00000000      0x169 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_loc     0x00000000       0x97 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_aranges
+                0x00000000       0x48 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_ranges  0x00000000       0x38 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_line    0x00000000      0x1bd build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_str     0x00000000      0x3b4 build/elements_bootloader/stm32f4xx_syscfg.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_syscfg.o
+ .debug_frame   0x00000000       0x80 build/elements_bootloader/stm32f4xx_syscfg.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_tim.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_tim.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x1b8 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x90 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x6c build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x190 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x154 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x34 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0xa0 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x30 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x44 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_tim.o
+ .text.TIM_RemapConfig
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_tim.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_usart.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_usart.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000       0xc8 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_Init
+                0x00000000       0xd8 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_Cmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x20 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x18 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x54 build/elements_bootloader/stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_usart.o
+ .debug_info    0x00000000      0xb2f build/elements_bootloader/stm32f4xx_usart.o
+ .debug_abbrev  0x00000000      0x1ed build/elements_bootloader/stm32f4xx_usart.o
+ .debug_loc     0x00000000      0x9b4 build/elements_bootloader/stm32f4xx_usart.o
+ .debug_aranges
+                0x00000000      0x100 build/elements_bootloader/stm32f4xx_usart.o
+ .debug_ranges  0x00000000       0xf0 build/elements_bootloader/stm32f4xx_usart.o
+ .debug_line    0x00000000      0x467 build/elements_bootloader/stm32f4xx_usart.o
+ .debug_str     0x00000000      0x76d build/elements_bootloader/stm32f4xx_usart.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_usart.o
+ .debug_frame   0x00000000      0x210 build/elements_bootloader/stm32f4xx_usart.o
+ .text          0x00000000        0x0 build/elements_bootloader/stm32f4xx_wwdg.o
+ .data          0x00000000        0x0 build/elements_bootloader/stm32f4xx_wwdg.o
+ .bss           0x00000000        0x0 build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000       0x10 build/elements_bootloader/stm32f4xx_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_info    0x00000000      0x281 build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_abbrev  0x00000000      0x178 build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_loc     0x00000000       0xd1 build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_line    0x00000000      0x1dd build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_str     0x00000000      0x347 build/elements_bootloader/stm32f4xx_wwdg.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_wwdg.o
+ .ARM.attributes
+                0x00000000       0x39 build/elements_bootloader/stm32f4xx_wwdg.o
+ .debug_frame   0x00000000       0x9c build/elements_bootloader/stm32f4xx_wwdg.o
+ .text          0x00000000       0x14 build/elements_bootloader/startup_stm32f4xx.o
+ .data          0x00000000        0x0 build/elements_bootloader/startup_stm32f4xx.o
+ .bss           0x00000000        0x0 build/elements_bootloader/startup_stm32f4xx.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD build/elements_bootloader/bootloader.o
+LOAD build/elements_bootloader/codec.o
+LOAD build/elements_bootloader/cv_adc.o
+LOAD build/elements_bootloader/debug_port.o
+LOAD build/elements_bootloader/gate_input.o
+LOAD build/elements_bootloader/leds.o
+LOAD build/elements_bootloader/pots_adc.o
+LOAD build/elements_bootloader/switch.o
+LOAD build/elements_bootloader/system.o
+LOAD build/elements_bootloader/demodulator.o
+LOAD build/elements_bootloader/packet_decoder.o
+LOAD build/elements_bootloader/atan.o
+LOAD build/elements_bootloader/units.o
+LOAD build/elements_bootloader/random.o
+LOAD build/elements_bootloader/bootloader_utils.o
+LOAD build/elements_bootloader/system_clock.o
+LOAD build/elements_bootloader/core_cm3.o
+LOAD build/elements_bootloader/system_stm32f4xx.o
+LOAD build/elements_bootloader/misc.o
+LOAD build/elements_bootloader/stm32f4xx_adc.o
+LOAD build/elements_bootloader/stm32f4xx_can.o
+LOAD build/elements_bootloader/stm32f4xx_crc.o
+LOAD build/elements_bootloader/stm32f4xx_cryp_aes.o
+LOAD build/elements_bootloader/stm32f4xx_cryp.o
+LOAD build/elements_bootloader/stm32f4xx_cryp_des.o
+LOAD build/elements_bootloader/stm32f4xx_cryp_tdes.o
+LOAD build/elements_bootloader/stm32f4xx_dac.o
+LOAD build/elements_bootloader/stm32f4xx_dbgmcu.o
+LOAD build/elements_bootloader/stm32f4xx_dcmi.o
+LOAD build/elements_bootloader/stm32f4xx_dma.o
+LOAD build/elements_bootloader/stm32f4xx_exti.o
+LOAD build/elements_bootloader/stm32f4xx_flash.o
+LOAD build/elements_bootloader/stm32f4xx_fsmc.o
+LOAD build/elements_bootloader/stm32f4xx_gpio.o
+LOAD build/elements_bootloader/stm32f4xx_hash.o
+LOAD build/elements_bootloader/stm32f4xx_hash_md5.o
+LOAD build/elements_bootloader/stm32f4xx_hash_sha1.o
+LOAD build/elements_bootloader/stm32f4xx_i2c.o
+LOAD build/elements_bootloader/stm32f4xx_iwdg.o
+LOAD build/elements_bootloader/stm32f4xx_pwr.o
+LOAD build/elements_bootloader/stm32f4xx_rcc.o
+LOAD build/elements_bootloader/stm32f4xx_rng.o
+LOAD build/elements_bootloader/stm32f4xx_rtc.o
+LOAD build/elements_bootloader/stm32f4xx_sdio.o
+LOAD build/elements_bootloader/stm32f4xx_spi.o
+LOAD build/elements_bootloader/stm32f4xx_syscfg.o
+LOAD build/elements_bootloader/stm32f4xx_tim.o
+LOAD build/elements_bootloader/stm32f4xx_usart.o
+LOAD build/elements_bootloader/stm32f4xx_wwdg.o
+LOAD build/elements_bootloader/startup_stm32f4xx.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+                0x20020000                _estack = 0x20020000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x190
+                0x08000000                . = ALIGN (0x10)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 build/elements_bootloader/startup_stm32f4xx.o
+                0x08000000                g_pfnVectors
+                0x08000190                . = ALIGN (0x10)
+ *fill*         0x08000188        0x8 
+
+.flashtext      0x08000190        0x0
+                0x08000190                . = ALIGN (0x10)
+ *(.flashtext)
+                0x08000190                . = ALIGN (0x10)
+
+.text           0x08000190     0x3720
+                0x08000190                . = ALIGN (0x10)
+ *(.text)
+ .text          0x08000190      0x134 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                0x08000190                memcpy
+ *(.text.*)
+ .text._Z10FillBufferPN8elements5Codec5FrameES2_j
+                0x080002c4      0x4f0 build/elements_bootloader/bootloader.o
+                0x080002c4                FillBuffer(elements::Codec::Frame*, elements::Codec::Frame*, unsigned int)
+ .text.NMI_Handler
+                0x080007b4        0x4 build/elements_bootloader/bootloader.o
+                0x080007b4                NMI_Handler
+ .text.HardFault_Handler
+                0x080007b8        0x4 build/elements_bootloader/bootloader.o
+                0x080007b8                HardFault_Handler
+ .text.MemManage_Handler
+                0x080007bc        0x4 build/elements_bootloader/bootloader.o
+                0x080007bc                MemManage_Handler
+ .text.BusFault_Handler
+                0x080007c0        0x4 build/elements_bootloader/bootloader.o
+                0x080007c0                BusFault_Handler
+ .text.UsageFault_Handler
+                0x080007c4        0x4 build/elements_bootloader/bootloader.o
+                0x080007c4                UsageFault_Handler
+ .text.SVC_Handler
+                0x080007c8        0x4 build/elements_bootloader/bootloader.o
+                0x080007c8                SVC_Handler
+ .text.DebugMon_Handler
+                0x080007cc        0x4 build/elements_bootloader/bootloader.o
+                0x080007cc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080007d0        0x4 build/elements_bootloader/bootloader.o
+                0x080007d0                PendSV_Handler
+ .text.UpdateLeds
+                0x080007d4       0xa4 build/elements_bootloader/bootloader.o
+                0x080007d4                UpdateLeds
+ .text.SysTick_Handler
+                0x08000878       0x5c build/elements_bootloader/bootloader.o
+                0x08000878                SysTick_Handler
+ .text._Z11ProgramPagePKhj
+                0x080008d4      0x2b0 build/elements_bootloader/bootloader.o
+                0x080008d4                ProgramPage(unsigned char const*, unsigned int)
+ .text._Z4Initv
+                0x08000b84       0x68 build/elements_bootloader/bootloader.o
+                0x08000b84                Init()
+ .text._Z19InitializeReceptionv
+                0x08000bec       0x74 build/elements_bootloader/bootloader.o
+                0x08000bec                InitializeReception()
+ .text.startup.main
+                0x08000c60      0x1e4 build/elements_bootloader/bootloader.o
+                0x08000c60                main
+ .text._ZN8elements5Codec14InitializeGPIOEv
+                0x08000e44       0xb8 build/elements_bootloader/codec.o
+                0x08000e44                elements::Codec::InitializeGPIO()
+ .text._ZN8elements5Codec26InitializeControlInterfaceEv
+                0x08000efc       0x60 build/elements_bootloader/codec.o
+                0x08000efc                elements::Codec::InitializeControlInterface()
+ .text._ZN8elements5Codec24InitializeAudioInterfaceEmNS_13CodecProtocolENS_11CodecFormatE
+                0x08000f5c      0x10c build/elements_bootloader/codec.o
+                0x08000f5c                elements::Codec::InitializeAudioInterface(unsigned long, elements::CodecProtocol, elements::CodecFormat)
+ .text._ZN8elements5Codec20WriteControlRegisterEht
+                0x08001068      0x2c8 build/elements_bootloader/codec.o
+                0x08001068                elements::Codec::WriteControlRegister(unsigned char, unsigned short)
+ .text._ZN8elements5Codec15InitializeCodecEmNS_13CodecProtocolENS_11CodecFormatE
+                0x08001330       0xd0 build/elements_bootloader/codec.o
+                0x08001330                elements::Codec::InitializeCodec(unsigned long, elements::CodecProtocol, elements::CodecFormat)
+ .text._ZN8elements5Codec13InitializeDMAEv
+                0x08001400      0x110 build/elements_bootloader/codec.o
+                0x08001400                elements::Codec::InitializeDMA()
+ .text._ZN8elements5Codec4InitEmNS_13CodecProtocolENS_11CodecFormatE
+                0x08001510       0x58 build/elements_bootloader/codec.o
+                0x08001510                elements::Codec::Init(unsigned long, elements::CodecProtocol, elements::CodecFormat)
+ .text._ZN8elements5Codec5StartEPFvPNS0_5FrameES2_jE
+                0x08001568       0x90 build/elements_bootloader/codec.o
+                0x08001568                elements::Codec::Start(void (*)(elements::Codec::Frame*, elements::Codec::Frame*, unsigned int))
+ .text._ZN8elements5Codec4StopEv
+                0x080015f8       0x20 build/elements_bootloader/codec.o
+                0x080015f8                elements::Codec::Stop()
+ .text._ZN8elements5Codec4FillEj
+                0x08001618       0x38 build/elements_bootloader/codec.o
+                0x08001618                elements::Codec::Fill(unsigned int)
+ .text.DMA1_Stream3_IRQHandler
+                0x08001650       0x48 build/elements_bootloader/codec.o
+                0x08001650                DMA1_Stream3_IRQHandler
+ .text._ZN8elements4Leds4InitEv
+                0x08001698      0x10c build/elements_bootloader/leds.o
+                0x08001698                elements::Leds::Init()
+ .text._ZN8elements4Leds5WriteEv
+                0x080017a4       0x24 build/elements_bootloader/leds.o
+                0x080017a4                elements::Leds::Write()
+ .text._ZN8elements7PotsAdc6DeInitEv
+                0x080017c8        0x4 build/elements_bootloader/pots_adc.o
+                0x080017c8                elements::PotsAdc::DeInit()
+ .text._ZN8elements7PotsAdc4ScanEv
+                0x080017cc       0xa0 build/elements_bootloader/pots_adc.o
+                0x080017cc                elements::PotsAdc::Scan()
+ .text._ZN8elements7PotsAdc4InitEv
+                0x0800186c       0xf4 build/elements_bootloader/pots_adc.o
+                0x0800186c                elements::PotsAdc::Init()
+ .text._ZN8elements6Switch4InitEv
+                0x08001960       0x3c build/elements_bootloader/switch.o
+                0x08001960                elements::Switch::Init()
+ .text._ZN8elements6Switch8DebounceEv
+                0x0800199c       0x1c build/elements_bootloader/switch.o
+                0x0800199c                elements::Switch::Debounce()
+ .text._ZN8elements6System4InitEb
+                0x080019b8       0x10 build/elements_bootloader/system.o
+                0x080019b8                elements::System::Init(bool)
+ .text._ZN8elements6System11StartTimersEv
+                0x080019c8       0x2c build/elements_bootloader/system.o
+                0x080019c8                elements::System::StartTimers()
+ .text._ZN20stm_audio_bootloader11Demodulator5ResetEv
+                0x080019f4       0x4c build/elements_bootloader/demodulator.o
+                0x080019f4                stm_audio_bootloader::Demodulator::Reset()
+ .text._ZN20stm_audio_bootloader11Demodulator4InitEmtt
+                0x08001a40       0x68 build/elements_bootloader/demodulator.o
+                0x08001a40                stm_audio_bootloader::Demodulator::Init(unsigned long, unsigned short, unsigned short)
+ .text._ZN20stm_audio_bootloader11Demodulator12DecideSymbolEb
+                0x08001aa8      0x128 build/elements_bootloader/demodulator.o
+                0x08001aa8                stm_audio_bootloader::Demodulator::DecideSymbol(bool)
+ .text._ZN20stm_audio_bootloader11Demodulator19EstimateDcComponentEv
+                0x08001bd0       0x5c build/elements_bootloader/demodulator.o
+                0x08001bd0                stm_audio_bootloader::Demodulator::EstimateDcComponent()
+ .text._ZN20stm_audio_bootloader11Demodulator13EstimatePowerEv
+                0x08001c2c       0x68 build/elements_bootloader/demodulator.o
+                0x08001c2c                stm_audio_bootloader::Demodulator::EstimatePower()
+ .text._ZN20stm_audio_bootloader11Demodulator10DemodulateEv
+                0x08001c94      0x368 build/elements_bootloader/demodulator.o
+                0x08001c94                stm_audio_bootloader::Demodulator::Demodulate()
+ .text._ZN20stm_audio_bootloader13PacketDecoder4InitEt
+                0x08001ffc       0x18 build/elements_bootloader/packet_decoder.o
+                0x08001ffc                stm_audio_bootloader::PacketDecoder::Init(unsigned short)
+ .text._ZN20stm_audio_bootloader13PacketDecoder15ParseSyncHeaderEh
+                0x08002014       0xa8 build/elements_bootloader/packet_decoder.o
+                0x08002014                stm_audio_bootloader::PacketDecoder::ParseSyncHeader(unsigned char)
+ .text._ZN20stm_audio_bootloader13PacketDecoder13ProcessSymbolEh
+                0x080020bc      0x144 build/elements_bootloader/packet_decoder.o
+                0x080020bc                stm_audio_bootloader::PacketDecoder::ProcessSymbol(unsigned char)
+ .text._ZN6stmlib12UninitializeEv
+                0x08002200       0x70 build/elements_bootloader/bootloader_utils.o
+                0x08002200                stmlib::Uninitialize()
+ .text._ZN6stmlib6JumpToEm
+                0x08002270       0x10 build/elements_bootloader/bootloader_utils.o
+                0x08002270                stmlib::JumpTo(unsigned long)
+ .text.SystemInit
+                0x08002280      0x100 build/elements_bootloader/system_stm32f4xx.o
+                0x08002280                SystemInit
+ .text.NVIC_SetVectorTable
+                0x08002380       0x14 build/elements_bootloader/misc.o
+                0x08002380                NVIC_SetVectorTable
+ .text.ADC_DeInit
+                0x08002394       0x1c build/elements_bootloader/stm32f4xx_adc.o
+                0x08002394                ADC_DeInit
+ .text.ADC_Init
+                0x080023b0       0x5c build/elements_bootloader/stm32f4xx_adc.o
+                0x080023b0                ADC_Init
+ .text.ADC_CommonInit
+                0x0800240c       0x30 build/elements_bootloader/stm32f4xx_adc.o
+                0x0800240c                ADC_CommonInit
+ .text.ADC_Cmd  0x0800243c       0x14 build/elements_bootloader/stm32f4xx_adc.o
+                0x0800243c                ADC_Cmd
+ .text.ADC_RegularChannelConfig
+                0x08002450       0xa8 build/elements_bootloader/stm32f4xx_adc.o
+                0x08002450                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x080024f8        0xc build/elements_bootloader/stm32f4xx_adc.o
+                0x080024f8                ADC_SoftwareStartConv
+ .text.DMA_DeInit
+                0x08002504      0x130 build/elements_bootloader/stm32f4xx_dma.o
+                0x08002504                DMA_DeInit
+ .text.DMA_Init
+                0x08002634       0x78 build/elements_bootloader/stm32f4xx_dma.o
+                0x08002634                DMA_Init
+ .text.DMA_Cmd  0x080026ac       0x14 build/elements_bootloader/stm32f4xx_dma.o
+                0x080026ac                DMA_Cmd
+ .text.DMA_ITConfig
+                0x080026c0       0x44 build/elements_bootloader/stm32f4xx_dma.o
+                0x080026c0                DMA_ITConfig
+ .text.FLASH_Unlock
+                0x08002704       0x20 build/elements_bootloader/stm32f4xx_flash.o
+                0x08002704                FLASH_Unlock
+ .text.FLASH_ClearFlag
+                0x08002724        0xc build/elements_bootloader/stm32f4xx_flash.o
+                0x08002724                FLASH_ClearFlag
+ .text.FLASH_GetStatus
+                0x08002730       0x34 build/elements_bootloader/stm32f4xx_flash.o
+                0x08002730                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x08002764       0x28 build/elements_bootloader/stm32f4xx_flash.o
+                0x08002764                FLASH_WaitForLastOperation
+ .text.FLASH_EraseSector
+                0x0800278c       0x78 build/elements_bootloader/stm32f4xx_flash.o
+                0x0800278c                FLASH_EraseSector
+ .text.FLASH_ProgramWord
+                0x08002804       0x40 build/elements_bootloader/stm32f4xx_flash.o
+                0x08002804                FLASH_ProgramWord
+ .text.GPIO_Init
+                0x08002844      0x298 build/elements_bootloader/stm32f4xx_gpio.o
+                0x08002844                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x08002adc        0xc build/elements_bootloader/stm32f4xx_gpio.o
+                0x08002adc                GPIO_ReadInputDataBit
+ .text.GPIO_SetBits
+                0x08002ae8        0x4 build/elements_bootloader/stm32f4xx_gpio.o
+                0x08002ae8                GPIO_SetBits
+ .text.GPIO_ResetBits
+                0x08002aec        0x4 build/elements_bootloader/stm32f4xx_gpio.o
+                0x08002aec                GPIO_ResetBits
+ .text.GPIO_WriteBit
+                0x08002af0        0xc build/elements_bootloader/stm32f4xx_gpio.o
+                0x08002af0                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x08002afc       0x30 build/elements_bootloader/stm32f4xx_gpio.o
+                0x08002afc                GPIO_PinAFConfig
+ .text.I2C_DeInit
+                0x08002b2c       0x6c build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002b2c                I2C_DeInit
+ .text.I2C_Init
+                0x08002b98       0xf4 build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002b98                I2C_Init
+ .text.I2C_Cmd  0x08002c8c       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002c8c                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x08002cac       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002cac                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x08002ccc       0x20 build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002ccc                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x08002cec       0x14 build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002cec                I2C_Send7bitAddress
+ .text.I2C_SendData
+                0x08002d00        0x4 build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002d00                I2C_SendData
+ .text.I2C_CheckEvent
+                0x08002d04       0x1c build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002d04                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x08002d20       0x3c build/elements_bootloader/stm32f4xx_i2c.o
+                0x08002d20                I2C_GetFlagStatus
+ .text.RCC_PLLI2SConfig
+                0x08002d5c       0x14 build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002d5c                RCC_PLLI2SConfig
+ .text.RCC_PLLI2SCmd
+                0x08002d70        0xc build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002d70                RCC_PLLI2SCmd
+ .text.RCC_GetClocksFreq
+                0x08002d7c       0x94 build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002d7c                RCC_GetClocksFreq
+ .text.RCC_I2SCLKConfig
+                0x08002e10        0xc build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002e10                RCC_I2SCLKConfig
+ .text.RCC_AHB1PeriphClockCmd
+                0x08002e1c       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002e1c                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08002e38       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002e38                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x08002e54       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002e54                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x08002e70       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002e70                RCC_APB1PeriphResetCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x08002e8c       0x1c build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002e8c                RCC_APB2PeriphResetCmd
+ .text.RCC_GetFlagStatus
+                0x08002ea8       0x34 build/elements_bootloader/stm32f4xx_rcc.o
+                0x08002ea8                RCC_GetFlagStatus
+ .text.SPI_I2S_DeInit
+                0x08002edc       0x6c build/elements_bootloader/stm32f4xx_spi.o
+                0x08002edc                SPI_I2S_DeInit
+ .text.I2S_Init
+                0x08002f48       0xf0 build/elements_bootloader/stm32f4xx_spi.o
+                0x08002f48                I2S_Init
+ .text.I2S_Cmd  0x08003038       0x20 build/elements_bootloader/stm32f4xx_spi.o
+                0x08003038                I2S_Cmd
+ .text.I2S_FullDuplexConfig
+                0x08003058       0x54 build/elements_bootloader/stm32f4xx_spi.o
+                0x08003058                I2S_FullDuplexConfig
+ .text.SPI_I2S_DMACmd
+                0x080030ac       0x18 build/elements_bootloader/stm32f4xx_spi.o
+                0x080030ac                SPI_I2S_DMACmd
+ .text.TIM_TimeBaseInit
+                0x080030c4       0xa0 build/elements_bootloader/stm32f4xx_tim.o
+                0x080030c4                TIM_TimeBaseInit
+ .text.TIM_TimeBaseStructInit
+                0x08003164       0x14 build/elements_bootloader/stm32f4xx_tim.o
+                0x08003164                TIM_TimeBaseStructInit
+ .text.TIM_ARRPreloadConfig
+                0x08003178       0x20 build/elements_bootloader/stm32f4xx_tim.o
+                0x08003178                TIM_ARRPreloadConfig
+ .text.TIM_Cmd  0x08003198       0x20 build/elements_bootloader/stm32f4xx_tim.o
+                0x08003198                TIM_Cmd
+ .text.TIM_OC1Init
+                0x080031b8       0x84 build/elements_bootloader/stm32f4xx_tim.o
+                0x080031b8                TIM_OC1Init
+ .text.TIM_OC4Init
+                0x0800323c       0x70 build/elements_bootloader/stm32f4xx_tim.o
+                0x0800323c                TIM_OC4Init
+ .text.TIM_OCStructInit
+                0x080032ac       0x14 build/elements_bootloader/stm32f4xx_tim.o
+                0x080032ac                TIM_OCStructInit
+ .text.TIM_OC1PreloadConfig
+                0x080032c0       0x14 build/elements_bootloader/stm32f4xx_tim.o
+                0x080032c0                TIM_OC1PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x080032d4       0x18 build/elements_bootloader/stm32f4xx_tim.o
+                0x080032d4                TIM_OC4PreloadConfig
+ .text.TIM_CtrlPWMOutputs
+                0x080032ec       0x24 build/elements_bootloader/stm32f4xx_tim.o
+                0x080032ec                TIM_CtrlPWMOutputs
+ .text.Reset_Handler
+                0x08003310       0x4c build/elements_bootloader/startup_stm32f4xx.o
+                0x08003310                Reset_Handler
+ .text.Default_Handler
+                0x0800335c        0x4 build/elements_bootloader/startup_stm32f4xx.o
+                0x0800335c                RTC_Alarm_IRQHandler
+                0x0800335c                HASH_RNG_IRQHandler
+                0x0800335c                EXTI2_IRQHandler
+                0x0800335c                TIM8_CC_IRQHandler
+                0x0800335c                TIM1_CC_IRQHandler
+                0x0800335c                DMA2_Stream5_IRQHandler
+                0x0800335c                DMA1_Stream5_IRQHandler
+                0x0800335c                PVD_IRQHandler
+                0x0800335c                SDIO_IRQHandler
+                0x0800335c                TAMP_STAMP_IRQHandler
+                0x0800335c                CAN2_RX1_IRQHandler
+                0x0800335c                EXTI3_IRQHandler
+                0x0800335c                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0800335c                TIM1_UP_TIM10_IRQHandler
+                0x0800335c                TIM8_UP_TIM13_IRQHandler
+                0x0800335c                I2C3_ER_IRQHandler
+                0x0800335c                EXTI0_IRQHandler
+                0x0800335c                I2C2_EV_IRQHandler
+                0x0800335c                DMA1_Stream2_IRQHandler
+                0x0800335c                CAN1_RX0_IRQHandler
+                0x0800335c                FPU_IRQHandler
+                0x0800335c                OTG_HS_WKUP_IRQHandler
+                0x0800335c                CAN2_SCE_IRQHandler
+                0x0800335c                DMA2_Stream2_IRQHandler
+                0x0800335c                SPI1_IRQHandler
+                0x0800335c                TIM6_DAC_IRQHandler
+                0x0800335c                TIM1_BRK_TIM9_IRQHandler
+                0x0800335c                DCMI_IRQHandler
+                0x0800335c                CAN2_RX0_IRQHandler
+                0x0800335c                DMA2_Stream3_IRQHandler
+                0x0800335c                USART6_IRQHandler
+                0x0800335c                USART3_IRQHandler
+                0x0800335c                CRYP_IRQHandler
+                0x0800335c                CAN1_RX1_IRQHandler
+                0x0800335c                UART5_IRQHandler
+                0x0800335c                DMA2_Stream0_IRQHandler
+                0x0800335c                TIM4_IRQHandler
+                0x0800335c                I2C1_EV_IRQHandler
+                0x0800335c                DMA1_Stream6_IRQHandler
+                0x0800335c                DMA1_Stream1_IRQHandler
+                0x0800335c                UART4_IRQHandler
+                0x0800335c                TIM3_IRQHandler
+                0x0800335c                RCC_IRQHandler
+                0x0800335c                TIM8_BRK_TIM12_IRQHandler
+                0x0800335c                Default_Handler
+                0x0800335c                EXTI15_10_IRQHandler
+                0x0800335c                ADC_IRQHandler
+                0x0800335c                DMA1_Stream7_IRQHandler
+                0x0800335c                TIM7_IRQHandler
+                0x0800335c                CAN2_TX_IRQHandler
+                0x0800335c                TIM5_IRQHandler
+                0x0800335c                DMA2_Stream7_IRQHandler
+                0x0800335c                I2C3_EV_IRQHandler
+                0x0800335c                EXTI9_5_IRQHandler
+                0x0800335c                RTC_WKUP_IRQHandler
+                0x0800335c                ETH_WKUP_IRQHandler
+                0x0800335c                SPI2_IRQHandler
+                0x0800335c                OTG_HS_EP1_IN_IRQHandler
+                0x0800335c                DMA1_Stream0_IRQHandler
+                0x0800335c                CAN1_TX_IRQHandler
+                0x0800335c                EXTI4_IRQHandler
+                0x0800335c                FSMC_IRQHandler
+                0x0800335c                ETH_IRQHandler
+                0x0800335c                OTG_HS_EP1_OUT_IRQHandler
+                0x0800335c                WWDG_IRQHandler
+                0x0800335c                TIM2_IRQHandler
+                0x0800335c                OTG_FS_WKUP_IRQHandler
+                0x0800335c                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0800335c                OTG_HS_IRQHandler
+                0x0800335c                EXTI1_IRQHandler
+                0x0800335c                USART2_IRQHandler
+                0x0800335c                I2C2_ER_IRQHandler
+                0x0800335c                DMA2_Stream1_IRQHandler
+                0x0800335c                CAN1_SCE_IRQHandler
+                0x0800335c                FLASH_IRQHandler
+                0x0800335c                DMA2_Stream4_IRQHandler
+                0x0800335c                USART1_IRQHandler
+                0x0800335c                OTG_FS_IRQHandler
+                0x0800335c                SPI3_IRQHandler
+                0x0800335c                DMA1_Stream4_IRQHandler
+                0x0800335c                I2C1_ER_IRQHandler
+                0x0800335c                DMA2_Stream6_IRQHandler
+ .text.memset   0x08003360       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                0x08003360                memset
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_3_7E
+                0x080033f4       0x10 build/elements_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_4_7E
+                0x08003404       0x10 build/elements_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_6_7E
+                0x08003414       0x10 build/elements_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_8_7E
+                0x08003424       0x10 build/elements_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL12cutoff_tableE
+                0x08003434       0x44 build/elements_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL24filter_coefficients_12_7E
+                0x08003478       0x10 build/elements_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL24filter_coefficients_16_7E
+                0x08003488       0x10 build/elements_bootloader/demodulator.o
+ .rodata._ZL9crc32_tab
+                0x08003498      0x400 build/elements_bootloader/packet_decoder.o
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.init)
+ .init          0x08003898        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+                0x08003898                _init
+ .init          0x0800389c        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x080038a4        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+                0x080038a4                _fini
+ .fini          0x080038a8        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+                0x080038b0                . = ALIGN (0x10)
+                0x080038b0                _etext = .
+                0x080038b0                _sidata = _etext
+
+.vfp11_veneer   0x080038b0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080038b0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080038b0        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x080038b0        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.data           0x20000000      0x240 load address 0x080038b0
+                0x20000000                . = ALIGN (0x10)
+                0x20000000                _sdata = .
+ *(.ramtext*)
+                0x20000000                . = ALIGN (0x10)
+ *(.data*)
+ .data.gain     0x20000000        0x4 build/elements_bootloader/bootloader.o
+                0x20000000                gain
+ .data.discard_samples
+                0x20000004        0x4 build/elements_bootloader/bootloader.o
+                0x20000004                discard_samples
+ .data._ZN8elements7PotsAdc10addresses_E
+                0x20000008       0x1c build/elements_bootloader/pots_adc.o
+                0x20000008                elements::PotsAdc::addresses_
+ .data._ZN20stm_audio_bootloader8lut_sineE
+                0x20000024      0x204 build/elements_bootloader/demodulator.o
+                0x20000024                stm_audio_bootloader::lut_sine
+ .data.APBAHBPrescTable
+                0x20000228       0x10 build/elements_bootloader/stm32f4xx_rcc.o
+ *(.data.*)
+                0x20000240                . = ALIGN (0x10)
+ *fill*         0x20000238        0x8 
+                0x20000240                _edata = .
+
+.igot.plt       0x20000240        0x0 load address 0x08003af0
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.bss            0x20000240     0x5030 load address 0x08003af0
+                0x20000240                . = ALIGN (0x10)
+                0x20000240                _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.demodulator
+                0x20000240      0xd18 build/elements_bootloader/bootloader.o
+                0x20000240                demodulator
+ .bss.ui_state  0x20000f58        0x1 build/elements_bootloader/bootloader.o
+                0x20000f58                ui_state
+ *fill*         0x20000f59        0x3 
+ .bss.leds      0x20000f5c        0x4 build/elements_bootloader/bootloader.o
+                0x20000f5c                leds
+ .bss.meter     0x20000f60       0x10 build/elements_bootloader/bootloader.o
+                0x20000f60                meter
+ .bss.rx_buffer
+                0x20000f70     0x4000 build/elements_bootloader/bootloader.o
+                0x20000f70                rx_buffer
+ .bss.push_switch
+                0x20004f70        0x4 build/elements_bootloader/bootloader.o
+                0x20004f70                push_switch
+ .bss._ZL15current_address
+                0x20004f74        0x4 build/elements_bootloader/bootloader.o
+ .bss.codec     0x20004f78      0x194 build/elements_bootloader/bootloader.o
+                0x20004f78                codec
+ .bss.decoder   0x2000510c      0x114 build/elements_bootloader/bootloader.o
+                0x2000510c                decoder
+ .bss.switch_released
+                0x20005220        0x1 build/elements_bootloader/bootloader.o
+                0x20005220                switch_released
+ *fill*         0x20005221        0x3 
+ .bss.pots      0x20005224       0x3c build/elements_bootloader/bootloader.o
+                0x20005224                pots
+ .bss._ZL12packet_index
+                0x20005260        0x2 build/elements_bootloader/bootloader.o
+ *fill*         0x20005262        0x2 
+ .bss._ZN8elements5Codec9instance_E
+                0x20005264        0x4 build/elements_bootloader/codec.o
+                0x20005264                elements::Codec::instance_
+ .bss._ZN6stmlib12system_clockE
+                0x20005268        0x4 build/elements_bootloader/system_clock.o
+                0x20005268                stmlib::system_clock
+ *(COMMON)
+                0x20005270                . = ALIGN (0x10)
+ *fill*         0x2000526c        0x4 
+                0x20005270                _ebss = .
+                0x20005270                PROVIDE (end, _ebss)
+                0x20005270                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x20005270      0x400 load address 0x08008b20
+                0x20005270                . = ALIGN (0x10)
+                0x20005270                PROVIDE (end, .)
+                0x20005270                PROVIDE (_end, .)
+                0x20005270                . = (. + _Min_Heap_Size)
+                0x20005670                . = (. + _Min_Stack_Size)
+ *fill*         0x20005270      0x400 
+                0x20005670                . = ALIGN (0x10)
+
+.ccmdata        0x10000000        0x0
+                0x10000000                . = ALIGN (0x10)
+ *(.ccmdata)
+                0x10000000                . = ALIGN (0x10)
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(build/elements_bootloader/elements_bootloader.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x39 build/elements_bootloader/bootloader.o
+ .ARM.attributes
+                0x0000005b       0x39 build/elements_bootloader/codec.o
+ .ARM.attributes
+                0x00000094       0x39 build/elements_bootloader/leds.o
+ .ARM.attributes
+                0x000000cd       0x39 build/elements_bootloader/pots_adc.o
+ .ARM.attributes
+                0x00000106       0x39 build/elements_bootloader/switch.o
+ .ARM.attributes
+                0x0000013f       0x39 build/elements_bootloader/system.o
+ .ARM.attributes
+                0x00000178       0x39 build/elements_bootloader/demodulator.o
+ .ARM.attributes
+                0x000001b1       0x39 build/elements_bootloader/packet_decoder.o
+ .ARM.attributes
+                0x000001ea       0x39 build/elements_bootloader/bootloader_utils.o
+ .ARM.attributes
+                0x00000223       0x39 build/elements_bootloader/system_clock.o
+ .ARM.attributes
+                0x0000025c       0x39 build/elements_bootloader/system_stm32f4xx.o
+ .ARM.attributes
+                0x00000295       0x39 build/elements_bootloader/misc.o
+ .ARM.attributes
+                0x000002ce       0x39 build/elements_bootloader/stm32f4xx_adc.o
+ .ARM.attributes
+                0x00000307       0x39 build/elements_bootloader/stm32f4xx_dma.o
+ .ARM.attributes
+                0x00000340       0x39 build/elements_bootloader/stm32f4xx_flash.o
+ .ARM.attributes
+                0x00000379       0x39 build/elements_bootloader/stm32f4xx_gpio.o
+ .ARM.attributes
+                0x000003b2       0x39 build/elements_bootloader/stm32f4xx_i2c.o
+ .ARM.attributes
+                0x000003eb       0x39 build/elements_bootloader/stm32f4xx_rcc.o
+ .ARM.attributes
+                0x00000424       0x39 build/elements_bootloader/stm32f4xx_spi.o
+ .ARM.attributes
+                0x0000045d       0x39 build/elements_bootloader/stm32f4xx_tim.o
+ .ARM.attributes
+                0x00000496       0x21 build/elements_bootloader/startup_stm32f4xx.o
+ .ARM.attributes
+                0x000004b7       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000004d7       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000050b       0x22 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/elements_bootloader/bootloader.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/elements_bootloader/codec.o
+ .comment       0x00000000       0x71 build/elements_bootloader/leds.o
+ .comment       0x00000000       0x71 build/elements_bootloader/pots_adc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/switch.o
+ .comment       0x00000000       0x71 build/elements_bootloader/system.o
+ .comment       0x00000000       0x71 build/elements_bootloader/demodulator.o
+ .comment       0x00000000       0x71 build/elements_bootloader/packet_decoder.o
+ .comment       0x00000000       0x71 build/elements_bootloader/bootloader_utils.o
+ .comment       0x00000000       0x71 build/elements_bootloader/system_clock.o
+ .comment       0x00000000       0x71 build/elements_bootloader/system_stm32f4xx.o
+ .comment       0x00000000       0x71 build/elements_bootloader/misc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_adc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_dma.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_flash.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_i2c.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_spi.o
+ .comment       0x00000000       0x71 build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_info     0x00000000    0x12d65
+ .debug_info    0x00000000     0x3741 build/elements_bootloader/bootloader.o
+ .debug_info    0x00003741     0x2c8f build/elements_bootloader/codec.o
+ .debug_info    0x000063d0      0xf2d build/elements_bootloader/leds.o
+ .debug_info    0x000072fd      0xb23 build/elements_bootloader/pots_adc.o
+ .debug_info    0x00007e20      0x955 build/elements_bootloader/switch.o
+ .debug_info    0x00008775      0x7de build/elements_bootloader/system.o
+ .debug_info    0x00008f53     0x16b6 build/elements_bootloader/demodulator.o
+ .debug_info    0x0000a609      0x939 build/elements_bootloader/packet_decoder.o
+ .debug_info    0x0000af42      0x437 build/elements_bootloader/bootloader_utils.o
+ .debug_info    0x0000b379      0x2ce build/elements_bootloader/system_clock.o
+ .debug_info    0x0000b647      0x58b build/elements_bootloader/system_stm32f4xx.o
+ .debug_info    0x0000bbd2      0x528 build/elements_bootloader/misc.o
+ .debug_info    0x0000c0fa      0xc7a build/elements_bootloader/stm32f4xx_adc.o
+ .debug_info    0x0000cd74      0x72c build/elements_bootloader/stm32f4xx_dma.o
+ .debug_info    0x0000d4a0      0x7ce build/elements_bootloader/stm32f4xx_flash.o
+ .debug_info    0x0000dc6e      0x7b5 build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_info    0x0000e423      0xbbf build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_info    0x0000efe2      0xcfc build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_info    0x0000fcde      0xbb0 build/elements_bootloader/stm32f4xx_spi.o
+ .debug_info    0x0001088e     0x24d7 build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_abbrev   0x00000000     0x3667
+ .debug_abbrev  0x00000000      0x6b6 build/elements_bootloader/bootloader.o
+ .debug_abbrev  0x000006b6      0x593 build/elements_bootloader/codec.o
+ .debug_abbrev  0x00000c49      0x31f build/elements_bootloader/leds.o
+ .debug_abbrev  0x00000f68      0x294 build/elements_bootloader/pots_adc.o
+ .debug_abbrev  0x000011fc      0x306 build/elements_bootloader/switch.o
+ .debug_abbrev  0x00001502      0x259 build/elements_bootloader/system.o
+ .debug_abbrev  0x0000175b      0x4b6 build/elements_bootloader/demodulator.o
+ .debug_abbrev  0x00001c11      0x3b7 build/elements_bootloader/packet_decoder.o
+ .debug_abbrev  0x00001fc8      0x1b6 build/elements_bootloader/bootloader_utils.o
+ .debug_abbrev  0x0000217e      0x1fd build/elements_bootloader/system_clock.o
+ .debug_abbrev  0x0000237b      0x15f build/elements_bootloader/system_stm32f4xx.o
+ .debug_abbrev  0x000024da      0x156 build/elements_bootloader/misc.o
+ .debug_abbrev  0x00002630      0x1dd build/elements_bootloader/stm32f4xx_adc.o
+ .debug_abbrev  0x0000280d      0x175 build/elements_bootloader/stm32f4xx_dma.o
+ .debug_abbrev  0x00002982      0x20d build/elements_bootloader/stm32f4xx_flash.o
+ .debug_abbrev  0x00002b8f      0x1f8 build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_abbrev  0x00002d87      0x1ef build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_abbrev  0x00002f76      0x279 build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_abbrev  0x000031ef      0x1e7 build/elements_bootloader/stm32f4xx_spi.o
+ .debug_abbrev  0x000033d6      0x291 build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_loc      0x00000000     0x8ef8
+ .debug_loc     0x00000000      0xb78 build/elements_bootloader/bootloader.o
+ .debug_loc     0x00000b78      0x60d build/elements_bootloader/codec.o
+ .debug_loc     0x00001185       0x4d build/elements_bootloader/leds.o
+ .debug_loc     0x000011d2       0xb4 build/elements_bootloader/pots_adc.o
+ .debug_loc     0x00001286       0x58 build/elements_bootloader/switch.o
+ .debug_loc     0x000012de       0x63 build/elements_bootloader/system.o
+ .debug_loc     0x00001341      0xfef build/elements_bootloader/demodulator.o
+ .debug_loc     0x00002330      0x3e0 build/elements_bootloader/packet_decoder.o
+ .debug_loc     0x00002710       0x47 build/elements_bootloader/bootloader_utils.o
+ .debug_loc     0x00002757      0x153 build/elements_bootloader/system_stm32f4xx.o
+ .debug_loc     0x000028aa      0x1b5 build/elements_bootloader/misc.o
+ .debug_loc     0x00002a5f      0xcae build/elements_bootloader/stm32f4xx_adc.o
+ .debug_loc     0x0000370d      0x641 build/elements_bootloader/stm32f4xx_dma.o
+ .debug_loc     0x00003d4e      0x6bd build/elements_bootloader/stm32f4xx_flash.o
+ .debug_loc     0x0000440b      0x58f build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_loc     0x0000499a      0xb16 build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_loc     0x000054b0      0xcee build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_loc     0x0000619e      0x7c2 build/elements_bootloader/stm32f4xx_spi.o
+ .debug_loc     0x00006960     0x2598 build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_aranges  0x00000000      0xcf8
+ .debug_aranges
+                0x00000000       0xd0 build/elements_bootloader/bootloader.o
+ .debug_aranges
+                0x000000d0       0x70 build/elements_bootloader/codec.o
+ .debug_aranges
+                0x00000140       0x28 build/elements_bootloader/leds.o
+ .debug_aranges
+                0x00000168       0x30 build/elements_bootloader/pots_adc.o
+ .debug_aranges
+                0x00000198       0x28 build/elements_bootloader/switch.o
+ .debug_aranges
+                0x000001c0       0x28 build/elements_bootloader/system.o
+ .debug_aranges
+                0x000001e8       0x48 build/elements_bootloader/demodulator.o
+ .debug_aranges
+                0x00000230       0x38 build/elements_bootloader/packet_decoder.o
+ .debug_aranges
+                0x00000268       0x28 build/elements_bootloader/bootloader_utils.o
+ .debug_aranges
+                0x00000290       0x28 build/elements_bootloader/system_clock.o
+ .debug_aranges
+                0x000002b8       0x28 build/elements_bootloader/system_stm32f4xx.o
+ .debug_aranges
+                0x000002e0       0x40 build/elements_bootloader/misc.o
+ .debug_aranges
+                0x00000320      0x148 build/elements_bootloader/stm32f4xx_adc.o
+ .debug_aranges
+                0x00000468       0xb0 build/elements_bootloader/stm32f4xx_dma.o
+ .debug_aranges
+                0x00000518      0x108 build/elements_bootloader/stm32f4xx_flash.o
+ .debug_aranges
+                0x00000620       0x88 build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_aranges
+                0x000006a8      0x120 build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_aranges
+                0x000007c8      0x178 build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_aranges
+                0x00000940       0xe0 build/elements_bootloader/stm32f4xx_spi.o
+ .debug_aranges
+                0x00000a20      0x2d8 build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_ranges   0x00000000     0x1688
+ .debug_ranges  0x00000000      0x618 build/elements_bootloader/bootloader.o
+ .debug_ranges  0x00000618      0x168 build/elements_bootloader/codec.o
+ .debug_ranges  0x00000780       0x30 build/elements_bootloader/leds.o
+ .debug_ranges  0x000007b0       0x38 build/elements_bootloader/pots_adc.o
+ .debug_ranges  0x000007e8       0x30 build/elements_bootloader/switch.o
+ .debug_ranges  0x00000818       0x58 build/elements_bootloader/system.o
+ .debug_ranges  0x00000870      0x358 build/elements_bootloader/demodulator.o
+ .debug_ranges  0x00000bc8       0x58 build/elements_bootloader/packet_decoder.o
+ .debug_ranges  0x00000c20       0x18 build/elements_bootloader/bootloader_utils.o
+ .debug_ranges  0x00000c38       0x18 build/elements_bootloader/system_clock.o
+ .debug_ranges  0x00000c50       0x30 build/elements_bootloader/system_stm32f4xx.o
+ .debug_ranges  0x00000c80       0x30 build/elements_bootloader/misc.o
+ .debug_ranges  0x00000cb0      0x138 build/elements_bootloader/stm32f4xx_adc.o
+ .debug_ranges  0x00000de8       0xa0 build/elements_bootloader/stm32f4xx_dma.o
+ .debug_ranges  0x00000e88       0xf8 build/elements_bootloader/stm32f4xx_flash.o
+ .debug_ranges  0x00000f80       0x78 build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_ranges  0x00000ff8      0x110 build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_ranges  0x00001108      0x168 build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_ranges  0x00001270       0xd0 build/elements_bootloader/stm32f4xx_spi.o
+ .debug_ranges  0x00001340      0x348 build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_line     0x00000000     0x59d7
+ .debug_line    0x00000000      0xc44 build/elements_bootloader/bootloader.o
+ .debug_line    0x00000c44      0x701 build/elements_bootloader/codec.o
+ .debug_line    0x00001345      0x482 build/elements_bootloader/leds.o
+ .debug_line    0x000017c7      0x205 build/elements_bootloader/pots_adc.o
+ .debug_line    0x000019cc      0x43c build/elements_bootloader/switch.o
+ .debug_line    0x00001e08      0x19f build/elements_bootloader/system.o
+ .debug_line    0x00001fa7      0x710 build/elements_bootloader/demodulator.o
+ .debug_line    0x000026b7      0x48e build/elements_bootloader/packet_decoder.o
+ .debug_line    0x00002b45      0x143 build/elements_bootloader/bootloader_utils.o
+ .debug_line    0x00002c88       0xea build/elements_bootloader/system_clock.o
+ .debug_line    0x00002d72      0x148 build/elements_bootloader/system_stm32f4xx.o
+ .debug_line    0x00002eba      0x1b6 build/elements_bootloader/misc.o
+ .debug_line    0x00003070      0x503 build/elements_bootloader/stm32f4xx_adc.o
+ .debug_line    0x00003573      0x39c build/elements_bootloader/stm32f4xx_dma.o
+ .debug_line    0x0000390f      0x3f4 build/elements_bootloader/stm32f4xx_flash.o
+ .debug_line    0x00003d03      0x353 build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_line    0x00004056      0x485 build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_line    0x000044db      0x4fc build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_line    0x000049d7      0x422 build/elements_bootloader/stm32f4xx_spi.o
+ .debug_line    0x00004df9      0xbde build/elements_bootloader/stm32f4xx_tim.o
+
+.debug_str      0x00000000     0x639c
+ .debug_str     0x00000000     0x285b build/elements_bootloader/bootloader.o
+                               0x29e6 (size before relaxing)
+ .debug_str     0x0000285b      0xf22 build/elements_bootloader/codec.o
+                               0x1e47 (size before relaxing)
+ .debug_str     0x0000377d      0x2bf build/elements_bootloader/leds.o
+                                0xa94 (size before relaxing)
+ .debug_str     0x00003a3c      0x217 build/elements_bootloader/pots_adc.o
+                                0xb80 (size before relaxing)
+ .debug_str     0x00003c53       0x1b build/elements_bootloader/switch.o
+                                0x799 (size before relaxing)
+ .debug_str     0x00003c6e       0xd5 build/elements_bootloader/system.o
+                                0x916 (size before relaxing)
+ .debug_str     0x00003d43      0x277 build/elements_bootloader/demodulator.o
+                               0x112e (size before relaxing)
+ .debug_str     0x00003fba       0x69 build/elements_bootloader/packet_decoder.o
+                                0x796 (size before relaxing)
+ .debug_str     0x00004023      0x138 build/elements_bootloader/bootloader_utils.o
+                                0x419 (size before relaxing)
+ .debug_str     0x0000415b       0x63 build/elements_bootloader/system_clock.o
+                                0x3e3 (size before relaxing)
+ .debug_str     0x000041be      0x201 build/elements_bootloader/system_stm32f4xx.o
+                                0x43e (size before relaxing)
+ .debug_str     0x000043bf      0x16f build/elements_bootloader/misc.o
+                                0x477 (size before relaxing)
+ .debug_str     0x0000452e      0x4c9 build/elements_bootloader/stm32f4xx_adc.o
+                                0x8b9 (size before relaxing)
+ .debug_str     0x000049f7      0x213 build/elements_bootloader/stm32f4xx_dma.o
+                                0x5ea (size before relaxing)
+ .debug_str     0x00004c0a      0x2d8 build/elements_bootloader/stm32f4xx_flash.o
+                                0x625 (size before relaxing)
+ .debug_str     0x00004ee2      0x140 build/elements_bootloader/stm32f4xx_gpio.o
+                                0x568 (size before relaxing)
+ .debug_str     0x00005022      0x337 build/elements_bootloader/stm32f4xx_i2c.o
+                                0x72c (size before relaxing)
+ .debug_str     0x00005359      0x41c build/elements_bootloader/stm32f4xx_rcc.o
+                                0x8ee (size before relaxing)
+ .debug_str     0x00005775      0x2d7 build/elements_bootloader/stm32f4xx_spi.o
+                                0x756 (size before relaxing)
+ .debug_str     0x00005a4c      0x950 build/elements_bootloader/stm32f4xx_tim.o
+                                0xe9c (size before relaxing)
+
+.debug_frame    0x00000000     0x1bfc
+ .debug_frame   0x00000000      0x1f4 build/elements_bootloader/bootloader.o
+ .debug_frame   0x000001f4      0x15c build/elements_bootloader/codec.o
+ .debug_frame   0x00000350       0x48 build/elements_bootloader/leds.o
+ .debug_frame   0x00000398       0x64 build/elements_bootloader/pots_adc.o
+ .debug_frame   0x000003fc       0x48 build/elements_bootloader/switch.o
+ .debug_frame   0x00000444       0x38 build/elements_bootloader/system.o
+ .debug_frame   0x0000047c       0xd0 build/elements_bootloader/demodulator.o
+ .debug_frame   0x0000054c       0x7c build/elements_bootloader/packet_decoder.o
+ .debug_frame   0x000005c8       0x44 build/elements_bootloader/bootloader_utils.o
+ .debug_frame   0x0000060c       0x30 build/elements_bootloader/system_clock.o
+ .debug_frame   0x0000063c       0x34 build/elements_bootloader/system_stm32f4xx.o
+ .debug_frame   0x00000670       0x6c build/elements_bootloader/misc.o
+ .debug_frame   0x000006dc      0x2b4 build/elements_bootloader/stm32f4xx_adc.o
+ .debug_frame   0x00000990      0x180 build/elements_bootloader/stm32f4xx_dma.o
+ .debug_frame   0x00000b10      0x264 build/elements_bootloader/stm32f4xx_flash.o
+ .debug_frame   0x00000d74      0x118 build/elements_bootloader/stm32f4xx_gpio.o
+ .debug_frame   0x00000e8c      0x248 build/elements_bootloader/stm32f4xx_i2c.o
+ .debug_frame   0x000010d4      0x2e4 build/elements_bootloader/stm32f4xx_rcc.o
+ .debug_frame   0x000013b8      0x1dc build/elements_bootloader/stm32f4xx_spi.o
+ .debug_frame   0x00001594      0x63c build/elements_bootloader/stm32f4xx_tim.o
+ .debug_frame   0x00001bd0       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)

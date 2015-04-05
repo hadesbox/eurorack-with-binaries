@@ -1,0 +1,2136 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+                              build/frames_bootloader/bootloader.o (__aeabi_atexit)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+                              build/frames_bootloader/bootloader.o (memcpy)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                              build/frames_bootloader/switches.o (memset)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+                              /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+                              /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .text          0x0000000000000000       0xc8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .data          0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .bss           0x0000000000000000       0x1c /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/bootloader.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/bootloader.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/bootloader.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/bootloader.o
+ .text._ZN20stm_audio_bootloader13PacketDecoderD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text._ZN20stm_audio_bootloader11DemodulatorD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text._ZN6frames3AdcD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text._ZN6frames8SwitchesD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text._ZN6frames11ChannelLedsD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text._ZN6frames6RgbLedD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text._ZN6frames6SystemD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text.startup._GLOBAL__sub_I_adc
+                0x0000000000000000       0xa8 build/frames_bootloader/bootloader.o
+ .init_array    0x0000000000000000        0x4 build/frames_bootloader/bootloader.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/adc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/adc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/adc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/channel_leds.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/channel_leds.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/channel_leds.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/dac.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/dac.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/dac.o
+ .text._ZN6frames3Dac4InitEv
+                0x0000000000000000       0x98 build/frames_bootloader/dac.o
+ .debug_info    0x0000000000000000      0x616 build/frames_bootloader/dac.o
+ .debug_abbrev  0x0000000000000000      0x25f build/frames_bootloader/dac.o
+ .debug_loc     0x0000000000000000       0x1e build/frames_bootloader/dac.o
+ .debug_aranges
+                0x0000000000000000       0x20 build/frames_bootloader/dac.o
+ .debug_ranges  0x0000000000000000       0x30 build/frames_bootloader/dac.o
+ .debug_line    0x0000000000000000      0x195 build/frames_bootloader/dac.o
+ .debug_str     0x0000000000000000      0x5b3 build/frames_bootloader/dac.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/dac.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/dac.o
+ .debug_frame   0x0000000000000000       0x30 build/frames_bootloader/dac.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/keyframe_led.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/keyframe_led.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/keyframe_led.o
+ .text._ZN6frames11KeyframeLed4InitEv
+                0x0000000000000000       0x28 build/frames_bootloader/keyframe_led.o
+ .text._ZN6frames11KeyframeLed3LowEv
+                0x0000000000000000       0x10 build/frames_bootloader/keyframe_led.o
+ .text._ZN6frames11KeyframeLed4HighEv
+                0x0000000000000000       0x10 build/frames_bootloader/keyframe_led.o
+ .debug_info    0x0000000000000000      0x37f build/frames_bootloader/keyframe_led.o
+ .debug_abbrev  0x0000000000000000      0x1fc build/frames_bootloader/keyframe_led.o
+ .debug_loc     0x0000000000000000       0x21 build/frames_bootloader/keyframe_led.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/frames_bootloader/keyframe_led.o
+ .debug_ranges  0x0000000000000000       0x38 build/frames_bootloader/keyframe_led.o
+ .debug_line    0x0000000000000000      0x16b build/frames_bootloader/keyframe_led.o
+ .debug_str     0x0000000000000000      0x410 build/frames_bootloader/keyframe_led.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/keyframe_led.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/keyframe_led.o
+ .debug_frame   0x0000000000000000       0x4c build/frames_bootloader/keyframe_led.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/rgb_led.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/rgb_led.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/rgb_led.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/switches.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/switches.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/switches.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/system.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/system.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/system.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/trigger_output.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/trigger_output.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/trigger_output.o
+ .text._ZN6frames13TriggerOutput4InitEv
+                0x0000000000000000       0x2c build/frames_bootloader/trigger_output.o
+ .text._ZN6frames13TriggerOutput3LowEv
+                0x0000000000000000       0x10 build/frames_bootloader/trigger_output.o
+ .text._ZN6frames13TriggerOutput4HighEv
+                0x0000000000000000       0x10 build/frames_bootloader/trigger_output.o
+ .debug_info    0x0000000000000000      0x385 build/frames_bootloader/trigger_output.o
+ .debug_abbrev  0x0000000000000000      0x1fc build/frames_bootloader/trigger_output.o
+ .debug_loc     0x0000000000000000       0x21 build/frames_bootloader/trigger_output.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/frames_bootloader/trigger_output.o
+ .debug_ranges  0x0000000000000000       0x38 build/frames_bootloader/trigger_output.o
+ .debug_line    0x0000000000000000      0x170 build/frames_bootloader/trigger_output.o
+ .debug_str     0x0000000000000000      0x418 build/frames_bootloader/trigger_output.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/trigger_output.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/trigger_output.o
+ .debug_frame   0x0000000000000000       0x4c build/frames_bootloader/trigger_output.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/uart_logger.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/uart_logger.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/uart_logger.o
+ .text._ZN6frames10UartLogger4InitEm
+                0x0000000000000000       0x60 build/frames_bootloader/uart_logger.o
+ .text._ZN6frames10UartLogger5TraceEh
+                0x0000000000000000       0x14 build/frames_bootloader/uart_logger.o
+ .debug_info    0x0000000000000000      0x52a build/frames_bootloader/uart_logger.o
+ .debug_abbrev  0x0000000000000000      0x214 build/frames_bootloader/uart_logger.o
+ .debug_loc     0x0000000000000000       0x3f build/frames_bootloader/uart_logger.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/frames_bootloader/uart_logger.o
+ .debug_ranges  0x0000000000000000       0x30 build/frames_bootloader/uart_logger.o
+ .debug_line    0x0000000000000000      0x189 build/frames_bootloader/uart_logger.o
+ .debug_str     0x0000000000000000      0x530 build/frames_bootloader/uart_logger.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/uart_logger.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/uart_logger.o
+ .debug_frame   0x0000000000000000       0x40 build/frames_bootloader/uart_logger.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/random.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/random.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/random.o
+ .data._ZN6stmlib6Random10rng_state_E
+                0x0000000000000000        0x4 build/frames_bootloader/random.o
+ .debug_info    0x0000000000000000      0x16e build/frames_bootloader/random.o
+ .debug_abbrev  0x0000000000000000       0xf5 build/frames_bootloader/random.o
+ .debug_aranges
+                0x0000000000000000       0x18 build/frames_bootloader/random.o
+ .debug_line    0x0000000000000000       0xa1 build/frames_bootloader/random.o
+ .debug_str     0x0000000000000000      0x2d6 build/frames_bootloader/random.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/random.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/random.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/bootloader_utils.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/bootloader_utils.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/bootloader_utils.o
+ .group         0x0000000000000000        0x8 build/frames_bootloader/system_clock.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/system_clock.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/system_clock.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x0000000000000000        0x4 build/frames_bootloader/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x0000000000000000       0x1c build/frames_bootloader/system_clock.o
+ .init_array    0x0000000000000000        0x4 build/frames_bootloader/system_clock.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/demodulator.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/demodulator.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/demodulator.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/packet_decoder.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/packet_decoder.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/packet_decoder.o
+ .text._Z5crc32mPKvj
+                0x0000000000000000       0x2c build/frames_bootloader/packet_decoder.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/core_cm3.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/core_cm3.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/core_cm3.o
+ .text.__get_PSP
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__set_PSP
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__get_MSP
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__get_BASEPRI
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__set_BASEPRI
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__get_PRIMASK
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__set_PRIMASK
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__get_FAULTMASK
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__set_FAULTMASK
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__REV    0x0000000000000000        0x4 build/frames_bootloader/core_cm3.o
+ .text.__REV16  0x0000000000000000        0x4 build/frames_bootloader/core_cm3.o
+ .text.__REVSH  0x0000000000000000        0x4 build/frames_bootloader/core_cm3.o
+ .text.__RBIT   0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__LDREXB
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__LDREXH
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__LDREXW
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__STREXB
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__STREXH
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__STREXW
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__get_CONTROL
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text.__set_CONTROL
+                0x0000000000000000        0x8 build/frames_bootloader/core_cm3.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/system_stm32f10x.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/system_stm32f10x.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_AHBClk
+                0x0000000000000000        0x4 build/frames_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_SysClk
+                0x0000000000000000        0x4 build/frames_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency
+                0x0000000000000000        0x4 build/frames_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_APB1Clk
+                0x0000000000000000        0x4 build/frames_bootloader/system_stm32f10x.o
+ .rodata.SystemFrequency_APB2Clk
+                0x0000000000000000        0x4 build/frames_bootloader/system_stm32f10x.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/misc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/misc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/misc.o
+ .text.NVIC_SystemLPConfig
+                0x0000000000000000       0x1c build/frames_bootloader/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x0000000000000000       0x1c build/frames_bootloader/misc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_adc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_adc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_StructInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_ITConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetConversionValue
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetDualModeConversionValue
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000       0x5c build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetFlagStatus
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_ClearFlag
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_adc.o
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_adc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_bkp.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_bkp.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_DeInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_TamperPinLevelConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_TamperPinCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_ITConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_RTCOutputConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_SetRTCCalibrationValue
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_WriteBackupRegister
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_ReadBackupRegister
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_GetFlagStatus
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_ClearFlag
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_GetITStatus
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_bkp.o
+ .text.BKP_ClearITPendingBit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_bkp.o
+ .debug_info    0x0000000000000000      0x790 build/frames_bootloader/stm32f10x_bkp.o
+ .debug_abbrev  0x0000000000000000      0x18a build/frames_bootloader/stm32f10x_bkp.o
+ .debug_loc     0x0000000000000000       0xee build/frames_bootloader/stm32f10x_bkp.o
+ .debug_aranges
+                0x0000000000000000       0x78 build/frames_bootloader/stm32f10x_bkp.o
+ .debug_ranges  0x0000000000000000       0x68 build/frames_bootloader/stm32f10x_bkp.o
+ .debug_line    0x0000000000000000      0x206 build/frames_bootloader/stm32f10x_bkp.o
+ .debug_str     0x0000000000000000      0x608 build/frames_bootloader/stm32f10x_bkp.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_bkp.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_bkp.o
+ .debug_frame   0x0000000000000000       0xe0 build/frames_bootloader/stm32f10x_bkp.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_can.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_can.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_DeInit
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_Init
+                0x0000000000000000       0xec build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_FilterInit
+                0x0000000000000000      0x130 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_StructInit
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_SlaveStartBank
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_ITConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_Transmit
+                0x0000000000000000       0xcc build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_TransmitStatus
+                0x0000000000000000       0x88 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_CancelTransmit
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_FIFORelease
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_MessagePending
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_Receive
+                0x0000000000000000       0x90 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_DBGFreeze
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_Sleep
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_WakeUp
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_GetFlagStatus
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_ClearFlag
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_GetITStatus
+                0x0000000000000000       0xa4 build/frames_bootloader/stm32f10x_can.o
+ .text.CAN_ClearITPendingBit
+                0x0000000000000000       0xa0 build/frames_bootloader/stm32f10x_can.o
+ .rodata.CSWTCH.10
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_can.o
+ .debug_info    0x0000000000000000      0xae8 build/frames_bootloader/stm32f10x_can.o
+ .debug_abbrev  0x0000000000000000      0x28f build/frames_bootloader/stm32f10x_can.o
+ .debug_loc     0x0000000000000000      0x798 build/frames_bootloader/stm32f10x_can.o
+ .debug_aranges
+                0x0000000000000000       0xb0 build/frames_bootloader/stm32f10x_can.o
+ .debug_ranges  0x0000000000000000      0x120 build/frames_bootloader/stm32f10x_can.o
+ .debug_line    0x0000000000000000      0x46b build/frames_bootloader/stm32f10x_can.o
+ .debug_str     0x0000000000000000      0x6c8 build/frames_bootloader/stm32f10x_can.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_can.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_can.o
+ .debug_frame   0x0000000000000000      0x17c build/frames_bootloader/stm32f10x_can.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_crc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_crc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_crc.o
+ .text.CRC_ResetDR
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_crc.o
+ .text.CRC_CalcCRC
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_crc.o
+ .text.CRC_CalcBlockCRC
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_crc.o
+ .text.CRC_GetCRC
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_crc.o
+ .text.CRC_SetIDRegister
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_crc.o
+ .text.CRC_GetIDRegister
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_crc.o
+ .debug_info    0x0000000000000000      0x1c7 build/frames_bootloader/stm32f10x_crc.o
+ .debug_abbrev  0x0000000000000000      0x114 build/frames_bootloader/stm32f10x_crc.o
+ .debug_loc     0x0000000000000000       0x75 build/frames_bootloader/stm32f10x_crc.o
+ .debug_aranges
+                0x0000000000000000       0x48 build/frames_bootloader/stm32f10x_crc.o
+ .debug_ranges  0x0000000000000000       0x38 build/frames_bootloader/stm32f10x_crc.o
+ .debug_line    0x0000000000000000      0x154 build/frames_bootloader/stm32f10x_crc.o
+ .debug_str     0x0000000000000000      0x27b build/frames_bootloader/stm32f10x_crc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_crc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_crc.o
+ .debug_frame   0x0000000000000000       0x70 build/frames_bootloader/stm32f10x_crc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dac.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dac.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_DeInit
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_Init
+                0x0000000000000000       0x30 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_StructInit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_Cmd  0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_DMACmd
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_SetChannel1Data
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_SetChannel2Data
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_SetDualChannelData
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_dac.o
+ .text.DAC_GetDataOutputValue
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_dac.o
+ .debug_info    0x0000000000000000      0x4ab build/frames_bootloader/stm32f10x_dac.o
+ .debug_abbrev  0x0000000000000000      0x1b8 build/frames_bootloader/stm32f10x_dac.o
+ .debug_loc     0x0000000000000000      0x235 build/frames_bootloader/stm32f10x_dac.o
+ .debug_aranges
+                0x0000000000000000       0x78 build/frames_bootloader/stm32f10x_dac.o
+ .debug_ranges  0x0000000000000000       0x68 build/frames_bootloader/stm32f10x_dac.o
+ .debug_line    0x0000000000000000      0x256 build/frames_bootloader/stm32f10x_dac.o
+ .debug_str     0x0000000000000000      0x3fe build/frames_bootloader/stm32f10x_dac.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_dac.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_dac.o
+ .debug_frame   0x0000000000000000       0xec build/frames_bootloader/stm32f10x_dac.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .text.DBGMCU_Config
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_info    0x0000000000000000      0x12c build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_abbrev  0x0000000000000000       0xdc build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_loc     0x0000000000000000       0x3a build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_ranges  0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_line    0x0000000000000000      0x110 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_str     0x0000000000000000      0x247 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .debug_frame   0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_dbgmcu.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dma.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dma.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_StructInit
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_ITConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_GetFlagStatus
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_ClearFlag
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_GetITStatus
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_dma.o
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_dma.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_exti.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_exti.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_DeInit
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_Init
+                0x0000000000000000       0x80 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_StructInit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_GetFlagStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_ClearFlag
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_GetITStatus
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_exti.o
+ .debug_info    0x0000000000000000      0x314 build/frames_bootloader/stm32f10x_exti.o
+ .debug_abbrev  0x0000000000000000      0x169 build/frames_bootloader/stm32f10x_exti.o
+ .debug_loc     0x0000000000000000      0x22b build/frames_bootloader/stm32f10x_exti.o
+ .debug_aranges
+                0x0000000000000000       0x58 build/frames_bootloader/stm32f10x_exti.o
+ .debug_ranges  0x0000000000000000       0x48 build/frames_bootloader/stm32f10x_exti.o
+ .debug_line    0x0000000000000000      0x1fa build/frames_bootloader/stm32f10x_exti.o
+ .debug_str     0x0000000000000000      0x39e build/frames_bootloader/stm32f10x_exti.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_exti.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_exti.o
+ .debug_frame   0x0000000000000000       0x98 build/frames_bootloader/stm32f10x_exti.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_flash.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_flash.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_SetLatency
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_HalfCycleAccessCmd
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_Lock
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetPrefetchBufferStatus
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_ClearFlag
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000       0x84 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000000       0x3c build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000       0x50 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000       0xe4 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000       0xa0 build/frames_bootloader/stm32f10x_flash.o
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000       0x60 build/frames_bootloader/stm32f10x_flash.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_fsmc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_fsmc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x0000000000000000       0x38 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x0000000000000000       0xc8 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDInit
+                0x0000000000000000       0x78 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x0000000000000000       0x68 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x0000000000000000       0x54 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x0000000000000000       0x30 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x0000000000000000       0x30 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDCmd
+                0x0000000000000000       0x34 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x0000000000000000       0x34 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetECC
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ITConfig
+                0x0000000000000000       0x58 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ClearFlag
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_GetITStatus
+                0x0000000000000000       0x34 build/frames_bootloader/stm32f10x_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_info    0x0000000000000000      0x8b6 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_abbrev  0x0000000000000000      0x197 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_loc     0x0000000000000000      0x464 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_aranges
+                0x0000000000000000       0xb0 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_ranges  0x0000000000000000       0xa0 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_line    0x0000000000000000      0x3f3 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_str     0x0000000000000000      0x7ae build/frames_bootloader/stm32f10x_fsmc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_fsmc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_fsmc.o
+ .debug_frame   0x0000000000000000      0x190 build/frames_bootloader/stm32f10x_fsmc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_gpio.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_gpio.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xe8 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000       0x5c build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_gpio.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_i2c.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_i2c.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_Init
+                0x0000000000000000       0xe8 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_StructInit
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_Cmd  0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_DMACmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_DualAddressCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_ITConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_SendData
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_Send7bitAddress
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_TransmitPEC
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_PECPositionConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_CalculatePEC
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetPEC
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_ARPCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_StretchClockCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetLastEvent
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_CheckEvent
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetFlagStatus
+                0x0000000000000000       0x38 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_ClearFlag
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_GetITStatus
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_info    0x0000000000000000      0xb22 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_abbrev  0x0000000000000000      0x1de build/frames_bootloader/stm32f10x_i2c.o
+ .debug_loc     0x0000000000000000      0x6e1 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_aranges
+                0x0000000000000000      0x118 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_ranges  0x0000000000000000      0x108 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_line    0x0000000000000000      0x449 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_str     0x0000000000000000      0x6a7 build/frames_bootloader/stm32f10x_i2c.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_i2c.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_i2c.o
+ .debug_frame   0x0000000000000000      0x238 build/frames_bootloader/stm32f10x_i2c.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_iwdg.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_iwdg.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_SetReload
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_Enable
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_info    0x0000000000000000      0x1c1 build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_abbrev  0x0000000000000000       0xff build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_loc     0x0000000000000000       0x62 build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_aranges
+                0x0000000000000000       0x48 build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_ranges  0x0000000000000000       0x38 build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_line    0x0000000000000000      0x13f build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_str     0x0000000000000000      0x29c build/frames_bootloader/stm32f10x_iwdg.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_iwdg.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_iwdg.o
+ .debug_frame   0x0000000000000000       0x70 build/frames_bootloader/stm32f10x_iwdg.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_pwr.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_pwr.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_DeInit
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_PVDCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x0000000000000000       0x38 build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_GetFlagStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_pwr.o
+ .text.PWR_ClearFlag
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_pwr.o
+ .debug_info    0x0000000000000000      0x2ef build/frames_bootloader/stm32f10x_pwr.o
+ .debug_abbrev  0x0000000000000000      0x17c build/frames_bootloader/stm32f10x_pwr.o
+ .debug_loc     0x0000000000000000      0x111 build/frames_bootloader/stm32f10x_pwr.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/frames_bootloader/stm32f10x_pwr.o
+ .debug_ranges  0x0000000000000000       0x50 build/frames_bootloader/stm32f10x_pwr.o
+ .debug_line    0x0000000000000000      0x1ff build/frames_bootloader/stm32f10x_pwr.o
+ .debug_str     0x0000000000000000      0x312 build/frames_bootloader/stm32f10x_pwr.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_pwr.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_pwr.o
+ .debug_frame   0x0000000000000000       0xb0 build/frames_bootloader/stm32f10x_pwr.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_rcc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_rcc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x3c build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_USBCLKConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000       0xa8 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_MCOConfig
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x3c build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_rcc.o
+ .data.ADCPrescTable
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_rcc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_rtc.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_rtc.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_ITConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_EnterConfigMode
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_ExitConfigMode
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetCounter
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetCounter
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetPrescaler
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_SetAlarm
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetDivider
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_WaitForLastTask
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_WaitForSynchro
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetFlagStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_ClearFlag
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_GetITStatus
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_rtc.o
+ .debug_info    0x0000000000000000      0x452 build/frames_bootloader/stm32f10x_rtc.o
+ .debug_abbrev  0x0000000000000000      0x1ca build/frames_bootloader/stm32f10x_rtc.o
+ .debug_loc     0x0000000000000000      0x20e build/frames_bootloader/stm32f10x_rtc.o
+ .debug_aranges
+                0x0000000000000000       0x88 build/frames_bootloader/stm32f10x_rtc.o
+ .debug_ranges  0x0000000000000000       0xd8 build/frames_bootloader/stm32f10x_rtc.o
+ .debug_line    0x0000000000000000      0x22f build/frames_bootloader/stm32f10x_rtc.o
+ .debug_str     0x0000000000000000      0x3da build/frames_bootloader/stm32f10x_rtc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_rtc.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_rtc.o
+ .debug_frame   0x0000000000000000       0xf0 build/frames_bootloader/stm32f10x_rtc.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_sdio.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_sdio.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DeInit
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_Init
+                0x0000000000000000       0x34 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StructInit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClockCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetPowerState
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetPowerState
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ITConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DMACmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendCommand
+                0x0000000000000000       0x30 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CmdStructInit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetResponse
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DataConfig
+                0x0000000000000000       0x30 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_DataStructInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetDataCounter
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ReadData
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_WriteData
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClearFlag
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_GetITStatus
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_sdio.o
+ .debug_info    0x0000000000000000      0x7ac build/frames_bootloader/stm32f10x_sdio.o
+ .debug_abbrev  0x0000000000000000      0x1d6 build/frames_bootloader/stm32f10x_sdio.o
+ .debug_loc     0x0000000000000000      0x243 build/frames_bootloader/stm32f10x_sdio.o
+ .debug_aranges
+                0x0000000000000000      0x108 build/frames_bootloader/stm32f10x_sdio.o
+ .debug_ranges  0x0000000000000000       0xf8 build/frames_bootloader/stm32f10x_sdio.o
+ .debug_line    0x0000000000000000      0x3aa build/frames_bootloader/stm32f10x_sdio.o
+ .debug_str     0x0000000000000000      0x67b build/frames_bootloader/stm32f10x_sdio.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_sdio.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_sdio.o
+ .debug_frame   0x0000000000000000      0x210 build/frames_bootloader/stm32f10x_sdio.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_spi.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_spi.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x70 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_Init
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_spi.o
+ .text.I2S_Init
+                0x0000000000000000       0xb0 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_StructInit
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_spi.o
+ .text.I2S_StructInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_Cmd  0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_spi.o
+ .text.I2S_Cmd  0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_SendData
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_TransmitCRC
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_GetCRC
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x2c build/frames_bootloader/stm32f10x_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_spi.o
+ .debug_info    0x0000000000000000      0x997 build/frames_bootloader/stm32f10x_spi.o
+ .debug_abbrev  0x0000000000000000      0x1eb build/frames_bootloader/stm32f10x_spi.o
+ .debug_loc     0x0000000000000000      0x4e8 build/frames_bootloader/stm32f10x_spi.o
+ .debug_aranges
+                0x0000000000000000       0xd0 build/frames_bootloader/stm32f10x_spi.o
+ .debug_ranges  0x0000000000000000       0xc0 build/frames_bootloader/stm32f10x_spi.o
+ .debug_line    0x0000000000000000      0x386 build/frames_bootloader/stm32f10x_spi.o
+ .debug_str     0x0000000000000000      0x67d build/frames_bootloader/stm32f10x_spi.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_spi.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_spi.o
+ .debug_frame   0x0000000000000000      0x1ac build/frames_bootloader/stm32f10x_spi.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_tim.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_tim.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_DeInit
+                0x0000000000000000      0x108 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ICInit
+                0x0000000000000000      0x164 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_PWMIConfig
+                0x0000000000000000      0x174 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OCStructInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ICStructInit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_BDTRStructInit
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x20 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GenerateEvent
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_DMAConfig
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_DMACmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000       0x90 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_PrescalerConfig
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0x40 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOCxM
+                0x0000000000000000       0x50 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetCounter
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetAutoreload
+                0x0000000000000000        0x4 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture1
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture2
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture3
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCapture4
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetCounter
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetPrescaler
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_GetFlagStatus
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_tim.o
+ .text.TIM_ClearFlag
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_tim.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_usart.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_usart.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_DeInit
+                0x0000000000000000       0xb8 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_Init
+                0x0000000000000000       0x9c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_StructInit
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ClockInit
+                0x0000000000000000       0x24 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ClockStructInit
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_Cmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ITConfig
+                0x0000000000000000       0x3c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_DMACmd
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SetAddress
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_LINCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SendData
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ReceiveData
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SendBreak
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x18 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_GetFlagStatus
+                0x0000000000000000        0xc build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ClearFlag
+                0x0000000000000000        0x8 build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_GetITStatus
+                0x0000000000000000       0x4c build/frames_bootloader/stm32f10x_usart.o
+ .text.USART_ClearITPendingBit
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_usart.o
+ .debug_info    0x0000000000000000      0xa84 build/frames_bootloader/stm32f10x_usart.o
+ .debug_abbrev  0x0000000000000000      0x1dc build/frames_bootloader/stm32f10x_usart.o
+ .debug_loc     0x0000000000000000      0x697 build/frames_bootloader/stm32f10x_usart.o
+ .debug_aranges
+                0x0000000000000000       0xf0 build/frames_bootloader/stm32f10x_usart.o
+ .debug_ranges  0x0000000000000000       0xe0 build/frames_bootloader/stm32f10x_usart.o
+ .debug_line    0x0000000000000000      0x3e6 build/frames_bootloader/stm32f10x_usart.o
+ .debug_str     0x0000000000000000      0x6e3 build/frames_bootloader/stm32f10x_usart.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_usart.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_usart.o
+ .debug_frame   0x0000000000000000      0x1ec build/frames_bootloader/stm32f10x_usart.o
+ .text          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_wwdg.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_wwdg.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_DeInit
+                0x0000000000000000       0x1c build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x0000000000000000       0x14 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x0000000000000000       0x28 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_EnableIT
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_SetCounter
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_Enable
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_wwdg.o
+ .text.WWDG_ClearFlag
+                0x0000000000000000       0x10 build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_info    0x0000000000000000      0x24e build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_abbrev  0x0000000000000000      0x13e build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_loc     0x0000000000000000       0xae build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_aranges
+                0x0000000000000000       0x58 build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_ranges  0x0000000000000000       0x48 build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_line    0x0000000000000000      0x1b6 build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_str     0x0000000000000000      0x2cf build/frames_bootloader/stm32f10x_wwdg.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_wwdg.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/frames_bootloader/stm32f10x_wwdg.o
+ .debug_frame   0x0000000000000000       0x9c build/frames_bootloader/stm32f10x_wwdg.o
+ .text          0x0000000000000000       0x14 build/frames_bootloader/startup_stm32f10x_md.o
+ .data          0x0000000000000000        0x0 build/frames_bootloader/startup_stm32f10x_md.o
+ .bss           0x0000000000000000        0x0 build/frames_bootloader/startup_stm32f10x_md.o
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x0000000000000000        0xa /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_info    0x0000000000000000      0x10f /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_abbrev  0x0000000000000000       0xc7 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_loc     0x0000000000000000       0x79 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_ranges  0x0000000000000000       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_line    0x0000000000000000       0x74 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_str     0x0000000000000000      0x21a /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x0000000000000000       0x16 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_info    0x0000000000000000      0x13b /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_abbrev  0x0000000000000000       0xc1 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_loc     0x0000000000000000       0x8f /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_ranges  0x0000000000000000       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_line    0x0000000000000000       0x85 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_str     0x0000000000000000      0x24a /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x0000000000000000       0x2c /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-cxa_atexit.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x0000000000000000       0xb8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x8b8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x1e6 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x146 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_ranges  0x0000000000000000       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x1a8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x614 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x34 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0xf0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x0000000000000000        0x2 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x89d /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x15b /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000      0x111 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x60b /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .jcr           0x0000000000000000        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+ .text          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+ .data          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+ .bss           0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000020000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+LOAD build/frames_bootloader/bootloader.o
+LOAD build/frames_bootloader/adc.o
+LOAD build/frames_bootloader/channel_leds.o
+LOAD build/frames_bootloader/dac.o
+LOAD build/frames_bootloader/keyframe_led.o
+LOAD build/frames_bootloader/rgb_led.o
+LOAD build/frames_bootloader/switches.o
+LOAD build/frames_bootloader/system.o
+LOAD build/frames_bootloader/trigger_output.o
+LOAD build/frames_bootloader/uart_logger.o
+LOAD build/frames_bootloader/random.o
+LOAD build/frames_bootloader/bootloader_utils.o
+LOAD build/frames_bootloader/system_clock.o
+LOAD build/frames_bootloader/demodulator.o
+LOAD build/frames_bootloader/packet_decoder.o
+LOAD build/frames_bootloader/core_cm3.o
+LOAD build/frames_bootloader/system_stm32f10x.o
+LOAD build/frames_bootloader/misc.o
+LOAD build/frames_bootloader/stm32f10x_adc.o
+LOAD build/frames_bootloader/stm32f10x_bkp.o
+LOAD build/frames_bootloader/stm32f10x_can.o
+LOAD build/frames_bootloader/stm32f10x_crc.o
+LOAD build/frames_bootloader/stm32f10x_dac.o
+LOAD build/frames_bootloader/stm32f10x_dbgmcu.o
+LOAD build/frames_bootloader/stm32f10x_dma.o
+LOAD build/frames_bootloader/stm32f10x_exti.o
+LOAD build/frames_bootloader/stm32f10x_flash.o
+LOAD build/frames_bootloader/stm32f10x_fsmc.o
+LOAD build/frames_bootloader/stm32f10x_gpio.o
+LOAD build/frames_bootloader/stm32f10x_i2c.o
+LOAD build/frames_bootloader/stm32f10x_iwdg.o
+LOAD build/frames_bootloader/stm32f10x_pwr.o
+LOAD build/frames_bootloader/stm32f10x_rcc.o
+LOAD build/frames_bootloader/stm32f10x_rtc.o
+LOAD build/frames_bootloader/stm32f10x_sdio.o
+LOAD build/frames_bootloader/stm32f10x_spi.o
+LOAD build/frames_bootloader/stm32f10x_tim.o
+LOAD build/frames_bootloader/stm32f10x_usart.o
+LOAD build/frames_bootloader/stm32f10x_wwdg.o
+LOAD build/frames_bootloader/startup_stm32f10x_md.o
+START GROUP
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/libgcc.a
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtend.o
+LOAD /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+
+.text           0x0000000008000000     0x2204
+                0x0000000008000000                _start = .
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x10c build/frames_bootloader/startup_stm32f10x_md.o
+                0x0000000008000000                g_pfnVectors
+ *(.text*)
+ .text.HardFault_Handler
+                0x000000000800010c        0x4 build/frames_bootloader/bootloader.o
+                0x000000000800010c                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000000008000110        0x4 build/frames_bootloader/bootloader.o
+                0x0000000008000110                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008000114        0x4 build/frames_bootloader/bootloader.o
+                0x0000000008000114                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008000118        0x4 build/frames_bootloader/bootloader.o
+                0x0000000008000118                UsageFault_Handler
+ .text.NMI_Handler
+                0x000000000800011c        0x4 build/frames_bootloader/bootloader.o
+                0x000000000800011c                NMI_Handler
+ .text.SVC_Handler
+                0x0000000008000120        0x4 build/frames_bootloader/bootloader.o
+                0x0000000008000120                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000008000124        0x4 build/frames_bootloader/bootloader.o
+                0x0000000008000124                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008000128        0x4 build/frames_bootloader/bootloader.o
+                0x0000000008000128                PendSV_Handler
+ .text.SysTick_Handler
+                0x000000000800012c      0x130 build/frames_bootloader/bootloader.o
+                0x000000000800012c                SysTick_Handler
+ .text.TIM1_UP_IRQHandler
+                0x000000000800025c       0x78 build/frames_bootloader/bootloader.o
+                0x000000000800025c                TIM1_UP_IRQHandler
+ .text._Z11ProgramPagePKhj
+                0x00000000080002d4       0x34 build/frames_bootloader/bootloader.o
+                0x00000000080002d4                ProgramPage(unsigned char const*, unsigned int)
+ .text._Z4Initv
+                0x0000000008000308       0x60 build/frames_bootloader/bootloader.o
+                0x0000000008000308                Init()
+ .text._Z19InitializeReceptionv
+                0x0000000008000368       0x80 build/frames_bootloader/bootloader.o
+                0x0000000008000368                InitializeReception()
+ .text.startup.main
+                0x00000000080003e8      0x234 build/frames_bootloader/bootloader.o
+                0x00000000080003e8                main
+ .text._ZN6frames3Adc4InitEb
+                0x000000000800061c      0x1a8 build/frames_bootloader/adc.o
+                0x000000000800061c                frames::Adc::Init(bool)
+ .text._ZN6frames3Adc6DeInitEv
+                0x00000000080007c4       0x28 build/frames_bootloader/adc.o
+                0x00000000080007c4                frames::Adc::DeInit()
+ .text._ZN6frames11ChannelLeds4InitEv
+                0x00000000080007ec       0xb4 build/frames_bootloader/channel_leds.o
+                0x00000000080007ec                frames::ChannelLeds::Init()
+ .text._ZN6frames11ChannelLeds5WriteEv
+                0x00000000080008a0       0x38 build/frames_bootloader/channel_leds.o
+                0x00000000080008a0                frames::ChannelLeds::Write()
+ .text._ZN6frames6RgbLed4InitEv
+                0x00000000080008d8       0xc0 build/frames_bootloader/rgb_led.o
+                0x00000000080008d8                frames::RgbLed::Init()
+ .text._ZN6frames6RgbLed5WriteEv
+                0x0000000008000998       0x30 build/frames_bootloader/rgb_led.o
+                0x0000000008000998                frames::RgbLed::Write()
+ .text._ZN6frames8Switches4InitEv
+                0x00000000080009c8       0x34 build/frames_bootloader/switches.o
+                0x00000000080009c8                frames::Switches::Init()
+ .text._ZN6frames8Switches8DebounceEv
+                0x00000000080009fc       0x38 build/frames_bootloader/switches.o
+                0x00000000080009fc                frames::Switches::Debounce()
+ .text._ZN6frames6System4InitEmb
+                0x0000000008000a34       0xa4 build/frames_bootloader/system.o
+                0x0000000008000a34                frames::System::Init(unsigned long, bool)
+ .text._ZN6frames6System11StartTimersEv
+                0x0000000008000ad8       0x3c build/frames_bootloader/system.o
+                0x0000000008000ad8                frames::System::StartTimers()
+ .text._ZN6stmlib12UninitializeEv
+                0x0000000008000b14       0x7c build/frames_bootloader/bootloader_utils.o
+                0x0000000008000b14                stmlib::Uninitialize()
+ .text._ZN6stmlib6JumpToEm
+                0x0000000008000b90       0x10 build/frames_bootloader/bootloader_utils.o
+                0x0000000008000b90                stmlib::JumpTo(unsigned long)
+ .text._ZN20stm_audio_bootloader11Demodulator5ResetEv
+                0x0000000008000ba0       0x4c build/frames_bootloader/demodulator.o
+                0x0000000008000ba0                stm_audio_bootloader::Demodulator::Reset()
+ .text._ZN20stm_audio_bootloader11Demodulator4InitEmtt
+                0x0000000008000bec       0x48 build/frames_bootloader/demodulator.o
+                0x0000000008000bec                stm_audio_bootloader::Demodulator::Init(unsigned long, unsigned short, unsigned short)
+ .text._ZN20stm_audio_bootloader11Demodulator12DecideSymbolEb
+                0x0000000008000c34      0x124 build/frames_bootloader/demodulator.o
+                0x0000000008000c34                stm_audio_bootloader::Demodulator::DecideSymbol(bool)
+ .text._ZN20stm_audio_bootloader11Demodulator19EstimateDcComponentEv
+                0x0000000008000d58       0x5c build/frames_bootloader/demodulator.o
+                0x0000000008000d58                stm_audio_bootloader::Demodulator::EstimateDcComponent()
+ .text._ZN20stm_audio_bootloader11Demodulator13EstimatePowerEv
+                0x0000000008000db4       0x68 build/frames_bootloader/demodulator.o
+                0x0000000008000db4                stm_audio_bootloader::Demodulator::EstimatePower()
+ .text._ZN20stm_audio_bootloader11Demodulator10DemodulateEv
+                0x0000000008000e1c      0x278 build/frames_bootloader/demodulator.o
+                0x0000000008000e1c                stm_audio_bootloader::Demodulator::Demodulate()
+ .text._ZN20stm_audio_bootloader13PacketDecoder4InitEt
+                0x0000000008001094       0x18 build/frames_bootloader/packet_decoder.o
+                0x0000000008001094                stm_audio_bootloader::PacketDecoder::Init(unsigned short)
+ .text._ZN20stm_audio_bootloader13PacketDecoder15ParseSyncHeaderEh
+                0x00000000080010ac       0x9c build/frames_bootloader/packet_decoder.o
+                0x00000000080010ac                stm_audio_bootloader::PacketDecoder::ParseSyncHeader(unsigned char)
+ .text._ZN20stm_audio_bootloader13PacketDecoder13ProcessSymbolEh
+                0x0000000008001148       0xb4 build/frames_bootloader/packet_decoder.o
+                0x0000000008001148                stm_audio_bootloader::PacketDecoder::ProcessSymbol(unsigned char)
+ .text.__set_MSP
+                0x00000000080011fc        0x8 build/frames_bootloader/core_cm3.o
+                0x00000000080011fc                __set_MSP
+ .text.SystemInit
+                0x0000000008001204      0x114 build/frames_bootloader/system_stm32f10x.o
+                0x0000000008001204                SystemInit
+ .text.NVIC_PriorityGroupConfig
+                0x0000000008001318       0x14 build/frames_bootloader/misc.o
+                0x0000000008001318                NVIC_PriorityGroupConfig
+ .text.NVIC_Init
+                0x000000000800132c       0x78 build/frames_bootloader/misc.o
+                0x000000000800132c                NVIC_Init
+ .text.NVIC_SetVectorTable
+                0x00000000080013a4       0x18 build/frames_bootloader/misc.o
+                0x00000000080013a4                NVIC_SetVectorTable
+ .text.ADC_DeInit
+                0x00000000080013bc       0x70 build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080013bc                ADC_DeInit
+ .text.ADC_Init
+                0x000000000800142c       0x4c build/frames_bootloader/stm32f10x_adc.o
+                0x000000000800142c                ADC_Init
+ .text.ADC_Cmd  0x0000000008001478       0x14 build/frames_bootloader/stm32f10x_adc.o
+                0x0000000008001478                ADC_Cmd
+ .text.ADC_DMACmd
+                0x000000000800148c       0x14 build/frames_bootloader/stm32f10x_adc.o
+                0x000000000800148c                ADC_DMACmd
+ .text.ADC_ResetCalibration
+                0x00000000080014a0        0xc build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080014a0                ADC_ResetCalibration
+ .text.ADC_GetResetCalibrationStatus
+                0x00000000080014ac        0x8 build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080014ac                ADC_GetResetCalibrationStatus
+ .text.ADC_StartCalibration
+                0x00000000080014b4        0xc build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080014b4                ADC_StartCalibration
+ .text.ADC_GetCalibrationStatus
+                0x00000000080014c0        0x8 build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080014c0                ADC_GetCalibrationStatus
+ .text.ADC_SoftwareStartConvCmd
+                0x00000000080014c8       0x14 build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080014c8                ADC_SoftwareStartConvCmd
+ .text.ADC_RegularChannelConfig
+                0x00000000080014dc       0x9c build/frames_bootloader/stm32f10x_adc.o
+                0x00000000080014dc                ADC_RegularChannelConfig
+ .text.DMA_DeInit
+                0x0000000008001578      0x150 build/frames_bootloader/stm32f10x_dma.o
+                0x0000000008001578                DMA_DeInit
+ .text.DMA_Init
+                0x00000000080016c8       0x40 build/frames_bootloader/stm32f10x_dma.o
+                0x00000000080016c8                DMA_Init
+ .text.DMA_Cmd  0x0000000008001708       0x14 build/frames_bootloader/stm32f10x_dma.o
+                0x0000000008001708                DMA_Cmd
+ .text.FLASH_Unlock
+                0x000000000800171c       0x20 build/frames_bootloader/stm32f10x_flash.o
+                0x000000000800171c                FLASH_Unlock
+ .text.FLASH_GetStatus
+                0x000000000800173c       0x2c build/frames_bootloader/stm32f10x_flash.o
+                0x000000000800173c                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x0000000008001768       0x54 build/frames_bootloader/stm32f10x_flash.o
+                0x0000000008001768                FLASH_WaitForLastOperation
+ .text.FLASH_ErasePage
+                0x00000000080017bc       0x44 build/frames_bootloader/stm32f10x_flash.o
+                0x00000000080017bc                FLASH_ErasePage
+ .text.FLASH_ProgramWord
+                0x0000000008001800       0x60 build/frames_bootloader/stm32f10x_flash.o
+                0x0000000008001800                FLASH_ProgramWord
+ .text.GPIO_Init
+                0x0000000008001860       0xb4 build/frames_bootloader/stm32f10x_gpio.o
+                0x0000000008001860                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x0000000008001914        0xc build/frames_bootloader/stm32f10x_gpio.o
+                0x0000000008001914                GPIO_ReadInputDataBit
+ .text.RCC_ADCCLKConfig
+                0x0000000008001920       0x14 build/frames_bootloader/stm32f10x_rcc.o
+                0x0000000008001920                RCC_ADCCLKConfig
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000008001934       0x1c build/frames_bootloader/stm32f10x_rcc.o
+                0x0000000008001934                RCC_AHBPeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000008001950       0x1c build/frames_bootloader/stm32f10x_rcc.o
+                0x0000000008001950                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x000000000800196c       0x1c build/frames_bootloader/stm32f10x_rcc.o
+                0x000000000800196c                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000008001988       0x1c build/frames_bootloader/stm32f10x_rcc.o
+                0x0000000008001988                RCC_APB2PeriphResetCmd
+ .text.TIM_TimeBaseInit
+                0x00000000080019a4       0x48 build/frames_bootloader/stm32f10x_tim.o
+                0x00000000080019a4                TIM_TimeBaseInit
+ .text.TIM_OC1Init
+                0x00000000080019ec       0x98 build/frames_bootloader/stm32f10x_tim.o
+                0x00000000080019ec                TIM_OC1Init
+ .text.TIM_OC2Init
+                0x0000000008001a84       0x94 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001a84                TIM_OC2Init
+ .text.TIM_OC3Init
+                0x0000000008001b18       0x94 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001b18                TIM_OC3Init
+ .text.TIM_OC4Init
+                0x0000000008001bac       0x7c build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001bac                TIM_OC4Init
+ .text.TIM_Cmd  0x0000000008001c28       0x1c build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c28                TIM_Cmd
+ .text.TIM_ITConfig
+                0x0000000008001c44       0x14 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c44                TIM_ITConfig
+ .text.TIM_InternalClockConfig
+                0x0000000008001c58       0x10 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c58                TIM_InternalClockConfig
+ .text.TIM_OC1PreloadConfig
+                0x0000000008001c68       0x10 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c68                TIM_OC1PreloadConfig
+ .text.TIM_OC2PreloadConfig
+                0x0000000008001c78       0x14 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c78                TIM_OC2PreloadConfig
+ .text.TIM_OC3PreloadConfig
+                0x0000000008001c8c       0x10 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c8c                TIM_OC3PreloadConfig
+ .text.TIM_OC4PreloadConfig
+                0x0000000008001c9c       0x14 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001c9c                TIM_OC4PreloadConfig
+ .text.TIM_SetCompare1
+                0x0000000008001cb0        0x4 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001cb0                TIM_SetCompare1
+ .text.TIM_SetCompare2
+                0x0000000008001cb4        0x4 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001cb4                TIM_SetCompare2
+ .text.TIM_SetCompare3
+                0x0000000008001cb8        0x4 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001cb8                TIM_SetCompare3
+ .text.TIM_SetCompare4
+                0x0000000008001cbc        0x8 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001cbc                TIM_SetCompare4
+ .text.TIM_GetITStatus
+                0x0000000008001cc4       0x18 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001cc4                TIM_GetITStatus
+ .text.TIM_ClearITPendingBit
+                0x0000000008001cdc        0x8 build/frames_bootloader/stm32f10x_tim.o
+                0x0000000008001cdc                TIM_ClearITPendingBit
+ .text.Reset_Handler
+                0x0000000008001ce4       0x40 build/frames_bootloader/startup_stm32f10x_md.o
+                0x0000000008001ce4                Reset_Handler
+ .text.Default_Handler
+                0x0000000008001d24        0x2 build/frames_bootloader/startup_stm32f10x_md.o
+                0x0000000008001d24                EXTI2_IRQHandler
+                0x0000000008001d24                TIM1_CC_IRQHandler
+                0x0000000008001d24                PVD_IRQHandler
+                0x0000000008001d24                EXTI3_IRQHandler
+                0x0000000008001d24                EXTI0_IRQHandler
+                0x0000000008001d24                I2C2_EV_IRQHandler
+                0x0000000008001d24                ADC1_2_IRQHandler
+                0x0000000008001d24                SPI1_IRQHandler
+                0x0000000008001d24                TAMPER_IRQHandler
+                0x0000000008001d24                DMA1_Channel4_IRQHandler
+                0x0000000008001d24                USART3_IRQHandler
+                0x0000000008001d24                RTC_IRQHandler
+                0x0000000008001d24                DMA1_Channel7_IRQHandler
+                0x0000000008001d24                CAN1_RX1_IRQHandler
+                0x0000000008001d24                TIM4_IRQHandler
+                0x0000000008001d24                I2C1_EV_IRQHandler
+                0x0000000008001d24                DMA1_Channel6_IRQHandler
+                0x0000000008001d24                TIM3_IRQHandler
+                0x0000000008001d24                RCC_IRQHandler
+                0x0000000008001d24                TIM1_TRG_COM_IRQHandler
+                0x0000000008001d24                DMA1_Channel1_IRQHandler
+                0x0000000008001d24                Default_Handler
+                0x0000000008001d24                EXTI15_10_IRQHandler
+                0x0000000008001d24                EXTI9_5_IRQHandler
+                0x0000000008001d24                SPI2_IRQHandler
+                0x0000000008001d24                DMA1_Channel5_IRQHandler
+                0x0000000008001d24                EXTI4_IRQHandler
+                0x0000000008001d24                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000008001d24                USB_HP_CAN1_TX_IRQHandler
+                0x0000000008001d24                DMA1_Channel3_IRQHandler
+                0x0000000008001d24                WWDG_IRQHandler
+                0x0000000008001d24                TIM2_IRQHandler
+                0x0000000008001d24                TIM1_BRK_IRQHandler
+                0x0000000008001d24                EXTI1_IRQHandler
+                0x0000000008001d24                RTCAlarm_IRQHandler
+                0x0000000008001d24                USART2_IRQHandler
+                0x0000000008001d24                I2C2_ER_IRQHandler
+                0x0000000008001d24                DMA1_Channel2_IRQHandler
+                0x0000000008001d24                CAN1_SCE_IRQHandler
+                0x0000000008001d24                FLASH_IRQHandler
+                0x0000000008001d24                USART1_IRQHandler
+                0x0000000008001d24                I2C1_ER_IRQHandler
+                0x0000000008001d24                USBWakeUp_IRQHandler
+ .text.memcpy   0x0000000008001d26       0x12 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+                0x0000000008001d26                memcpy
+ .text.memset   0x0000000008001d38       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                0x0000000008001d38                memset
+ *(.rodata*)
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_3_7E
+                0x0000000008001d48       0x10 build/frames_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_4_7E
+                0x0000000008001d58       0x10 build/frames_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_6_7E
+                0x0000000008001d68       0x10 build/frames_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL23filter_coefficients_8_7E
+                0x0000000008001d78       0x10 build/frames_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL12cutoff_tableE
+                0x0000000008001d88       0x44 build/frames_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL24filter_coefficients_12_7E
+                0x0000000008001dcc       0x10 build/frames_bootloader/demodulator.o
+ .rodata._ZN20stm_audio_bootloaderL24filter_coefficients_16_7E
+                0x0000000008001ddc       0x10 build/frames_bootloader/demodulator.o
+ .rodata._ZL9crc32_tab
+                0x0000000008001dec      0x400 build/frames_bootloader/packet_decoder.o
+ *(.flashtext*)
+ *(.init)
+ .init          0x00000000080021ec        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+                0x00000000080021ec                _init
+ .init          0x00000000080021f0        0x8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+ *(.fini)
+ .fini          0x00000000080021f8        0x4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+                0x00000000080021f8                _fini
+ .fini          0x00000000080021fc        0x8 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+                0x0000000008002204                _etext = .
+                0x0000000008002204                _sidata = .
+
+.glue_7         0x0000000008002204        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000008002204        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008002204        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000008002204        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000008002204        0x0
+ .iplt          0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+
+.rel.dyn        0x0000000008002204        0x0
+ .rel.iplt      0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+
+.data           0x0000000020000000      0x208 load address 0x0000000008002204
+                0x0000000020000000                _sdata = .
+ *(.ramtext*)
+                0x0000000020000000                . = ALIGN (0x4)
+ *(.data*)
+ .data.discard_samples
+                0x0000000020000000        0x2 build/frames_bootloader/bootloader.o
+                0x0000000020000000                discard_samples
+ *fill*         0x0000000020000002        0x2 
+ .data._ZN20stm_audio_bootloader8lut_sineE
+                0x0000000020000004      0x204 build/frames_bootloader/demodulator.o
+                0x0000000020000004                stm_audio_bootloader::lut_sine
+                0x0000000020000208                _edata = .
+
+.igot.plt       0x0000000020000208        0x0 load address 0x000000000800240c
+ .igot.plt      0x0000000000000000        0x0 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtbegin.o
+
+.bss            0x0000000020000208     0x145c load address 0x000000000800240c
+                0x0000000020000208                _sstack = .
+                0x0000000020000408                . = (. + 0x200)
+ *fill*         0x0000000020000208      0x200 
+                0x0000000020000408                _estack = .
+                0x0000000020000408                _sbss = .
+ *(.bss*)
+ .bss.demodulator
+                0x0000000020000408      0xd18 build/frames_bootloader/bootloader.o
+                0x0000000020000408                demodulator
+ .bss.ui_state  0x0000000020001120        0x1 build/frames_bootloader/bootloader.o
+                0x0000000020001120                ui_state
+ *fill*         0x0000000020001121        0x3 
+ .bss.leds      0x0000000020001124        0x4 build/frames_bootloader/bootloader.o
+                0x0000000020001124                leds
+ .bss.adc       0x0000000020001128        0xc build/frames_bootloader/bootloader.o
+                0x0000000020001128                adc
+ .bss.rgb       0x0000000020001134        0x4 build/frames_bootloader/bootloader.o
+                0x0000000020001134                rgb
+ .bss.switches  0x0000000020001138        0x4 build/frames_bootloader/bootloader.o
+                0x0000000020001138                switches
+ .bss._ZL15current_address
+                0x000000002000113c        0x4 build/frames_bootloader/bootloader.o
+ .bss.sys       0x0000000020001140        0x4 build/frames_bootloader/bootloader.o
+                0x0000000020001140                sys
+ .bss.decoder   0x0000000020001144      0x114 build/frames_bootloader/bootloader.o
+                0x0000000020001144                decoder
+ .bss.switch_released
+                0x0000000020001258        0x1 build/frames_bootloader/bootloader.o
+                0x0000000020001258                switch_released
+ *fill*         0x0000000020001259        0x3 
+ .bss.rx_buffer
+                0x000000002000125c      0x400 build/frames_bootloader/bootloader.o
+                0x000000002000125c                rx_buffer
+ .bss._ZL12packet_index
+                0x000000002000165c        0x2 build/frames_bootloader/bootloader.o
+ *fill*         0x000000002000165e        0x2 
+ .bss._ZN6stmlib12system_clockE
+                0x0000000020001660        0x4 build/frames_bootloader/system_clock.o
+                0x0000000020001660                stmlib::system_clock
+ *(COMMON)
+                0x0000000020001664                _ebss = .
+OUTPUT(build/frames_bootloader/frames_bootloader.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x27
+ .ARM.attributes
+                0x0000000000000000       0x19 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crti.o
+ .ARM.attributes
+                0x0000000000000019       0x33 build/frames_bootloader/bootloader.o
+ .ARM.attributes
+                0x000000000000004c       0x33 build/frames_bootloader/adc.o
+ .ARM.attributes
+                0x000000000000007f       0x33 build/frames_bootloader/channel_leds.o
+ .ARM.attributes
+                0x00000000000000b2       0x33 build/frames_bootloader/rgb_led.o
+ .ARM.attributes
+                0x00000000000000e5       0x33 build/frames_bootloader/switches.o
+ .ARM.attributes
+                0x0000000000000118       0x33 build/frames_bootloader/system.o
+ .ARM.attributes
+                0x000000000000014b       0x33 build/frames_bootloader/bootloader_utils.o
+ .ARM.attributes
+                0x000000000000017e       0x33 build/frames_bootloader/system_clock.o
+ .ARM.attributes
+                0x00000000000001b1       0x33 build/frames_bootloader/demodulator.o
+ .ARM.attributes
+                0x00000000000001e4       0x33 build/frames_bootloader/packet_decoder.o
+ .ARM.attributes
+                0x0000000000000217       0x33 build/frames_bootloader/core_cm3.o
+ .ARM.attributes
+                0x000000000000024a       0x33 build/frames_bootloader/system_stm32f10x.o
+ .ARM.attributes
+                0x000000000000027d       0x33 build/frames_bootloader/misc.o
+ .ARM.attributes
+                0x00000000000002b0       0x33 build/frames_bootloader/stm32f10x_adc.o
+ .ARM.attributes
+                0x00000000000002e3       0x33 build/frames_bootloader/stm32f10x_dma.o
+ .ARM.attributes
+                0x0000000000000316       0x33 build/frames_bootloader/stm32f10x_flash.o
+ .ARM.attributes
+                0x0000000000000349       0x33 build/frames_bootloader/stm32f10x_gpio.o
+ .ARM.attributes
+                0x000000000000037c       0x33 build/frames_bootloader/stm32f10x_rcc.o
+ .ARM.attributes
+                0x00000000000003af       0x33 build/frames_bootloader/stm32f10x_tim.o
+ .ARM.attributes
+                0x00000000000003e2       0x21 build/frames_bootloader/startup_stm32f10x_md.o
+ .ARM.attributes
+                0x0000000000000403       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x000000000000042c       0x29 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000455       0x19 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/thumb2/crtn.o
+
+.comment        0x0000000000000000       0x76
+ .comment       0x0000000000000000       0x76 build/frames_bootloader/bootloader.o
+                                         0x77 (size before relaxing)
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/adc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/channel_leds.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/rgb_led.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/switches.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/system.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/bootloader_utils.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/system_clock.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/demodulator.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/packet_decoder.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/core_cm3.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/system_stm32f10x.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/misc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_adc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_dma.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_flash.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_gpio.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_rcc.o
+ .comment       0x0000000000000000       0x77 build/frames_bootloader/stm32f10x_tim.o
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x0000000000000000       0x77 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_info     0x0000000000000000     0xdd09
+ .debug_info    0x0000000000000000     0x2ee0 build/frames_bootloader/bootloader.o
+ .debug_info    0x0000000000002ee0      0x998 build/frames_bootloader/adc.o
+ .debug_info    0x0000000000003878      0x9df build/frames_bootloader/channel_leds.o
+ .debug_info    0x0000000000004257      0x972 build/frames_bootloader/rgb_led.o
+ .debug_info    0x0000000000004bc9      0x496 build/frames_bootloader/switches.o
+ .debug_info    0x000000000000505f      0xb84 build/frames_bootloader/system.o
+ .debug_info    0x0000000000005be3      0x2fb build/frames_bootloader/bootloader_utils.o
+ .debug_info    0x0000000000005ede      0x2ce build/frames_bootloader/system_clock.o
+ .debug_info    0x00000000000061ac     0x16bb build/frames_bootloader/demodulator.o
+ .debug_info    0x0000000000007867      0x92c build/frames_bootloader/packet_decoder.o
+ .debug_info    0x0000000000008193      0x509 build/frames_bootloader/core_cm3.o
+ .debug_info    0x000000000000869c      0x2a2 build/frames_bootloader/system_stm32f10x.o
+ .debug_info    0x000000000000893e      0x4c0 build/frames_bootloader/misc.o
+ .debug_info    0x0000000000008dfe      0xbe4 build/frames_bootloader/stm32f10x_adc.o
+ .debug_info    0x00000000000099e2      0x400 build/frames_bootloader/stm32f10x_dma.o
+ .debug_info    0x0000000000009de2      0x8e6 build/frames_bootloader/stm32f10x_flash.o
+ .debug_info    0x000000000000a6c8      0x820 build/frames_bootloader/stm32f10x_gpio.o
+ .debug_info    0x000000000000aee8      0x8f3 build/frames_bootloader/stm32f10x_rcc.o
+ .debug_info    0x000000000000b7db     0x2359 build/frames_bootloader/stm32f10x_tim.o
+ .debug_info    0x000000000000db34      0x102 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x000000000000dc36       0xd3 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_abbrev   0x0000000000000000     0x2f90
+ .debug_abbrev  0x0000000000000000      0x68f build/frames_bootloader/bootloader.o
+ .debug_abbrev  0x000000000000068f      0x289 build/frames_bootloader/adc.o
+ .debug_abbrev  0x0000000000000918      0x23d build/frames_bootloader/channel_leds.o
+ .debug_abbrev  0x0000000000000b55      0x254 build/frames_bootloader/rgb_led.o
+ .debug_abbrev  0x0000000000000da9      0x234 build/frames_bootloader/switches.o
+ .debug_abbrev  0x0000000000000fdd      0x2f2 build/frames_bootloader/system.o
+ .debug_abbrev  0x00000000000012cf      0x18c build/frames_bootloader/bootloader_utils.o
+ .debug_abbrev  0x000000000000145b      0x1fd build/frames_bootloader/system_clock.o
+ .debug_abbrev  0x0000000000001658      0x4d2 build/frames_bootloader/demodulator.o
+ .debug_abbrev  0x0000000000001b2a      0x3b7 build/frames_bootloader/packet_decoder.o
+ .debug_abbrev  0x0000000000001ee1       0xbb build/frames_bootloader/core_cm3.o
+ .debug_abbrev  0x0000000000001f9c      0x113 build/frames_bootloader/system_stm32f10x.o
+ .debug_abbrev  0x00000000000020af      0x141 build/frames_bootloader/misc.o
+ .debug_abbrev  0x00000000000021f0      0x1dc build/frames_bootloader/stm32f10x_adc.o
+ .debug_abbrev  0x00000000000023cc      0x16d build/frames_bootloader/stm32f10x_dma.o
+ .debug_abbrev  0x0000000000002539      0x268 build/frames_bootloader/stm32f10x_flash.o
+ .debug_abbrev  0x00000000000027a1      0x1e7 build/frames_bootloader/stm32f10x_gpio.o
+ .debug_abbrev  0x0000000000002988      0x23f build/frames_bootloader/stm32f10x_rcc.o
+ .debug_abbrev  0x0000000000002bc7      0x297 build/frames_bootloader/stm32f10x_tim.o
+ .debug_abbrev  0x0000000000002e5e       0xa4 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x0000000000002f02       0x8e /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_loc      0x0000000000000000     0x6637
+ .debug_loc     0x0000000000000000      0xaba build/frames_bootloader/bootloader.o
+ .debug_loc     0x0000000000000aba       0x60 build/frames_bootloader/adc.o
+ .debug_loc     0x0000000000000b1a       0x4d build/frames_bootloader/channel_leds.o
+ .debug_loc     0x0000000000000b67       0x4d build/frames_bootloader/rgb_led.o
+ .debug_loc     0x0000000000000bb4       0x3f build/frames_bootloader/switches.o
+ .debug_loc     0x0000000000000bf3       0x81 build/frames_bootloader/system.o
+ .debug_loc     0x0000000000000c74       0x21 build/frames_bootloader/bootloader_utils.o
+ .debug_loc     0x0000000000000c95     0x102d build/frames_bootloader/demodulator.o
+ .debug_loc     0x0000000000001cc2      0x29f build/frames_bootloader/packet_decoder.o
+ .debug_loc     0x0000000000001f61      0x33a build/frames_bootloader/core_cm3.o
+ .debug_loc     0x000000000000229b      0x13d build/frames_bootloader/misc.o
+ .debug_loc     0x00000000000023d8      0x935 build/frames_bootloader/stm32f10x_adc.o
+ .debug_loc     0x0000000000002d0d      0x1af build/frames_bootloader/stm32f10x_dma.o
+ .debug_loc     0x0000000000002ebc      0x839 build/frames_bootloader/stm32f10x_flash.o
+ .debug_loc     0x00000000000036f5      0x5ad build/frames_bootloader/stm32f10x_gpio.o
+ .debug_loc     0x0000000000003ca2      0x7c0 build/frames_bootloader/stm32f10x_rcc.o
+ .debug_loc     0x0000000000004462     0x20cf build/frames_bootloader/stm32f10x_tim.o
+ .debug_loc     0x0000000000006531       0xaf /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x00000000000065e0       0x57 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_aranges  0x0000000000000000      0xac8
+ .debug_aranges
+                0x0000000000000000       0xc8 build/frames_bootloader/bootloader.o
+ .debug_aranges
+                0x00000000000000c8       0x28 build/frames_bootloader/adc.o
+ .debug_aranges
+                0x00000000000000f0       0x28 build/frames_bootloader/channel_leds.o
+ .debug_aranges
+                0x0000000000000118       0x28 build/frames_bootloader/rgb_led.o
+ .debug_aranges
+                0x0000000000000140       0x28 build/frames_bootloader/switches.o
+ .debug_aranges
+                0x0000000000000168       0x28 build/frames_bootloader/system.o
+ .debug_aranges
+                0x0000000000000190       0x28 build/frames_bootloader/bootloader_utils.o
+ .debug_aranges
+                0x00000000000001b8       0x28 build/frames_bootloader/system_clock.o
+ .debug_aranges
+                0x00000000000001e0       0x48 build/frames_bootloader/demodulator.o
+ .debug_aranges
+                0x0000000000000228       0x38 build/frames_bootloader/packet_decoder.o
+ .debug_aranges
+                0x0000000000000260       0xc8 build/frames_bootloader/core_cm3.o
+ .debug_aranges
+                0x0000000000000328       0x20 build/frames_bootloader/system_stm32f10x.o
+ .debug_aranges
+                0x0000000000000348       0x40 build/frames_bootloader/misc.o
+ .debug_aranges
+                0x0000000000000388      0x138 build/frames_bootloader/stm32f10x_adc.o
+ .debug_aranges
+                0x00000000000004c0       0x68 build/frames_bootloader/stm32f10x_dma.o
+ .debug_aranges
+                0x0000000000000528       0xd0 build/frames_bootloader/stm32f10x_flash.o
+ .debug_aranges
+                0x00000000000005f8       0xa8 build/frames_bootloader/stm32f10x_gpio.o
+ .debug_aranges
+                0x00000000000006a0      0x118 build/frames_bootloader/stm32f10x_rcc.o
+ .debug_aranges
+                0x00000000000007b8      0x2d0 build/frames_bootloader/stm32f10x_tim.o
+ .debug_aranges
+                0x0000000000000a88       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x0000000000000aa8       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_ranges   0x0000000000000000     0x1290
+ .debug_ranges  0x0000000000000000      0x540 build/frames_bootloader/bootloader.o
+ .debug_ranges  0x0000000000000540       0x38 build/frames_bootloader/adc.o
+ .debug_ranges  0x0000000000000578       0x30 build/frames_bootloader/channel_leds.o
+ .debug_ranges  0x00000000000005a8       0x30 build/frames_bootloader/rgb_led.o
+ .debug_ranges  0x00000000000005d8       0x30 build/frames_bootloader/switches.o
+ .debug_ranges  0x0000000000000608       0x58 build/frames_bootloader/system.o
+ .debug_ranges  0x0000000000000660       0x38 build/frames_bootloader/bootloader_utils.o
+ .debug_ranges  0x0000000000000698       0x18 build/frames_bootloader/system_clock.o
+ .debug_ranges  0x00000000000006b0      0x250 build/frames_bootloader/demodulator.o
+ .debug_ranges  0x0000000000000900       0x58 build/frames_bootloader/packet_decoder.o
+ .debug_ranges  0x0000000000000958       0xb8 build/frames_bootloader/core_cm3.o
+ .debug_ranges  0x0000000000000a10       0x28 build/frames_bootloader/system_stm32f10x.o
+ .debug_ranges  0x0000000000000a38       0x30 build/frames_bootloader/misc.o
+ .debug_ranges  0x0000000000000a68      0x128 build/frames_bootloader/stm32f10x_adc.o
+ .debug_ranges  0x0000000000000b90       0x58 build/frames_bootloader/stm32f10x_dma.o
+ .debug_ranges  0x0000000000000be8       0xc0 build/frames_bootloader/stm32f10x_flash.o
+ .debug_ranges  0x0000000000000ca8       0x98 build/frames_bootloader/stm32f10x_gpio.o
+ .debug_ranges  0x0000000000000d40      0x108 build/frames_bootloader/stm32f10x_rcc.o
+ .debug_ranges  0x0000000000000e48      0x428 build/frames_bootloader/stm32f10x_tim.o
+ .debug_ranges  0x0000000000001270       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_ranges  0x0000000000001280       0x10 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_line     0x0000000000000000     0x41dd
+ .debug_line    0x0000000000000000      0x90d build/frames_bootloader/bootloader.o
+ .debug_line    0x000000000000090d      0x1cb build/frames_bootloader/adc.o
+ .debug_line    0x0000000000000ad8      0x1b4 build/frames_bootloader/channel_leds.o
+ .debug_line    0x0000000000000c8c      0x19b build/frames_bootloader/rgb_led.o
+ .debug_line    0x0000000000000e27      0x1b3 build/frames_bootloader/switches.o
+ .debug_line    0x0000000000000fda      0x1df build/frames_bootloader/system.o
+ .debug_line    0x00000000000011b9      0x119 build/frames_bootloader/bootloader_utils.o
+ .debug_line    0x00000000000012d2       0xd1 build/frames_bootloader/system_clock.o
+ .debug_line    0x00000000000013a3      0x62f build/frames_bootloader/demodulator.o
+ .debug_line    0x00000000000019d2      0x3d1 build/frames_bootloader/packet_decoder.o
+ .debug_line    0x0000000000001da3      0x21b build/frames_bootloader/core_cm3.o
+ .debug_line    0x0000000000001fbe       0xf0 build/frames_bootloader/system_stm32f10x.o
+ .debug_line    0x00000000000020ae      0x19b build/frames_bootloader/misc.o
+ .debug_line    0x0000000000002249      0x4b6 build/frames_bootloader/stm32f10x_adc.o
+ .debug_line    0x00000000000026ff      0x243 build/frames_bootloader/stm32f10x_dma.o
+ .debug_line    0x0000000000002942      0x3f5 build/frames_bootloader/stm32f10x_flash.o
+ .debug_line    0x0000000000002d37      0x318 build/frames_bootloader/stm32f10x_gpio.o
+ .debug_line    0x000000000000304f      0x3eb build/frames_bootloader/stm32f10x_rcc.o
+ .debug_line    0x000000000000343a      0xb67 build/frames_bootloader/stm32f10x_tim.o
+ .debug_line    0x0000000000003fa1      0x12a /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00000000000040cb      0x112 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+
+.debug_str      0x0000000000000000     0x478a
+ .debug_str     0x0000000000000000     0x1b6a build/frames_bootloader/bootloader.o
+                                       0x1ce5 (size before relaxing)
+ .debug_str     0x0000000000001b6a      0x400 build/frames_bootloader/adc.o
+                                        0x74f (size before relaxing)
+ .debug_str     0x0000000000001f6a      0x245 build/frames_bootloader/channel_leds.o
+                                        0x7fd (size before relaxing)
+ .debug_str     0x00000000000021af       0x1a build/frames_bootloader/rgb_led.o
+                                        0x7a1 (size before relaxing)
+ .debug_str     0x00000000000021c9       0x22 build/frames_bootloader/switches.o
+                                        0x4dd (size before relaxing)
+ .debug_str     0x00000000000021eb      0x4ee build/frames_bootloader/system.o
+                                        0x986 (size before relaxing)
+ .debug_str     0x00000000000026d9       0xb7 build/frames_bootloader/bootloader_utils.o
+                                        0x307 (size before relaxing)
+ .debug_str     0x0000000000002790       0x63 build/frames_bootloader/system_clock.o
+                                        0x38a (size before relaxing)
+ .debug_str     0x00000000000027f3      0x290 build/frames_bootloader/demodulator.o
+                                       0x10c7 (size before relaxing)
+ .debug_str     0x0000000000002a83       0x69 build/frames_bootloader/packet_decoder.o
+                                        0x72f (size before relaxing)
+ .debug_str     0x0000000000002aec      0x229 build/frames_bootloader/core_cm3.o
+                                        0x306 (size before relaxing)
+ .debug_str     0x0000000000002d15      0x100 build/frames_bootloader/system_stm32f10x.o
+                                        0x2ea (size before relaxing)
+ .debug_str     0x0000000000002e15       0xdb build/frames_bootloader/misc.o
+                                        0x403 (size before relaxing)
+ .debug_str     0x0000000000002ef0      0x3e6 build/frames_bootloader/stm32f10x_adc.o
+                                        0x752 (size before relaxing)
+ .debug_str     0x00000000000032d6       0xfd build/frames_bootloader/stm32f10x_dma.o
+                                        0x3d6 (size before relaxing)
+ .debug_str     0x00000000000033d3      0x318 build/frames_bootloader/stm32f10x_flash.o
+                                        0x5b7 (size before relaxing)
+ .debug_str     0x00000000000036eb      0x23e build/frames_bootloader/stm32f10x_gpio.o
+                                        0x560 (size before relaxing)
+ .debug_str     0x0000000000003929      0x38d build/frames_bootloader/stm32f10x_rcc.o
+                                        0x65a (size before relaxing)
+ .debug_str     0x0000000000003cb6      0x8b4 build/frames_bootloader/stm32f10x_tim.o
+                                        0xe4b (size before relaxing)
+ .debug_str     0x000000000000456a      0x189 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+                                        0x229 (size before relaxing)
+ .debug_str     0x00000000000046f3       0x97 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
+                                        0x203 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x15e8
+ .debug_frame   0x0000000000000000      0x1cc build/frames_bootloader/bootloader.o
+ .debug_frame   0x00000000000001cc       0x50 build/frames_bootloader/adc.o
+ .debug_frame   0x000000000000021c       0x4c build/frames_bootloader/channel_leds.o
+ .debug_frame   0x0000000000000268       0x4c build/frames_bootloader/rgb_led.o
+ .debug_frame   0x00000000000002b4       0x48 build/frames_bootloader/switches.o
+ .debug_frame   0x00000000000002fc       0x48 build/frames_bootloader/system.o
+ .debug_frame   0x0000000000000344       0x40 build/frames_bootloader/bootloader_utils.o
+ .debug_frame   0x0000000000000384       0x30 build/frames_bootloader/system_clock.o
+ .debug_frame   0x00000000000003b4       0xc0 build/frames_bootloader/demodulator.o
+ .debug_frame   0x0000000000000474       0x64 build/frames_bootloader/packet_decoder.o
+ .debug_frame   0x00000000000004d8      0x170 build/frames_bootloader/core_cm3.o
+ .debug_frame   0x0000000000000648       0x24 build/frames_bootloader/system_stm32f10x.o
+ .debug_frame   0x000000000000066c       0x68 build/frames_bootloader/misc.o
+ .debug_frame   0x00000000000006d4      0x280 build/frames_bootloader/stm32f10x_adc.o
+ .debug_frame   0x0000000000000954       0xbc build/frames_bootloader/stm32f10x_dma.o
+ .debug_frame   0x0000000000000a10      0x1f4 build/frames_bootloader/stm32f10x_flash.o
+ .debug_frame   0x0000000000000c04      0x15c build/frames_bootloader/stm32f10x_gpio.o
+ .debug_frame   0x0000000000000d60      0x21c build/frames_bootloader/stm32f10x_rcc.o
+ .debug_frame   0x0000000000000f7c      0x624 build/frames_bootloader/stm32f10x_tim.o
+ .debug_frame   0x00000000000015a0       0x28 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000015c8       0x20 /home/luix/arm-cs-tools/lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-memset.o)
