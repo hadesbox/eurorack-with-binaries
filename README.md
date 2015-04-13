@@ -5,8 +5,6 @@ This is a mirror repo of the Mutable Instrumetns Eurorack repo, but additionally
 
 =======
 
-
-
 # Uploading
 (From [flocked](http://mutable-instruments.net/forum/discussion/4344/mac-tutorial-how-to-compile-and-upload-the-firmware-of-mis-eurorack-modules/p1))
 
@@ -36,3 +34,72 @@ Now you can upload via FTDI:
 2. Press and hold RESET. Press SYSBOOT simultaneously, then release reset while still holding SYSBOOT.
 3. Open Terminal and enter: “cd /PATHTOEURORACKFOLDER/”
 4. To upload: “make -f /MODULENAME/makefile upload_combo_serial”
+
+# Libraries and configuration
+
+Remember you will have to probably change some configuration on your computer, since avrlib, avrdude and many other tools and libs are installed on different paths on different distros (Win, OSX, Ubuntu, Centos, etc...) here are mine just you can double check yours!
+
+### avrlib/makefile.mk
+
+```
+luix@boxita:~/git/eurorack/avrlib$ git diff
+diff --git a/makefile.mk b/makefile.mk
+index 3c1f5be..7a84990 100644
+--- a/makefile.mk
++++ b/makefile.mk
+@@ -13,7 +13,7 @@
+ # You should have received a copy of the GNU General Public License
+ # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ 
+-AVRLIB_TOOLS_PATH ?= /usr/local/CrossPack-AVR/bin/
++AVRLIB_TOOLS_PATH ?= /usr/bin/
+ BUILD_ROOT     = build/
+ BUILD_DIR      = $(BUILD_ROOT)$(TARGET)/
+ PROGRAMMER     ?= avrispmkI
+```
+
+### avrlibx/config.mk
+
+```
+luix@boxita:~/git/eurorack/avrlibx$ git diff
+diff --git a/config.mk b/config.mk
+index d9c0160..0ad41fa 100644
+--- a/config.mk
++++ b/config.mk
+@@ -13,7 +13,7 @@
+ # You should have received a copy of the GNU General Public License
+ # along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ 
+-AVRLIBX_TOOLS_PATH = /usr/local/CrossPack-AVR/bin/
+-AVRDUDE_PATH       = /usr/local/CrossPack-AVR/bin/
++AVRLIBX_TOOLS_PATH = /usr/bin/
++AVRDUDE_PATH       = /usr/bin/
+ PROGRAMMER         = avrispmkII
+ PROGRAMMER_PORT    = usb
+```
+
+### stmlib/makefile.inc
+
+```
+luix@boxita:~/git/eurorack/stmlib$ git diff
+diff --git a/makefile.inc b/makefile.inc
+index 341bbae..3480e98 100644
+--- a/makefile.inc
++++ b/makefile.inc
+@@ -26,11 +26,14 @@
+ # Files and directories
+ # ------------------------------------------------------------------------------
+ 
+-TOOLCHAIN_PATH ?= /usr/local/arm/
++#CLOUDS
++TOOLCHAIN_PATH = /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/
++#BRAIDS AND FRAMES
++#TOOLCHAIN_PATH = /home/luix/arm-cs-tools/
+ TOOLCHAIN_BIN  = $(TOOLCHAIN_PATH)bin/
+ STM32_PATH     = stmlib/third_party/STM
+ 
+-PGM_SERIAL_PORT = /dev/tty.usbserial-A100S09O
++PGM_SERIAL_PORT = /dev/ttyUSB0
+ PGM_SERIAL_BAUD_RATE = 115200
+ PGM_SERIAL_VERIFY = -v
+```
