@@ -3,6 +3,8 @@
 
 This is a mirror repo of the Mutable Instrumetns Eurorack repo, but additionally it contains under the folder BUILD all the latest compiled programs for the modules (including some WAVs).
 
+The reason why I pushed this repo was to provide compiled programs, since Its not super easy to setup all the libraries and binding in some platform (i.e. OSX), because I tried my self. I was quite easy on Ubuntu, so I pushed all this compiled programs for my personal use (and to share them).
+
 =======
 
 # Uploading
@@ -10,7 +12,7 @@ This is a mirror repo of the Mutable Instrumetns Eurorack repo, but additionally
 
 There are three ways of uploading a firmware to the modules:
 
-1. Audio input via wav file (very slow, but no programmer is needed and it’s supported by every module).
+1. Audio input via wav file (very slow, but no programmer is needed and it’s supported by every module, in order to use this method you must already have the "YOURMODULE_bootloader" into the microcontroller, so a blank *new* microcontroller cannot use this method).
 2. FTDI (slower than JTAG, but the programmer isn’t as expensive; 10-15$; Yarns has no FTDI port)
 3. JTAG (fast, but the programmer is expensive; 50-60$)
 
