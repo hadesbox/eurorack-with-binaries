@@ -93,10 +93,7 @@ index 341bbae..3480e98 100644
  # ------------------------------------------------------------------------------
  
 -TOOLCHAIN_PATH ?= /usr/local/arm/
-+#CLOUDS
 +TOOLCHAIN_PATH = /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/
-+#BRAIDS AND FRAMES
-+#TOOLCHAIN_PATH = /home/luix/arm-cs-tools/
  TOOLCHAIN_BIN  = $(TOOLCHAIN_PATH)bin/
  STM32_PATH     = stmlib/third_party/STM
  
