@@ -1,3 +1,9 @@
+# DISCLAIMER!
+
+If you are looking for updated binaries for MI eurorack modules, you should not look into this repo. Most of the binaries are very outdated or even broken who knows ;), so instead use the wonderfull [John Pallister](https://docs.google.com/spreadsheets/d/1KZltEM_g_yhMPhuGk-p82fb1sggsvi72b_s4ztzFu-s/edit#gid=0) spreadsheet.
+
+This repo is mean as guide to understand how to configure files like avrlib/makefile.mk, avrlibx/config.mk, stmlib/makefile.inc in order to compile and develop your own MI variants.
+
 =======
 # eurorack-with-binaries
 
